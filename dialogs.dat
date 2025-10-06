@@ -1224,3 +1224,5237 @@ ghi chép... trông có vẻ như họ đang
 đoán vị trí của cung điện nhà vua.
 ]],
 }
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.4",
+  text = [[
+Có một bản đồ của các vùng biển phía bắc. Rất nhiều
+điểm được đánh dấu$1...$3 bao gồm cả
+quê hương của bạn trên Đảo Limestone...
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.5",
+  text = [[
+Có một bản đồ của Đảo Goatshead. Một
+ghi chú bên cạnh "Vịnh Zephyr" nói rằng Vua Biển
+đã từng đến thăm và thắp sáng một ngọn hải đăng.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.6",
+  text = [[
+Cuốn sách mô tả một vương quốc cổ đại...
+"Người ta nói Vua Biển say mê
+đại dương đến mức, ngài đã đi thuyền đến tận
+trung tâm của nó và thổ lộ tình yêu của mình với nàng trong
+một bài hát. Bị quyến rũ bởi sự tôn trọng của ngài dành cho nàng,
+Đại dương mời ngài xuống vực sâu
+và trao cho ngài trái tim của nàng. Lúc đầu, ngài
+sử dụng sức mạnh của nàng như một vị vua khôn ngoan..."
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.7",
+  text = [[
+Đó là một cuốn sách bụi bặm về Vua Meurian.
+"Thấy sức mạnh của mình bị sử dụng một cách ích kỷ,
+Đại dương đã hỏi nhà vua liệu nàng có thể đến thăm
+ngài không. Ngạo mạn, ngài đồng ý. Với tất cả
+sóng và bão của mình, Đại dương đã đến
+cung điện của ngài và kéo nhà vua xuống
+đáy biển, cùng với trái tim của nàng.
+Vương quốc sụp đổ trong cơn lũ."
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.armor_1",
+  text = [[
+Hử. Đó là một bộ áo giáp được làm cho
+lính gác Bến cảng Goatshead. Tự hỏi tại sao
+nó lại ở đây.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.armor_2",
+  text = [[
+Có một bộ áo giáp kim loại sáng bóng. Nó
+trông không thực tế lắm cho các trận chiến
+trên biển.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.blackbeard_1",
+  text = [[
+Nó dường như là nhật ký của tên cướp biển Blackbeard!
+Hắn được cho là một thuyền trưởng cướp biển huyền thoại.
+Hắn đang viết gì vậy?...
+
+Có một danh sách các di chỉ khảo cổ hắn
+phải đến thăm... Có một bản ghi nhớ về việc không
+trả tiền cho các hải đồ không liên quan đến
+Trái tim Đại dương hay Vua Meurian...
+Hử. Có nhiều khảo cổ học hơn và
+ít khát máu hơn bạn mong đợi.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.inn_table",
+  text = [[
+Cái bàn dường như đã chịu một số
+hư hại.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.inviting_barrel",
+  text = [[
+Cái thùng này trông thật hấp dẫn. Nếu bạn
+trèo vào trong và đóng nắp lại, bạn có thể
+bị hốt lên và mang vào
+kho chứa của Hội đồng Cướp biển cùng với các hàng hóa khác.
+Trèo vào thùng?
+$?Có
+$?Không
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.old_spruce_shrine_leave_dialog",
+  text = [[
+Có một địa điểm được đánh dấu trên hải đồ
+ở đây. Lấy thuyền và chèo đến đó?
+$? Ra khơi
+$? Không
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.old_spruce_shrine_return",
+  text = [[
+Rời Cung điện Willow và chèo thuyền trở về
+Ballast Harbor?
+$?Ra khơi
+$?Ở lại đây
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.outdoor_charts",
+  text = [[
+Một đống hải đồ cuộn tròn. Có vẻ như
+họ để những cái rẻ hơn ở bên ngoài.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.outdoor_charts_2",
+  text = [[
+Đó là một bản đồ của Đế chế Zephyr, xa tít
+về phía nam của đây. Xét theo số lượng
+rồng và người khổng lồ được mô tả, độ chính xác
+của nó có thể còn tranh cãi.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.barrel",
+  text = [[
+Đó là cái thùng bạn đã dùng để lẻn vào.
+Giờ nó có mùi hơi giống bạn rồi.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.door_opened",
+  text = [[
+Nghe như có vài cánh cửa mở ra gần đó.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.live_rock1",
+  text = [[
+Cảnh báo! Số quặng chúng ta đánh cắp đã bị trộn lẫn
+với một đống quái vật đá! Chúng đã
+lan ra khắp kho chứa và kháng
+kiếm. Và cả bom. Hãy cẩn thận.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.1",
+  text = [[
+Có một thanh kiếm rất mỹ miều khảm
+vàng nằm trên bàn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.2",
+  text = [[
+Tấm bảng được phủ đầy hải đồ, ghi chú,
+và sợi chỉ kết nối mọi thứ với nhau...
+Thú vị là, nó dường như đồng nhất
+Vua Biển và một Thuyền trưởng P. Sylvia.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.4",
+  text = [[
+Có những hải đồ với các biểu tượng cổ xưa và
+chữ rune được viết nguệch ngoạc trên chúng.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.5",
+  text = [[
+Có một số hải đồ, thư từ, những
+kế hoạch trông nham hiểm... và cả một mớ chữ lộn xộn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.willow_palace_note",
+  text = [[
+Có một mảnh giấy cũ nằm cạnh bộ xương.
+Willem- không cái đài phun nước nào chảy nữa.
+Đền thờ bị niêm phong, ngay cả chất nổ cũng không thể đưa chúng ta
+vào trong. Tệ hơn, có những con quái vật mà- aack
+(Có vẻ như ai đang viết cái này đã bị giết,
+và viết xuống tiếng kêu kinh ngạc cuối cùng của họ.)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.charts",
+  text = [[
+Hải đồ Kelpton
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.directions_1",
+  text = [[
+Đông - Chợ Ballast Harbor
+Tây - Rừng Thủy triều
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.dream_cannon_crew",
+  text = [[
+Sào huyệt Tối mật của
+Đội Dream Cannon
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.emporium",
+  text = [[
+Cửa hàng Tổng hợp Honestbeard
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.inn",
+  text = [[
+Quán rượu và Nhà trọ Sharkfire
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.meadery",
+  text = [[
+Xưởng Mật ong Marsh
+]],
+}
+
+dialog{
+  id = "_blacksmith.1",
+  text = [[
+THỢ RÈN:
+Trông cô giống kiểu muốn làm tổn thương mọi thứ
+hiệu quả hơn. Với một ít Quặng San hô và 50
+crown, tôi có thể cải thiện một thanh kiếm hoặc cung.
+(Cải thiện kiếm hoặc cung của cô với 50 crown?)
+$? Kiếm
+$? Cung
+$? Không cái nào
+]],
+}
+
+dialog{
+  id = "_blacksmith.2",
+  text = [[
+THỢ RÈN:
+Cần một thanh kiếm sắc hơn? Cung lớn hơn? Nếu
+cô có 50 crown và một ít Quặng San hô, tôi
+có thể tăng cường khả năng chiến đấu của cô.
+(Cải thiện kiếm hoặc cung của cô với 50 crown?)
+$? Kiếm
+$? Cung
+$? Không cái nào
+]],
+}
+
+dialog{
+  id = "_blacksmith.3",
+  text = [[
+THỢ RÈN:
+Tôi không biết tên của cô, nhưng có vẻ như
+tên đệm của cô là nguy hiểm. Thế còn
+nâng cấp kiếm hoặc cung của cô với Quặng San hô?
+(Cải thiện kiếm hoặc cung của cô với 50 crown?)
+$? Kiếm
+$? Cung
+$? Không cái nào
+]],
+}
+
+dialog{
+  id = "_blacksmith.maxed_out",
+  text = [[
+THỢ RÈN:
+Thực ra, nhìn kỹ hơn, tôi không nghĩ
+ai có thể làm thứ này mạnh hơn được nữa. Đây
+là một vũ khí rất tốt mà cô có.
+]],
+}
+
+dialog{
+  id = "_crystal",
+  text = [[
+Có vẻ như điều gì đó có thể xảy ra nếu
+bạn đánh nó bằng kiếm của mình. Chỉ là
+một cảm giác bạn có được.
+]],
+}
+
+dialog{
+  id = "_endgame.basswood_1",
+  text = [[
+LINDEN:
+Bố?
+]],
+}
+
+dialog{
+  id = "_endgame.lily",
+  text = [[
+LILY:
+Này. Tôi nghe nói Hội đồng Cướp biển mất
+thuyền trưởng của nó rồi. Tôi nghĩ tôi biết ai có thể
+thay thế Blackbeard, và đó là tôi.
+]],
+}
+
+dialog{
+  id = "_endgame.lily_2",
+  text = [[
+HORNIGOLD:
+...
+
+HORNIGOLD:
+Ừ, tôi có một cảm giác tốt về cô. Có lẽ
+hãy để xem.
+]],
+}
+
+dialog{
+  id = "_endgame.oakhaven_1",
+  text = [[
+HAZEL:
+Em trở về rồi! Chị biết em sẽ làm được mà!
+
+TILIA:
+Chị đã sẵn sàng để về nhà chưa?
+]],
+}
+
+dialog{
+  id = "_fast_travel.already_here",
+  text = [[
+LILY:
+Tilia, đó là nơi chúng ta đang ở rồi.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_ballast_harbor",
+  text = [[
+LILY:
+Thật tuyệt khi gặp cô ở đây, Tilia. Cô tham gia
+hội đồng cướp biển à? Ahaha, đùa thôi,
+tôi không cảm thấy năng lượng cướp biển từ cô.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_goatshead_harbor",
+  text = [[
+LILY:
+Này, Tilia! Chúng ta lại gặp nhau. Vừa mới dỡ
+một lô hàng xuống Hội Buôn.
+Theo đúng nghĩa là hàng hóa chung chung nhất.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_isle_of_storms",
+  text = [[
+LILY:
+Tôi không thích nơi này, Tilia. Nghe này, tôi
+chắc chắn cô có thể tự lo cho bản thân, nhưng
+tôi sẽ lo lắng khi cô ở đây.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_ivystump",
+  text = [[
+LILY:
+Ồ, chúng ta lại gặp nhau! Trời ơi, tôi không thể nào
+thưởng thức đủ tiếng chim hót quanh đây. Và
+làm sao cả thị trấn có mùi táo thế này?
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_kingsdown",
+  text = [[
+LILY:
+Loại vịnh nhỏ này, tôi có thể đặt rễ xuống đây.
+Chỉ cần ngủ dưới ánh nắng mặt trời
+cả ngày.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_limestone_island",
+  text = [[
+LILY:
+Rất vui được gặp cô, Tilia. Tôi vừa mới nói chuyện
+với gã Juglan đó, luôn thích tình cờ gặp
+anh ta ở các cảng.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_oakhaven",
+  text = [[
+LILY:
+Ồ, Tilia! Tôi nghĩ rằng tôi sẽ gặp cô ở Oakhaven
+vào một ngày nào đó. Cô thích thành phố lớn chứ? Cá nhân tôi,
+tôi ghét nó. Không ai để cho bạn yên.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_snapmast",
+  text = [[
+LILY:
+Ugh, thật khốn khổ. Cơn mưa không
+có dấu hiệu gì là sẽ tạnh. Bất cứ khi nào cô
+sẵn sàng ra khỏi đây, chúng ta hãy chuồn đi.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_spruce_head",
+  text = [[
+LILY:
+Chà, chà, chà, nếu đó không phải là Tilia. Tôi đã có
+một cuộc họp về một số hàng hóa ở đây, nhưng
+gã kia không bao giờ xuất hiện.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_yarrowmouth",
+  text = [[
+LILY:
+Ồ, là cô! Tôi đã có một chuyến giao hàng đến
+Yarrowmouth rồi quyết định mình sẽ chợp mắt một chút.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_zephyr_bay",
+  text = [[
+LILY:
+Này, Tilia. Không thể tin được tôi chưa từng biết
+về hòn đảo nhỏ này.
+]],
+}
+
+dialog{
+  id = "_fast_travel.ride_question",
+  text = [[
+LILY:
+Dù sao thì, cô có muốn đi nhờ đến đâu không?
+]],
+}
+
+dialog{
+  id = "_fast_travel.ride_question_new_chart",
+  text = [[
+LILY:
+Này, cô mang cho tôi một hải đồ mới? Được lắm!
+Nếu cô muốn đi thuyền đến đây, cứ cho tôi biết.
+Dù sao thì, cô có muốn ra khỏi đây không?
+]],
+}
+
+dialog{
+  id = "_ferries.goatshead",
+  text = [[
+Đây là chuyến phà đến Bến cảng Goatshead.
+Chuyến đi có giá 10 crown. Muốn mua vé không?
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_ferries.oakhaven",
+  text = [[
+Chuyến phà này đang đi đến Oakhaven.
+Giá vé là 10 crown. Bạn sẽ lên tàu chứ?
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_ferries.yarrowmouth",
+  text = [[
+Phà đến Đảo Yarrowmouth. Bạn muốn lên
+nó 10 crown. Nghe ổn chứ?
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.1",
+  text = [[
+BLACKBEARD:
+Chà, có vẻ như ai đó đã đánh bại
+Hồn ma Phù thủy cho ta. Cô là ai, cô gái?
+Eh, thực ra ta không nghĩ nó quan trọng.
+BLACKBEARD:
+Miễn là cô tránh đường ta, cô
+không cần phải lo ta sẽ giết cô,
+cô đã tiết kiệm cho ta chút thời gian với con ma.
+BLACKBEARD:
+Có vẻ như nó đang cố gắng sử dụng thanh kiếm
+của cô để đặt một con dấu ma thuật lên ngôi mộ này.
+Hãy xem liệu nó có đang giấu thứ ta nghĩ không.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.2",
+  text = [[
+BLACKBEARD:
+Chà chà. Vậy là phù thủy Ophira đã nhớ đến
+vị thần bị lãng quên. Thế thì Vua Biển cũng biết
+về nó. Nếu ta đúng...
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.3",
+  text = [[
+BLACKBEARD:
+Vậy là không chỉ sức mạnh của biển cả
+mà ta đang theo đuổi. Đây chỉ là bước đầu tiên
+hướng tới thần thánh...
+BLACKBEARD:
+Ồ, cô vẫn còn ở đây? Cô đến từ đâu ấy nhỉ?
+Eh, không quan trọng, cô không
+quan trọng với ta. Hãy giữ an toàn, nhóc con.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.heheheh",
+  text = [[
+BLACKBEARD:
+Sức mạnh của ngươi đến từ đâu, Ophira?
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.to_be_contd",
+  text = [[
+
+          Còn tiếp...
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.1",
+  text = [[
+BOMBINO:
+Ồ, à, chào! Tôi thấy cô đi qua
+bụi rậm, cô có thể, cô thực sự
+đang xoay xở để vượt qua lũ quái vật!
+TILIA:
+Vâng, chiến đấu với quái vật là kiểu việc
+tôi làm. Với lại tôi có kiếm, mà có vẻ như
+cô thì không, nên...
+BOMBINO:
+Đúng vậy, tôi không! Tôi đã phạm sai lầm
+khi đến đây! Thực tế, tôi đang bị kẹt
+ở đây, chỉ ngoài tầm với của những
+BOMBINO:
+cái rễ Arborgeists đó. Tôi rất muốn rời đi,
+nhưng mấy tên yêu tinh đã đánh cắp ba lô của tôi và
+ném nó lên phía bắc của đây.
+TILIA:
+Cô muốn tôi lấy ba lô của cô? Tôi thấy
+mình giúp đỡ mọi người như thế này rất nhiều.
+Tôi có thể lấy nó.
+BOMBINO:
+À, ý tôi là, nếu cô ổn với điều đó!
+Tôi thực sự đánh giá cao điều đó.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.1.2",
+  text = [[
+BOMBINO:
+Thực sự không phải lỗi của tôi khi tôi bị mắc kẹt
+ở đây. Yêu tinh đã đánh cắp đủ loại
+thứ. Tôi nghĩ là vì có ai đó
+BOMBINO:
+đang quấy rầy những ngôi mộ hoặc tàn tích cổ.
+Điều đó sẽ làm các hồn ma tức giận!
+
+TILIA:
+Vâng, tôi nghe nói có một số vấn đề về ma
+quanh đây.
+
+BOMBINO:
+Có đấy! Một thủy thủ nói với tôi rằng đã từng
+có một Nữ hoàng Phù thủy sống trên
+hòn đảo này, và linh hồn của bà ta trở nên tức giận.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.2",
+  text = [[
+BOMBINO:
+Này! Đó là ba lô của tôi! Cô có nghĩ, nếu
+cô muốn, cô có thể mang nó đến đây cho
+tôi không? Tôi đang bị mắc kẹt bởi lũ cây quái vật.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.3",
+  text = [[
+BOMBINO:
+Cô lấy được ba lô của tôi rồi! Tôi nợ cô, ừ, có lẽ
+không phải cả mạng sống của tôi, nhưng... tôi đoán
+trong trường hợp này là cái ba lô của tôi? Điều đó không hợp lý lắm.
+TILIA:
+Đừng lo lắng về việc tính toán chính xác
+giá trị của việc tôi giúp cô, được chứ.
+
+BOMBINO:
+Phù, cảm ơn. Tôi không giỏi toán lắm. Nhưng
+tôi là một chuyên gia phá hoại nào đó
+đấy! Đây, cầm lấy những thứ này!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.4",
+  text = [[
+BOMBINO:
+Bom có thể phá hủy các khối bị nứt dễ dàng.
+Nếu chúng không bị nứt, bạn phải đẩy hoặc
+nhấc chúng, nếu bạn đủ khỏe.
+BOMBINO:
+Chà, tôi phải quay lại thị trấn. Nếu
+cô muốn mua thêm bom, tôi bán
+chúng ở cửa hàng! Cảm ơn, cô gái rừng xanh!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.elder.1",
+  text = [[
+TRƯỞNG LÀNG:
+Chà, cô là một khuôn mặt mới. Điều gì đưa cô
+đến Đảo Fykonos?
+
+TILIA:
+Một vụ đắm tàu, thực ra. Tôi tỉnh dậy trên
+bãi biển và tất cả đồ đạc của tôi cũng bị đánh cắp.
+
+TRƯỞNG LÀNG:
+À, nghe có vẻ như là các linh hồn đất.
+Một số tên cướp biển đã quấy rầy những nơi
+linh thiêng. Hồn ma Phù thủy đã được nhìn thấy.
+TILIA:
+Xin lỗi, linh hồn đánh cắp trang bị của tôi? Đó có phải
+chỉ là một điều bình thường để nói trong
+thị trấn này không?
+TRƯỞNG LÀNG:
+Ồ, không bình thường chút nào. Thông thường
+Hồn ma Phù thủy bị giới hạn trong ngôi mộ
+phía đông bãi biển. Nhưng có vẻ như
+TRƯỞNG LÀNG:
+hoạt động của lũ cướp biển đã làm phiền bà ta
+và kích động các linh hồn đất của bà ta. Cho đến khi chúng ta
+giải quyết vấn đề này, chúng ta sẽ đóng
+TRƯỞNG LÀNG:
+phà cho tất cả du khách...
+...$3Cô không quan tâm đến việc giúp
+chúng tôi giải quyết vấn đề ma quỷ của chúng tôi, phải không?
+TILIA:
+Chà, giải quyết loại vấn đề này dường như
+đã trở thành việc của tôi rồi. Nó liên quan đến những gì?
+TRƯỞNG LÀNG:
+Cô sẽ phải tìm đường vào ngôi mộ bị niêm phong
+và chiến đấu với Hồn ma Phù thủy. Tôi nghĩ
+điều đó sẽ làm mọi thứ dịu xuống.
+TILIA:
+Nếu ông nói vậy. Với lại tôi bị đắm tàu
+ở đây và nếu phà không chạy, ông
+thực sự không cho tôi nhiều lựa chọn.
+TRƯỞNG LÀNG:
+Tất cả những gì tôi nói là tôi thực sự đánh giá cao
+sự giúp đỡ với việc này. Đây, hãy lấy thanh kiếm này.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.elder.2",
+  text = [[
+TRƯỞNG LÀNG:
+Cô sẽ cần tìm đường vào
+Ngôi mộ Bị niêm phong phía đông bãi biển. Tôi không
+chắc làm thế nào để vào đó, nhưng nếu cô
+TRƯỞNG LÀNG:
+khám phá hòn đảo, tôi chắc cô sẽ tìm thấy
+thứ gì đó sẽ giúp cô vào trong. Có lẽ
+ngay cả một số trang bị mà lũ linh hồn đã lấy!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.elder.3",
+  text = [[
+TRƯỞNG LÀNG:
+Aha, đã giải thoát hòn đảo của chúng ta khỏi lời nguyền của
+Hồn ma Phù thủy, phải không? Eheheheh,
+và cô đã tìm thấy thanh kiếm của mình. May mắn là tôi
+TRƯỞNG LÀNG:
+đã thuyết phục cô giúp chúng ta, phải không?
+
+TILIA:
+Một lần nữa, tôi thực sự không có lựa chọn nào, vì
+tôi đã bị mắc kẹt ở đây. Nhưng vâng, tôi
+đoán là tôi mừng vì thị trấn của ông không còn bị
+TILIA:
+quấy rầy bởi ma hay bất cứ thứ gì nữa.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.goatshead_messenger.1",
+  text = [[
+SỨ GIẢ:
+Này! ...hụt hơi, hụt hơi. Tôi đã tìm kiếm
+cô khắp nơi. Khi cô vào
+thị trấn, cô là người thứ ba mươi
+SỨ GIẢ:
+vào thị trấn hôm nay. Có một cuộc thi,
+một trong những kiểu chương trình buổi sáng đó. Người
+thứ ba mươi đi qua
+SỨ GIẢ:
+cổng thắng một vé đến Đảo Fykonos.
+Nó giống như một, nó là một trong những điểm
+nghỉ dưỡng.
+TILIA:
+Đợi đã, tôi vừa thắng được chuyến đi trên tàu chỉ vì
+đi bộ vào thị trấn?
+
+SỨ GIẢ:
+Vâng, hơi kỳ lạ. Đừng nghĩ về nó
+quá nhiều, đó không thực sự là vấn đề.
+Nó kiểu chỉ là một cái cớ cho bản demo.
+TILIA:
+Tôi sẽ đồng ý không phá vỡ bức tường thứ tư
+nếu anh không làm nữa.
+
+SỨ GIẢ:
+Nghe được đấy. Xin lỗi vì sự biện minh
+quá mỏng manh. Nó không thường như vậy quanh
+đây. Dù sao thì, đây là tấm vé.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.goatshead_messenger.2",
+  text = [[
+SỨ GIẢ:
+Chà, tôi phải đi đây. Chúc một chuyến đi tốt lành!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.goatshead_messenger.4",
+  text = [[
+SỨ GIẢ:
+Phù, hụt hơi. Whoo. Chạy quanh làm
+tôi mệt quá. Dù sao thì, hãy kiểm tra bến tàu
+để tìm con tàu sử dụng tấm vé đó.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.1",
+  text = [[
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Này! Cô đến đây để bắt chuyến phà đến
+Đảo Fykonos à?
+
+TILIA:
+Vâng, tôi có một tấm vé, cô có thích,
+cô muốn cái này? Xé nó làm đôi?
+
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Không, cô ổn rồi. Hãy lên tàu! Chúng ta
+sắp sửa khởi hành!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.been_attack",
+  text = [[
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Này! Tôi thực sự hy vọng cô có thể giúp, con tàu
+đang bị tấn công! Một con quái vật nào đó!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.oakhaven_normal_ferry",
+  text = [[
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Ồ-ồ! Này, tôi muốn nói xin lỗi vì tôi đã lạc mất
+cô trong vụ đắm tàu. Tôi
+đã sửa chữa nó, lại ngon lành rồi!
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Muốn đi đến Đảo Fykonos không?
+$?Có
+$?Không
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.real_game_dialog",
+  text = [[
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Ồ này, cô đến đây để bắt chuyến phà đến
+Đảo Fykonos? Tôi đang có một chương trình đặc biệt, không
+tính phí phà, bởi vì, ừ, chà
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+việc kinh doanh không được tốt kể từ khi tất cả$1...
+các vụ tấn công ma...$3 Vì vậy tôi đang làm một chương trình khuyến mãi
+để quảng cáo dịch vụ phà! Muốn tham gia không?
+(Đi thuyền đến Đảo Fykonos?)
+$?Nhổ neo
+$?Tôi sẽ ở lại đây, cảm ơn
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.real_game_dialog_2",
+  text = [[
+THUYỀN TRƯỞNG TRÔNG ĐÁNG NGỜ:
+Được lắm! Hãy lên tàu!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.orchard.andei.1",
+  text = [[
+ANDEI:
+Chào mừng đến vườn cây ăn quả của tôi. Chúng tôi trồng nhiều
+giống cam khác nhau. Nhưng cô biết đấy,
+cam không cho cô sức khỏe
+ANDEI:
+theo cách mà táo làm. Vì vậy không tốt lắm cho một
+nhà thám hiểm như cô. Tuy nhiên, làm một ít
+nước ép tuyệt vời.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.orchard.andei.2",
+  text = [[
+ANDEI:
+Chào mừng đến vườn cây ăn quả của tôi. Cô... đợi một chút,
+cô là Tilia, từ bức thư của con gái tôi.
+Cô đã giúp nó lừa đảo một đống tiền từ cuộc thi
+ANDEI:
+tic tac toe đó! Cô không biết đâu,
+số tiền đó thực sự giúp ích cho vườn cây ăn quả.
+Thuyền của tôi đã bị hỏng trong một vụ đắm tàu, giờ
+ANDEI:
+tôi đã sửa nó hoàn toàn. Tất cả là
+nhờ cô và Aubrey thoát được
+với số tiền đó.
+TILIA:
+Woah, ý tôi là, đừng đặt tôi vào cùng
+một hạng mục- Tôi không giúp cô ta ăn cắp nó.
+Tôi chỉ không ngăn cản cô ta một cách hiệu quả lắm.
+ANDEI:
+Chúng tôi đã định phá sản mà không có
+thuyền, nhưng giờ chúng tôi đang kinh doanh tốt.
+Tôi đã gửi lại một đống tiền cho
+ANDEI:
+gã tic tac, bởi vì mặc dù tic tac
+toe là một môn thể thao của kẻ hèn nhát, tôi luôn trả lại
+các khoản vay không chủ đích. Đây là dành cho vụ trộm!
+(Bạn nhận được 200 crown)
+(cho việc liên quan đến một vụ trộm)
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.1",
+  text = [[
+NGƯỜI PHỤ NỮ:
+Họ nói rằng hoa hướng dương đẩy lùi những linh hồn
+ác ý. Đó là lý do họ trồng chúng xung quanh
+cửa ra vào và cửa sổ.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.2",
+  text = [[
+NGƯỜI PHỤ NỮ:
+Bên kia cầu về phía tây có một
+vườn cam đáng yêu. Phía bắc của đó là
+Witchthicket. Họ nói trong thời cổ đại,
+NGƯỜI PHỤ NỮ:
+phù thủy sống trên đảo đã nguyền rủa
+nó để bảo vệ nó khỏi những kẻ xâm lược.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.4",
+  text = [[
+NGƯỜI ĐÀN ÔNG THƯ GIÃN:
+Ở phía đông của đây có một khu vườn tượng.
+Nếu bạn đẩy hoặc kéo chúng, bạn
+thực sự có thể di chuyển chúng xung quanh. Nếu bạn,
+NGƯỜI ĐÀN ÔNG THƯ GIÃN:
+đang tìm kiếm một kiểu tập luyện tượng đài
+nào đó hoặc đại loại thế. Có phải đó là cách bạn
+sử dụng từ "statutory" không?
+TILIA:
+Tôi không nghĩ vậy. Nhưng dù sao cũng cảm ơn vì
+lời khuyên, tôi đoán vậy.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.5",
+  text = [[
+NGƯỜI PHỤ NỮ LO LẮNG:
+Hmm, cô có nghe nói phà không chạy không?
+Chúng ta... chà thực tế chúng ta đều bị mắc kẹt
+trên hòn đảo này. Có một pháo đài của
+NGƯỜI PHỤ NỮ LO LẮNG:
+cướp biển ở phía đông bắc của hòn đảo.
+Ai biết chúng đang làm gì? Tôi nghe nói
+chúng có liên kết với tên cướp biển Blackbeard, thậm chí...
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.6",
+  text = [[
+NGƯỜI PHỤ NỮ:
+Nếu cô cảm thấy mệt mỏi, hoặc thấp máu
+chẳng hạn, hãy vào nhà trọ! Ahaha, hiểu chứ?
+Dù sao thì, ở đây sẽ chữa lành cho cô.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.7",
+  text = [[
+NGƯỜI ĐÀN ÔNG BUỒN BÃ:
+Toàn bộ ba lô của tôi đầy ắp thực vật mà tôi
+đã kiếm được sau khi chặt chúng, tôi đang
+mang nó xuống cửa hàng để bán...
+NGƯỜI ĐÀN ÔNG BUỒN BÃ:
+Và mấy sinh vật yêu tinh này xuất hiện và
+cướp tôi! Giật lấy ba lô của tôi và chạy
+biến vào đồi!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.8",
+  text = [[
+ÔNG LÃO:
+Phía đông thị trấn có một khu vườn tượng chim
+kỳ lạ. Ông tôi luôn nói nó
+có từ trước trận lụt, từ trước khi
+ÔNG LÃO:
+Vua Biển đến hòn đảo này. Và
+tôi đã 104 tuổi! Vì vậy nếu bạn cố tính xem đó là
+bao lâu trước... chà dù sao thì, mặt đất
+ÔNG LÃO:
+cảm thấy hơi rỗng dưới hai bức tượng
+ngay cạnh nhau.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.bombino.1",
+  text = [[
+BOMBINO:
+Ồ, này! Cô gái rừng xanh! Cảm ơn vì đã giúp
+tôi thoát ra khỏi đó. Nếu cô muốn mua
+bất kỳ quả bom nào, cô có thể mua ở quầy.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.cafe.1",
+  text = [[
+BARISTA:
+Chào buổi chiều! Muốn một tách cà phê không?
+Nó sẽ hồi phục 3 trái tim và cũng làm bạn
+đi nhanh hơn, vì chất caffein.
+BARISTA:
+Nhưng bạn phải uống nó ngay tại đây.
+Luật về đồ chứa mở, bạn biết đấy.
+
+(Mua một tách cà phê với giá 10 crown?)
+$?Chắc chắn rồi
+$?Không, cảm ơn
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.cafe.2",
+  text = [[
+BARISTA:
+Của cô đây!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.ferry.closed",
+  text = [[
+NHÂN VIÊN BÁN VÉ:
+Xin chào! Thật vui khi thấy một khách hàng, nhưng tôi
+rất xin lỗi, phà hiện không chạy
+.
+TILIA:
+Anh có biết khi nào nó sẽ mở cửa trở lại không?
+
+NHÂN VIÊN BÁN VÉ:
+Này, câu hỏi hay, câu hỏi tuyệt vời.
+Tôi không biết. Cô có thể hỏi Trưởng Làng.
+Ông ấy đã đóng nó vì nó bị tấn công
+NHÂN VIÊN BÁN VÉ:
+bởi ma vào ban đêm. Ông ấy có thể có
+một ý tưởng tốt hơn về thời điểm nó sẽ chạy lại.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.ferry.open",
+  text = [[
+NHÂN VIÊN BÁN VÉ:
+Chào! Tôi nghe từ chính Trưởng Làng,
+ông cụ ấy, cô đã đuổi
+Hồn ma Phù thủy đi! Tuyệt vời! Nếu cô muốn
+NHÂN VIÊN BÁN VÉ:
+đi phà trở về Oakhaven, làm ơn,
+hãy lấy một vé. Thực ra, lấy bao nhiêu tùy
+thích! Tám vé?
+TILIA:
+Ý tôi là, tôi chỉ cần một để đi phà
+phải không?
+
+NHÂN VIÊN BÁN VÉ:
+Chà, vâng, tôi cho là vậy. Dù sao thì, cô
+có muốn đi đến Oakhaven không?
+
+(Đi phà đến Oakhaven)
+(Vé miễn phí vì cô rất ngầu)
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.greeter.1",
+  text = [[
+NGƯỜI ĐÁNH CÁ:
+Ồ, xin chào. Tôi không nhận ra khuôn mặt
+của cô... phà không chạy. Không có tàu mới
+nào ở bến tàu... cô trông cũng hơi
+NGƯỜI ĐÁNH CÁ:
+tồi tàn nữa... Cô đã...
+...
+Đào từ phía bên kia trái đất đến đây sao??
+TILIA:
+Ừ, tôi bị đắm tàu thực ra.
+
+NGƯỜI ĐÁNH CÁ:
+Ồ, điều đó hợp lý hơn rất nhiều.
+Dù bằng cách nào, cô nên nói chuyện với Trưởng Làng.
+Ông ấy có thể giúp cô ổn định.
+TILIA:
+Cảm ơn, ông ấy ở đâu?
+
+NGƯỜI ĐÁNH CÁ:
+Ông ấy sống ở góc tây bắc của thị trấn.
+Có một cái chuông lớn bên ngoài nhà ông ấy.
+
+TILIA:
+Cảm ơn, tôi sẽ đi nói chuyện với ông ấy.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.greeter.2",
+  text = [[
+NGƯỜI ĐÁNH CÁ:
+Nếu cô mới quanh đây, cô nên
+nói chuyện với Trưởng Làng. Nếu cô cần
+giúp đỡ với bất cứ điều gì, ông ấy sẽ biết phải làm gì.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.inkkeper",
+  text = [[
+CHỦ NHÀ TRỌ:
+Chào ngày mới! Xin lỗi nếu cô phải chịu đựng
+trò chơi chữ tồi về nhà trọ mà trợ lý của tôi bên ngoài
+đang nói với mọi người. Giường là 30 crown.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.shopkeeper.1",
+  text = [[
+Xin ch chào, ừ. Tôi bắt đầu nói xin chào rồi
+chuyển sang chào mừng. Ừ, dù sao thì, có muốn
+mua gì không?
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.shopkeeper.2",
+  text = [[
+Xin chàoooo, hãy xem xung quanh. Có thứ gì
+làm cô quan tâm không?
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.shopkeeper.3",
+  text = [[
+Chào mừng! Có muốn mua gì đó để
+chữa lành tâm hồn mệt mỏi của cô không? Làm cô
+mạnh mẽ hơn? Hãy xem nào.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.a1",
+  text = [[
+Nơi đây yên nghỉ những vệ binh ngã xuống của Ophira
+  Nội địa nhưng bị biển cả chiếm lấy
+Không yên nghỉ khi những cơn bão còn bị điều khiển
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.a2",
+  text = [[
+Nơi đây yên nghỉ những vệ binh ngã xuống của Ophira
+  Lửa bị dập tắt và đất bị phá vỡ
+Buộc chặt vào những tảng đá bị đập vỡ
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.a3",
+  text = [[
+Nơi đây yên nghỉ những vệ binh ngã xuống của Ophira
+ Không nghỉ ngơi khi con người ra lệnh cho biển
+Những ngọn đèn của sự phẫn nộ mãi mãi được thắp sáng lại
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.b",
+  text = [[
+Mộ của những Kẻ bị Biển từ bỏ
+     Ý chí lưu luyến của họ là một lời nguyền
+lên những kẻ muốn điều khiển các nguyên tố
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.pirate_fort.1",
+  text = [[
+Có một báo cáo dang dở gửi
+đến tên cướp biển Blackbeard...
+
+Thưa Ngài,
+Có một số di vật liên quan đến
+Vua Biển trong tàn tích chúng tôi đã tìm kiếm. Tôi
+đang gửi chúng về cho ngài, vì chúng có thể
+là manh mối cho cung điện thất lạc
+của Vua Biển. Chúng tôi cũng đã làm phiền một loại
+hồn ma nào đó. Rất cảm kích nếu được giúp đỡ về việc đó.
+            Trân trọng, Thuyền trưởng Allardyce
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.shipwreck.bad_sound",
+  text = [[
+TILIA:
+Hử. Đó không phải là một âm thanh tốt cho một con thuyền
+đang phát ra.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.shipwreck.enemies_defeated",
+  text = [[
+TILIA:
+Có vẻ như điều đó đã dọa chúng chạy mất. Tốt hơn
+nên xuống boong dưới và xem
+thuyền trưởng đã đi đâu.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.shipwreck.no_items",
+  text = [[
+TILIA:
+Ugh, đầu tôi đau quá. Có thực sự một con quái vật biển
+kéo con tàu đó chìm xuống không? Và...
+đợi đã, tất cả trang bị của tôi đâu rồi?
+TILIA:
+Ngay cả thanh kiếm của tôi cũng biến mất? Arrrrgh! Được rồi.
+Tôi cần tìm ra chuyện gì đang xảy ra
+quanh đây.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tomb.see_sword",
+  text = [[
+TILIA:
+Này, đó là thanh kiếm của tôi!
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tutorial.equip",
+  text = [[
+Mở menu bằng D để trang bị vũ khí
+và các vật phẩm khác. Trang bị vật phẩm vào X hoặc
+V bằng cách làm nổi bật vật phẩm và nhấn
+nút.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tutorial.sword",
+  text = [[
+Nhấn nút tấn công (C) để
+vung kiếm của bạn.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tutorial.walk",
+  text = [[
+Đi bộ xung quanh sử dụng các phím mũi tên
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.village.elder_note",
+  text = [[
+Có một vài chính sách của làng trên
+giấy tiêu đề chính thức... Khuyến cáo tránh
+các gò mộ ở phía tây bắc vì
+yêu tinh... một lệnh đình chỉ du lịch đến
+và từ các đảo khác, cũng do
+yêu tinh... và việc thu gom rác đã được chuyển
+sang thứ năm.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.village.shop",
+  text = [[
+Cửa hàng Tổng hợp Fykonos
+Mua đồ! Bán đồ! Chúng tôi làm cả hai!
+]],
+}
+
+dialog{
+  id = "_game.controls.action",
+  text = [[
+
+Sử dụng phím cách hoặc A để tương tác
+        với thế giới
+]],
+}
+
+dialog{
+  id = "_game.controls.fighting",
+  text = [[
+
+    Nhấn nút hành động để lăn
+          để tránh kẻ thù.
+]],
+}
+
+dialog{
+  id = "_game.controls.ledge_jumping",
+  text = [[
+   Bạn có thể nhảy xuống từ một số rìa.
+       Chỉ cần đi bộ về phía chúng.
+]],
+}
+
+dialog{
+  id = "_game.controls.move",
+  text = [[
+
+Sử dụng các phím mũi tên hoặc cần điều khiển trái để di chuyển
+
+]],
+}
+
+dialog{
+  id = "_game.controls.pause",
+  text = [[
+Sử dụng $v hoặc L1 để mở menu. Bạn có thể cuộn
+   trái và phải giữa các
+màn hình phụ khác nhau. Bạn có thể lưu trò chơi trên
+       màn hình phụ trạng thái.
+]],
+}
+
+dialog{
+  id = "_game.controls.pushing",
+  text = [[
+Bạn có thể sử dụng nút hành động để lấy
+các vật thể, sau đó đi về phía trước để đẩy chúng.
+Một số vật thể cũng có thể được kéo.
+]],
+}
+
+dialog{
+  id = "_game.controls.signs",
+  text = [[
+Sử dụng nút hành động để đọc các biển báo
+]],
+}
+
+dialog{
+  id = "_game.controls.switches",
+  text = [[
+Sử dụng kiếm của bạn để tương tác với các công tắc
+như thế này.
+]],
+}
+
+dialog{
+  id = "_game.corrupted_save",
+  text = [[
+LỖI: TẬP TIN LƯU BỊ HƯ HỎNG
+]],
+}
+
+dialog{
+  id = "_game.crafted_item",
+  text = [[
+Vật phẩm đã được chế tạo!
+]],
+}
+
+dialog{
+  id = "_game.environment.bait_rock",
+  text = [[
+Đó là một tảng đá phẳng, hoàn hảo để đặt
+mồi quái vật. Đặt mồi quái vật ở đây?
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_game.fast_travel_confirm",
+  text = [[
+Bạn có chắc chắn muốn di chuyển đến cảng ở
+$v không?
+$?Có
+$?Không
+]],
+}
+
+dialog{
+  id = "_game.game_over",
+  text = [[
+Trò chơi kết thúc
+  $? Lưu và Tiếp tục
+  $? Tiếp tục mà không Lưu
+  $? Thoát
+]],
+}
+
+dialog{
+  id = "_game.game_saved",
+  text = [[
+Trò chơi đã được lưu.
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.1",
+  text = [[
+Ngọn lửa của Mặt đất Độc hại- khi bị nguyền,
+kẻ thù nhận ít sát thương hơn.
+$? Thắp sáng
+$? Dập tắt
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.2",
+  text = [[
+Ngọn lửa của Bầu trời Trống rỗng- khi bị nguyền,
+kẻ thù gây nhiều sát thương hơn.
+$? Thắp sáng
+$? Dập tắt
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.3",
+  text = [[
+Ngọn lửa của Thủy triều Không ngừng- khi bị nguyền,
+vật phẩm hồi phục kém hiệu quả hơn.
+$? Thắp sáng
+$? Dập tắt
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.4",
+  text = [[
+Ngọn lửa của Trái tim Suy yếu- khi bị nguyền,
+khả năng bất khả xâm phạm phai mờ nhanh hơn.
+$? Thắp sáng
+$? Dập tắt
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.in",
+  text = [[
+Lời nguyền được Chấp nhận
+Kẻ thù trở nên mạnh hơn. Hãy rung chuông
+một lần nữa để gỡ bỏ lời nguyền.
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.out",
+  text = [[
+Lời nguyền bị Phá vỡ
+]],
+}
+
+dialog{
+  id = "_game.insufficient_funds",
+  text = [[
+Bạn không có đủ tiền!
+]],
+}
+
+dialog{
+  id = "_game.insufficient_items",
+  text = [[
+Bạn không có thứ bạn cần cho việc này!
+]],
+}
+
+dialog{
+  id = "_game.key_found",
+  text = [[
+Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
+trong khu vực.
+]],
+}
+
+dialog{
+  id = "_game.left_important_item",
+  text = [[
+Trước khi bạn rời đi, có lẽ bạn nên
+nhặt chìa khóa mà con quái vật đó đã rơi ra.
+]],
+}
+
+dialog{
+  id = "_game.locked_door",
+  text = [[
+Cánh cửa bị khóa.
+]],
+}
+
+dialog{
+  id = "_game.locked_gate",
+  text = [[
+Cổng dường như bị khóa.
+]],
+}
+
+dialog{
+  id = "_game.pause",
+  text = [[
+  $? Tiếp tục
+  $? Lưu và Tiếp tục
+  $? Thoát
+]],
+}
+
+dialog{
+  id = "_game.potion.burlyblade",
+  text = [[
+Sức tấn công của bạn tạm thời được tăng lên
+]],
+}
+
+dialog{
+  id = "_game.potion.fleetseed",
+  text = [[
+Tốc độ của bạn tạm thời được tăng lên
+]],
+}
+
+dialog{
+  id = "_game.potion.stoneskin",
+  text = [[
+Khả năng phòng thủ của bạn tạm thời tăng gấp đôi
+]],
+}
+
+dialog{
+  id = "_game.quest_log_update",
+  text = [[
+(Nhật ký nhiệm vụ của bạn đã được cập nhật)
+]],
+}
+
+dialog{
+  id = "_game.save_question",
+  text = [[
+Bạn có muốn lưu trò chơi không?
+$?Có
+$?Không
+]],
+}
+
+dialog{
+  id = "_game.seabird_door",
+  text = [[
+Có một hình tia chớp phai mờ được khắc
+vào đá.
+]],
+}
+
+dialog{
+  id = "_game.tests_for_log.1",
+  text = [[
+Tìm manh mối trong Pháo đài Hourglass
+]],
+}
+
+dialog{
+  id = "_game.title_choice",
+  text = [[
+$? Tiếp tục
+$? Trò chơi Mới
+]],
+}
+
+dialog{
+  id = "_game.too_heavy",
+  text = [[
+(Nó quá nặng để bạn nhấc lên!)
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.buyer_guy.1",
+  text = [[
+NGƯỜI BÁN HÀNG:
+Này! Đang tìm cách bán một số
+vật phẩm thú vị mà bạn đã
+thu thập?
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.eh",
+  text = [[
+Hả?
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.good_day",
+  text = [[
+Chào ngày mới.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.hey",
+  text = [[
+Này!
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.max.isle_of_storms",
+  text = [[
+MAX:
+Chà này! Là tôi, Max, nhà phát triển trò chơi.
+Cảm ơn vì đã đến tận
+đây! Đây là nơi khu vực cuối cùng của
+MAX:
+trò chơi bắt đầu! Tôi chưa xây dựng nó xong,
+vì vậy hãy thoải mái bắt một chuyến đi về với
+Morus và tiếp tục tìm kiếm các nhiệm vụ phụ.
+MAX:
+Và hãy cho tôi biết bạn nghĩ gì! Điều gì
+còn thô, điều gì nhàm chán, điều gì hấp dẫn nhất?
+Cảm ơn rất nhiều vì đã chơi!
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.max.oakhaven",
+  text = [[
+MAX:
+Này, là tôi, Max. Nhà phát triển trò chơi.
+Chỉ muốn cho bạn biết rằng khu vực này
+chưa có tất cả
+MAX:
+dân thường của nó. Nó vẫn đầy
+nhiệm vụ phụ và nhân vật chính, nhưng
+những người đi bộ quanh chợ hoặc
+MAX:
+ngồi quanh một quán rượu thì chưa có
+ở vị trí. Nó không nên ảnh hưởng đến trò chơi
+theo bất kỳ cách nào khác ngoài bầu không khí, hoặc những
+MAX:
+manh mối tinh tế mà họ có thể đã cho bạn.
+Dù sao thì, cảm ơn vì đã chơi!
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.max.unfinished_area",
+  text = [[
+MAX:
+Này, là tôi, Max. Nhà phát triển trò chơi.
+Chỉ muốn cho bạn biết rằng khu vực này
+chưa hoàn thành lắm. Bất cứ thứ gì
+MAX:
+bạn cần cho nhiệm vụ chính hoặc bất kỳ nhiệm vụ phụ
+nào bạn đã bắt đầu ở nơi khác đều ở đây,
+nhưng vẫn còn một chút công việc còn lại.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.out_of_bounds",
+  text = [[
+Đó là sở thích của tôi để treo ở những nơi
+bạn không bao giờ được cho là đến được. Sẽ
+tốt nếu bạn cho ai đó biết làm thế nào bạn
+quản lý để đến đây, nhưng cũng,
+Tôi cho rằng xin chúc mừng là phù hợp.
+Bạn đã thành công vượt mặt ai đó.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.shop.arrows",
+  text = [[
+Muốn mua một ít mũi tên? Trừ khi bạn định
+đập người khác bằng cái cung đó, bạn sẽ cần một ít.
+5 mũi tên là 10 crown. Muốn một ít không?
+
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.shop.arrows_no_bow",
+  text = [[
+Tôi đang bán mũi tên. Có vẻ như bạn
+không có cung. Bạn có thể thử sử dụng chúng mà không có
+một cái, nhưng... chà không. Bạn thực sự không thể.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.shop.inn_sleep_on_floor",
+  text = [[
+Này, ừ... Chắc anh phải mệt lắm.
+Khi tôi hỏi anh có muốn ngủ ở đây không, tôi
+có nghĩa là ở đây như trong, nhà trọ, không phải NGAY ĐÂY...
+Hãy chắc chắn rằng anh nghỉ ngơi đủ, nhóc.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.abberforth.1",
+  text = [[
+ABBERFORTH:
+À, đến xem dê của tôi? Tôi mong đợi, vâng.
+Vâng. Chúng là những con dê tốt. Chỉ ăn những bông hoa
+màu trắng, nhớ... Nhưng những con này, ừ. Thứ bạn
+ABBERFORTH:
+sẽ tìm kiếm là con dê đá vĩ đại! Nó bơi
+xuyên qua chính lòng đất và sống dậy! Để
+ăn. Nhưng chỉ khi bạn gãi tai trái của nó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.adventurers.1",
+  text = [[
+Này! Những đường hầm cổ đại bí mật
+ở dưới đây!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.alchemist.bait",
+  text = [[
+Muốn mua một lọ mồi? Bạn có thể sử dụng nó để
+nhử quái vật ra khỏi chỗ ẩn nấp nếu bạn đặt nó trên
+những tảng đá nhỏ, phẳng, ở một số nơi. Mỗi lọ
+là 5 crown.
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.alchemist.bombs",
+  text = [[
+Muốn mua một ít bom? Chúng cực kỳ
+hữu ích để cho nổ mọi thứ!... Không gì khác.
+5 quả bom là 50 crown. Muốn mua không?
+
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.alchemist.elixer",
+  text = [[
+Muốn mua một Bình Thuốc Sinh lực? Khi bạn ngã xuống
+trong trận chiến, bạn sẽ được hồi sinh tự động nếu bạn
+có một trong những thứ này trên người. Chỉ 100 crown.
+
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ballast_harbor_ferry.1",
+  text = [[
+Đang tìm một chuyến đi đến Ballast Harbor? Tôi là
+chuyến phà duy nhất quanh đây, tôi có thể đưa bạn đến đó
+với giá 10 crown. Nghe thế nào?
+
+(Đi đến Ballast Harbor?)
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.bart_bouncer.1",
+  text = [[
+NGƯỜI GIỮ CỔNG:
+Cô có việc gì với Beetle-Eyed
+Bartholemy, nhà nấu bia giỏi nhất, bận rộn nhất không?
+$1... $3 Tôi không nghĩ vậy. Cô không thể xử lý
+NGƯỜI GIỮ CỔNG:
+phép điệp âm, chứ đừng nói đến sức mạnh của hắn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.bart_bouncer.2",
+  text = [[
+NGƯỜI GIỮ CỔNG:
+Cô có việc gì với Beetle-Eyed
+Bartholemy, nhà nấu bia giỏi nhất, bận rộn nhất không?
+
+TILIA:
+Bartholemy... Hắn có một hóa đơn mở tại
+Sodden Cormorant, phải không? Tôi ở đây để thu nợ.
+
+NGƯỜI GIỮ CỔNG:
+$1HA!$3 Hahahahaha. Được rồi, nhóc. Cô cứ
+vào trong và lấy tiền của quán rượu từ hắn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.beaufort.1",
+  text = [[
+BEAUFORT:
+Tôi thích đi chơi với thợ rèn vì
+tôi có sự đánh giá cao đối với vũ khí tốt...
+Nhưng gã này, thứ yêu thích nhất để làm
+BEAUFORT:
+là đinh! Nói về kiếm, tôi đã nghe nói
+vị anh hùng bảo trợ của thị trấn, Heron, đã để lại thanh kiếm của mình
+trên Đồi Heron trước khi bị giết.
+BEAUFORT:
+Nó được cho là một lưỡi kiếm khá đẹp,
+và tôi đoán nó vẫn ở trên đó.
+Tôi rất muốn được nhìn thấy nó một ngày nào đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.beaufort.2",
+  text = [[
+BEAUFORT:
+Thanh kiếm mà cô có... đó có phải là thanh kiếm
+của anh hùng cổ đại Heron không? Nhưng,
+sự khéo léo! Những chi tiết phức tạp trên chuôi kiếm!
+BEAUFORT:
+Đây là một lưỡi kiếm tuyệt vời. Và tôi thậm chí đã
+nhìn thấy thanh kiếm của Blackbeard. Oooooh. Tôi
+đang cảm thấy yếu đầu gối.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.beetle_eyed_bart.1",
+  text = [[
+BEETLE EYED BART:
+Một cô gái nhỏ? Cô đang làm gì trong
+nhà kho hoàn toàn minh bạch của ta?
+
+TILIA:
+Tôi nghe nói ông nợ Sodden Cormorant
+một ít tiền. Tôi ở đây để thu nợ cho họ.
+
+BEETLE EYED BART:
+Lũ nấu bia bẩn thỉu, có năng lực đó! Luôn luôn
+không bao giờ mua bia của ta! Cô sẽ phải giật
+lấy hóa đơn của ta từ xác chết lạnh ngắt của ta!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.armor_saleslady.1",
+  text = [[
+Tôi đang câu cá, và bộ áo giáp cũ của ai đó
+bị mắc vào lưới. Nó trông có vẻ
+tốt hơn của cô. Muốn mua nó với giá 150
+crown không?
+$? Mua bộ áo giáp có mùi cá
+$? Để nó lại
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.armor_saleslady.2",
+  text = [[
+Một lần tôi tìm thấy một số nồi và chảo mắc
+vào lưới đánh cá của tôi, và tôi sử dụng chúng để nấu ăn
+mỗi ngày bây giờ. Tiếp theo tôi muốn bằng cách nào đó tìm thấy
+bất động sản mắc vào lưới của tôi. Điều đó sẽ tốt.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.arni.1",
+  text = [[
+ARNI:
+Ồ trời ơi, cô sẽ không tin kích thước của
+con quái vật đã tóm được tôi hôm trước đâu! Tôi
+đang câu cá phía nam làng, trên bãi cạn,
+ARNI:
+nơi tôi đã nghe nói bạn không nên vì
+con quái vật, và con quái vật này nhảy ra tấn công tôi!
+Nó thật bất ngờ!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.arni.2",
+  text = [[
+ARNI:
+Ồ trời ơi, cô sẽ không tin kích thước của
+con quái vật đã tóm được tôi hôm trước đâu! Tôi
+đang câu cá phía nam làng...
+TILIA:
+Ồ bãi cạn?
+
+ARNI:
+Làm sao cô biết?! Vâng. Thật điên rồ. Nó cắn
+một miếng lớn từ chân tôi!
+
+TILIA:
+Tôi đang cố tìm con quái vật đó để xử lý
+nó. Chính xác anh bị tấn công ở đâu?
+
+ARNI:
+Có một đống đá, gần một vách đá với hai
+cây vân sam trên đó. Cô biết không, có lẽ
+là do mồi tôi đang sử dụng. Mồi quái vật.
+TILIA:
+Anh đang câu cá bằng mồi quái vật?
+
+ARNI:
+Để bắt cá quái vật! Dù sao thì, tôi đã để mồi
+trong một cái lọ dưới bãi cạn. Nếu cô làm vỡ
+nó và rải mồi, có lẽ con thú
+ARNI:
+sẽ tấn công cô too! Vì vậy, ý tôi là, có lẽ
+nên tránh làm điều đó. Hoặc không. Cô là con người của chính mình.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.arni.3",
+  text = [[
+ARNI:
+Nếu cậu đang cố dụ con quái vật đó ra để
+tiêu diệt nó, thì tôi đã để mồi nhử xuống
+Lotus Shoal. Tôi đã ở gần vách đá có hai
+cây vân sam. Nếu cậu
+ARNI:
+đập vỡ cái lọ mồi tôi để dưới đó, con quái
+vật đã tấn công tôi có lẽ cũng sẽ đến
+tấn công cậu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.bait_salesperson",
+  text = [[
+Tôi có bán một ít mồi nhử quái vật.
+Chỉ cần đặt nó trên một tảng đá phẳng hay
+đại loại vậy và dùng nó để dụ quái vật ra.
+Muốn mua một lọ với giá năm crowns không?
+$? Chắc chắn rồi
+$? Không, cảm ơn
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.ballast_ferry_guy.1",
+  text = [[
+Ừ, có một chuyến phà tới Ballast Harbor.
+Nhưng đừng bận tâm về nó bây giờ, được không?
+Nó chưa chạy đâu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.1",
+  text = [[
+DUSIT:
+Ah! Cậu thấy tấm biển của tôi trong quán rượu à?
+Tuần trước có vài tên cướp biển đổi cho tôi một
+tấm bản đồ kho báu. Có kho báu trên đảo
+DUSIT:
+Brickenbranch bị ma ám. Vàng! Trang sức! Nhưng
+tôi già quá rồi, và tôi cần ai đó đi
+thu thập nó thay tôi.
+TILIA:
+Xin lỗi, ông vừa nói hòn đảo bị
+ma ám à?
+
+DUSIT:
+Hả? Ừ, vài năm trước tất cả cây cối ở đó
+chết hết và người ta nói có con quái vật nào
+đó đã chuyển tới. Nhưng tôi sẽ trả cậu hậu hĩnh!
+$?Giúp gã ngốc này
+$?Tiếp tục cuộc đời mình
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.2",
+  text = [[
+DUSIT:
+Tuyệt vời! Được rồi, hãy đi xuống bến tàu của tôi
+và lấy thuyền của tôi cùng tấm bản đồ này.
+Nó sẽ đưa cậu đến Đảo Brickenbranch.
+DUSIT:
+Như cậu có thể thấy từ tấm bản đồ kho báu này,
+kho báu nằm bên trong ngôi đền trên
+đảo. Hãy tìm những đống sapphire
+DUSIT:
+hay bất cứ thứ gì ở đó, mang nó về,
+và chúng ta sẽ chia đôi.
+
+TILIA:
+Tôi không chắc làm thế nào lũ cướp biển
+thuyết phục ông rằng mọi chuyện sẽ diễn ra
+chính xác như vậy, nhưng thôi được rồi.
+DUSIT:
+Tại sao bọn cướp biển lại tìm cách lừa tôi chứ?
+Thuyền của tôi đang buộc ở ngay bên ngoài,
+hãy trèo xuống thang và chuồn đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.3",
+  text = [[
+DUSIT:
+Ừ, vậy cứ lấy thuyền của tôi - nó được buộc
+ngay bên ngoài. Chèo đến Đảo Brickenbranch,
+nơi hoàn toàn bị ma ám, và
+DUSIT:
+tìm kho báu mà tấm bản đồ này nói
+là ở trong ngôi đền đó. Đơn giản!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.4",
+  text = [[
+DUSIT:
+Này, cậu sống sót rồi! Thế, cậu có tìm thấy
+cả xô ruby hay vàng hay gì không?
+
+TILIA:
+Tôi nghĩ ông đã bị lừa mua phải đồ rởm.
+Không có vàng hay bất cứ thứ gì trên
+đảo cả.
+DUSIT:
+Cái gì?! Chà, thế thì chẳng đáng ba con
+mực mà tôi đã đổi lấy nó chút nào!
+
+TILIA:
+Tại sao ông lại nghĩ một tấm bản đồ kho báu mà mấy tên
+cướp biển sẵn sàng đổi lấy ba con
+mực lại thực sự dẫn đến kho báu chứ?
+DUSIT:
+Bởi vì- ừm, hừm. Đúng là một ý kiến hay.
+Thôi, cảm ơn cậu đã giúp
+tôi. Như một lời cảm ơn, cậu có thể dùng
+DUSIT:
+thuyền của tôi để ra hòn đảo ma ám bất cứ
+khi nào cậu muốn.
+
+TILIA:
+Tuyệt vời.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.5",
+  text = [[
+DUSIT:
+Mọi chuyện thế nào rồi? Tôi đã quyết định mình cần
+ngừng mặc cả với cướp biển một
+thời gian.
+TILIA:
+Đó có lẽ là điều tốt.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.go_to_brickenbranch",
+  text = [[
+Đây là thuyền của Dusit. Bạn có muốn
+chèo nó đến Đảo Brickenbranch không?
+$? Giương buồm!
+$? Ở lại đây!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.go_to_crabhook",
+  text = [[
+Đã đến lúc rời đảo và
+chèo thuyền về Crabhook chưa?
+$? Giương buồm!
+$? Ở lại đây!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.1",
+  text = [[
+Có rất nhiều cá ngon bán ở đây
+với giá rẻ. Không thể mang chúng xuống
+Goatshead Harbor để bán, với mức
+thuế mà Hiệp hội Thương nhân áp đặt.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.10",
+  text = [[
+NGƯ DÂN:
+Tôi nghe nói con quái vật đã tấn công người
+dưới bãi biển đã biến mất. Chắc là do
+cậu rồi. Vậy thì cảm ơn nhé.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.11",
+  text = [[
+NGƯ DÂN:
+Đã vài tháng rồi, nhưng chúng tôi gần như
+đã dọn dẹp xong sau vụ tấn công.
+
+TILIA:
+Chuyện gì đã xảy ra? Cướp biển à?
+
+
+NGƯ DÂN:
+Đúng vậy. Chúng đốt cháy một khu trong thị trấn.
+Dĩ nhiên việc chúng tôi sống trên cột cũng chẳng
+giúp ích gì khi có hỏa hoạn. May mắn thay, có một người
+NGƯ DÂN:
+trong Dân quân Cảng nào đó đang theo dõi
+bọn cướp biển, đã giúp chúng tôi dập lửa.
+Trông anh ta hơi giống cậu,
+bây giờ tôi mới nghĩ ra.
+TILIA:
+Đó có thể là bố tôi! Ông ấy đã
+theo dõi một số tên cướp biển.
+
+NGƯ DÂN:
+Ông ấy đã giúp chúng tôi thoát khỏi một tình thế khó khăn!
+Hãy gửi lời cảm ơn nữa từ tôi đến ông ấy nếu cậu gặp ông ấy.
+
+TILIA:
+Tôi hi vọng tôi sẽ gặp.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.12",
+  text = [[
+Đã có một vụ tấn công của cướp biển một thời gian trước, thiêu rụi
+rất nhiều cây cầu của thị trấn. Mọi thứ
+vẫn còn bốc mùi khói, mà thành thật mà nói?
+Thật tuyệt. Nghĩa là nó không còn mùi cá nữa.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.2",
+  text = [[
+Quan tâm đến một ít cá ngon? Chúng tôi
+cũng vừa mở một quầy ở Goatshead Harbor.
+Dạo này kinh doanh rất tốt!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.3",
+  text = [[
+Cậu đã nghe những câu chuyện về Quái Vật Mực
+ở Goatshead chưa? Người ta nói hắn là một tên cướp
+nhắm vào các thương nhân giàu có. Chà, chỉ
+giữa tôi và cậu thôi nhé... Cậu có biết chuyện gì xảy ra
+với số tiền hắn đánh cắp không? Bằng cách nào đó nó
+lại quay trở về đây. Là nơi nó đã xuất phát
+từ đầu, với bao nhiêu là thuế má
+mà bọn thương nhân đó lấy từ chúng tôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.4",
+  text = [[
+Cậu đã nghe những câu chuyện về Quái Vật Mực
+ở Goatshead chưa? Người ta nói hắn là người
+có trách nhiệm gỡ bỏ những khoản thuế bất công
+khỏi đôi vai đau nhức của chúng tôi! Hóa ra
+đó là cậu bé Aster. Tôi biết cậu ta
+từ khi cậu ta còn là một đứa trẻ chạy loanh quanh đây.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.5",
+  text = [[
+Vậy là được cho là có một hòn đảo ma ám
+gần đây và Dusit, theo tôi thì là một gã điên,
+lại quyết tâm tìm ai đó ra đó
+để đào một kho báu nào đó.
+Giờ thì chúng ta có một hòn đảo ma ám, chồng chất lên
+một con quái vật đang tấn công những ngư dân
+đi xuống phía Goatshead để đánh cá.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.6",
+  text = [[
+Hộp cá đang tới! Hộp
+Cá Vược Quyền Anh Meurian. Tôi là ông chủ của
+cá vược quyền anh đóng hộp!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.7",
+  text = [[
+Tôi đã tự hỏi một lúc... tất cả những củ cà rốt này
+từ đâu ra? Có vẻ như có nhiều cà rốt đi qua
+cảng này hơn mức bình thường.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.8",
+  text = [[
+NGƯ DÂN:
+Này, đánh cá ở đây không tệ, nhưng chỗ chúng
+thực sự cắn câu là phía nam thị trấn trên Lotus Shoal.
+Tôi đã ở dưới đó rồi nếu không phải vì
+NGƯ DÂN:
+con quái vật thực sự phiền phức này cứ tấn công
+những người xuống đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.9",
+  text = [[
+NGƯ DÂN:
+Này, đánh cá ở đây không tệ, nhưchỗ chúng
+thực sự cắn câu là phía nam thị trấn trên Lotus Shoal.
+Tôi đã ở dưới đó rồi nếu không phải vì
+NGƯ DÂN:
+con quái vật thực sự phiền phức này cứ tấn công
+mọi người xuống đó.
+
+TILIA:
+Thực ra Danley đã nhờ tôi xử lý con quái vật đó.
+Anh có biết nó ở đâu không?
+
+NGƯ DÂN:
+Cũng lâu rồi tôi không thấy nó - Tôi thông minh và không thích
+bị tấn công. Hãy đi hỏi Arni, hắn là một thằng ngốc
+và vừa bị cắn hôm qua. Hắn sống ngay phía bắc đây.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.bait_guy",
+  text = [[
+Cậu đã từng dùng mồi nhử quái vật chưa? Những tảng đá
+như thế này là hoàn hảo để đặt mồi nhử
+lên, và sau đó nó sẽ dụ quái vật ra.
+Xem thử đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.ballast_man_1",
+  text = [[
+Ừ, tôi thấy ánh mắt đó rồi. Chợ ở đây tại
+Crabhook khá là buồn tẻ. Không phải thứ
+cậu đang tìm kiếm, phải không? Cậu muốn
+biết nơi để tìm những thứ tốt, phải chứ?
+Vậy tôi sẽ cho cậu biết một bí mật.
+Ballast Harbor, cái chợ cướp biển? Tôi biết cách
+đến đó. Nó rất kín đáo bởi vì,
+cậu biết đấy, nó đầy cướp biển. Nhưng nếu cậu
+đi về phía Đông Nam, xuống Rừng Tides?
+Có một đường hầm ở đó sẽ dẫn cậu
+đến Ballast Harbor.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.salesman",
+  text = [[
+NGƯỜI BÁN RAU:
+Thử một củ cà rốt chứ? Chỉ 5 crowns, và chúng
+sẽ hồi ngay một tim rưỡi máu!
+
+TILIA:
+$? Chắc chắn rồi
+$? Lúc khác đi
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.1",
+  text = [[
+Thành viên Dân quân Cảng, huh? Có vài người đã dán
+thông báo trên tường đằng kia, đang tìm
+sự giúp đỡ cho việc của các cậu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.2",
+  text = [[
+NGƯỜI PHỤ NỮ:
+Này. Trông cậu kỳ lạ giống gã mà tôi đã gặp
+vài tháng trước ngoài Rook Reef. Anh ta
+mặc quần áo tương tự và có cái mũi của cậu.
+TILIA:
+Đợi đã, anh ta có cao không? Có râu và đôi lông mày
+trông mệt mỏi? Đó có thể là bố tôi!
+Ông ấy đã đi đâu?
+NGƯỜI PHỤ NỮ:
+Ồ, chắc là vậy rồi. Tôi không biết ông ấy đã đi đâu.
+Bọn tôi đã mắc cạn khi cố chạy trốn khỏi
+cướp biển và ông ấy đã giải cứu chúng tôi. Một người đàn ông tốt.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.1",
+  text = [[
+DANLEY:
+Ồ, cậu có phải trong Dân quân Cảng? Tôi là
+trưởng làng. Nghĩ rằng cậu có thể giúp tôi
+một việc? Tôi có thể trả tiền cho cậu.
+TILIA:
+$? Chắc chắn rồi
+$? Hiện giờ tôi quá bận
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.2",
+  text = [[
+DANLEY:
+Như thể không có đủ thứ để lo lắng trong
+thị trấn này, một sinh vật nào đó đã bắt đầu
+tấn công những ngư dân mạo hiểm đi về phía nam
+DANLEY:
+của làng đến bãi biển. Tôi không biết chi tiết,
+nhưng đó là việc của tôi để giải quyết nó.
+Hãy thử hỏi một số ngư dân xem con quái vật đã đi đâu,
+DANLEY:
+rồi quay lại với tôi một khi cậu đã
+giải quyết xong và tôi sẽ trả tiền cho cậu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.3",
+  text = [[
+DANLEY:
+Cậu quay lại rồi. Cậu đã tìm thấy con quái vật đó và
+giải quyết nó chưa?
+
+TILIA:
+Nó đã biến mất rồi. Không nên cắn vào chân
+của bất cứ ai nữa.
+
+DANLEY:
+Nó ăn chân của ai à? Tôi không nghe về điều đó.
+Không sao, hãy để tôi trả tiền cho cậu.
+
+(Bạn nhận được 80 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.4",
+  text = [[
+DANLEY:
+Ít nhất mọi người có thể đi câu trên bãi biển nữa.
+Giờ tôi chỉ phải lo lắng về giao dịch với
+Goatshead.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.5",
+  text = [[
+DANLEY:
+Con quái vật đã ăn chân ngư dân
+đã biến mất, những khoản thuế vô lý từ Goatshead
+đã được gỡ bỏ... Tôi là một thị trưởng tuyệt vời.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.defeated_first",
+  text = [[
+DANLEY:
+Ồ, cậu có phải trong Dân quân Cảng? Tôi là
+trưởng làng. Tôi cần một ít giúp đỡ để tiêu diệt
+một con quái vật ẩn nấp trong vùng nước phía nam đây
+DANLEY:
+trên Badger Shoal. Tôi có thể trả tiền cho cậu.
+
+
+TILIA:
+Có phải nó là loài cá gì đó, nhảy ra khỏi
+nước để tấn công? Tôi nghĩ tôi đã đánh bại nó rồi.
+
+DANLEY:
+Ah! Tuyệt. Tôi không có lý do gì để nghĩ cậu
+đang nói dối. Hãy lấy cái này.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.witch",
+  text = [[
+Vào đi, cưng, tôi là thầy thuốc thảo dược của làng.
+Nếu cô muốn sử dụng cái bàn đằng kia để pha chế
+bình thuốc hay bất cứ thứ gì, cứ tự nhiên.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.witch_pot",
+  text = [[
+Tôi có thể nấu cho cô một Bình Thuốc Hồi Sinh với giá
+25 crowns nếu cô mang cho tôi nguyên liệu.
+Nó cần rễ White Mandrake, Kingscrown,
+và cánh hoa Ghost Orchid.
+Nấu một bình chứ?
+$? Không
+$? Có
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.1",
+  text = [[
+Thật tốt là tôi không chuyển bia lậu
+đến nhà kho cho
+Bart Mắt Bọ nữa. Tôi không bận tâm công việc
+nhưng bia có vị kinh khủng khi tôi ăn cắp nó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.2",
+  text = [[
+Ồ, xin lỗi. Nếu mấy cái thùng nhỏ vướng đường cậu,
+cậu có thể chỉ cần đẩy chúng sang một bên. Nếu cậu
+làm chúng kẹt, chỉ cần rời khỏi khu vực này và quay lại
+và cậu có thể thử lại.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.3",
+  text = [[
+Nó đã xảy ra. Tôi nhặt một cái thùng và quên
+hoàn toàn mình định mang nó đi đâu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.4",
+  text = [[
+Hầu hết các thủy thủ làm việc trên bến tàu
+ở đây uống rượu tại Sodden Cormorant.
+Bao gồm cả người đàn ông sở hữu nhà kho
+ở cuối bến tàu, điều này thật kỳ lạ,
+bởi vì Beetle-Eyed Bartholemy là một người ủ bia
+chính hiệu. Tôi nghe chủ quán rượu đang tìm
+ông ta... gì đó về tiền?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.1",
+  text = [[
+EAMON:
+Ah! Một người từ Dân quân Cảng, huh?
+Cậu có thấy thông báo của tôi tại quán rượu không? Chà,
+không sao, rõ ràng cậu đã đến để giải quyết
+EAMON:
+vấn đề của Quái Vật Mực. Cậu đã
+nghe những gì tên vô lại đó đang làm chưa? Đột nhập
+vào văn phòng của các thương nhân trong đêm, làm hỏng
+EAMON:
+các hồ sơ bằng mực, che giấu mọi kiến thức
+về các khoản nợ và thu nhập. Gã đó sẽ
+đưa thành phố vào hỗn loạn kinh tế. Dù sao,
+EAMON:
+Tôi có thể đề nghị cậu 70 crowns nếu cậu sẽ giúp bắt
+hắn ta. Tôi có một kế hoạch, một kế hoạch tuyệt vời, nhưng
+cậu sẽ giúp hạ gục Quái Vật Mực chứ?
+TILIA:
+$?Có
+$?Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.2",
+  text = [[
+EAMON:
+Tuyệt vời! Không có nhiều thương nhân từ
+hiệp hội chưa bị tấn công.
+Tôi muốn cậu đi xuống Rilesdorf. Hắn có
+EAMON:
+một cửa hàng gần chợ, dựa vào vách đá. Nói với
+hắn là tôi gửi cậu đến, rồi vào văn phòng của hắn, trốn,
+và chờ Quái Vật Mực đến. Tôi
+EAMON:
+biết chắc hắn sẽ đến. Khi Quái Vật Mực xuất hiện,
+hãy bắt giữ hắn. Mấy người Dân quân Cảng các cậu có thể
+tiêu diệt quái vật, nên tôi nghĩ Quái Vật Mực sẽ
+EAMON:
+không thành vấn đề. Hãy quay lại với tôi một khi cậu
+đã giải quyết xong Quái Vật Mực.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.3",
+  text = [[
+EAMON:
+Vậy, cậu đã đi và nói chuyện với Rilesdorf,
+tại cửa hàng của hắn ngay trên cảng chưa? Hãy trốn
+trong văn phòng của hắn, rồi giải quyết
+EAMON:
+Quái Vật Mực khi hắn chắc chắn xuất hiện
+để phá hủy nền tảng mà nền
+kinh tế thị trấn này được xây dựng!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.4",
+  text = [[
+EAMON:
+Chà. Tôi nghe từ Rilesdorf rằng cậu đã làm đổ
+mực lên thảm của hắn, nhưng ít ra thì không phải hồ sơ của hắn.
+Và rằng Quái Vật Mực đã trốn ra
+EAMON:
+cửa sổ. Cậu có theo dõi và giải quyết
+hắn, hay sao?
+
+TILIA:
+Không, hắn$1...$3 hắn đã trốn thoát.
+
+
+EAMON:
+Chà. Tôi nghĩ tôi nên cảm ơn cậu vì ít nhất
+đã bảo vệ hồ sơ của Rilesdorf. Đây.
+
+(Bạn nhận được 10 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.5",
+  text = [[
+EAMON:
+Chà? Trừ khi cậu đã ra ngoài và tìm thấy
+Quái Vật Mực, còn không thì cậu chẳng có tác dụng gì như một
+món đồ trang trí văn phòng. Cút đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.killed_astor.1",
+  text = [[
+EAMON:
+Eh, cậu là gì- ồ phải! Cậu. Cậu đã
+giải quyết Quái Vật Mực cho tôi chưa?
+
+TILIA:
+Tôi đã làm rồi.
+
+
+EAMON:
+Ồ vậy đó. Rilesdorf nói với tôi hắn vẫn bị
+mực trên thảm, vậy thì cậu không thể
+giỏi lắm. Hãy tính là 60 crowns.
+(Bạn nhận được 60 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.killed_astor.2",
+  text = [[
+EAMON:
+Hả? Họ vẫn cho cậu vào đây?
+Để làm gì? Cút ra.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.1",
+  text = [[
+Psst. Này. Cậu có muốn mua một ít cua không?
+Không có gì mờ ám về chúng đâu, tôi chỉ
+bí mật vì tôi chưa nộp giấy tờ
+cho hiệp hội thương nhân. Không đủ khả năng,
+với mức thuế họ tính
+cho bất cứ ai từ Làng Crabhook.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.2",
+  text = [[
+Này, có cá tươi sống đây! Tươi như
+có thể được buôn lậu vào thành phố. Ý tôi là, cậu
+có thể trả giá bị đánh thuế ngu ngốc cho, kiểu,
+cá THỰC SỰ tươi, hoặc cậu có thể chấp nhận!
+Hãy mở rộng tâm trí với các khả năng!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.3",
+  text = [[
+Ugh. Giá của tôi đang bị phá bởi những tên côn đồ
+từ Làng Crabhook. Giấy tờ của họ
+có lẽ còn chưa xong. Họ không có
+sự tôn trọng đối với những điều tốt mà hiệp hội thương nhân làm.
+Giữ cho thành phố của chúng ta khỏi trở thành một sào huyệt
+cướp biển như ở ngoài Ballast Harbor.
+Dù sao thì, cá tươi ở đây. Chỉ 300 crowns
+mỗi con.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.4",
+  text = [[
+Luật mới trong thị trấn! Cuối cùng tôi cũng có thể bán
+cá không buôn lậu. Mặc dù, nếu cậu thích cá
+đã ở trong một chiếc ủng, chúng ta cũng có thể làm điều đó
+nữa. Các khả năng là vô tận!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.5",
+  text = [[
+Các loại cá mới, vừa mới về! Được kiểm tra bởi
+hiệp hội thương nhân, tất cả các loại chất lượng. Hãy thử
+một mẫu cá porgy của chúng tôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.6",
+  text = [[
+Tôi có cá thường của tôi ở đây... Tôi đã phải
+hạ giá từ 300 crowns mỗi con.
+Cạnh tranh ngu ngốc từ những tên côn đồ
+từ Làng Crabhook.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.flower_shop.1",
+  text = [[
+ATEM:
+Ồ, ồ này. Tôi là cửa hàng hoa. Ý tôi là, đây
+là cửa hàng hoa. Tôi là... well, tôi không giả sử
+cậu đang ở trong chợ cho- cho hoa?
+TILIA:
+Xin lỗi, tôi không nghĩ tôi cần hoa ngay bây giờ...
+
+
+ATEM:
+Đó là... không sao! Không có nhiều
+người là kiểu người mua hoa
+xung quanh đây. Nếu cậu muốn sử dụng bất kỳ
+ATEM:
+hoa nào cậu đã có để làm bình thuốc hoặc
+công cụ, hãy thoải mái sử dụng bàn chế tạo
+đằng kia.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.flower_shop.2",
+  text = [[
+ATEM:
+Này, cảm ơn. Hãy quay lại nếu cậu có
+thêm mấy thứ này để bán.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.1",
+  text = [[
+LÍNH CANH:
+Khuôn mặt mới ở Goatshead Harbor, huh? Không phải
+một kẻ buôn lậu, phải không?$1... $3 Ha. Chỉ đùa thôi.
+Nhưng hãy coi chừng bọn buôn lậu. Chúng không phải trò đùa.
+LÍNH CANH:
+Không phải chúng tôi, những lính canh thị trấn, không thể xử lý chúng.
+Chúng tôi là những lính canh mạnh nhất đó!
+uhHUUUNH!
+(Người lính canh gồng mình dữ dội)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.2",
+  text = [[
+LÍNH CANH:
+Đây là trụ sở chính của Hiệp hội
+Thương nhân. Cậu không cần mật khẩu để vào
+hay gì cả, nhưng... cậu không thực sự được chào đón.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.3",
+  text = [[
+LÍNH CANH:
+Đã từng chúng tôi không phải canh gác
+cổng vào Hiệp hội Thương nhân, nhưng với
+Quái Vật Mực tấn công, ugh. Rắc rối.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.4",
+  text = [[
+LÍNH CANH:
+Cậu đang làm gì trên cầu tàu vậy? Cậu không phải là
+công nhân bốc vác! Cậu có thậm chí... nâng thùng nặng không?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.5",
+  text = [[
+LÍNH CANH:
+Xin lỗi, họ bảo tôi không cho
+ai đi qua tôi cả.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.6",
+  text = [[
+LÍNH CANH:
+Cứ thử lén qua một lính canh đi... Ý tôi là
+lời khuyên đấy - cậu không thể đánh bại chúng tôi. Tất cả chúng tôi
+đều siêu mạnh! Những Lính Cơ Bắp! Đó là chúng tôi!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.7",
+  text = [[
+LÍNH CANH:
+Chúng tôi là lính canh thị trấn, nhưng hầu hết mọi người gọi
+chúng tôi là Đám Dã Man Tạ Đơn. Bởi vì tất cả chúng tôi đều nâng
+tạ đơn để có cơ bắp cuồn cuộn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.8",
+  text = [[
+Nếu cậu định ra khỏi thị trấn, hãy coi chừng
+tất cả lũ quái vật. Chúng có thể khá mạnh.
+Điều mà tôi tôn trọng về chúng.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.1",
+  text = [[
+LÍNH CANH:
+Đây là nơi lính canh thị trấn sống.
+Đám Dã Man Tạ Đơn! Đó là những gì họ gọi chúng tôi. Tôi hoàn toàn
+thích điều đó. Cậu có việc gì ở đây?
+TILIA:
+Tôi chẳng có gì cả. Tôi không phải một thị trấn để
+mà canh gác.
+
+LÍNH CANH:
+Ừ, cậu không... Chà.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.2",
+  text = [[
+LÍNH CANH:
+Đây là nơi lính canh thị trấn sống.
+Đám Dã Man Tạ Đơn! Đó là những gì họ gọi chúng tôi. Tôi hoàn toàn
+thích điều đó. Cậu có việc gì ở đây?
+TILIA:
+Tôi nghe nói các anh đều đang làm việc cho
+Eamon. Tôi đến đây để thách đấu bất cứ ai
+một trận đánh hay đại loại vậy. Cái, ờ, cái
+TILIA:
+trận đấu vật tạ hay gì đó. Để khi tôi thắng
+thì người dân Crabhook sẽ được an toàn và các anh
+sẽ không làm việc cho Eamon nữa. Cái đó đó.
+LÍNH CANH:
+A-hahahahahahaha!
+
+
+LÍNH CANH:
+Hahahahaha!
+
+
+LÍNH CANH:
+Hahaha. Được rồi, cô gái. Cứ làm điều đó đi. Sao không
+đi đánh bại mọi người tới chỗ ông chủ và cho
+anh ta thấy sức mạnh của cậu?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.3",
+  text = [[
+LÍNH CANH:
+Được rồi cô gái thích đánh nhau. Hãy đi đánh bại ông chủ của chúng tôi
+để cho chúng tôi thấy cậu là người mạnh nhất.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.4",
+  text = [[
+LÍNH CANH:
+Tôi không thể tin là cậu thực sự đánh bại
+tất cả mọi người. Cậu đã giành được sự
+trung thành của tôi, thuyền trưởng.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.5",
+  text = [[
+ĐỘI TRƯỞNG LÍNH CANH:
+Chà. Tôi có thể nghe thấy cậu đánh bại phần còn lại
+của Đám Dã Man Tạ Đơn từ tận trên này.
+Điều gì đưa cậu xuyên thẳng qua lính canh của tôi?
+TILIA:
+Tôi nghe nói các anh làm việc cho Eamon, nên tôi
+hạ mình xuống để đánh nhau trong trò đấu vật con trai
+của các anh để bắt các anh dừng lại.
+ĐỘI TRƯỞNG LÍNH CANH:
+Thú vị đấy. Sẵn sàng cho một trận ẩu đả chứ?
+
+
+TILIA:
+Cứ mang nó tới đi!
+
+
+ĐỘI TRƯỞNG LÍNH CANH:
+Ý tôi là, ẩu đả thông qua một số thương lượng.
+Eamon đã chỉ định ba lính canh mạnh nhất
+làm người thay thế cho một thách đấu, nhưng
+ĐỘI TRƯỞNG LÍNH CANH:
+cậu đã đánh bại họ rồi. Theo bộ luật cổ xưa,
+tôi đây phong cậu làm đội trưởng
+của Đám Dã Man Tạ Đơn Goatshead.
+TILIA:
+Đợi đã, tôi không muốn làm đội trưởng.
+
+
+ĐỘI PHÓ:
+Quá muộn, cậu là đội trưởng rồi!
+
+
+TILIA:
+Ugh. Thôi được rồi, ngừng làm bất cứ điều gì Eamon
+bảo các anh. Hắn là một tên khốn. Và hãy đi xin lỗi
+Aster và các thương nhân Crabhook.
+ĐỘI PHÓ:
+Xong. Thành thật mà nói tôi biết Eamon là tin xấu.
+Nhưng chúng tôi có thể làm gì được? Bộ luật lính canh
+bắt buộc chúng tôi phải nghe theo hắn!
+TILIA:
+Điều đó hoàn toàn ngu ngốc. Với tư cách là đội trưởng,
+tôi bãi bỏ bộ luật.
+
+ĐỘI PHÓ:
+Đợi đã, đợi đã, nhưng-
+
+
+TILIA:
+Thực ra, tôi đang giải tán lực lượng
+lính canh thị trấn hoàn toàn. Các anh có thể lấy lại
+câu lạc bộ của mình khi chứng minh được mình có ích.
+ĐỘI PHÓ:
+Điều đó không... Hmm. Chà, Đội trưởng, cậu
+chắc chắn là người có sức mạnh nội tâm.
+Tuân lệnh!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.5.5",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.6",
+  text = [[
+ĐỘI PHÓ:
+Mọi chuyện thế nào rồi, đội trưởng? Có đập nát
+đầu ai bằng sức mạnh nội tâm gần đây không? Tôi
+đã nghĩ đến việc thực hiện một cuộc hành trình để
+ĐỘI PHÓ:
+phát triển sức mạnh nội tâm của mình.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.post_defeat.1",
+  text = [[
+LÍNH CANH:
+Ồ! Đội trưởng! Mọi chuyện thế nào rồi, đội trưởng?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.post_defeat.2",
+  text = [[
+LÍNH CANH:
+Này, đội trưởng! Đừng lo, chúng tôi đang ngăn chặn
+bọn buôn lậu vào cảng. Nhưng không phải người vô tội.
+Nữa. Xin lỗi về chuyện đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.post_defeat.3",
+  text = [[
+LÍNH CANH:
+Này, đội trưởng. Vào đi!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.thomas.1",
+  text = [[
+LÍNH CANH:
+Xin lỗi, không thể cho bất kỳ ai đi qua
+đây. Eamon, người đứng đầu Hiệp hội Thương nhân,
+sẽ gặp cậu ở bên kia hành lang.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.thomas.2",
+  text = [[
+LÍNH CANH:
+Xin lỗi, không thể cho bất kỳ ai đi qua
+đây. Cậu sẽ cần giấy phép hay gì đó.
+
+TILIA:
+Tại sao anh không xem thư này
+mà tôi có ở đây?
+
+(Bạn đã đưa lá thư đe dọa
+từ Aster)
+
+
+LÍNH CANH:
+Cái này $1là... Ồ! $3Ôi trời! Chúa ơi, tôi cần
+phải rời đi! Xin lỗi!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.1",
+  text = [[
+MA:
+Ai lại uống từ giếng của ta để thử nghiệm
+sự xứng đáng của họ?
+Cơn mưa làm đầy nó là những giọt nước mắt của bầu trời bị lãng quên.
+TILIA:
+Đợi đã, để làm gì cơ?
+
+
+MA:
+Nhờ sức mạnh ma của ta, ta có thể nói
+cô là một người tốt. Cô xứng đáng
+trở thành người bảo vệ của ta.
+TILIA:
+Đó là sức mạnh của ma? Nghe này, cảm ơn vì
+lời khen, tôi đoán vậy? Nhưng tôi không
+cố gắng trở thành người bảo vệ của ai.
+MA:
+Ta là một anh hùng của quá khứ. Tên ta là Heron.
+Người bảo vệ của ta, hãy xoa dịu những hối tiếc của ta. Ta đã thất bại
+trong việc chống lại Vua Biển khi còn sống.
+MA:
+Người dân của ta và những người thân thiết nhất đã phải trả giá
+bằng mạng sống cho thất bại của ta. Và giờ đây
+ngôi mộ của ta đang bị lũ quái vật tràn ngập được triệu hồi từ
+HERON:
+vực thẳm bởi Vua Biển khi hắn còn sống.
+Xin hãy, thanh tẩy nơi an nghỉ của ta. Hãy lấy
+chìa khóa này, thanh tẩy ngôi mộ của ta, phía tây Goatshead.
+TILIA:
+Đợi đã, nếu tôi không muốn-
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.2",
+  text = [[
+HERON:
+Người bảo vệ của ta. Hãy thanh tẩy nơi an nghỉ của ta.
+Tiêu diệt những con quái vật đáng kinh tởm của Vua Biển, thứ
+đang tràn ngập ngôi mộ của ta. Cô có muốn chỉ dẫn không?
+TILIA:
+Kiểu, đến mộ của ngài? Chắc chắn rồi.
+
+
+HERON:
+Hãy đi về phía Tây qua Goatshead Harbor, sau đó
+đi theo con đường về phía Bắc. Gần
+bến phà là nơi ta nằm. Chúc may mắn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.3",
+  text = [[
+HERON:
+Cô đã làm tốt, người bảo vệ của ta. Linh hồn ta
+được yên nghỉ khi biết rằng có ít hơn
+những con quái vật dị dạng mà Vua Biển đã triệu hồi
+HERON:
+vào thế giới. Tuy nhiên, nhiều con vẫn còn.
+Chim Biển, Bầu Trời, đã từng được tôn sùng. Nó
+đã bị giảm xuống thành một tôi tớ trong
+HERON:
+lịch sử của Vua Biển. Nhưng món quà của nó có thể trở nên mạnh mẽ hơn.
+Hãy tìm các đền thờ của Chim Biển, người bảo vệ.
+Tìm kiếm sự ủng hộ của vị thần bị lãng quên này...
+TILIA:
+Chắc chắn rồi, ma.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.4",
+  text = [[
+HERON:
+Ah, ta thấy cô đã tìm thấy tất cả các đền thờ.
+Giọt Lệ Chim Biển đang ở trạng thái mạnh nhất. Nó
+mang sức mạnh cho cô, như nó đã từng
+HERON:
+làm với ta. Cầu mong cô không bị tha hóa bởi
+ma thuật cổ xưa. Hãy cân bằng lại cán cân mà
+đức vua đã làm nghiêng, quét sạch những con quái vật vực thẳm
+HERON:
+mà hắn triệu hồi từ lõi bị tha hóa
+của trái đất khỏi biển cả.
+
+TILIA:
+Vâng ma, tôi sẽ cố.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.well_choice",
+  text = [[
+Có một cái giếng cổ nằm giữa những
+tán cây. Nước trông trong và mát.
+Bạn sẽ làm gì?
+
+$?Thả vài đồng xu vào
+$?Uống nước
+$?Khạc nhổ vào giếng
+$?Không làm gì
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.0",
+  text = [[
+ILEX:
+Tôi không nghĩ nhiều người còn lên
+Spruce Head nữa. Sao cậu lại đến
+đây?
+TILIA:
+Tôi đoán tôi chỉ đang khám phá, tôi không
+thực sự chắc mình đang đi đâu.
+
+ILEX:
+Chà tôi cũng có những thứ tôi đang cố
+gắng tìm hiểu. Chúc may mắn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.1",
+  text = [[
+ILEX:
+Tôi không nghĩ nhiều người còn lên
+Spruce Head nữa. Điều gì đưa cậu
+lên đây?
+TILIA:
+Tôi đang cố tìm một băng cướp biển
+có treo cờ Đồng Hồ Cát. Nghe nói họ
+đã đi ngang qua đây một thời gian trước.
+ILEX:
+Chà, cậu đã lỡ họ rồi. Họ cướp phá
+ngôi đền nửa năm trước. Giết ông tôi.
+
+TILIA:
+Ồ, tôi... Tôi xin lỗi.
+
+
+ILEX:
+Đừng lo. Tôi không biết rõ về ông ấy lắm,
+ông ấy sống ở đây canh giữ ngôi đền. Tôi nghe nói ông
+bị bọn cướp biển giết một thời gian trước, nên tôi
+ILEX:
+đã đến đây. Chỉ là... Tôi đang cố tìm hiểu ý nghĩa
+của nó. Tại sao họ lại tấn công một nơi cũ kỹ
+như thế này.
+TILIA:
+Tôi không biết. Nhưng họ cũng cướp phá một tàn tích cổ trong
+làng tôi. Tôi muốn đi xung quanh ngôi đền
+để tìm manh mối.
+ILEX:
+Tôi sẽ phải cho cậu vào, tôi đã khóa nó rồi. Nếu cậu
+đi lên đó, tôi sẽ mở khóa cổng và gặp
+cậu bên trong.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.2",
+  text = [[
+ILEX:
+Ngôi đền bị khóa rồi. Tôi sẽ đi lên đó để
+mở khóa và gặp cậu bên trong.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.3",
+  text = [[
+ILEX:
+Tôi đã tìm kiếm một chút manh mối một thời gian trước,
+nhưng nơi này đầy quái vật. Từ những gì
+tôi có thể biết từ nhật ký của ông tôi, có
+ILEX:
+một loại bùa nào đó bên trong cái cây này ở
+trung tâm, bọn cướp biển Đồng Hồ Cát hẳn phải
+tìm kiếm nó vì lý do nào đó. Cậu chỉ có thể
+ILEX:
+mở cửa khi bốn đài phun nước trong
+đền được bật lên. Những ngọn đuốc này cho thấy
+bao nhiêu đài phun nước được kích hoạt - hiện tại, không có cái nào.
+ILEX:
+Khi cậu khởi động mỗi đài phun nước, một ngọn đuốc sẽ sáng
+lên, và cả 4 sẽ mở khóa cánh cửa này trong
+trung tâm của cái cây và chúng ta có thể tìm manh mối.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.4",
+  text = [[
+ILEX:
+Khi cậu kích hoạt mỗi đài phun nước trong số bốn đài,
+những ngọn đuốc sẽ sáng lên. Một khi cậu có đủ cả
+bốn, cánh cửa này sẽ mở khóa.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.5",
+  text = [[
+ILEX:
+Cậu đã kích hoạt cả bốn đài phun nước chưa?
+Cánh cửa sẽ được mở khóa sau đó, hãy vào trong
+và xem có gì ở đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.6",
+  text = [[
+ILEX:
+Có vẻ như họ cũng đã vào được trong đây rồi.
+Đáng lẽ phải có một thứ bùa gì đó
+ở đây. Và đáng lẽ không nên có
+ILEX:
+những chai... rượu mạnh? Thứ đó là gì
+ở đằng kia?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.7",
+  text = [[
+ILEX:
+Không có nhiều manh mối về
+nơi ở của bọn cướp biển ở đây, huh. Ngoại trừ những chai
+rượu mạnh ở đằng kia, tôi không biết điều đó có hữu ích không.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.8",
+  text = [[
+ILEX:
+Vậy là cậu sẽ đến Nhà máy Chưng cất Briarwood
+trên Yarrowmouth để hỏi họ về
+bọn cướp biển? Chúc may mắn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.9",
+  text = [[
+TILIA:
+Đây là những chai gin... Thực ra,
+chúng là Briarwood Gin. Chúng tôi có thứ này ở
+quán rượu quê nhà. Cậu chỉ có thể lấy nó
+TILIA:
+từ Nhà máy Chưng cất Briarwood trên Đảo Yarrowmouth,
+có nghĩa là...
+
+ILEX:
+Những người ở Nhà máy Chưng cất Briarwood có thể
+biết bọn cướp biển ở đâu, nếu họ uống
+nhiều đến vậy?
+TILIA:
+Cảm ơn vì đã ngắt lời, nhưng đúng vậy. Tôi cần
+đến Đảo Yarrowmouth và chất vấn
+những người ở Briarwood. Cậu sẽ làm gì?
+ILEX:
+Tôi vẫn không biết tại sao bọn cướp biển lại
+muốn chiếc bùa đã ở trong đây. Tôi sẽ
+tiếp tục khám phá và cố gắng tìm ra nó.
+ILEX:
+Nghe này, cảm ơn cậu đã giúp tôi vào đây.
+Tôi không thể tự mình làm được. Chúc
+may mắn tìm bố cậu.
+TILIA:
+Cảm ơn Ilex.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.0",
+  text = [[
+ILEX:
+Ồ, một lữ khách đến đền Spruce Head?
+Điều gì đưa cậu đến đây?
+
+TILIA:
+Chà, tôi đoán chỉ là lang thang thôi. Đó là
+khởi đầu của một nhiệm vụ khá dài đối với
+tôi. Tôi phải đến một quán bar nào đó. Nó
+TILIA:
+trong nhật ký nhiệm vụ của tôi, tôi đoán tôi chỉ đi bộ
+một quãng dài trước khi đến đó.
+
+ILEX:
+Hmm, thế giới rộng lớn và đầy cả
+nguy hiểm và kho báu. Nhưng tôi không thể để
+cậu vào Đền Spruce Head mà không có
+ILEX:
+lý do! Tổ tiên tôi đã canh giữ
+ngôi đền này qua nhiều thời đại.
+
+TILIA:
+Hợp lý đấy, tôi không nghĩ tại sao tôi
+cần phải vào. Trừ khi điều gì đó về nhiệm vụ
+của tôi đưa tôi đến đây sau này.
+ILEX:
+Lúc đó tôi sẽ suy nghĩ. Còn bây giờ, hãy khám phá
+thế giới theo nhịp độ của riêng cô, cô gái trẻ.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.1",
+  text = [[
+ILEX:
+Ồ, một lữ khách? Không nghĩ còn ai quan tâm
+đến những ngôi đền cổ nữa. Cướp biển tự do
+cướp phá chúng. Hay cậu chỉ là một
+ILEX:
+kẻ mới nổi trẻ tuổi thích đánh quái vật cố gắng
+chứng minh giá trị của mình?
+
+TILIA:
+Ồ, không, tôi ờ, tôi hoàn toàn quan tâm đến những
+ngôi đền cổ. Họ đã từng làm gì ở đây,
+tôi nói đúng chứ?
+ILEX:
+Hmmph. Đền Spruce Head đã từng gửi đi
+những cây non được trồng từ Cây Devana. Và
+đây từng đặt Bùa Của Vua, được trao cho
+ILEX:
+Heron để cho phép ông đi qua
+những cơn bão đến cung điện. Sau khi các nhà sư
+chết trong trận lụt lớn, tổ tiên tôi
+ILEX:
+tiếp tục canh giữ Bùa Của Vua, ngay cả
+khi ngôi đền mục nát và trở về với
+rừng già. Chà, cho đến khi lũ cướp biển đó
+ILEX:
+xuất hiện và cướp phá nơi này. Đánh cắp Bùa
+Của Vua. Tôi vẫn đang lang thang ở đây, nhưng
+thành thật mà nói tôi không chắc tại sao nữa.
+TILIA:
+Nghe có vẻ khó khăn, anh bạn. Nghe này, thực ra tôi
+đến đây về bọn cướp biển. Có phải chúng
+có treo cờ đồng hồ cát không?
+ILEX:
+Ừ, đó là Băng Đồng Hồ Cát. Một trong những
+con tàu của chúng đâm vào một tảng đá trong vịnh khi
+rời đi. Nếu cậu đi sâu vào trong
+ILEX:
+ngôi đền, cậu có thể đến được xác tàu đắm.
+Hãy coi chừng lũ quái vật, tuy nhiên. Nơi này
+đang trở nên nguy hiểm.
+TILIA:
+Cảm ơn. Tôi sẽ đi kiểm tra
+xác tàu đắm đó, xem liệu tôi có thể tìm thấy manh mối về
+nơi bọn cướp biển đã đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.2",
+  text = [[
+ILEX:
+Bọn cướp biển Đồng Hồ Cát đã đến và đánh cắp
+Bùa Của Vua. Chúng làm đắm một trong những con tàu
+của chúng khi rời đi, nó vẫn còn trong vịnh.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.3",
+  text = [[
+ILEX:
+Cậu có tìm thấy xác tàu đắm trong
+vịnh của ngôi đền không?
+
+TILIA:
+Tôi có tìm thấy. Không có nhiều thứ trong đó, nhưng có vẻ
+như bọn cướp biển có nhiều Briarwood Gin
+trong người hơn là máu.
+ILEX:
+Ah, nhà máy chưng cất trên Yarrowmouth. Hòn đảo
+của những cái gai. Người ta nói trong quá khứ xa xưa, một
+thảm kịch lớn đã diễn ra ở đó.
+TILIA:
+Tôi chỉ hi vọng họ giữ hóa đơn của bọn cướp biển.
+Cảm ơn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.4",
+  text = [[
+ILEX:
+Cậu có tìm thấy thứ mình đang tìm kiếm
+trên Đảo Gai không?
+
+TILIA:
+Ở nhà máy chưng cất? Có, cảm ơn.
+
+
+ILEX:
+Yarrowmouth, Đảo Gai, đã từng
+nắm giữ kiến thức mà Vua Biển cấm đoán.
+Người ta nói tất cả cư dân đã chết trong chiến tranh.
+TILIA:
+Ôi trời, tôi đoán vậy.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.inn.1",
+  text = [[
+JUDE:
+Ồ, chào! Một khách hàng. Tuyệt! Đây là
+quán trọ Juneberry. Hiện chúng tôi có một phòng trống
+vào lúc này, ở cuối hành lang.
+JUDE:
+Phòng kia không mở. Nó bị khóa. Vị khách cuối cùng
+vô tình mang theo chìa khóa,
+và ờ... thôi, dù sao, muốn ở lại không?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.inn.2",
+  text = [[
+JUDE
+Ồ, chào! Một khách hàng. Tuyệt! Đây là
+quán trọ Juneberry. Hiện chúng tôi có một phòng trống
+vào lúc này, ở cuối hành lang.
+JUDE:
+Phòng kia không còn bị khóa nữa, nhưng nó
+bị bám đầy bụi khi đóng cửa và tôi
+chưa dọn dẹp.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.juglan.1",
+  text = [[
+JUGLAN:
+Chà, đây là Goatshead Harbor. Nó không phải là một hố đầy kẻ vô lại,
+nhưng ai đó trong Quán Rượu Sodden
+Cormorant có thể đã thấy bọn cướp biển.
+TILIA:
+Cảm ơn, Juglan. Tôi chắc tôi sẽ sớm quay lại.
+
+
+JUGLAN:
+Phải. Chà. Hãy cẩn thận. Sodden Cormorant
+nằm ở phía tây bắc của thị trấn. Hãy nhớ
+chế bình thuốc nếu cần!...
+TILIA:
+Juglan. Tôi sẽ ổn. Cảm ơn.
+
+
+JUGLAN:
+Ồ, và hãy lấy bản đồ biển này. Khi cần
+chèo thuyền về Limestone, nó sẽ giúp.
+Không muốn đâm vào bãi cạn hay gì đó.
+TILIA:
+Juglan! Tôi sẽ ổn$1...$3 Nhưng cảm ơn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.juglan.ride_back",
+  text = [[
+JUGLAN:
+Này, Tilia. Tôi vẫn đang dỡ cá.
+Sodden Cormorant nằm ở phía tây bắc
+của thị trấn. Hãy tìm manh mối ở đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.kids.1",
+  text = [[
+ĐỨA TRẺ KHÁC:
+Này, cậu có biết có một người đàn ông khổng lồ
+phía tây đây không? Nó được cho là một
+bức tượng nhưng nó sống! Nó đã ăn thịt Clyde!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.kids.2",
+  text = [[
+ĐỨA TRẺ KHÁC:
+Tôi và bạn bè đang khám phá mà không
+có ý định vẽ bậy lên bức tượng khổng lồ chút nào,
+nhưng sau đó nó tức giận và nuốt chửng một đứa trẻ!
+ĐỨA TRẺ KHÁC:
+Nó đang cố trèo lên đầu gối của bức tượng khi
+chuyện đó xảy ra, tôi nghĩ bức tượng có một
+đầu gối nhột. Tôi ghét bị thọc lét.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.1",
+  text = [[
+Mua chanh tây ở đây nào! Đảm bảo xua đuổi
+bệnh scorbut, hôi miệng, thậm chí cả thiếu đồ trang trí cocktail!
+Có gì chúng không sửa được?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.10",
+  text = [[
+Cậu có tin nổi không. Cướp biển thành lập cartel
+hay đại loại vậy, tôi có thể chấp nhận điều đó. Nhưng giờ chúng ta
+còn có cây nitrodendron mọc quanh đây? Ugh.
+Cậu thấy cái cây có gai đó không? Đó là
+nitrodendron. Những cái gai rất đau. Rõ ràng. Nhưng
+những bông hoa mới là vấn đề. Chúng
+có thể nổ, siêu nguy hiểm. Và chúng mọc lại
+ngay lập tức. Tôi không biết cách nhổ cỏ chúng.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.11",
+  text = [[
+Tôi từng nghĩ các thương nhân từ hiệp hội
+đều tham lam và vị kỷ. Sau khi
+nói chuyện với Aster, tôi không chắc mình sẽ kiếm được
+nhiều tiền nếu tham gia...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.12",
+  text = [[
+Thế này, kiếm của tôi gãy trong một trận chiến táo bạo chống lại
+bọn cướp biển tàn bạo, nên tôi đã lên bờ ở đây, đúng không?
+Nhưng người thợ rèn này không làm kiếm!
+Có một gã ở trong nói, "Tôi biết
+về một thanh kiếm", nhưng đó là gì chứ?
+Biết về một thanh kiếm không giúp
+cửa hàng kinh doanh được.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.13",
+  text = [[
+NGƯỜI BÁN HÀNG MỆT MỎI:
+Nghe này, tôi biết điều này không có lợi cho tôi,
+nhưng... nếu cậu chỉ cần khám phá khắp thế giới,
+cậu có thể sẽ tìm thấy một số quả mọng hoặc táo.
+NGƯỜI BÁN HÀNG MỆT MỎI:
+Cậu có thể thu thập chúng, và ăn chúng sau
+khi cảm thấy không khỏe, và chúng sẽ
+giúp ích một chút. Tất nhiên, nếu cậu biết rằng
+NGƯỜI BÁN HÀNG MỆT MỎI:
+mình sắp bước vào một trận chiến khó khăn, có lẽ
+hãy mua một ít bánh mì hoặc bình thuốc. Những thứ đó
+hiệu quả hơn nhiều, nhưng không mọc trên cây.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.14",
+  text = [[
+NGƯỜI BÁN:
+Này, trông cậu giống kiểu người thích phiêu lưu.
+Chị gái tôi điều hành cửa hàng phía sau tôi, nếu cậu
+muốn đồ tiếp tế để giữ sức khỏe, hoặc
+NGƯỜI BÁN:
+bình thuốc để làm cậu mạnh hơn, hãy xem
+bên trong. Đôi khi chị ấy bán đạn dược như
+tên nữa.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.15",
+  text = [[
+Thế này, tuần trước tôi đang nhổ cỏ trong vườn,
+nghe tôi nói hết, câu chuyện này có ý nghĩa đấy, nhưng tôi đang
+nhổ cỏ, và nhổ lên một bụi cây, và bên dưới
+bụi cây là một cái hố. Tôi mất thăng bằng
+và không ngờ đến điều đó, nên tôi ngã ngay
+xuống, và cậu có tin không? Có một
+kho chứa của cướp biển dưới hố! Một ít kho báu!
+Tôi nghĩ rằng bất kỳ kho báu chôn giấu nào khác phải
+được giấu dưới một số dấu hiệu đặc biệt, để
+bọn cướp biển có thể nhớ nơi chúng đã để
+kho chứa của chúng.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.16",
+  text = [[
+Cậu đã thấy tàn tích ngay phía tây thị trấn
+gần bến phà chưa? Đó là một ngôi mộ cổ, khá là
+một điểm đến du lịch nhỏ xinh thực sự,
+nếu có hơi ảm đạm một chút.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.17",
+  text = [[
+Nếu cậu đi về phía tây ra khỏi thị trấn, cậu có thể sẽ
+nhìn thấy bức tượng của người sáng lập Goatshead,
+Heron. Ông tôi luôn nói với tôi
+đầu gối trái của người sáng lập rất nhột, và điều đó
+cũng đúng với bức tượng. Không biết tại sao
+ông ấy luôn nói với tôi điều đó. Nghe có vẻ điên rồ.
+Nhưng giờ cậu cũng phải nghe nó rồi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.18",
+  text = [[
+Nếu cậu đi về phía đông của đây, hãy cẩn thận. Có
+một khe núi mưa nhiều mà cậu có thể đến qua một
+đường hầm. Tôi nghe nói những người đến đó,
+nó làm cho hành trình của họ khó khăn hơn nhiều.
+]],
+}
+
+
+dialog{
+  id = "_goatshead.npcs.market_people.2",
+  text = [[
+Tôi không hiểu. Nếu anh bán
+trái cây, sao anh lại có cà chua? Chẳng lẽ chúng...
+...Ừm.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.3",
+  text = [[
+NGƯỜI BÁN CAM ĐỊA PHƯƠNG:
+Dùng thử cam nhé? Chỉ 5 crown thôi, chúng
+sẽ hồi phục một trái tim sức khỏe của cô.
+
+TILIA:
+$? Không, cảm ơn
+$? Chắc chắn rồi!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.4",
+  text = [[
+NGƯỜI BÁN NỒI ĐÁNG NGỜ:
+Có hứng thú với vài món đồ gốm không? Có lẽ là
+một cái nồi nấu hoặc ramekin? Tôi thậm chí còn có cả tureen.
+
+TILIA:
+Ồ, có lẽ là một cái chai rỗng? Tôi có thể
+thấy nó hữu ích nếu muốn mang theo
+chút nước bên mình, hoặc có thể nhốt một con bọ vào.
+NGƯỜI BÁN NỒI ĐÁNG NGỜ:
+Cái gì? Sao, một cái chai phải có
+phép thuật thì mới dùng được như vậy chứ!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.5",
+  text = [[
+Nấu trái cây thì tốt thôi, nhưng tôi
+thực sự muốn học nấu với các nguyên liệu
+hái lượm. Ngoài vùng hoang dã, cô có thể
+nhận ra một số loại cây hữu ích,
+chặt chúng và thu thập. Cô có thể chế tạo
+lọ thuốc tại bàn chế tạo, nhưng tôi đang thắc mắc,
+liệu cô có thể làm những chiếc bánh cũng giúp tăng
+chỉ số không? Hay salad?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.6",
+  text = [[
+Tôi biết có một thợ rèn giáp quanh đây
+đâu đó... Tôi là thành viên của
+Guild Thương nhân, và chúng tôi cần anh ta giúp
+trang bị cho lính canh của chúng tôi. Nếu các thương nhân không thuê
+lính canh để làm theo lệnh của chúng tôi, thì bọn cướp biển có thể
+bắt đầu xuất hiện để bán hàng hóa ăn cắp. Hoặc
+chỉ là, một đám người bất hảo nói chung. Chúng tôi cần lính canh để
+đảm bảo chúng tôi có thể làm ăn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.7",
+  text = [[
+Đã nghe nói về Guild Thương nhân chưa, cô gái?
+Họ được cho là những kẻ độc quyền, quan liêu
+và gian ác, những kẻ đẩy giá lên cao để nhét đầy túi
+lụa của họ...
+Tôi đang nộp đơn xin gia nhập hôm nay.
+Nghe có vẻ là nơi đáng để ở.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.8",
+  text = [[
+Có một thị trấn tên là Crabhook nếu cô đi
+theo con đường phía Tây ra khỏi thị trấn. Rất nhiều người
+quanh đây không thích đến thăm nó, nên họ
+chưa bao giờ trải nhựa con đường.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.9",
+  text = [[
+Chưa thấy cô quanh thị trấn bao giờ. Đây là
+một sự thật về Goatshead - thị trấn được
+thành lập từ nhiều năm trước, trước trận Đại Hồng Thủy.
+Người sáng lập, Heron, đã cất thanh kiếm của mình lên
+trên Đồi Heron để tượng trưng cho hòa bình.
+Ngay sau đó là trận lụt và ông ấy đã bị giết bởi
+quái vật biển. Linh hồn của ông ấy được cho là vẫn
+còn ở trên đó. Đó là một Sự thật về Goatshead!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.alchemist",
+  text = [[
+HELGA:
+Chào mừng cô bé. Ta là nhà giả kim của thị trấn.
+Nếu cô cần bất kỳ lọ thuốc, quả mọng, hay bất cứ thứ gì,
+chỉ cần nhìn lên kệ kia. Hoặc
+HELGA:
+nếu cô có nguyên liệu, hãy kiểm tra cái nồi
+ở góc quầy và chúng ta có thể nấu
+một Lọ Thuốc với giá chỉ 25 crown.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.geode_buyer.1",
+  text = [[
+Này, tôi rất thích Hốc Tinh Quái Vật. Cô có thể
+dùng chúng để làm đồ trang sức, hoặc thậm chí để ướp
+cá. Các loại quái vật đá khác nhau sẽ rơi ra
+chúng. Tôi sẽ mua một cái từ cô với giá 5 crown!
+(Bán cho cô ấy một hốc tinh quái vật?)
+$? Bán một cái
+$? Bán mười cái
+$? Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.geode_buyer.2",
+  text = [[
+Cảm ơn! Hãy cho tôi biết nếu cô có thêm
+cái nào để bán nhé.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.shop",
+  text = [[
+Đang tìm một số đồ tiếp tế? Hãy xem
+món đồ của tôi đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.1",
+  text = [[
+NGƯỜI ĐÀN ÔNG HUÊNH HOANG:
+Ồ, cô quan tâm đến việc tìm hiểu xem
+các thương nhân chúng tôi làm gì ở đây sao? Chúng tôi thực sự chịu trách nhiệm
+giữ cho toàn bộ Goatshead có trật tự. Bằng
+NGƯỜI ĐÀN ÔNG HUÊNH HOANG:
+sức mạnh của kinh tế học! Giữ cho mọi thứ
+không trở nên bất ổn.
+
+TILIA:
+Giá như tôi có thời gian để cuộc sống của mình
+được cải thiện bởi một người đàn ông trong thư viện giải thích
+mọi thứ cho tôi. Thật không may tôi cần phải đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.2",
+  text = [[
+THƯƠNG NHÂN:
+Cô có biết không, trên khắp biển Bắc,
+giá cả cho các mặt hàng như lọ thuốc, quả mọng,
+và các giá cả cho các vật phẩm phiêu lưu khác là thống nhất?
+THƯƠNG NHÂN:
+Đó là nhờ công việc không mệt mỏi của chúng tôi
+ở đây. Nó ngăn những nhà thám hiểm
+phải di chuyển khắp nơi để tìm giá tốt hơn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.clue",
+  text = [[
+ANH CHÀNG THƯƠNG NHÂN:
+Ồ! Tôi tưởng lại là Eamon lẻn ra đằng sau
+lưng tôi nữa. Anh ta luôn đi zíc zắc
+qua đây. Chắc là thói quen khi hồi hộp,
+ANH CHÀNG THƯƠNG NHÂN:
+vì anh ta luôn bắt đầu từ đầu phía bắc
+của căn phòng, đi hình chữ Z xuống đầu kia,
+rồi lại quay lại phần phía bắc.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.1",
+  text = [[
+EAMON:
+Tôi ư? Tất cả các người đều bỏ phiếu để loại tôi khỏi vị trí
+chủ tịch? Và cho phép một tên vô lại từ Crabhook
+vào Guild Thương nhân? Đây là cái gì vậy?
+THƯƠNG NHÂN:
+Aster đã cho chúng tôi xem bằng chứng anh đã ăn cắp
+từ Guild. Và anh ấy đã thuyết phục tôi,
+rằng anh ấy là một người tốt. Đã đến lúc chúng ta
+THƯƠNG NHÂN:
+để cho những người từ Crabhook có cơ hội
+chứng tỏ bản thân. Mà không có tất cả các
+luật lệ anh đặt ra để ngăn họ thành công.
+EAMON:
+Các người sẽ hối hận về điều này. Tôi là
+lãnh đạo tốt nhất mà Guild từng có.
+
+THƯƠNG NHÂN:
+Với tất cả những gì Aster đã phải làm để chúng tôi
+nhận ra Crabhook đã không được đối xử
+công bằng, thì không. Anh không phải.
+EAMON:
+...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.aster",
+  text = [[
+ASTER:
+Tilia, cảm ơn em đã góp phần giúp đỡ
+tiếng nói của Crabhook có được tiếng nói trong cách
+thị trấn này vận hành. Giờ tôi thực sự có một ghế
+ASTER:
+trong Guild Thương nhân, và tôi nhận thấy
+Eamon đã dành riêng một số tiền để trả cho
+vụ ám sát tôi. Con Mực Ma Vẫn
+ASTER:
+có thể còn tung tích nếu không có
+sự giúp đỡ của em, vì vậy hãy coi đây là khoản thanh toán
+vì đã chấm dứt các hoạt động của hắn.
+(Bạn nhận được 200 crown)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch1",
+  text = [[
+THƯƠNG NHÂN:
+Aster nói với tôi em có đóng góp trong việc
+đưa những hành vi xấu của Eamon ra ánh sáng. Cảm ơn em.
+Nhưng cần nhiều hơn là một số vụ trộm và
+THƯƠNG NHÂN:
+đánh nhau với lính canh để giải quyết
+các vấn đề ở đây. Phần còn lại, chúng tôi sẽ lo.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch2",
+  text = [[
+THƯƠNG NHÂN:
+Thành thật mà nói, trọng tâm của tôi trong guild chỉ là
+kế toán, tôi không thực sự quan tâm tiền đến từ đâu. Hy vọng chúng ta vẫn nhận được một ít.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch4",
+  text = [[
+THƯƠNG NHÂN:
+Giờ đã có người từ Crabhook trong guild
+rồi, nhưng vẫn còn rất nhiều người ở
+Goatshead không thích người từ
+THƯƠNG NHÂN:
+Crabhook. Tôi đoán ai đó sẽ phải
+giải quyết điều đó vào lúc nào đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch5",
+  text = [[
+THƯƠNG NHÂN:
+Hừm. Tôi hiểu, Eamon đã lấy một ít tiền.
+Nhưng điều đó không có nghĩa là chúng ta cần
+mở cửa guild cho bất kỳ ai bây giờ...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.overworld.bomb_rocks_guy_1",
+  text = [[
+GERALD:
+Này, tôi là một nhà địa chất. Tôi đã nghiên cứu loại
+đá này cả tháng, và tôi đi đến kết luận
+rằng các vết nứt mà chúng sở hữu...
+GERALD:
+khiến chúng trở nên yếu đi. Giả thuyết của tôi là
+các vụ nổ sẽ khiến chúng vỡ tan hoàn toàn.
+Cô có thể tin tôi về điều này,
+GERALD:
+tôi là một nhà địa chất.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.overworld.bomb_rocks_guy_2",
+  text = [[
+GERALD:
+Là một nhà địa chất, tôi có thể kết luận rằng
+các vết nứt trong những tảng đá này chắc chắn
+đã góp phần vào lý do chúng bị
+GERALD:
+phá hủy trong vụ nổ đó. Giả thuyết mới của tôi
+là hầu hết các loại đá có vết nứt như vậy
+có thể bị phá hủy theo cách tương tự.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.overworld.forest.1",
+  text = [[
+Này, nếu cô đi qua khu rừng,
+hãy coi chừng mandrake. Chúng
+trông giống như những bụi cây bình thường nhưng sẽ bật ra và
+giết chết cô đấy! Đã từng có một thợ rèn
+sống trong khu rừng. Anh ta khóa nhà
+đi dạo một ngày và cô đoán xem?
+Bị giết bởi mandrake! Coi chừng đấy!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.palladio.1",
+  text = [[
+PALLADIO:
+Này. Tôi đang làm một đơn hàng cho
+lính canh thị trấn, nhưng trời ơi, mũ giáp hết lần này đến lần khác
+thật nhàm chán. Tôi nghĩ họ chắc phải tổ chức các cuộc thi
+PALLADIO:
+húc đầu thì mới cần nhiều đến vậy. Nhưng này, tôi sẽ
+vui vì được giải lao. Nếu cô có 50 crown và
+Quặng San Hô, tôi có thể cải tiến một thanh kiếm hoặc cây cung.
+(Cải tiến kiếm hoặc cung của bạn với giá 50 crown?)
+$? Kiếm
+$? Cung
+$? Không cái nào
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.palladio.bow_improved",
+  text = [[
+(Cây cung của bạn đã được cải tiến! Giờ nó
+gây nhiều sát thương hơn.)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.palladio.sword_improved",
+  text = [[
+(Thanh kiếm của bạn đã được cải tiến! Giờ nó
+gây nhiều sát thương hơn.)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.1",
+  text = [[
+TILIA:
+Này! Anh chàng mực!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.10",
+  text = [[
+ASTER:
+Vì Crabhook cuối cùng cũng có đại diện
+trong Guild Thương nhân, tôi có rất nhiều việc phải làm.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.11",
+  text = [[
+ASTER:
+À, Tilia! Rất vui được gặp cô. Chúng tôi đang thảo luận
+cách để mọi người nhập khẩu từ Oakhaven
+với giá tốt hơn. Nghe có hấp dẫn không?
+TILIA:
+Với tôi thì không.
+
+ASTER:
+Ahaha! Được thôi. Cảm ơn sự giúp đỡ của cô.
+Vẫn còn một chặng đường dài cho đến khi
+người dân của tôi được đối xử công bằng, nhưng chúng ta đã bắt đầu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.2",
+  text = [[
+ASTER:
+Xin lỗi. Cô đang làm gì trong nhà tôi?
+
+TILIA:
+Tôi đã theo dấu chân đến đây. Ngài Mực!
+
+ASTER:
+Tôi e rằng tôi không biết cô đang nói gì.
+Làm ơn đừng chạm vào bất cứ thứ gì trên
+đường ra. Đặc biệt là cái kệ sách.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.3",
+  text = [[
+ASTER:
+Chà. Tôi cho rằng tôi đã bị bắt rồi. Tôi là
+Mực Ma. Tên tôi là Aster. Nhưng
+xin hãy nghe tôi nói, chỉ một lúc thôi.
+ASTER:
+Tôi đến từ làng Crabhook. Đó là
+một thị trấn đánh cá nhỏ ở phía Tây, nhưng
+Eamon khinh thường người dân của tôi.
+Trong khi chúng tôi từng
+ASTER:
+giao dịch tự do với Goatshead, hắn đã thuyết phục
+các thương nhân làm giả hồ sơ để lừa chúng tôi. Hắn
+thông qua các luật để đánh thuế chúng tôi đến chết đói, và
+ASTER:
+người dân của tôi đang vật lộn để kiếm sống.
+Tôi không giả vờ rằng tôi hoàn hảo, nhưng lý do của tôi
+là chính đáng. Cô sẽ giúp tôi chứ?
+TILIA:
+$? Tôi sẽ đứng về phía anh
+$? Tôi sẽ bắt anh.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.4",
+  text = [[
+TILIA:
+Dù câu chuyện của anh là gì, anh đã đột nhập
+vào nhà người ta và phá hoại đồ đạc.
+Mọi người khiếp sợ anh. Chỉ vì anh
+TILIA:
+có thể nói chuyện như một anh hùng không có nghĩa anh là một anh hùng.
+
+ASTER:
+Được thôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.5",
+  text = [[
+TILIA:
+Giả sử tôi quyết định giúp anh. Anh cần gì?
+
+ASTER:
+Tôi đã gặp gỡ những người khác trong
+hội đồng Guild Thương nhân. Tôi có sự ủng hộ, nhưng
+họ không thể thay đổi khi Eamon còn
+ASTER:
+nắm quyền. Từ những lần... đi dạo đêm của tôi, tôi biết
+Eamon đã ăn cắp tiền từ guild.
+Và tôi tin rằng có các giấy tờ
+ASTER:
+chứng minh điều đó trong trụ sở chính của Guild.
+Nhưng, một người trông như tôi, cố gắng lục lọi
+trong đó, tôi sẽ bị bắt. Nhưng cô...
+TILIA:
+Anh muốn tôi lẻn vào Guild Thương nhân
+và tìm bằng chứng để chứng minh gã Eamon
+này là một kẻ lừa đảo? Tôi có thể xem xét.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.5andahalf",
+  text = [[
+TILIA:
+Giả sử tôi quyết định giúp anh. Anh cần gì?
+
+ASTER:
+Tôi đã gặp gỡ những người khác trong
+hội đồng Guild Thương nhân. Tôi có sự ủng hộ, nhưng
+họ không thể thay đổi khi Eamon còn
+ASTER:
+nắm quyền. Từ những lần... đi dạo đêm của tôi, tôi biết
+Eamon đã ăn cắp tiền từ guild.
+Và tôi tin rằng có các giấy tờ
+ASTER:
+chứng minh điều đó trong trụ sở chính của Guild.
+Nhưng, một người trông như tôi, cố gắng lục lọi
+trong đó, tôi sẽ bị bắt. Nhưng cô...
+TILIA:
+Đợi một chút, tôi nghĩ tôi thực sự đã tìm thấy
+một số giấy tờ như vậy rồi.
+
+ASTER:
+Cái gì? Lại đây và cho tôi xem chúng!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.6",
+  text = [[
+ASTER:
+Tôi biết ở đâu đó trong trụ sở chính Guild Thương nhân,
+có bằng chứng cho thấy Eamon
+đã ăn cắp tiền của họ. Nếu chúng ta
+ASTER:
+có được bằng chứng đó, những người trong
+hội đồng guild đồng ý với tôi có thể giúp
+ngăn guild áp bức người dân của tôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7",
+  text = [[
+ASTER:
+Những giấy tờ đó... Tilia, đây chính xác là
+thứ chúng ta cần! Những người trong guild
+sẽ giúp tôi, họ có thể loại bỏ Eamon
+ASTER:
+khỏi quyền lực ngay bây giờ, và chúng ta có thể bắt đầu tháo dỡ
+cơ cấu đã ngăn cản người dân Crabhook
+thành công! Tôi sẽ-
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.2",
+  text = [[
+EAMON:
+Chà chà chà, hóa ra người Mực chỉ là
+một tên cặn bã khác từ Crabhook. Lẽ ra tôi
+nên đoán. Nhưng tôi đã đoán. Nhưng bây giờ
+EAMON:
+tôi đã chứng minh được nó. Người từ Crabhook là
+những kẻ vô pháp luật. Và ngu ngốc. Tôi đã theo dõi
+người phụ nữ mà anh thuê để ăn trộm giấy tờ của tôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.3",
+  text = [[
+ASTER:
+Eamon, thời kỳ lạm dụng người dân
+Crabhook của anh đã kết thúc. Các hạn chế đi lại,
+các loại thuế, cách anh giữ lại thành quả
+ASTER:
+lao động chăm chỉ của chúng tôi trong tay mình. Tôi có thể
+chứng minh điều đó, và tôi có bạn bè trong guild
+sẽ buộc anh phải ra đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.4",
+  text = [[
+EAMON:
+Anh chứng minh được gì cũng không quan trọng, đồ ngốc.
+Theo quyền của Barbell Battle Boyale, tôi
+kiểm soát lính canh của thị trấn. Tôi là bất khả chiến bại.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.5",
+  text = [[
+ASTER:
+Tình hình không ổn rồi. Lính canh thị trấn thì...
+chà, họ có một bộ luật được truyền lại
+từ lâu lắm rồi.
+TILIA:
+Điều này sẽ giải thích cho cụm từ
+Barbell Battle Boyale chứ?
+
+ASTER:
+Bất cứ lúc nào, ai đó cũng có thể thách thức
+Barbell Brutes, như họ được gọi, đến một
+cuộc thi về Sức mạnh. Người chiến thắng
+ASTER:
+trận chiến có quyền lãnh đạo đội cận vệ.
+Và nó được gọi là Boyale vì họ
+toàn là con trai. Thật kinh khủng.
+TILIA:
+Tôi ghét nó. Nhưng nếu chỉ cần đánh bại họ
+và anh là người lãnh đạo, sao anh không
+thách thức họ và tiếp quản?
+ASTER:
+Tôi đã thử rồi. Nhiều năm trước. Và tôi đã thua.
+Một người chỉ có thể thách thức Brutes một lần
+trong đời.
+TILIA:
+Vậy thì tôi sẽ đi đánh bại họ và bảo họ
+họ phải ngừng nghe lệnh từ
+Eamon. Tôi thách thức họ ở đâu?
+ASTER:
+Tôi rất cảm kích điều này. Hãy tìm họ trong một tòa nhà
+cạnh con sông, dọc theo rìa phía bắc
+của thị trấn. Tôi sẽ gặp cô tại
+tòa nhà Guild Thương nhân sau.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.8",
+  text = [[
+ASTER:
+Chừng nào Eamon còn kiểm soát lính canh thị trấn,
+tôi và người dân Crabhook vẫn còn gặp nguy hiểm.
+Nếu cô có thể đánh bại Barbell Brutes trong
+ASTER:
+cuộc thi sức mạnh của họ, luật lệ của họ
+có nghĩa là cô sẽ là lãnh đạo của họ. Nếu tôi có thể
+một lần nữa thách thức họ, tôi sẽ...
+TILIA:
+Đừng lo lắng, Aster. Tôi có thể đánh bại
+một lũ ngốc nghĩ rằng đặt tên một thứ
+là Barbell Battle Boyale là một ý hay.
+ASTER:
+Tốt. Tôi sẽ gặp cô tại
+tòa nhà Guild Thương nhân sau.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.9",
+  text = [[
+ASTER:
+Một vài lính canh thị trấn vừa đến và xin lỗi
+tôi. Tôi đoán là em đã thuyết phục được
+họ ngừng làm việc cho Eamon?
+TILIA:
+Ừ. Trò chơi của họ thật ngu ngốc nhưng tôi đã đánh bại họ.
+Họ sẽ không ngăn anh hoặc người từ
+Crabhook tham gia Guild Thương nhân nữa.
+ASTER:
+Tuyệt vời. Vậy thì tôi sẽ đến Trụ sở chính Guild
+để chứng kiến việc Eamon bị loại.
+Em có thể gặp tôi ở đó. Ồ,
+ASTER:
+một điều nữa. Đây là số tiền lẽ ra Eamon nên
+trả em vì đã dẫn tôi đến. Tôi mừng vì em
+đã nhận việc đó. Và càng mừng hơn vì em đã không hoàn thành nó.
+(Bạn nhận được 200 crown)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.brassico.1",
+  text = [[
+BRASSICO:
+Ồ, Aster có nói với tôi về em, em đang giúp
+anh ấy! Một người đàn ông lúc nãy đã nói dối rằng tôi
+không có giấy tờ để bán trái cây, và đẩy
+BRASSICO:
+tôi xuống cầu tàu. Tôi bị trật mắt cá chân,
+nhưng Aster đã nẹp nó lại và làm cho tôi
+một ít đồ ăn trưa.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.brassico.2",
+  text = [[
+BRASSICO:
+Gã Eamon đó thực sự đáng sợ. Tôi mừng vì
+có những người như Aster xung quanh để giúp đỡ
+những người như tôi khi những người như Eamon
+BRASSICO:
+xúi giục những người như gã đã đẩy tôi xuống
+cầu tàu đối xử với chúng tôi như những người nên
+bị đẩy xuống cầu tàu. Xin lỗi, đó chắc
+BRASSICO:
+là một trong những cách diễn đạt khó hiểu hơn
+mà tôi có thể dùng.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.brassico.4",
+  text = [[
+BRASSICO:
+Ồ, chào! Một lính canh vừa đến và xin lỗi
+tôi, tôi đoán giờ em đang phụ trách họ?
+Dù sao thì, Aster đã đến Guild Thương nhân rồi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.got_away",
+  text = [[
+TILIA:
+Chết tiệt, anh ta thật giỏi trong việc nhảy qua cửa sổ.
+Anh ta làm rơi một ít mực, có lẽ
+anh ta sẽ để lại một loại dấu vết nào đó...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.wait_for_him_question",
+  text = [[
+Chờ Mực Ma ở đây?
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.1",
+  text = [[
+PLUMBUM:
+Các đơn đặt hàng mũ giáp và khiên liên tục cho
+lính canh thị trấn, đó là tất cả những gì tôi nhận được quanh đây
+những ngày này. Hừm. Đó là áo giáp Hải quân Tình nguyện
+PLUMBUM:
+mà cô đang mặc phải không? Hơi rộng một chút... cũng
+cần một vài cải tiến. Nói cho cô biết này, tôi
+có thể cải tiến áo giáp của cô với giá 50 crown.
+TILIA:
+$? Không, cảm ơn.
+$? Nghe hay đấy!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.2",
+  text = [[
+PLUMBUM:
+Thật là nhiệt tình! Hãy thêm một ít lớp đệm
+vào đây, một ít mắt xích vào đây... Xong!
+
+(Phòng thủ của bạn tăng lên 1)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.3",
+  text = [[
+PLUMBUM:
+Thành thật mà nói, tôi không thích các đơn đặt hàng cho
+lính canh thị trấn. Tôi thích làm đinh. Đinh ghim.
+Những thứ đơn giản. Họ gọi lính canh là
+PLUMBUM:
+Barbell Brutes. Điều tàn bạo nhất về
+họ là lịch trình họ cần cho áo giáp.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.4",
+  text = [[
+PLUMBUM:
+Cô đang nhìn thanh kiếm đó à? Nó đã nằm
+quanh cửa hàng cả tháng trời rồi. Cô có thể lấy nó
+khỏi tay tôi với giá 50 crown. Nhé?
+TILIA:
+$? Thôi được rồi.
+$? Tôi lấy nó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.rilesdorf.1",
+  text = [[
+RILESDORF:
+Đ-đây là cửa hàng đồ hiếm, được chọn lọc thủ công
+từ khắp nơi trên thế giới. C-cửa hàng chúng tôi phục vụ
+một nhóm khách hàng cụ thể, mà... Chà. Không phải cô.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.rilesdorf.2",
+  text = [[
+RILESDORF:
+Tôi x-xin lỗi, đây là cửa hàng bán đồ tinh xảo
+từ khắp nơi trên t-thế giới...
+
+TILIA:
+Tôi đến đây thay mặt cho Eamon. Ông ấy cử tôi đến để
+bắt Mực Ma.
+
+RILESDORF:
+Ồ-ồ! Đó là tin tuyệt vời. Tôi h-hầu như không
+ngủ được, chỉ chờ Mực Ma
+tấn công và xóa sổ các h-hồ sơ của tôi. Làm ơn,
+RILESDORF:
+hãy lên lầu. Cô có thể n-nấp sau
+kệ sách để chờ hắn tấn công.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.rilesdorf.3",
+  text = [[
+RILESDORF:
+Cô đã cứu các tài liệu của tôi! Sổ sách kế toán của tôi!
+Giờ tôi biết chính xác ai nợ tôi bao nhiêu rồi!
+$1...$3Đừng mong được giảm giá ở đây nhé.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.spirits.1",
+  text = [[
+Con có một thử thách lớn phía trước, con trẻ.
+Linh hồn con có sức mạnh để vượt qua,
+nhưng hãy nhận món quà này để tăng cường thể chất của con.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.spirits.2",
+  text = [[
+Ta không có gì khác cho con nữa.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_bouncer.1",
+  text = [[
+BẢO VỆ:
+Này nhóc, tôi chỉ có một nhiệm vụ thôi. Đó là giữ
+những loại người không phù hợp ra khỏi
+Sodden Cormorant. Và cũng phải giữ thằng
+BẢO VỆ:
+Beetle-Eyed Bartholemy đó ra nữa, vì hắn
+nợ tiền quán quá nhiều. Chủ quán
+đang rất bực mình với hắn... Dù sao thì! Trông cô
+BẢO VỆ:
+không có vẻ gì là CỨNG hay RẮN cả, và cô cũng không
+trả nợ cho Beetle-Eyed Bart, nên hãy đi đi!
+TILIA:
+Nếu như... tôi trả nợ cho hắn thì sao?
+
+BẢO VỆ:
+Nghe này, nếu cô nghĩ cô có thể ra
+bến tàu và moi tiền từ tay gã thợ nấu bia
+bị thần kinh đó, thì cứ việc. Lúc đó chúng ta sẽ nói chuyện.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_bouncer.2",
+  text = [[
+BẢO VỆ:
+Lại là cô? Nghe này, tôi đã nói rồi, tôi phải giữ
+những người không thuộc về nơi này ra ngoài, và cả
+Beetle Eyed Bartolemy nữa vì...
+TILIA:
+Vì khoản nợ lớn chưa thanh toán của hắn?
+
+BẢO VỆ:
+Đúng vậy, chính xác$1...$3 Đợi đã, cái gì thế?
+Cái túi tiền đó có chính xác là số tiền
+Bertolemy đang nợ không? Cô đã...
+TILIA:
+Tôi đã đi và thuyết phục hắn trả nợ. Giờ thì
+tôi đã đủ CỨNG và/hoặc RẮN để vào
+Sodden Cormorant chưa?
+BẢO VỆ:
+Chà... Tôi sẽ mang số tiền này cho chủ quán. Cứ việc
+vào đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_bouncer.3",
+  text = [[
+Có vẻ như cô là kiểu người có thể đảm đương
+một số công việc lặt vặt thuộc dạng nguy hiểm.
+Dân thường thường treo thông báo dành cho Thủy thủ Tình nguyện
+trong các quán rượu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.1",
+  text = [[
+LỮ KHÁCH:
+Ồ, cô ở trong thủy thủ tình nguyện à? Hãy nói chuyện
+với anh chàng có ria mép kia, anh ấy là trưởng nhóm của chúng tôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.10",
+  text = [[
+NHÀ THÁM HIỂM:
+Một số tên cướp biển đã sử dụng những đường hầm này để
+lẻn vào và đi quanh Cảng Goatshead
+trong quá khứ. Nhưng chúng tôi thực sự quan tâm đến những ai
+NHÀ THÁM HIỂM:
+đã sử dụng chúng trước đó. Chúng có từ thời
+vương quốc Meurian, trước
+trận lụt lớn. Vì vậy, có một số công việc khảo cổ cần làm!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.2",
+  text = [[
+NHÀ THÁM HIỂM:
+Cô đã nghe nói về các đường hầm bí mật của thành phố chưa?
+Tôi cho rằng tất cả các thành phố cổ đều có đường hầm bí mật...
+Này, có lẽ cô có thể giúp chúng tôi với những đường hầm của chúng tôi!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.3",
+  text = [[
+NHÀ THÁM HIỂM:
+Quần áo của cô, cô ở thủy thủ tình nguyện à? Chúng tôi
+là một nhóm nhà thám hiểm biết rõ giới hạn của mình.
+Chúng tôi có thể có một số việc cho cô. Có quan tâm không?
+TILIA:
+$? Có lẽ tôi quan tâm đấy. Nói thêm cho tôi nghe đi.
+$? Tôi còn bận cả đống việc của mình, cảm ơn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.4",
+  text = [[
+NHÀ THÁM HIỂM:
+Chúng tôi đang lập bản đồ các đường hầm cũ bên dưới
+thành phố. Thị trấn này đã tồn tại từ thời
+Vương quốc Meurian, và nó chỉ là
+NHÀ THÁM HIỂM:
+những lớp lớp công trình xây chồng lên nhau. Vì vậy ở dưới
+cùng, cả một đống đồ tốt đã bị
+bỏ lại và lãng quên. Nhưng đồng thời, cũng có một đống
+NHÀ THÁM HIỂM:
+quái vật ở dưới đó, và chúng tôi không
+đụng đến quái vật. Chúng tôi biết giới hạn của mình.
+Giới hạn của chúng tôi là không đánh nhau với quái vật. Chúng tôi
+NHÀ THÁM HIỂM:
+cần một Thủy thủ Tình nguyện$1...$2 một người$3...
+để dọn sạch lũ quái thú. Cô có thể giữ
+bất cứ thứ gì cô tìm thấy mà cô muốn như một khoản thanh toán.
+NHÀ THÁM HIỂM:
+Vậy cô vẫn quan tâm chứ?
+
+TILIA:
+$? Cho tôi đăng ký.
+$? Nghe thật khủng khiếp. Không.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.5",
+  text = [[
+NHÀ THÁM HIỂM:
+Tuyệt vời! Lối vào các đường hầm nằm ngay
+bên ngoài Quán rượu. Chúng tôi sẽ gặp cô ở đó và
+mở cửa cho cô vào.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.6",
+  text = [[
+NHÀ THÁM HIỂM:
+Chúng tôi sẽ gặp cô ở lối vào các
+đường hầm cũ của thành phố. Nó nằm ngay bên ngoài quán rượu.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.7",
+  text = [[
+NHÀ THÁM HIỂM:
+Vậy, sẵn sàng tiêu diệt một số quái vật cho
+chúng tôi chưa? Tôi sẽ mở khóa cửa cho cô. Vấn đề
+chính đối với chúng tôi là con quái vật lớn...
+NHÀ THÁM HIỂM:
+Cô sẽ nhận ra nó khi thấy nó. Hãy loại bỏ
+con quái đó và chúng ta coi như xong, cô có thể
+tự do lấy bất cứ kho báu nào cô tìm thấy.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.8",
+  text = [[
+NHÀ THÁM HIỂM:
+Vậy, cô đã đánh bại con nhện khổng lồ đó rồi à?
+
+TILIA:
+Ừ. Có thể còn một vài con nhỏ
+vẫn đang chạy loanh quanh, nhưng các anh có thể
+xử lý chúng, phải không?
+NHÀ THÁM HIỂM:
+Ờ... ừ, chắc chắn rồi. Chỉ là mấy con nhện nhỏ thôi à?
+Dù sao thì, cảm ơn. Giờ chúng tôi
+có một số công việc khảo cổ phải làm!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.9",
+  text = [[
+NHÀ THÁM HIỂM:
+Việc thám hiểm đang tiến triển tốt. Chưa có ai
+bị lũ nhện nhỏ ăn thịt cả, vì vậy đó là
+một thành công theo tiêu chuẩn của chúng tôi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.1",
+  text = [[
+LEIGHA:
+Chà, trông cô như thể vào đây với một
+mục đích. Cô đang nghĩ gì vậy, nhóc?
+
+TILIA:
+Tôi đang theo dấu một băng cướp biển đã tấn công
+quê hương tôi. Tôi nghe nói đây là một nơi tốt
+để hỏi thăm về chúng. Chúng treo cờ đồng hồ cát trắng.
+LEIGHA:
+Tôi đã nghe nói về Băng Đồng Hồ Cát. Chúng thích
+chất nổ. Này! Có thằng say nào biết về
+Băng Đồng Hồ Cát không?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.2",
+  text = [[
+LEIGHA:
+Vậy, có vẻ như cô có một số cuộc điều tra
+cần phải giải quyết. Mấy tên say rượu đó đã nói gì với cô?
+Băng cướp biển Đồng Hồ Cát đã cướp bóc Spruce Head,
+LEIGHA:
+ở phía Tây đây, và có người đã nhìn thấy chúng
+ở Ballast Harbor, một gã bán hải đồ?
+Tốt hơn hết là nên bắt đầu tìm kiếm, nhóc. Chúc may mắn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.3",
+  text = [[
+THIEL:
+Đồng hồ cát? Đó là hai hình tam giác chồng lên nhau, phải không?
+Tôi đang đi thuyền quanh Spruce Head và thấy
+khói - chuyện này cũng lâu rồi, nhưng có
+THIEL:
+một con tàu với những hình tam giác trên cánh buồm.
+Nghĩ lại thì, chắc hẳn chúng đã cướp phá
+Đền Spruce Head. Có thể tìm manh mối ở đó.
+THIEL:
+Spruce Head nằm ở phía Tây Nam, qua Lotus Shoal.
+Cô biết không, hãy để tôi thêm nó vào bản đồ của cô. Cô đã thấy
+nó trong menu tạm dừng, phải không?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.4",
+  text = [[
+THIESSON:
+Cô biết không, cô không phải là người mặc đồ
+Thủy thủ Tình nguyện đầu tiên đang săn lùng bọn cướp biển này. Một người đàn ông cao lớn
+có râu đã hỏi mọi người ở
+THIESSON:
+Ballast Harbor về chúng. Có vẻ như đã nghe
+được điều gì đó từ một người đàn ông bán hải đồ. Cô
+có thể tìm đường đến Ballast Harbor và tìm
+THIESSON:
+gã bán hải đồ đó. Ballast
+Harbor là một chợ cướp biển, nên tôi không biết
+chính xác nó ở đâu để chỉ đường...
+LEIGHA:
+Được rồi. Vậy là chúng ta có bọn cướp biển cướp bóc
+ngôi đền ở Spruce Head, phía Tây đây, và
+ai đó đã nhìn thấy chúng ở Ballast Harbor.
+LEIGHA:
+Có vẻ như cô có một vài manh mối để theo dõi.
+Tôi sẽ để cô làm việc đó vậy.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.merchant",
+  text = [[
+Có một con ma trong thị trấn này! Vào ban đêm, hắn
+tấn công, nhắm vào các thương nhân. Hắn lẻn
+vào văn phòng của họ, tìm các sổ cái và
+hồ sơ, và vào buổi sáng, chúng
+bị hủy hoại. Phủ đầy mực. Không thể đọc được.
+Họ gọi hắn là Mực Ma... Tôi thậm chí
+không thể gọi đồ uống sẫm màu, vì tôi
+quá hoảng sợ về chuyện đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.pirate",
+  text = [[
+NGƯỜI ĐÀN ÔNG:
+Cô muốn gì, nhóc?
+
+TILIA:
+Tôi đang tìm một băng cướp biển. Chúng treo
+một đồng hồ cát trắng trên cờ của mình.
+
+NGƯỜI ĐÀN ÔNG:
+Đã từng là cướp biển. Cướp bóc
+ngoài khơi Đảo Yarrowmouth... cuối cùng tách ra
+khỏi băng của mình khi họ tham gia
+NGƯỜI ĐÀN ÔNG:
+Hội đồng Cướp biển, nhưng tôi không muốn làm tay sai cho lũ chó
+tham vọng quá mức đó. Chúng nghĩ chúng có thể thống trị
+biển cả như thời xưa... lầm bầm...
+(Hắn bắt đầu lẩm bẩm những lời phàn nàn)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiel.1",
+  text = [[
+THIEL:
+Cần gì à, cô gái?
+
+TILIA:
+Thực ra là có. Tôi đang tìm một băng cướp biển
+mà treo cờ Đồng Hồ Cát Trắng. Ông có thấy
+chúng quanh đây không?
+THIEL:
+Hử. Đồng hồ cát? Như hai hình tam giác, phải không?
+Tôi đang chở một lần gỗ quanh Spruce Head
+nhìn ra đám cây đó, cô biết không?
+THIEL:
+Và tôi thấy khói, và cái đồng hồ cát đó ở trên
+cánh buồm của một con tàu ngay đó. Nghĩ lại thì,
+chắc hẳn chúng đã cướp phá
+THIEL:
+Đền Spruce Head cổ. Nó nằm ở phía Tây đây, qua Lotus Shoal.
+Hãy đi xem thử đi.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiel.2",
+  text = [[
+THIEL:
+Cuộc săn lũ cướp biển Đồng Hồ Cát đó thế nào rồi.
+Cô đã kiểm tra Spruce Head chưa, tìm thấy manh mối nào chưa?
+
+TILIA:
+Rồi. Đó là một manh mối tốt. Cảm ơn.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiesson.1",
+  text = [[
+THIESSON:
+Ánh mắt của cô trông như đang
+săn lùng thứ gì đó. Tôi nói đúng chứ?
+
+TILIA:
+Ờ, phải. Có một băng cướp biển treo
+đồng hồ cát trắng trên cờ của chúng. Tôi đang cố
+tìm chúng.
+THIESSON:
+Không đùa đấy chứ? Có vẻ như cô không đơn độc. Bản thân tôi không
+thấy bọn cướp biển, nhưng tôi đã ở Ballast
+Harbor và có một người đàn ông ăn mặc giống
+THIESSON:
+cô, trong bộ đồ hải quân, đang hỏi thăm xung quanh. Không
+bắt được tên anh ta nhưng anh ta đang chất vấn
+mọi người trừ lũ chuột trong ngõ.
+TILIA:
+$1Có...$3 Anh ta có cao, tóc đen? Có râu không?
+
+THIESSON:
+Nghe có vẻ đúng. Cô biết anh ta? Tôi chắc
+anh ta đã đi xa rồi, nhưng anh ta đang nói chuyện bên ngoài một
+cửa hàng bán hải đồ.
+TILIA:
+Làm sao để tôi đến được Ballast Harbor?
+
+THIESSON:
+Đó là một Chợ Cướp biển, nên không dễ để đến
+đâu. Nhưng phía nam thị trấn, trong Rừng Thủy Triều,
+có một đường hầm. Đi qua đó, rồi đi về phía Nam.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiesson.2",
+  text = [[
+THIESSON:
+Chuyến đi đến Ballast Harbor của cô thế nào?
+Tìm thấy người đàn ông đó chưa?
+
+TILIA:
+Anh ấy không ở đó nhưng tôi đã tìm thấy một manh mối tốt.
+Cảm ơn vì lời mách nước.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.upset_fisher.1",
+  text = [[
+NGƯỜI ĐÀN ÔNG BỰC BỘI:
+A lô! Cô kia mặc đồ Thủy thủ Tình nguyện! Tôi có
+một việc cho cô. Chỗ câu cá của tôi đã bị
+lũ quái vật chiếm mất. Và tôi để kho dự trữ cà rốt của mình ở đó!
+NGƯỜI COI TRỌNG CÀ RỐT:
+Giờ, tôi là một người coi trọng cà rốt,
+và điều này tôi không thể chịu được. Tôi sẽ trả cô 80 crown
+nếu cô có thể dọn sạch lũ quái vật đó.
+NGƯỜI COI TRỌNG CÀ RỐT:
+Chỗ câu cá nằm ngay phía Đông đây.
+Một hòn đảo nhỏ. Rất nhiều cà rốt.
+Và quái vật. Đó chính là vấn đề.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.upset_fisher.2",
+  text = [[
+NGƯỜI ĐÀN ÔNG BỰC BỘI:
+Cô đã đến chỗ câu cá
+phía Đông đây chưa? Chỗ có quái vật ấy?
+Chỗ mà tôi để kho dự trữ cà rốt của mình?!
+TILIA:
+Tôi đã đến đó rồi. Tôi đã xử lý lũ quái vật cho ông.
+
+NGƯỜI COI TRỌNG CÀ RỐT:
+Tuyệt vời! Cô là một thành viên thủy thủ tình nguyện xuất sắc!
+Tôi biết là không nên trả công cho các cô bằng cà rốt,
+mặc dù trời mới biết tại sao các cô lại thích crown hơn. Đây.
+(Bạn nhận được 80 crown.)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.upset_fisher.3",
+  text = [[
+NGƯỜI ĐÀN ÔNG BÌNH TĨNH:
+Cảm ơn cô đã xử lý lũ quái vật
+đã chiếm chỗ câu cá của tôi. Tôi đang tràn ngập một
+sự bình yên kỳ lạ khi biết mình có thể trở lại với đống cà rốt của mình.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.arni_book",
+  text = [[
+Cách Câu Cá, Tập 1
+Cá là động vật sống trong nước. Có lẽ
+bạn muốn ăn chúng. Nếu đúng như vậy,
+bạn sẽ cần phải đưa chúng ra khỏi nước...
+Có vẻ như gã này thực sự là một người mới bắt đầu.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.astor_papers",
+  text = [[
+Có một số tài liệu thú vị...
+được viết bằng mật mã? Wow, trông
+như mấy thứ của gián điệp bí mật vậy.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.bart_book",
+  text = [[
+Nhật ký thân mến,
+Tuần này tôi đã cố gắng nấu bia nấm.
+Tôi biết, nghe có vẻ kinh tởm, nhưng... chà nó đúng là kinh tởm thật.
+Hơn nữa, lũ nấm đã trốn mất. Hóa ra chúng
+là Nấm Đi Lang Thang... Giá như
+Sodden Cormorant chịu mua bia của tôi, tôi
+đã giàu rồi! Họ biết gì về bia chứ?!
+Tôi không làm thứ nước cặn bã không uống được đâu!
+...Có thật không?
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.brute_squad_leader_note",
+  text = [[
+Có một... tuyên ngôn? Hay là một bài hát? Nó viết:
+Chúng ta là Barbell Brutes! (rah rah)
+Kẻ thù run rẩy trong giày! (rah rah)
+
+Chúng ta có yếu không? (Không!) Đó là điều chúng ta không!
+Chúng ta mạnh đến nỗi có thể nâng cả đá! (Hwah!)
+
+...Ít nhất cũng phải thừa nhận là nó có... tâm hồn.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.brute_squad_to_do",
+  text = [[
+Có một danh sách việc cần làm. Nó viết, 'trở nên mạnh hơn'.
+...Đó là mục duy nhất.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.carrot_poem",
+  text = [[
+Có một bài thơ được viết nguệch ngoạc ở đây. Đó là một bài ca
+về rau củ. Nó... không hay lắm.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.carrots.1",
+  text = [[
+Có một thùng cà rốt lớn. Lấy một củ không?
+$? Có
+$? Thôi
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.carrots.2",
+  text = [[
+Bạn đã lấy đủ cà rốt rồi.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.coast_notes_1",
+  text = [[
+Có một mẩu ghi chú ở đây:
+Thưa Thuyền trưởng, việc xây dựng pháo đài không suôn sẻ.
+Vì chúng ta từ chối tham gia Hội đồng Cướp biển,
+Blackbeard đã đưa chúng ta vào danh sách đen. Nếu chúng ta muốn
+đến Ballast Harbor, chúng ta sẽ phải
+tìm một cách khác ngoài việc đi thuyền.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.coast_notes_1-2",
+  text = [[
+(Cũng có một bản vẽ phác thảo về Ballast Harbor
+ở đây, nó đủ chi tiết để bạn
+có thể phác thảo nó lên bản đồ thế giới của riêng mình)
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.coast_notes_2",
+  text = [[
+Có một bức thư ở đây...
+Thưa Thuyền trưởng, tin xấu. Chúng ta không thể vào được
+Lăng mộ Heron. Rõ ràng nó đã bị khóa từ
+bên trong hàng trăm năm trước bởi một
+gã tên là Heron, và chỉ có hồn ma của hắn
+mới có chìa khóa. Làm sao mà hồn ma có thể có chìa khóa được?
+Rùng rợn thật. Dù sao thưa thuyền trưởng, chúng ta đã bắt đầu
+xây dựng pháo đài của riêng mình để gây ấn tượng với Blackbeard.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.curse_tablet",
+  text = [[
+Chuông của vị thần bị nguyền rủa. Kẻ thù của
+những kẻ rung chuông sẽ được tăng cường sức mạnh.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.cursed_god",
+  text = [[
+Ngươi, kẻ đã rung chuông nguyền rủa và
+tiếp cận vị thần bị nuốt chửng trong vực thẳm.
+Ngươi có nhận lấy sức mạnh của ta, cùng với
+gánh nặng đi kèm với nó không?
+Sức mạnh của kẻ thù ngươi sẽ tăng lên. Đó
+là tiếng chuông ngân vang. Ngươi có chấp nhận điều này không?
+$?Có
+$?Không
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_1",
+  text = [[
+Có khá nhiều thư từ những người từ
+Làng Crabhook cố gắng tìm hiểu lý do tại sao
+thuế của họ cao hơn nhiều, hoặc tại sao họ
+không được phép mở cửa hàng thực sự.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_2",
+  text = [[
+Có một cuốn sách ở đây... "Làm Thế Nào Để Cai Trị Bằng
+Nắm Đấm Sắt". Ồ, nó được xuất bản bởi
+Guild Thương nhân.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_3",
+  text = [[
+Có một danh sách rất, rất dài những ai nợ
+tiền Guild Thương nhân. Có vẻ như
+các phép tính không hoàn toàn trung thực...
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_4",
+  text = [[
+Đây là những cuốn sách ghi nợ Guild
+Thương nhân. Chúng có từ l-llắm rồi.
+Không có sách nào ghi việc Guild nợ tiền ai cả.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.goat_caverns.note",
+  text = [[
+Có một mẩu ghi chú ai đó đã viết nguệch ngoạc
+trên một mảnh giấy vụn.
+
+Jacob thân mến,
+Cầu mong buổi sáng khi anh đội mũ lên sẽ phát hiện
+ra nó vốn là một tổ ong đang giận dữ.
+Đây quả thực là địa điểm tệ nhất để giấu kho báu.
+Ngay sau khi anh rời đi, cánh cửa đóng lại sau lưng anh.
+Tôi đã bị kẹt bên trong hai ngày rồi.
+Tôi không biết liệu mình có bao giờ tìm được đường ra không, nên nếu
+anh có quay lại lấy vàng của chúng ta, linh hồn tôi chắc chắn
+sẽ ám nó. Nghĩ anh nên biết.
+        Chân thành,
+        William
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.1",
+  text = [[
+Có một số giấy tờ ở đây. Chúng liệt kê
+màu sắc của các con tàu khác nhau và đưa ra một
+lập luận về việc đánh thuế cao hơn đối với những
+tàu xấu xí hơn.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.2",
+  text = [[
+Có một cái bàn với các con số và tên.
+Nhưng bên dưới có ai đó đang viết một
+bức thư tình nồng cháy... Bạn đỏ mặt.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.3",
+  text = [[
+Đó là một cuốn sách liệt kê màu sắc và cố gắng
+mô tả mỗi màu bằng lời. Công bằng mà nói, đó là
+một nhiệm vụ khó khăn. Hmm, nhưng có một mẫu hình
+với các màu sắc.
+Chúng được liệt kê theo thứ tự: đỏ, xanh lá cây,
+vàng, vàng, đỏ.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.4",
+  text = [[
+Có nhiều thị trường chưa khai thác được liệt kê
+ra. Có vẻ như chúng đang bị gạch bỏ,
+từng cái một.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.5",
+  text = [[
+Có một lời nhắc nhở mà Eamon dường như đã
+tự viết cho mình để mắng trợ lý của mình thường xuyên hơn,
+anh ta đang trở nên vô kỷ luật.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.6",
+  text = [[
+Có một vài bản nháp của một số
+thỏa thuận thương mại. Đó là một sự kết hợp
+vừa nhàm chán vừa đáng lo ngại.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.7",
+  text = [[
+Có một số chỉ dẫn ở đây từ Eamon
+gửi cho lính canh thị trấn. Hắn đang bắt họ nấu
+bánh waffles cho hắn ăn sáng vào sáng thứ bảy.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.lighthouse_lit",
+  text = [[
+TILIA:
+Hử. Có vẻ như ngọn hải đăng đã được thắp sáng rồi.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.1",
+  text = [[
+Có một cách sang trọng nào đó để đốt những ngọn nến
+sang trọng.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.2",
+  text = [[
+Có những chiếc áo sơ mi lụa nhiều màu sắc.
+Chúng được đánh dấu là nhập khẩu từ
+Đế chế Zeyphr.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.3",
+  text = [[
+Cái bình này trông mong manh đến nỗi nó sẽ vỡ tan
+nếu bạn bỏ một chiếc lá vào trong đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.4",
+  text = [[
+Có một bức tượng đang rao bán trông như
+ai đó đã tạc nó đặc biệt cho một
+nhân vật biếm họa của một kẻ tham lam để giữ trong
+nhà của họ.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.5",
+  text = [[
+Có một mẩu giấy nhét trong các trang sách:
+Hỏi Blemar về việc hoàn tiền, các tác phẩm điêu khắc của anh ta
+quá nghệ thuật đối với khách hàng Goatshead.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.6",
+  text = [[
+Có một danh sách tên và con số.
+Bartholemy, 950
+Blemar, -1200
+Carlov, 800...
+Nó tiếp tục như thế này và không
+trở nên bớt nhàm chán hơn chút nào.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.7",
+  text = [[
+Có một số bình hoa trông có vẻ
+rất cổ. Bạn không chắc mình
+sẽ đặt gì vào chúng.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.should_talk_to_aster",
+  text = [[
+TILIA:
+Mình nên nói chuyện với Aster trước khi rời đi.
+]],
+}

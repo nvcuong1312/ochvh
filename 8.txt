@@ -1,0 +1,927 @@
+dialog{
+  id = "_goatshead.observations.shrine_bottles",
+  text = [[
+TILIA:
+Bottles of Briarwood gin... We have these at
+the tavern back home, we had to  ship them
+in from Yarrowmoth Island because
+TILIA:
+Briarwood Distillery is the only place that
+knows how to make it. Good stuff though.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.shrine_papers",
+  text = [[
+There's a journal here...
+April 12th. I heard something banging
+around behind the locked door in the hall
+of statues. I have no idea anymore how
+to get that door open. The statues are
+suspicious though. Maybe they relate to
+their twins in the room just north of here.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_amulet_resting_place",
+  text = [[
+Looks like something important should
+be sitting here.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_captain_log.1",
+  text = [[
+Looks like the ship's logbook.
+...September 15th, finally found that
+amulet Blackbeard sent us after! We can
+finally return to the hideout! But not
+before we stop by Briarwood Distillery
+and put in a new order to celebrate.
+Only the finest drink Yarrowmouth can give
+for the crew that found that amulet!
+...
+
+
+
+TILIA:
+Looks like the Hourglass Crew sailed on
+to Yarrowmouth. Maybe the people at the
+distillery know where their hideout is.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_captain_log.2",
+  text = [[
+Looks like the ship's logbook.
+...September 15th, finally found that
+amulet Blackbeard sent us after! We can
+finally return to the hideout! But not
+before we stop by Briarwood Distillery
+and put in a new order to celebrate.
+Only the finest drink Yarrowmouth can give
+for the crew that found that amulet!
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_papers",
+  text = [[
+There's all sorts of papers scattered
+across the desk. The pages look like they're
+from someone's journal.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.alchemist",
+  text = [[
+Goatshead Grocery and Pharmacy
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.armorer",
+  text = [[
+Hophorn Armor
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.badger_flats",
+  text = [[
+Badger Shoal:
+North - Crabhook Village
+Southeast - Thrush Fort, Spruce Head
+Quite Far South - Goatshead Harbor
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.crabhook_fork",
+  text = [[
+East - Crabhook Village
+West - Trail to Ballast Harbor
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.fishing_spot",
+  text = [[
+Manly Fishin' Spot, this way
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.gate",
+  text = [[
+It's a locked gate. Should probably look
+around and see if anyone will open it for you.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.goat_hill",
+  text = [[
+Northeast - Heron's Well Ruin
+
+WEST - ABBERFORTH AND GOATS
+(this part is scrawled in different handwriting)
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.goatshead_rock",
+  text = [[
+Goatshead Rock
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.inn",
+  text = [[
+Juneberry Inn
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.lighthouse_cape",
+  text = [[
+North - Poplar Forest
+Further North, then East - Spruce Head
+Really Quite Far North - Crabhook Village
+West - Goatshead Harbor
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.rilesdorf_mercantile",
+  text = [[
+Rilesdorf Mercantile Exchange
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.shshrine",
+  text = [[
+Continue following trail to reach
+Spruce Head Shrine
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.sodden_cormorant",
+  text = [[
+The Sodden Cormorant
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.1",
+  text = [[
+Me fishing spot- along with all the
+carrots I left there- has been overrun by
+monsters! I need someone to take them out
+for me. I'll be waiting on the east edge
+of town for help, next to the goat pen.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.2",
+  text = [[
+Let it be known that the Merchants' Guild
+seeks an adventurer to destroy to menace to
+commerce known as the phantom squid. See
+Eamon at the guild headquarters for details.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.3",
+  text = [[
+Some fishermen have reported being run
+off by some sea creature recently when
+they've fished south of town. If anyone thinks
+they can deal with a monster, come see me,
+Danley, in the tavern. Here. I'm behind you,
+in the corner across the room drinking.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.4",
+  text = [[
+Emergency! I've found a totally real
+treasure map, and I'm looking for a
+partner to help me fetch the treasure.
+Come see Dusit for details.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.thrush_fort",
+  text = [[
+East - Spruce Head
+Just a Little Bit North - Thrush Fort
+Still Further North - Crabhook Village
+South - Poplar Forest
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.town_sign",
+  text = [[
+Goatshead Harbor
+North - Heron Hill
+East - Poplar Forest, Spruce Head, road to
+Crabhook Village
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.warehouse",
+  text = [[
+Bartolemy's Totally Legitimate Warehouse
+]],
+}
+
+dialog{
+  id = "_limestone_island.intro",
+  text = [[
+They say that there didn't used to be
+monsters roaming around on the islands.
+Back before the old kingdom collapsed or
+whatever happened.
+But there were still people. So there were
+still monsters.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.bernard.1",
+  text = [[
+Bernard:
+Have you ever explored the ruins down at
+Sometimes Cape? There's a nasty red
+rockspider that lives just past the ruins.
+Bernard:
+If you're looking to test your skills, I'll pay
+you a nice sum if you slay the beast.
+
+Tilia:
+Sounds like my kind of job. I'll keep an eye
+out when I'm in the area.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.bernard.2",
+  text = [[
+Bernard:
+Did you visit Sometimes Cape? Did you get
+your arse kicked by that rockspider there?
+
+Tilia:
+I took a few hits, but it's gone.
+
+
+Bernard:
+Excellent job, Tilia. You're becoming a great
+Volunteer Navy member.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.bernard.3",
+  text = [[
+Bernard:
+You've grown quite a bit since you were
+a youngun wacking everyone's ankles with
+sticks.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.corylus.1",
+  text = [[
+Corylus:
+Tilia, dear, how are you? I heard you're going
+to look for your father. Please be careful, but
+if you hear any news of Hazel, I...
+Tilia:
+It's alright, Corylus. If my dad hasn't found
+her yet, I'll bring her back too.
+
+Corylus:
+Thank you, dear. Safe travels.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.corylus.2",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.edson.1",
+  text = [[
+Edson:
+Tilia! Oh, things are great. Yep. People love
+the new beer. Sunshine Stout. Got it from a
+merchant headed back to the west sea for cheap!
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.edson.2",
+  text = [[
+Edson:
+Uh, Tilia... So you found the stockroom key.
+
+
+Tilia:
+Yeah. You dropped it while fishing at the lake?
+How have you been serving ale here?
+
+Edson:
+I've just been keeping it outside in the yard. I
+told everyone it's called Sunshine Stout and
+needs fresh air to retain the flavor.
+Edson:
+Everybody fell for it. I'm even selling it at a
+mark up! Just please, don't tell your sister.
+She'll be pretty angry.
+Tilia:
+Huh. Well, if you've been making extra
+money, it doesn't bother me. Just keep better
+track of the key, alright?
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.edson.3",
+  text = [[
+Edson:
+Hey, Tilia. The ''Sunshine Stout'' hasn't run
+out yet. I might have to start shipping this
+stuff to other taverns.
+Tilia:
+Well if you start a business empire on the
+side, make sure our customers are still happy.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.fishing_pirate.1",
+  text = [[
+Eh, we're just passing through but that
+don't mean you can steal our fishing spot.
+We're camped out here 'till we catch at
+least eight or nine fish!
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.fishing_pirate.2",
+  text = [[
+Pirate:
+Are you here to steal our fishing spot? We
+don't take kindly to intimidation. We might be
+pirates but there's no need for rudness.
+Tilia:
+Huh, that seems funny. Because word is you've
+been beating up local fisherman and stealing
+their tackle.
+Pirate:
+I don't know what you're taking about. The only
+local fisherman we've seen is that old guy who
+came running past screeching about monsters.
+Tilia:
+Huh... that actually sounds more like Wally.
+Which way did you say he came from?
+
+Pirate:
+Thataway, just east of here.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.fishing_pirate_2.1",
+  text = [[
+This island is the last stop from the North Sea
+if you're headed to the Zephyr Empire. We're
+kind of stalling because the trip is intimidating.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.juglan.first_time_leaving",
+  text = [[
+Juglan:
+Ah, Tilia. So you're ready to head out, huh?
+
+
+Tilia:
+Yeah. I know dad was looking for the
+Hourglass Pirate Crew, and he probably
+went through Goatshead Harbor.
+Juglan:
+It's a decent start. You've been teaching
+yourself to fight pretty much ever since
+Mallow left, huh?
+Tilia:
+I still had about six months of Volunteer Navy
+training left. If dad wouldn't stick around to
+teach me, then there's always me to teach me.
+Juglan:
+I see. Well, you ready to leave? Got your
+sword? Need to explore around the island
+any before we go?
+Tilia:
+  $? I'm ready
+  $? Couple things I need to do to get ready
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.juglan.intro",
+  text = [[
+Juglan:
+Tilia! I'm so glad you're alright. Those
+pirates, what flag did they fly? I think
+it was an hourglass? ...
+... We'll have our chance to pay them back.
+But we've got a lot of rebuilding first.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.juglan.trip_confirm",
+  text = [[
+Tilia:
+I've got everything I need.
+
+
+Juglan:
+Hop aboard then. Next stop,
+Goatshead Harbor.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.1",
+  text = [[
+Linden:
+So, Tilia... you're really heading out, huh?
+Going to find Dad.
+
+Tilia:
+Yeah. It's been too long, he should have come
+back by now. Juglan is down at the pier, he's
+giving me a ride to Goatshead Harbor. Dad
+Tilia:
+would have passed through there, so that's
+where I'll start looking.
+
+Linden:
+I know you're smart and tough and you can
+find him but just... be careful, alright?
+I'll miss you.
+Tilia:
+Don't worry Linden, I'll be back soon. With Dad.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.2",
+  text = [[
+Linden
+Hey, Tilia. How's the search going? I'm having
+Edson help at the bar while you're gone. He's
+an able bartender, but spends a bit much time
+Linden
+fishing at the lake for my taste. I also haven't
+been able to get into the stockroom for some
+reason. Guess Edson has the key.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.intro",
+  text = [[
+Linden:
+Tilia. Dad's down at the pier. The tailor's
+daughter Hazel... I think the pirates
+took her.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.stockroom_open",
+  text = [[
+Oh, you got the stockroom unlocked. I'd sort
+of been wondering why I couldn't get in, but it
+hadn't become enough of a problem for me to
+worry about it yet.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.mallow.1",
+  text = [[
+Mallow:
+Hey Tilia.
+
+
+Tilia:
+Dad. Why do you have to leave? You helped
+fend off the pirate attack, you did your job.
+
+Mallow:
+Tilia... they kidnapped Hazel. As a member
+of the Volunteer Navy, I can't just let her go.
+
+Tilia:
+But why do you have to be the one? Can't we
+find another navyman? Linden and I can't
+rebuild the tavern ourselves. And you're
+Tilia:
+teaching me how to fight so I can join the
+volunteer navy too!...
+Don't leave, Dad.
+Mallow:
+I'm sorry, Tilia. It shouldn't take longer than
+a month or two to catch up to the pirates and
+get Hazel back. I'll finish your training then.
+Mallow:
+...
+
+
+Mallow:
+Sorry Tilia. But this is my duty.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.nielson.sad",
+  text = [[
+Nielson:
+Sigh... ah, Tilia. Any news from your father?
+
+
+Tilia:
+He hasn't sent any word. I'm trying to find him
+myself.
+
+Nielson:
+Ah... Things just haven't been the same since
+the pirates attacked. Mallow's gone, the
+sanctuary is ruined...
+Nielson:
+I can't figure out why the Hourglass Pirates
+raided our sanctuary. It's just an old temple.
+And built to show respect to the sea!...
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.nielson.sanctuary",
+  text = [[
+Nielson
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.1",
+  text = [[
+Paula:
+Dear, how are you? I know your father ran
+off after the pirate raid so there's much worse
+that can happen, but you know what happened?
+Paula:
+The buggers made off with my iron stockpot!
+I can't make stew anymore. I suppose I'll
+survive, but curse those pirates.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.done",
+  text = [[
+Paula:
+Thank you for bringing me my pot, dearie.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.new_pot",
+  text = [[
+Paula:
+Oh, Tilia dear, how are you? I'd offer you some
+stew but those pirates made off with my
+stockpot during the raid.
+Tilia:
+Actually, I have something for you.
+
+
+Paula:
+Oh, Tilia! A new stockpot. You're so sweet.
+Let me cook you up something nice as
+thanks.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.old_pot",
+  text = [[
+Paula:
+Oh, Tilia dear, how are you? I'd offer you some
+stew but those pirates made off with my
+stockpot during the raid.
+Tilia:
+Actually, I have something for you.
+
+
+Paula:
+Oh, Tilia! My stockpot! I don't know how you
+got this back, but let me cook you up
+something nice as thanks.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.reuel.1",
+  text = [[
+Reuel:
+Have I ever told you the legend of how
+Castone Grove came to be haunted? Why
+no woodsmen dare to claim its timber?
+Tilia:
+Yes, Reuel. You've been sitting around this fire
+for I think my whole life telling kids ghost
+stories.
+Reuel:
+Then the real horror story is how much time
+I've wasted! You kids aren't scared of anything.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_couple.1.1",
+  text = [[
+Man:
+It's been tough work, but everything's just
+about built back up since the pirates
+attacked.
+Woman:
+Other than your self esteem, sure. And the
+sanctuary up on the mountain.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_1.1",
+  text = [[
+Edson tells me this new stout you're serving
+is an import from the west sea. I've never heard
+of a beer you have to keep outside to preserve
+the taste, but I know a good beer!
+...and this is one, is what I mean. It's good.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_3.1",
+  text = [[
+Oh, Tilia. Tell Linden that the new stout
+you're serving knees the bees! I've had
+wonderful, and each one tasted seven!
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_4.1",
+  text = [[
+Have you seen the fisherman brother? The
+young one, Wally I think? He lost all his tackle.
+What's that make him? A fishlessman?
+A fishishman? I dunno...
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_5.1",
+  text = [[
+I've sailed the North Sea for years, seen my
+share of pirate raids. Your town has recovered
+pretty well, kid.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_6.1",
+  text = [[
+Tilia! Have you tried the new Stout Edson is
+serving? He's charging more, but it's worth the
+crowns. Your father would be proud of how
+you and your sister are running the place.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_lady_1.1",
+  text = [[
+Elder Nielson's been all out of sorts since
+the pirates raided the Sanctuary up on the
+mountain. If I were you, Tilia, I'd go check it
+for treasure the scoundrels left behind.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_lady_2.1",
+  text = [[
+Did you know Shifty Ulrich is finally learning to
+cook? I passed his house and smelled a stew
+on. Must be the pirate attack taught him life is
+short and you ought to follow your dreams.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_lady_3.1",
+  text = [[
+Have you been down south to Sometimes
+Cape? You can't always visit because
+the tide takes the sand in and out, but
+there are ruins filled with treasure.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tim.1",
+  text = [[
+Tim:
+Well, it's Tilia. You wearing Volunteer Navy
+colors, huh? Did your Pa ever finish your
+training?
+Tilia:
+He taught me enough.
+
+
+Tim:
+I ask because I have a contract for you if you're
+up for it. Last year, some beasts appeared in
+Castone Grove. Your Pa meant to defeat them,
+Tim:
+but he left before he could. If you're up for the
+task, I'll pay you well. We can't get no timber
+from the grove with the beasts lurking about.
+Tilia:
+Huh. I'll look into it.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.1",
+  text = [[
+Shifty Ulrich:
+At the tavern, they call me 'Shifty Ulrich'.
+I wanna just be 'Ulrich'... 'Nice Ulrich' maybe.
+Anything you can do?
+Tilia:
+Sorry Shifty Ulrich, I can't help. Maybe try
+being more honest in general?
+
+Shifty Ulrich:
+Uhg.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.caught",
+  text = [[
+Shifty Ulrich:
+Oh Tilia, I had an idea about my tab at the
+tavern!
+
+Tilia
+Not so fast buster. I was talking to Paula,
+whose stockpot went missing during the pirate
+raid. You used to always eat at the tavern.
+Shifty Ulrich:
+Oh? well I've stopped. I uh, realized it was
+getting expensive...
+
+Tilia:
+Is that so?
+
+
+Shifty Ulrich:
+...
+
+
+Shifty Ulrich:
+Alright! I nicked her stockpot during the
+confusion! Her stews have always smelled so
+good, I thought if I used her pot, I mean.. I just
+Shifty Ulrich:
+want to be a good cook. I have no other
+redeeming qualities. I want one thing I can
+learn to be good at...
+Tilia
+  $? Hand over the crockery, thief.
+  $? Fine, learn a useful skill for once.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.happy_ulrich",
+  text = [[
+Shifty Ulrich:
+Hi Tilia! I'm learning a lot about soup! Did
+you know almost all soups use water to
+make broth?
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.keep_pot",
+  text = [[
+Tilia:
+Sigh. Fine, keep the pot. But start bringing
+a pot of soup to my sister at the tavern once
+you figure out how to make a decent one.
+Shifty Ulrich:
+Thank you! I will! Here, have this, it should
+be enough to buy a new pot somewhere.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.sad_ulrich",
+  text = [[
+Shifty Ulrich:
+Hi Tilia... how does Paula like her stockpot?
+I suppose there's one person who can cook
+good soups now...
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.take_pot",
+  text = [[
+Tilia:
+Yeah. That's not a good enough reason to
+steal dishware from old ladies. Hand the
+stockpot over, Really Shifty Ulrich.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.walker.1",
+  text = [[
+Jorge
+I was sailing out to Oakhaven, and I saw an
+old lighthouse just like the one on the hill. It
+weren't lit either though. Too old, I suppose.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.1",
+  text = [[
+Wally:
+Oh Tilia, just the person I was hoping to see.
+You were taining to join the volunteer navy.
+I was attacked by pirates!
+Tilia:
+Wait, what?! When?
+
+
+Wally:
+I was fishing on the west coat of the island,
+when a gang of pirates rushed up on me and
+stole my tacklebox! You've got to get it back!
+Tilia:
+You bet I will.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.2",
+  text = [[
+Wally:
+Tilia, did you beat up the pirates for me yet?
+
+
+Tilia:
+Not yet, but you bet it's on my list.
+]],
+}

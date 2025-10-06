@@ -1,0 +1,858 @@
+dialog{
+  id = "_goatshead.npcs.plumbum.4",
+  text = [[
+PLUMBUM:
+You looking at that sword? It's been lying
+around the shop for ages. You can take it
+off my hands for 50 crowns. Yeah?
+TILIA:
+$? That's alright.
+$? I'll take it.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.rilesdorf.1",
+  text = [[
+RILESDORF:
+Th-this is a boutique of rare, hand-selected
+items from across the world. W-we cater to
+a specific clientele, which... Well. Not you.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.rilesdorf.2",
+  text = [[
+RILESDORF:
+I'm s-sorry, this is a boutique of fine ware
+from around the w-world...
+
+TILIA:
+I'm here on behalf of Eamon. He sent me to
+catch the Phantom Squid.
+
+RILESDORF:
+O-oh! That is terrific news. I've h-hardly been
+sleeping, just waiting for the Phantom to
+strike and obliterate my r-records. Please,
+RILESDORF:
+head upstairs. You can h-hide behind the
+bookshelf to wait for him to attack.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.rilesdorf.3",
+  text = [[
+RILESDORF:
+You've saved my documents! My accounts!
+I know exactly who owes me how much!
+$1...$3Don't expect any discounts here though.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.spirits.1",
+  text = [[
+You have a great trial ahead of you, child.
+Your soul has the strength to make it through,
+but accept this gift to strengthen your body.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.spirits.2",
+  text = [[
+I have nothing else for you.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_bouncer.1",
+  text = [[
+BOUNCER:
+Look kid, I've got just the one job. To keep
+the wrong type of people out of the Sodden
+Cormorant. And also to keep out that
+BOUNCER:
+Beetle-Eyed Bartholemy, on account of he
+owes so much on his tab. The owner is
+pretty upset at him... Anyway! You don't
+BOUNCER:
+look rough OR tumble, and you aren't
+paying Beetle-Eyed Bart's tab, so move
+along!
+TILIA:
+What if... I did pay his tab?
+
+
+BOUNCER:
+Look, if you think you can go over to the
+docks and get money out of that sociopathic
+brewer, go ahead. We'll talk then.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_bouncer.2",
+  text = [[
+BOUNCER:
+You again? Look, I told you, I've got to keep
+out people that don't belong here, and also
+Beetle Eyed Bartolemy of account of...
+TILIA:
+On account of his large, unpaid tab?
+
+
+BOUNCER:
+Yes, exactly$1...$3 Wait, what's that?
+Is that bag of money exactly how much
+Bertolemy owes? Did you...
+TILIA:
+I went and convinced him to pay up. Am
+I rough and/or tumble enough to head
+into the Sodden Cormorant now?
+BOUNCER:
+Well... I'll take this to the owner. Come right
+on in.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_bouncer.3",
+  text = [[
+Seems like you're the type who can handle
+some odd jobs of the dangerous sort. Folk
+often hang notices for Volunteer Navymen
+in taverns.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.1",
+  text = [[
+TRAVELER:
+Oh, are you in the volunteer navy? Talk to
+the guy with the mustache, he's our leader.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.10",
+  text = [[
+ADVENTURER:
+Some pirates have used these tunnels to
+sneak in and around Goatshead Harbor in
+the past. But we're really interested in who
+ADVENTURER:
+used them before that. They date back to
+the days of the Meurian kingdom, before the
+big flood. So there's some archeology to do!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.2",
+  text = [[
+ADVENTURER:
+Have you heard of the city's secret tunnels?
+I reckon all old cities have secret tunnels...
+Hey, maybe you could help us with our tunnels!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.3",
+  text = [[
+EXPLORER:
+Your clothes, you in the volunteer navy? We
+are a group of adventurers who know our limits.
+We might have some work for you. Interested?
+TILIA:
+$? I just might be. Tell me more.
+$? I've got plenty on my own plate, thanks.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.4",
+  text = [[
+ADVENTURER:
+We're mapping out the old tunnels underneath
+the city. This town was around back into the
+days of the Meurian Kingdom, and it's just
+ADVENTURER:
+been stacks on stacks of building. So down at
+the bottom, a whole bunch of good stuff got
+left and forgotten. But also, there's a bunch
+ADVENTURER:
+of monsters down there too, and we don't
+mess with monsters. We know our limits.
+They stop at fighting monsters. We
+ADVENTURER:
+need a Volunteer Navy$1man...$2 person$3...
+to clear out the beasts. You can keep
+anything you find that you want as payment.
+ADVENTURER:
+So are you still interested?
+
+
+TILIA:
+$? Sign me up.
+$? Sounds terrible. No.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.5",
+  text = [[
+ADVENTURER:
+Excellent! The entrance to the tunnels is just
+outside the Tavern. We'll meet you there and
+let you in.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.6",
+  text = [[
+ADVENTURER:
+We'll meet you at the entrance to the city's
+old tunnels. It's just outside the tavern.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.7",
+  text = [[
+EXPLORER:
+So, ready to take out some monsters for
+us? I'll unlock the door for you. The main
+problem for us is the big monster...
+EXPLORER:
+You'll know it when you see it. Get rid
+of that guy and we're square, you can help
+yourself to whatever treasure you find.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.8",
+  text = [[
+EXPLORER:
+So, you've defeated that giant spider thing?
+
+
+TILIA:
+I have. There might be a couple of the little
+guys still running around, but you can take
+care of those, right?
+EXPLORER:
+Uh... yeah, for sure. Just the little spiders?
+Well anyway, thanks. We've got some
+archeology to do now!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.adventurers.9",
+  text = [[
+EXPLORER:
+The exploration is going well. Nobody has
+been devoured by little spiders yet, so it's
+a success by our standards.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.1",
+  text = [[
+LEIGHA:
+Well, you look like you came in here with a
+purpose. What's on your mind, kid?
+
+TILIA:
+I'm tracking a crew of pirates who attacked
+my hometown. I heard this was a good place
+to ask after them. They fly a white hourglass.
+LEIGHA:
+I've heard of the Hourglass Crew. They like
+explosives. Hey! Any of you drunks know about
+the Hourglass Crew?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.2",
+  text = [[
+LEIGHA:
+So, seems like you've got some investigation
+to take care of. What'd these drunks tell you?
+The Hourglass Pirates looted Spruce Head,
+LEIGHA:
+way West of here, and that someone's seen them
+in Ballast Harbor, a guy who sells sea charts?
+Better get looking, kid. Good luck.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.3",
+  text = [[
+THIEL:
+Hourglass? That's two stacked triangles, yeah?
+I was sailing around Spruce Head and saw some
+smoke- this was a while ago, mind, but there
+THIEL:
+was also a ship with triangles on its sails.
+Come to think of it, they must have plundered
+Spruce Head Shrine. Might look for clues there.
+THIEL:
+Spruce Head is Southwest, past Lotus Shoal. You
+know what, let's add it to your map. You've seen
+that in the pause menu, right?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.leigha.4",
+  text = [[
+THIESSON:
+You know, you aren't the first one in Volunteer
+Navy colors who's hunting these pirates. A tall
+man with a beard was asking everyone in
+THIESSON:
+Ballast Harbor about them. Seemed to hear
+something from a man selling sea charts. You
+might find a way to Ballast Harbor and seek
+THIESSON:
+out the fellow selling sea charts. Ballast
+Harbor is a pirate market, so I don't know
+exactly where it is to give directions...
+LEIGHA:
+Alright. So we've got the pirates looting the
+shrine out at Spruce Head, West of here, and
+someone who's seen them in Ballast Harbor.
+LEIGHA:
+Sounds like you've got a couple leads to follow.
+I'll leave you to it, then.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.merchant",
+  text = [[
+There's a ghost in this town! At night he
+strikes, preying on merchants. He sneaks
+into their offices, finds the ledgers and
+records, and in the morning, they're
+obliterated. Covered in ink. Illegible.
+They call him the Phantom Squid... I can't
+even order dark-colored drinks, I'm so
+shook up about it.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.pirate",
+  text = [[
+MAN:
+What do you want, kid?
+
+
+TILIA:
+I'm looking for a crew of pirates. They fly a
+white hourglass on their flag.
+
+MAN:
+Used to be a pirate myself. Plundered out
+past Yarrowmouth Island... ended up splitting
+from me crew when they joined the Pirate
+MAN:
+Council, but I wouldn't be a servant to those
+overambitious dogs. Think they can rule the
+seas like the ancient... grumble...
+(He lapses into muttered complaints)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiel.1",
+  text = [[
+THIEL:
+Need something, girl?
+
+
+TILIA:
+Actually yeah. I'm looking for a crew of pirates
+that fly a White Hourglass. Have you seen
+them around here?
+THIEL:
+Huh. Hourglass? Like two triangles, yeah?
+I was shipping a load of lumber around Spruce
+Head looking out over those trees, you know?
+THIEL:
+And I saw smoke, and that hourglass was on
+the sails of a ship right there. Come to think
+of it, they must have plundered old Spruce Head
+THIEL:
+Shrine. It's out West of here, past Lotus Shoal.
+Go take a look.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiel.2",
+  text = [[
+THIEL:
+How's that hunt for those Hourglass Pirates going.
+You check out Spruce Head yet, find any clues?
+
+TILIA:
+I did. It was a good lead. Thanks.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiesson.1",
+  text = [[
+THIESSON:
+Yeh got a look in your eyes like you're
+hunting something. Am I right?
+
+TILIA:
+Uh, yeah. There's these pirates that fly a
+white hourglass on their flag. I'm trying to
+find them.
+THIESSON:
+No kidding? You don't seem to be alone. I ain't
+seen the pirates meself, but I was in Ballast
+Harbor and there was a man dressed like
+THIESSON:
+yourself, in navy colors, askin' around. Didn't
+catch his name but he was questioning
+everyone but the mice in the alleys.
+TILIA:
+$1Did...$3 Was he tall, dark hair? Had a beard?
+
+
+THIESSON:
+Sounds about right. You know him? I'm sure
+he's long gone, but he was chatting outside a
+shop that sells sea charts.
+TILIA:
+How do I get to Ballast Harbor?
+
+
+THIESSON:
+It's a Pirate Market, so it's not easy to get
+to. But south of town, in the Forest of Tides,
+there's a tunnel. Go through that, then South.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.tavern_people.thiesson.2",
+  text = [[
+THIESSON:
+How did your trip to Ballast Harbor go?
+Find that man?
+
+TILIA:
+He wasn't there but I found a good lead.
+Thanks for the tip.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.upset_fisher.1",
+  text = [[
+UPSET MAN:
+Ahoy! You in the Volunteer Navy colors! I've got
+you a job. Me fishing spot has been taken
+over by beasts. And I left me carrot stash there!
+MAN WHO TAKES HIS CARROTS SERIOUSLY:
+Now, I'm a man who takes his carrots seriously,
+and this I can't abide. I'll pay you 80 crowns
+if you can clear out those monsters.
+MAN WHO TAKES HIS CARROTS SERIOUSLY:
+The fishing spot is just East of here.
+Little island. Lots o' carrots.
+And monsters. Which is the problem.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.upset_fisher.2",
+  text = [[
+UPSET MAN:
+Have you been over to the fishing spot
+East of here? The one with beasts?
+The one where I left me stash of carrots?!
+TILIA:
+I was there. I took care of the monsters for you.
+
+
+MAN WHO TAKES HIS CARROTS SERIOUSLY:
+Excellent! You're a fine member of the volunteer
+navy! I know not to pay you folks in carrots now,
+though lord knows why you prefer crowns. Here.
+(You received 80 crowns.)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.upset_fisher.3",
+  text = [[
+CALM MAN:
+Thank you for taking care of those beasts what
+had me fishing spot. I'm overtaken by a
+calm reverie knowing I can return to me carrots.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.arni_book",
+  text = [[
+How to Catch Fish, Vol. 1
+Fish are animals that live in water. Maybe
+you want to eat them. If this is the case,
+you'll need to take them out of the water...
+It looks like this guy really is a beginner.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.astor_papers",
+  text = [[
+There's some interesting documents that
+are... written in code? Wow, this looks
+like some secret agent stuff.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.bart_book",
+  text = [[
+Dear Diary,
+This week I've been trying to brew mushroom
+beer. I know, it sounds gross, but... well it is.
+Also, the mushrooms escaped. They were
+Rambleshrooms all along... If only the
+Sodden Cormorant would buy my beer, I'd
+be rich! What do they know about beer?!
+I don't make undrinkable swill!
+...do I?
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.brute_squad_leader_note",
+  text = [[
+There's a... manifesto? Is it a song? It goes:
+We are the Barbell Brutes! (rah rah)
+Enemies quake in their shoes! (rah rah)
+
+Are we weak? (No!) That's what we're not!
+We're so strong that we can lift rock! (Hwah!)
+
+
+...You have to admit it's got heart at least.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.brute_squad_to_do",
+  text = [[
+There's a to-do list. It says, ''get stronger''.
+...That's the only item.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.carrot_poem",
+  text = [[
+There's poetry scribbled down here. It's an ode
+to root vegetables. It's... not very good.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.carrots.1",
+  text = [[
+There's a big barrel of carrots. Take one?
+$? Yes
+$? Nah
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.carrots.2",
+  text = [[
+You've already taken enough carrots.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.coast_notes_1",
+  text = [[
+There's a note here:
+Captain, fort construction isn't going well.
+Since we refused to join the Pirate Council,
+Blackbeard has blacklisted us. If we want
+to get to Ballast Harbor, we'll have to
+find some way there other than sailing.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.coast_notes_1-2",
+  text = [[
+(There's a rough drawing of Ballast Harbor
+here too, it's detailed enough that you
+can sketch it onto your own world map)
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.coast_notes_2",
+  text = [[
+There's a letter here...
+Captain, bad news. We couldn't get into
+Heron's Tomb. Apparently it was locked from
+the inside hundreds of years ago by a
+guy called Heron, and only his ghost has
+the key. How can ghosts have keys?
+Spooky. Anyway captain, we've started
+building our own fort to impress Blackbeard.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.curse_tablet",
+  text = [[
+Bell of the cursed god. The enemies of
+the bell ringers are strengthened.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.cursed_god",
+  text = [[
+You who have rung the cursed bell and
+approached the god consumed in the abyss.
+Will you take my power, and well as the
+burden that accompanies it?
+The strength of your enemies will grow. That
+is the ringing bell. Do you accept this?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_1",
+  text = [[
+There's quite a few letters from people from
+Crabhook Village trying to figure out why
+their taxes are so much higher, or why they
+aren't allowed to open real shops.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_2",
+  text = [[
+There's a book here... "How to Rule with
+an Iron Fist". Oh, it's published by the
+Merchants' Guild.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_3",
+  text = [[
+There's a very, very long list of who owes
+money to the Merchants' Guild. It looks like
+the math isn't done entirely honestly...
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.eamon_papers_4",
+  text = [[
+These are tomes of debts to the Merchants'
+Guild. They go waaay back. No books on
+who the Guild owes money to though.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.goat_caverns.note",
+  text = [[
+There's a note someone's scrawled down
+on some scrap paper.
+
+
+Dearest Jacob,
+May you put on your hat in the morning to find
+it was a hive of angry bees all along. This is
+positively the worst spot for a treasure cache.
+Once you left, the door closed behind you.
+I've been stuck inside for two days. I don't
+know that I'll ever find my way out, so if you
+ever come back for our gold, my spirit is sure
+to be haunting it. Thought you should know.
+        Sincerely,
+        William
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.1",
+  text = [[
+There's some papers here. They're listing
+the colors of various ships and presenting an
+argument about higher taxation for uglier
+vessels.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.2",
+  text = [[
+There's a table with numbers and names.
+But underneath someone was writing a
+steamy love letter... You blush.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.3",
+  text = [[
+It's a book listing colors and trying to
+describe each with words. In fairness, that's
+a tough task. Hmm, there is a pattern to
+the colors though.
+They're listed in the order: red, green,
+yellow, yellow, red.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.4",
+  text = [[
+There's various, untapped markets listed
+down. It appears they're being crossed off,
+one by one.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.5",
+  text = [[
+There's a reminder Eamon seems to have
+written himself to berate his assistant more
+often, he's becoming undiciplined.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.6",
+  text = [[
+There's a few drafts of some trade
+agreement drawn up. It's a striking
+combination of boring and disconcerting.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.hq_papers.7",
+  text = [[
+There's some instructions here from Eamon
+to the town guard. He's having them cook
+him waffles for breakfast saturday morning.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.lighthouse_lit",
+  text = [[
+TILIA:
+Huh. Looks like the lighthouse is lit now.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.1",
+  text = [[
+There's some fancy way of burning fancy
+candles.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.2",
+  text = [[
+There are silk shirts of many colors.
+They're marked as imported from the
+Zeyphr Empire.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.3",
+  text = [[
+This pot looks so fragile it would shatter
+if you put a leaf in it.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.4",
+  text = [[
+There's a statue for sale that looks like
+someone sculpted it specifically for a
+charicature of a greedy person to keep in
+their home.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.5",
+  text = [[
+There's a note shoved in the book's pages:
+Ask Blemar for a refund, his sculptures
+are too artistic for Goatshead clients.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.6",
+  text = [[
+There's a list of names and figures.
+Bartholemy, 950
+Blemar, -1200
+Carlov, 800...
+It continues on like this and doesn't
+get any less boring.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.rilesdorf.7",
+  text = [[
+There are several vases that look meant to
+look very old. You aren't sure what you
+would put in them.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.should_talk_to_aster",
+  text = [[
+TILIA:
+I should talk to Aster before I leave.
+]],
+}

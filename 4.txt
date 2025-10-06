@@ -1,0 +1,799 @@
+dialog{
+  id = "_goatshead.npcs.crabhook.arni.3",
+  text = [[
+ARNI:
+If you're trying to lure that monster out to
+get it,I left bait down on Lotus Shoal. I
+was near the cliff with two spruces on it. If
+ARNI:
+you were to break open the vase of bait I
+left down there, the monster that attacked
+me might come attack you too.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.bait_salesperson",
+  text = [[
+I have some monster bait for sale. Just
+place it on a flat rock or something and use
+it to lure monsters out. Want to buy a jar
+for five crowns?
+$? Sure
+$? No thanks
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.ballast_ferry_guy.1",
+  text = [[
+Yeah, there's a ferry to Ballast Harbor.
+But don't worry about it for now, okay?
+It's not running yet.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.1",
+  text = [[
+DUSIT:
+Ah! You see my sign in the tavern? Some
+pirates traded me a treasure map last
+week. There's treasure on the haunted
+DUSIT:
+Brickenbranch Island. Gold! Jewels! But
+I'm super old, and I need someone to
+do the actual fetching of it for me.
+TILIA:
+I'm sorry, did you say the island is
+haunted?
+
+DUSIT:
+Eh? Yeah, all the trees died a couple
+years back and they say some abomination
+moved in. But I'll pay you well!
+$?Help this fool
+$?Move on with your life
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.2",
+  text = [[
+DUSIT:
+Excellent! Alright, head down to my
+dock and take my boat and this map.
+It'll get you to Brickenbranch Island.
+DUSIT:
+As you can see from this treasure map,
+the treasure is inside the shrine on
+the island. Find the heaps of saphires
+DUSIT:
+or whatever is there, bring it back,
+and we'll split it.
+
+TILIA:
+I'm not sure how the pirates convinced
+you that is exactly how this will go,
+but alright man.
+DUSIT:
+Why would pirates try to trick me?
+My boat is tied up just outside,
+climb down the ladder and skedaddle.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.3",
+  text = [[
+DUSIT:
+Yeah, so just take my boat- it's tied
+up just outside. Sail to Brickenbranch
+Island, which is totally haunted, and
+DUSIT:
+find the treasure that this map says
+is in the shrine there. Simple!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.4",
+  text = [[
+DUSIT:
+Hey, you survived! Well, did you find
+buckets of rubies or gold or what?
+
+TILIA:
+I think you got sold a dud. There
+wasn't any gold or anything on the
+island.
+DUSIT:
+What?! Well that wasn't worth the
+three squid I traded for it at all!
+
+TILIA:
+Why did you think a treasure map some
+pirate was willing to trade for three
+squid would actually lead to treasure?
+DUSIT:
+Because- well, hm. That's actually a
+good point. Well, thanks for helping
+me out. As thanks, you can take my
+DUSIT:
+boat out to the haunted island whenever
+you want.
+
+TILIA:
+Wonderful.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.5",
+  text = [[
+DUSIT:
+How's it going? I've decided I need to
+stop bartering with pirates for a
+while.
+TILIA:
+That's probably for the best.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.go_to_brickenbranch",
+  text = [[
+This is Dusit's boat. Do you want to
+sail it to Brickenbranch Island?
+$? Set sail!
+$? Stay here!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.dusit.go_to_crabhook",
+  text = [[
+Is it time to get off the island and
+sail back to Crabhook?
+$? Set sail!
+$? Stay here!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.1",
+  text = [[
+Got plenty of decent fish for sale here
+for cheap. Can't take them down to
+Goatshead Harbor to sell, what with the
+taxes the Merchants' Guild charges.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.10",
+  text = [[
+FISHERMAN:
+I hear that monster that was attacking people
+down on the soal is gone. Suppose that was
+you, wasn't it. Thanks, then.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.11",
+  text = [[
+FISHERMAN:
+It's been a few months, but we're almost
+done with the cleanup after the attack.
+
+TILIA:
+What happened? Pirates?
+
+
+FISHERMAN:
+Yep. Caught a bunch of the town on fire.
+'Course fact that we're on stilts doesn't
+help in a fire. Luckily some Volunteer Navy
+FISHERMAN:
+guy was followin' the pirates, helped us
+put it out. Looked a bit like you, come
+to think of it.
+TILIA:
+That might have been my dad! He's been
+tracking some pirates.
+
+FISHERMAN:
+He helped up out of a right spot! Give him
+another thank you from me if you see him.
+
+TILIA:
+I hope I do.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.12",
+  text = [[
+There was a pirate attack a while ago, burned
+down a bunch of the town's bridges. Everything
+still smells like smoke, which honestly? Is
+great. Means it doesn't smell like fish.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.2",
+  text = [[
+Interested in some fine fish? We've also
+just opened up a stall in Goatshead Harbor,
+too. Business is great these days!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.3",
+  text = [[
+You heard the tales of the Phantom Squid
+over in Goatshead? They say he's a robber
+who targets wealthy merchants. Well, just
+between you and me... Know what happens
+to the money he steals? It somehow makes
+its way back here. Which is where it came
+from in the first place, as many taxes as
+those merchants take out of us.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.4",
+  text = [[
+You heard the tales of the Phantom Squid
+over in Goatshead? They say he's the one
+responsible for getting the unfair taxes
+lifted off our aching shoulders! Turns out
+it was that boy Aster all along. Knew him
+since he was a child running around here.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.5",
+  text = [[
+So there's supposed to be this haunted
+island nearby and Dusit, resident crazy
+guy if you ask me, is determined to get
+someone out there to dig up some treasure.
+So now we've got a haunted island, on top
+of some monster attacking any fishermen
+who head down towards Goatshead to fish.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.6",
+  text = [[
+Box of fish coming through! Box of
+Meurian Boxing Bass. I'm the boss of boxed
+boxing bass!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.7",
+  text = [[
+I've been wondering for a while... where
+are all these carrots coming from? It
+seems like there's more carrots coming
+through this port that there should be.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.8",
+  text = [[
+FISHERMAN:
+So, the fishing isn't bad here, but where they
+really bite is south of town on Lotus Shoal.
+I'd be down there right now if it weren't for
+FISHERMAN:
+this really pesky monster that's been attacking
+folks who go down there.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.9",
+  text = [[
+FISHERMAN:
+So, the fishing isn't bad here, but where they
+really bite is south of town on Lotus Shoal.
+I'd be down there right now if it weren't for
+FISHERMAN:
+this really pesky monster that's been attacking
+guys who go down there.
+
+TILIA:
+Danley actually asked me to take care of that
+monster. Do you know where it is?
+
+FISHERMAN:
+Ain't seen it in a bit- I'm smart and don't like
+being attacked. Go ask Arni, he's an idiot
+and got bit yesterday. Lives just north of here.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.bait_guy",
+  text = [[
+Have you used monster bait before? Stones
+like this are perfect for setting bait out
+on, and then it lures out monsters. Check
+it out.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.market_people.ballast_man_1",
+  text = [[
+Yeah, I see that look. The market here in
+Crabhook is pretty sad. Not what you're
+necessarily looking for, right? You want
+to know where to find the good stuff, yeah?
+Well I'll let you in on a secret. Ballast
+Harbor, the pirate market? I know how to
+get there. It's on the down-low because,
+you know, it's full of pirates. But if you
+go Southeast, down to the Forest of Tides?
+There's a tunnel there that'll take you
+to Ballast Harbor.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.salesman",
+  text = [[
+VEGETABLE VENDOR:
+Try a carrot? Just 5 crowns, and they
+heal a heart and a half right away!
+
+TILIA:
+$? Sure
+$? Not right now
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.1",
+  text = [[
+Volunteer Navy member, huh? Some folk posted
+notices on the wall over there, looking for
+help with your kind of thing.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.2",
+  text = [[
+WOMAN:
+Hey. You look weirdly like this guy I ran into
+some months ago out on Rook Reef. He was
+wearing similar clothes and had your nose.
+TILIA:
+Wait, was he tall? Had a beard and tired-looking
+eyebrows? That could have been my dad!
+Where was he headed?
+WOMAN:
+Oh, he must have been. I don't know where he
+went. We'd run aground trying to get away from
+pirates and he rescued us. Good man.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.1",
+  text = [[
+DANLEY:
+Oh, are you in the Volunteer Navy? I'm the
+village's mayor. Think you can help me out
+with something? I can pay you.
+TILIA:
+$? Sure
+$? I'm too busy right now
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.2",
+  text = [[
+DANLEY:
+As if there weren't enough to worry about in
+this town, some creature has started
+attacking fishermen who venture south of the
+DANLEY:
+village onto the shoal. I don't know the details,
+but it's my job to get it taken care of. Try
+asking some fishermen where the beast went,
+DANLEY:
+then come back to me once you've got it
+taken care of and I'll pay you.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.3",
+  text = [[
+DANLEY:
+You're back. Did you find that monster and take
+care of it?
+
+TILIA:
+It's all gone. Shouldn't be nipping at anyone
+else's legs.
+
+DANLEY:
+Did it eat someone's legs? I didn't hear about
+that. No matter, let me pay you.
+
+(You received 80 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.4",
+  text = [[
+DANLEY:
+At least folk can go fishing on the shoal again.
+Now I've just got to worry about trade with
+Goatshead.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.5",
+  text = [[
+DANLEY:
+That monster that was eating fishermen's legs
+is gone, the ridiculous taxes from Goatshead
+have been lifted... I'm a great mayor.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.tavern.danley.defeated_first",
+  text = [[
+DANLEY:
+Oh, are you in the Volunteer Navy? I'm the
+village's mayor. I need some help defeating
+a monster lurking in the waters south of here
+DANLEY:
+on Badger Shoal. I can pay you.
+
+
+TILIA:
+Was it a fish kinda thing, popped out of the
+water to attack? I think I already defeated it.
+
+DANLEY:
+Ah! Great. I have no reason to think you're
+lying. Take this.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.witch",
+  text = [[
+Come on in, dearie, I'm the village's
+herbalist. If you'd like to use that table
+over there to put together potions or
+anything, feel free.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.witch_pot",
+  text = [[
+I can brew you an Elixer Vitae for just
+25 crowns if you bring me the ingredients.
+It takes White Mandrake root, Kingscrown,
+and Ghost Orchid petals.
+Brew a flask?
+$? No
+$? Yes
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.1",
+  text = [[
+It's nice that I'm not moving illicit beer
+to the warehouse for Beetle-Eyed
+Bart anymore. I didn't mind the work
+but the beer tasted awful when I stole it.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.2",
+  text = [[
+Oh, sorry. If small crates are in your way,
+you can just push them aside. If you get
+them stuck, just leave this area and come
+back and you can try again.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.3",
+  text = [[
+It happened. I picked up a crate and forgot
+entirely where I was headed with it.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.dockworkers.4",
+  text = [[
+Most of the sailors working on the docks
+here drink at the Sodden Cormorant.
+Including the man who owns the warehouse
+at the end of the dock, which is weird,
+because Beetle-Eyed Bartholemy is a brewer
+himself. I heard the tavern owner was looking
+for him... something about money?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.1",
+  text = [[
+EAMON:
+Ah! Someone from the Volunteer Navy, huh?
+Did you see my notice at the tavern? Well,
+no matter, you've clearly come to deal with
+EAMON:
+the problem of the Phantom Squid. Have
+you heard what that rascal is up to? Breaking
+into merchants' offices in the night, spoiling
+EAMON:
+the records with ink, obscuring all knowledge
+of debts and incomes. The fellow is going to
+bring the city into economic chaos. Anyway,
+EAMON:
+I can offer you 70 crowns if you'll help bring
+him in. I have a plan, a great plan, but will
+you help take the Phantom Squid down?
+TILIA:
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.2",
+  text = [[
+EAMON:
+Excellent! There aren't many merchants from
+the guild who haven't already been attacked.
+I want you to go down to Rilesdorf. He has
+EAMON:
+a shop near the market, against the cliffs. Tell
+him I sent you, then go into his office, hide,
+and wait for the Phantom Squid to arrive. I
+EAMON:
+just know he will. When the Squid shows up,
+apprehend him. You Volunteer Navy folk can
+destroy monsters, so I figure the Squid will
+EAMON:
+pose no problem. Return to me once you
+have the Phantom Squid taken care of.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.3",
+  text = [[
+EAMON:
+So, have you gone and talked to Rilesdorf,
+at his shop right on the harbor? Go hide
+yourself in his office, then take care of the
+EAMON:
+Phantom Squid when he invariably shows
+up to destroy the foundation this town's
+economy is built on!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.4",
+  text = [[
+EAMON:
+Well. I heard from Rilesdorf that you spilled
+ink on his carpet, but at least not his records.
+And that the Phantom Squid slipped out the
+EAMON:
+window. Did you track him down and take
+care of him, or what?
+
+TILIA:
+No, he$1...$3 he managed to get away.
+
+
+EAMON:
+Well. I suppose I should thank you for at
+least protecting Rilesdorf's records. Here.
+
+(You received 10 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.5",
+  text = [[
+EAMON:
+Well? Unless you've gone out and found
+the Phantom Squid, you've no use as an
+office decoration. Off with you.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.killed_astor.1",
+  text = [[
+EAMON:
+Eh, what are you- oh yes! You. Did you take
+care of the Phantom Squid for me?
+
+TILIA:
+I did.
+
+
+EAMON:
+Well there it is. Rilesdorf tells me he still got
+ink on his carpet though, so you can't have
+been that good. Let's make it 60 crowns.
+(You received 60 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.eamon.killed_astor.2",
+  text = [[
+EAMON:
+Eh? Are they still letting you in here?
+What for? Get out.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.1",
+  text = [[
+Psst. Hey. You want to buy some crabs?
+There's nothing shady about them, I'm just
+secretive because I don't have my paperwork
+filed with the merchants' guild. Can't afford
+to, what with the taxes they charge to
+anyone from Crabhook Village.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.2",
+  text = [[
+Hey, got fresh-ish fish here! As fresh as
+can be smuggled into the city. I mean, you
+can pay the stupidly-taxed price for like,
+REAL fresh fish, or you can make do!
+Open your mind to the possibilities!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.3",
+  text = [[
+Ugh. My prices are being undercut by those
+thugs from Crabhook Village. Their paperwork
+probably isn't even done. They have no
+respect for the good the merchants' guild does.
+Keeps our city from becoming a den of
+pirates like it is out in Ballast Harbor.
+Anyway, fresh fish here. Just 300 crowns
+each.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.4",
+  text = [[
+New rules in town! I can finally sell
+non-bootleg fish. Although, if you're into fish
+that have been in a boot, we can do that
+too. The possibilities are endless!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.5",
+  text = [[
+New varities of fish, just in! Inspected by the
+merchants' guild, all quality varities. Try a
+sample of our porgy.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.fish_mongers.6",
+  text = [[
+I've got my normal fish here... I've had to
+bring the price down from 300 crowns each.
+Stupid competetion from those thugs from
+Crabhook Village.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.flower_shop.1",
+  text = [[
+ATEM:
+Oh, oh hey. I'm the flower shop. I mean, this
+is the flower shop. I'm... well, I don't suppose
+you're in the market for- for flowers?
+TILIA:
+Sorry, I don't think I need any right now...
+
+
+ATEM:
+That's the... it's okay! There aren't a lot of
+people who are the flower buying type of
+people around here. If you want to use any
+ATEM:
+flowers you already have to make potions or
+tools, feel free to use the crafting table
+over there.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.flower_shop.2",
+  text = [[
+ATEM:
+Hey, thanks. Come back if you have any
+more of these to sell.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.1",
+  text = [[
+GUARD:
+New face in Goatshead Harbor, huh? Not a
+smuggler, are you?$1... $3 Ha. Just joking.
+But watch out for smugglers. They're no joke.
+GUARD:
+Not that we town guards couldn't handle them.
+We're the strongest guards there are!
+uhHUUUNH!
+(The guard flexes vehemently)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.2",
+  text = [[
+GUARD:
+This is the headquarters of the Merchants'
+Guild. You don't need a password to get in or
+anything, but... you're not really welcome.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.3",
+  text = [[
+GUARD:
+Used to be we wouldn't have to guard the
+gate to the Merchants' Guild, but what with
+the Phantom Squid attacking, ugh. Trouble.
+]],
+}

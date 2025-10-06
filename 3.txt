@@ -1,0 +1,978 @@
+dialog{
+  id = "_fykonos.npcs.village.7",
+  text = [[
+WISTFUL MAN:
+My whole backpack was full of plants it'd
+foraged after cutting them down, I was
+bringing it down to the shop to sell...
+WISTFUL MAN:
+And these goblin things showed up and
+robbed me! Snatched my backpack and ran
+off into the hills!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.8",
+  text = [[
+OLD MAN:
+East of town there's a strange garden of
+bird statues. My grandpa always said it
+was from before the flood, back before
+OLD MAN:
+the Sea King came to this island. And
+I'm 104! So if you try to count how long
+ago that was... well anyway, the ground
+OLD MAN:
+feels a bit hollow under two statues
+right next to each other.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.bombino.1",
+  text = [[
+BOMBINO:
+Oh, hey! The woods lady! Thanks for helping
+me out back there. If you want to buy
+any bombs, you can at the counter.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.cafe.1",
+  text = [[
+BARISTA:
+Good afternoon! Care for a cup of coffee?
+I'll heal 3 hearts and also make you
+walk faster, because the caffeine.
+BARISTA:
+But you have to drink it right here.
+Open container laws, you know.
+
+(Buy a cup of coffee for 10 crowns?)
+$?Sure
+$?No thanks
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.cafe.2",
+  text = [[
+BARISTA:
+Here you go!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.ferry.closed",
+  text = [[
+TICKET COUNTER GUY:
+Hello! Lovely to see a customer, but I'm
+terribly sorry, the ferry isn't running
+at the moment.
+TILIA:
+Do you know when it'll open back up?
+
+
+TICKET COUNTER GUY:
+Hey, great question, lovely question.
+I don't know. You could ask the Village
+Elder. He closed it as it was being attacked
+TICKET COUNTER:
+by ghosts in the night. He might have
+a better idea when it'll run again.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.ferry.open",
+  text = [[
+TICKET COUNTER GUY:
+Well hello! I heard from the Village Elder
+himself, the old fellow, you chased off
+the Witch's Ghost! Amazing! If you'd like
+TICKET COUNTER GUY:
+to ride the ferry back to Oakhaven, please,
+take a ticket. Actually, take as many as
+you'd like! Eight tickets?
+TILIA:
+I mean, I just need one to ride the ferry
+right?
+
+TICKET COUNTER GUY:
+Well, yes, I suppose so. Anyway, would
+you like to head to Oakhaven?
+
+(Ride ferry to Oakhaven)
+(Tickets are free because you're cool)
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.greeter.1",
+  text = [[
+FISHERMAN:
+Oh, hello there. I don't recognize your
+face... the ferry isn't running. No new
+boats at the pier... you look a little
+FISHERMAN:
+rough too... Did you...
+...
+Dig here from the other side of the earth??
+TILIA:
+Uh, I was shipwrecked actually.
+
+
+FISHERMAN:
+Oh, that makes a lot more sense really.
+Either way, you should talk to the village
+Elder. He can help you get your bearings.
+TILIA:
+Thanks, where is he?
+
+
+FISHERMAN:
+He lives in the northwest corner of town.
+There's a large bell outside his house.
+
+TILIA:
+Thanks, I'll go chat with him.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.greeter.2",
+  text = [[
+FISHERMAN:
+If you're new around here, you should
+chat with the Village Elder. If you need
+help with anything, he'd know what to do.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.inkkeper",
+  text = [[
+INNKEEPER:
+Good day! Sorry if you had to endure the
+bad innkeeping pun my assistant outside
+is telling everyone. Beds are 30 crowns.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.shopkeeper.1",
+  text = [[
+Helcome, er. I started  saying hello then
+switched to welcome. Uh, anyway, wanna
+buy anything?
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.shopkeeper.2",
+  text = [[
+Hellooooo, have a look around. Anything
+catch your interest?
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.shopkeeper.3",
+  text = [[
+Welcome! Want to buy anything to
+heal your tired soul? Make you
+stronger? Have a look.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.a1",
+  text = [[
+Here lie the fallen guard of Ophira
+  Inland yet claimed by the sea
+Restless while storms are yet directed
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.a2",
+  text = [[
+Here lie the fallen guard of Ophira
+  Fire quenched and earth broken
+Tethered to the rocks dashed against
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.a3",
+  text = [[
+Here lie the fallen guard of Ophira
+ No rest while man orders the sea
+The lanterns of indignation ever relit
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.barrows.b",
+  text = [[
+Tomb of those Relinquished by the Sea
+     Their lingering will a curse
+on those who would control the elements
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.pirate_fort.1",
+  text = [[
+There's an unfinished report addressed
+to the pirate Blackbeard...
+
+
+Sir,
+There were several relics related to the
+Sea King in the ruins we searched. I'm
+sending these back to you, as they could
+be some clue to the Sea King's lost
+palace. We've also disturbed some sort
+of ghost. Appreciate some help with that.
+            Sincerely, Captain Allardyce
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.shipwreck.bad_sound",
+  text = [[
+TILIA:
+Huh. That's not a great noise for a boat
+to be making.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.shipwreck.enemies_defeated",
+  text = [[
+TILIA:
+Looks like that scared them off. Better
+go below deck and see where the
+captain went off to.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.shipwreck.no_items",
+  text = [[
+TILIA:
+Ugh, my head hurts. Did a seamonster
+really pull that ship under? And...
+wait, where is all my equipment?
+TILIA:
+Even my sword is gone? Arrrrgh! Alright.
+I need to figure out what's going on
+around here.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tomb.see_sword",
+  text = [[
+TILIA:
+Hey, that's my sword!
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tutorial.equip",
+  text = [[
+Open the menu with D to equip weapons
+and other items. Equip items to X or
+V by highlighting the item and pressing
+the button.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tutorial.sword",
+  text = [[
+Press the attack button (C) to
+swing your sword.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.tutorial.walk",
+  text = [[
+Walk around using the arrow keys
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.village.elder_note",
+  text = [[
+There's a couple village policies on
+official letterhead... Advisory to avoid
+the barrows in the northwest on account
+of goblins... a suspension of travel to
+and from other islands, also due to the
+goblins... and trash pickup has been moved
+to thursdays.
+]],
+}
+
+dialog{
+  id = "_fykonos.observations.village.shop",
+  text = [[
+Fykonos Emporium
+Buy things! Sell things! We do it both!
+]],
+}
+
+dialog{
+  id = "_game.controls.action",
+  text = [[
+
+Use the spacebar or A to interact
+        with the world
+]],
+}
+
+dialog{
+  id = "_game.controls.fighting",
+  text = [[
+
+    Press the action button to roll
+          to avoid enemies.
+]],
+}
+
+dialog{
+  id = "_game.controls.ledge_jumping",
+  text = [[
+   You can jump down from some ledges.
+       Just walk toward them.
+]],
+}
+
+dialog{
+  id = "_game.controls.move",
+  text = [[
+
+Use the arrow keys or left thumbstick to move
+
+]],
+}
+
+dialog{
+  id = "_game.controls.pause",
+  text = [[
+Use $v or L1 to open the menu. You can scroll
+   left and right between different
+ subscreens. You can save your game on
+       the status subscreen.
+]],
+}
+
+dialog{
+  id = "_game.controls.pushing",
+  text = [[
+You can use the action button to grab
+objects, then walk forward to push them.
+Some objects can be pulled as well.
+]],
+}
+
+dialog{
+  id = "_game.controls.signs",
+  text = [[
+Use the action button to read signs
+]],
+}
+
+dialog{
+  id = "_game.controls.switches",
+  text = [[
+Use your sword to interact with switches
+like this.
+]],
+}
+
+dialog{
+  id = "_game.corrupted_save",
+  text = [[
+ERROR: CORRUPTED SAVE GAME
+]],
+}
+
+dialog{
+  id = "_game.crafted_item",
+  text = [[
+Item crafted!
+]],
+}
+
+dialog{
+  id = "_game.environment.bait_rock",
+  text = [[
+It's a flat rock, perfect for holding
+monster bait. Place monster bait here?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_game.fast_travel_confirm",
+  text = [[
+Are you sure you want to travel to the port at
+$v?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_game.game_over",
+  text = [[
+Game Over
+  $? Save and Continue
+  $? Continue without Saving
+  $? Quit
+]],
+}
+
+dialog{
+  id = "_game.game_saved",
+  text = [[
+Game saved.
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.1",
+  text = [[
+Flame of the Poisoned Ground- when cursed,
+enemies take less damage.
+$? Light
+$? Extinguish
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.2",
+  text = [[
+Flame of the Empty Sky- when cursed,
+enemies deal more damage.
+$? Light
+$? Extinguish
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.3",
+  text = [[
+Flame of the Ceaseless Tide- when cursed,
+healing items are less effective.
+$? Light
+$? Extinguish
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.4",
+  text = [[
+Flame of the Weakening Heart- when cursed,
+invulnerability fades more quickly.
+$? Light
+$? Extinguish
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.in",
+  text = [[
+Curse Accepted
+Enemies grow stronger. Ring the bell
+again to remove the curse.
+]],
+}
+
+dialog{
+  id = "_game.hard_mode.out",
+  text = [[
+Curse Broken
+]],
+}
+
+dialog{
+  id = "_game.insufficient_funds",
+  text = [[
+You don't have enough money!
+]],
+}
+
+dialog{
+  id = "_game.insufficient_items",
+  text = [[
+You don't have what you need for this!
+]],
+}
+
+dialog{
+  id = "_game.key_found",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_game.left_important_item",
+  text = [[
+Before you leave, you should probably
+pick up that key that monster dropped.
+]],
+}
+
+dialog{
+  id = "_game.locked_door",
+  text = [[
+The door is locked.
+]],
+}
+
+dialog{
+  id = "_game.locked_gate",
+  text = [[
+The gate seems to be locked.
+]],
+}
+
+dialog{
+  id = "_game.pause",
+  text = [[
+  $? Continue
+  $? Save and Continue
+  $? Quit
+]],
+}
+
+dialog{
+  id = "_game.potion.burlyblade",
+  text = [[
+Your attack power is temporarily increased
+]],
+}
+
+dialog{
+  id = "_game.potion.fleetseed",
+  text = [[
+You speed is temporarily increased
+]],
+}
+
+dialog{
+  id = "_game.potion.stoneskin",
+  text = [[
+Your defense is temporarily doubled
+]],
+}
+
+dialog{
+  id = "_game.quest_log_update",
+  text = [[
+(Your quest log was updated)
+]],
+}
+
+dialog{
+  id = "_game.save_question",
+  text = [[
+Do you want to save the game?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_game.seabird_door",
+  text = [[
+There's a faded lightning bolt carved
+into the stone.
+]],
+}
+
+dialog{
+  id = "_game.tests_for_log.1",
+  text = [[
+Find clues in Hourglass Fort
+]],
+}
+
+dialog{
+  id = "_game.title_choice",
+  text = [[
+$? Continue
+$? New Game
+]],
+}
+
+dialog{
+  id = "_game.too_heavy",
+  text = [[
+(It's too heavy for you to lift!)
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.buyer_guy.1",
+  text = [[
+SALESMAN:
+Hey there! Looking to sell some
+of those deliiiightful items you've
+collected?
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.eh",
+  text = [[
+Eh?
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.good_day",
+  text = [[
+Good day.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.hey",
+  text = [[
+Hey!
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.max.isle_of_storms",
+  text = [[
+MAX:
+Well hey there! It's me, Max, the game
+developer. Thanks for getting all the
+way here! This is where the final area of
+MAX:
+the game starts! I haven't built it yet,
+so feel free to catch a ride back with
+Morus and keep looking for sidequests.
+MAX:
+And let me know what you think! What's
+rough, what's boring, what's most engaging?
+Thanks so much for playing!
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.max.oakhaven",
+  text = [[
+MAX:
+Hey, it's me, Max. The game developer.
+Just wanted to let you know that this
+area doesn't have all it's general
+MAX:
+townspeople yet. It's still full of
+sidequests and main characters, but the
+people walking around the market or
+MAX:
+sitting around a tavern aren't yet in
+place. It shouldn't affect the game in
+any way other than atmosphere, or the
+MAX:
+subtle clues they might have given you.
+Anyway, thanks for playing!
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.max.unfinished_area",
+  text = [[
+MAX:
+Hey, it's me, Max. The game developer.
+Just wanted to let you know that this
+aren't is quite finished yet. Anything
+MAX:
+you need for the main quest or any side
+quests you've started elsewhere is here,
+but there's still a little bit of work left.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.out_of_bounds",
+  text = [[
+It's a hobby of mine to hang out places
+you were never supposed to reach. It'd
+be nice if you let someone know how you
+managed to get over here, but also,
+I supposed congratulations are in order.
+You've managed to outwit someone.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.shop.arrows",
+  text = [[
+Want to buy some arrows? Unless you plan to
+smack people with that bow you'll need some.
+5 arrows is 10 crowns. Want some?
+
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.shop.arrows_no_bow",
+  text = [[
+I'm selling arrows. It doesn't seem like you
+have a bow. You could try using these without
+one, but... well no. You really couldn't.
+]],
+}
+
+dialog{
+  id = "_generic_dialogs.shop.inn_sleep_on_floor",
+  text = [[
+Hey, uh... You must have been really tired.
+When I asked if you wanted to sleep here, I
+meant here as in, the inn, not RIGHT HERE...
+Make sure you get enough rest, kid.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.abberforth.1",
+  text = [[
+ABBERFORTH:
+Ah, come to see me goats? I'd expect, yes.
+Yes. They're fine goats. Only eat the white
+flowers, mind... But these, eh. What you'll
+ABBERFORTH:
+be after is the great stone goat! She swims
+through the earth itself and comes alive! To
+eat. But only when you scratch her left ear.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.adventurers.1",
+  text = [[
+Hey! The secret ancient tunnels
+are down here!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.alchemist.bait",
+  text = [[
+Want to buy a jar of bait? You can use it to
+lure monsters out of hiding if you place it on
+small, flat, stones in some places. Each jar
+is 5 crowns.
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.alchemist.bombs",
+  text = [[
+Want to buy some bombs? They're extraordinarily
+useful for blowing things up!... Not much else.
+5 bombs is 50 crowns. Want to buy?
+
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.alchemist.elixer",
+  text = [[
+Want to buy an Elixer Vitae? When you fall
+in battle, you'll be revived automatically if you
+have one of these on you. Just 100 crowns.
+
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ballast_harbor_ferry.1",
+  text = [[
+Lookin' for a ride to Ballast Harbor? I'm the
+only ferry around here, I can take you there
+for 10 crowns. How's it sound?
+
+(Ride to Ballast Harbor?)
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.bart_bouncer.1",
+  text = [[
+BOUNCER:
+You have any business with Beetle-Eyed
+Bartholemy, the best, busiest beer brewer?
+$1... $3 I didn't think so. You can't handle
+BOUNCER:
+the alliteration, much less his power.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.bart_bouncer.2",
+  text = [[
+BOUNCER:
+You have any business with Beetle-Eyed
+Bartholemy, the best, busiest beer brewer?
+
+TILIA:
+Bartholemy... He has an open tab at the
+Sodden Cormorant, right? I'm here to collect.
+
+BOUNCER:
+$1HA!$3 Hahahahaha. Alright, kid. You go
+on in and get the tavern's money from him.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.beaufort.1",
+  text = [[
+BEAUFORT:
+I like to hang out with blacksmiths because
+I have an appreciation for fine weapons...
+But this guy, his favorite thing to make
+BEAUFORT:
+is nails! Speaking of swords, I've heard
+the town's patron hero, Heron, left his
+sword up on Heron Hill before he was killed.
+BEAUFORT:
+It's supposed to be a pretty beautiful
+blade, and I guess it's still up there.
+I'd love to see it one day.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.beaufort.2",
+  text = [[
+BEAUFORT:
+That sword you have... is that the sword
+of the ancient hero Heron? But, the
+craftsmanship! The intricacies on the hilt!
+BEAUFORT:
+This is an amazing blade. And I've even
+seen Blackbeard's sword. Oooooh. I'm
+getting weak in the knees.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.beetle_eyed_bart.1",
+  text = [[
+BEETLE EYED BART:
+A small girl? What are you doing in my
+completely above-board warehouse?
+
+TILIA:
+I heard you owe the Sodden Cormorant
+some money. I'm here to collect for them.
+
+BEETLE EYED BART:
+Those dirty, competent brewers! Always
+never buying my beer! You'll have to wrest
+my tab from my cold dead body!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.armor_saleslady.1",
+  text = [[
+I was fishing, and somebody's old set of
+armor got tangled up in the net. It looks a bit
+better than yours. Want to buy it for 150
+crowns?
+$? Buy the fishy armor
+$? Leave it
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.armor_saleslady.2",
+  text = [[
+Once I found some pots and pans tangled
+up in my fishing net, and I use those to cook
+every day now. Next I want to somehow find
+real estate tangled in my net. That'd be good.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.arni.1",
+  text = [[
+ARNI:
+Oh man, you wouldn't believe the size of
+this monster that got me the other day! I
+was fishing south of the village, on the shoal,
+ARNI:
+where I'd heard you shouldn't because of the
+monster, and this monster jumped out at me!
+It was so unexpected!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.crabhook.arni.2",
+  text = [[
+ARNI:
+Oh man, you wouldn't believe the size of
+this monster that got me the other day! I
+was fishing south of the village...
+TILIA:
+Oh the shoal?
+
+
+ARNI:
+How did you know?! Yeah. It was crazy. Got
+a big chunk of my leg!
+
+TILIA:
+I'm trying to find that monster to take care of
+it. Where exactly were you attacked?
+
+ARNI:
+There's a pile of rocks, near a cliff with two
+spruce trees on it. You know what it was, is
+probably the bait I was using. Monster bait.
+TILIA:
+You were fishing with monster bait?
+
+
+ARNI:
+To catch monster fish! Anyway, I left the
+bait in a jar down on the shoal. If you broke
+it and scattered the bait, maybe the beast
+ARNI:
+would attack you too! So, I mean, probably
+avoid doing that. Or not. You're your own
+person.
+]],
+}

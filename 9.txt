@@ -1,0 +1,918 @@
+dialog{
+  id = "_limestone_island.npcs.wally.3",
+  text = [[
+Wally:
+Oh, Tilia! Did I tell you I was attacked by
+pirates?! I was fishing on the south cape
+when they attacked and stole my tacklebox!
+Tilia:
+That's an interesting story. I actually was
+down at the cape and found your tacklebox.
+Looked like someone had dropped it while
+Tilia:
+running from some rockspiders down there.
+Maybe some fisherman who saw the spiders
+and ran away like a scaredy cat.
+Wally:
+Oh.
+
+
+Tilia:
+Some fisherman like you.
+
+
+Wally:
+Eh, yeah, it was.
+
+
+Tilia:
+Here's your tacklebox back, anyway.
+
+
+Wally:
+Thanks. I was a bit embarrased about running
+from the rockspiders, and uh... look, just take
+these crowns and keep this quiet, maybe?
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.4",
+  text = [[
+Wally:
+Thanks for getting my tacklebox back from
+the uh... spiders...
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.carving",
+  text = [[
+It's a really nice carving of a... deer?
+Rabbit maybe? It's still in progress.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.control_scheme",
+  text = [[
+There's a reminder you've written yourself:
+Remember to open the menu and save the
+game from time to time!
+...what did you mean by that?
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.flowers",
+  text = [[
+Tilia:
+I haven't been here in a while. The flowers
+Linden and I planted are taking off well.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.juglan_fish",
+  text = [[
+There's a pretty big fish on the table.
+Looks like Juglan is planning on eating
+the whole thing for dinner. You're a bit
+surprised he can eat that much.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.linden_books",
+  text = [[
+Tilia:
+Linden's ledger. I'm glad she's been
+keeping track of the tavern's sales. Gave
+me time to focus on training to fight.
+Tilia:
+...and also I'd be terrible at it.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.sanctuary",
+  text = [[
+Tilia:
+I forgot how bad the pirates messed up
+the sanctuary. Left explosives laying
+around everywhere too. Ugh.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.training",
+  text = [[
+Tilia
+Our training spot, where Dad taught me to use a
+sword... I wish he could have finished teaching me.
+Whatever. I figured it out myself just fine.
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.mountain",
+  text = [[
+East - Sanctuary
+West - Old Lighthouse
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.village_east",
+  text = [[
+East - Lime Forest
+North - Limestone Mountain,
+also Limestone Sanctuary
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.village_west",
+  text = [[
+West, then South - Sometimes Cape
+West, then North - Castone Grove
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.west_limestone_1",
+  text = [[
+North - Castone Grove, Fishing Spot
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.west_limestone_2",
+  text = [[
+South - Sometimes Cape
+]],
+}
+
+dialog{
+  id = "_limestone_island.year_later",
+  text = [[
+                Six months later
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.ber.1",
+  text = [[
+BER:
+Eh Tilia, I was chopping down some timber
+up by the ruin and noticed that the rocks
+blocking the way in look really weak. I bet
+BER:
+if someone could cause an explosion somehow,
+they'd be able to get in.
+
+TILIA:
+All it'd take is an explosion? Just a little
+old explosion?
+
+BER:
+Eh, I guess when you put it like that it
+does sound unlikely that you'd have the
+means to cause a controlled explosion here
+BER:
+on the island. Oh, Hazel was looking for
+you earlier, she's up on the hill.
+
+TILIA:
+Thanks, Ber.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.ber.2",
+  text = [[
+BER:
+Eh, Tilia? I hear you're going looking for
+Mallow and Hazel. I mean, they're both
+tough, but it's been... well, good luck.
+TILIA:
+Hey. If you're gonna be passive agressive
+like that, get out of my tavern and go
+drink seawater. I'm going to find them.
+BER:
+$1Oh, uh... $3sorry Tilia... Thanks for being
+the one to go look for them.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.hazel.1",
+  text = [[
+HAZEL:
+Tilia! I came by the tavern hours ago, did
+you just wake up? Anyway, I have something
+for you.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.hazel.2",
+  text = [[
+HAZEL:
+You left it at my house last night. Is
+your dad teaching you any Volunteer Navy
+stuff today? How to skin a monster?
+TILIA:
+Nah, I'm just running an errand for him.
+Getting some whisky out of the secret
+storage cave.
+HAZEL:
+Oh, well it's a good thing I gave you your
+sword, there's a big witch-hazel bush in
+the way of the cave. If you cut it down,
+HAZEL:
+be sure to collect its flowers, they can
+be used to make potions and stuff. Maybe
+you can make one that'll wake you up in
+HAZEL:
+the mornings, Tilia.
+
+
+TILIA:
+Or I could brew a potion that puts you to
+sleep earlier instead of keeping me up all
+night trying to help you find moon mushrooms.
+HAZEL:
+You can't find them during the day! Anyway,
+go get that whisky. But when you're done
+with your errands, let's take your dad's
+HAZEL:
+boat over to Bracken Beach.
+
+
+TILIA:
+Sure! I'll go get that whisky and we'll
+leave right after.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.hazel.3",
+  text = [[
+HAZEL:
+Hey, remember that plant I found last time
+we were at Bracken Beach, and I thought you
+could eat the root? I was reading about it,
+HAZEL:
+and you can actually make tea that's
+supposed to be really good.
+
+TILIA:
+Okay, once I'm done running this errand
+we'll sail over to Bracken Beach and we
+can make some then.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.1",
+  text = [[
+JUGLAN:
+Ahoy, Tilia. Yer Dad giving you any more
+training with your sword today?
+
+TILIA:
+Probably not. He's been busy doing the
+tavern budget.
+
+JUGLAN:
+Well, don't fret none. He's a fine volunteer
+navyman. He'll have you trained up to take
+his place there one day.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.2",
+  text = [[
+JUGLAN:
+Tilia! Where have you been?! Pirates with a
+White Hourglass on their flag attacked the
+village! They raided the old ruin up on the
+JUGLAN:
+mountain and lit everything up. Hazel's house is
+burning awful! Your sister Linden is fine, and
+your dad... he's at the pier. Go see him.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.first_time_leaving",
+  text = [[
+JUGLAN:
+Alright, Tilia. You all set to head out?
+Do you have your sword?
+
+TILIA:
+  $? Anchors away
+  $? I need some more time to get ready.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.first_time_leaving_confirm",
+  text = [[
+TILIA:
+Let's hit the road.
+
+
+JUGLAN:
+The ocean?
+
+
+TILIA:
+That's the one. It's time we bring Dad
+and Hazel back home.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.travel_to_goatshead",
+  text = [[
+JUGLAN:
+I'm headed to Goatshead Harbor to peddle today's
+catch. You needin' a ride there?
+
+TILIA:
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan_2.1",
+  text = [[
+JUGLAN:
+Aye, Tilia, you're back. I can tell from yer
+eyes you ain't found your dad yet. Also from
+the fact he isn't here. But there ain't no
+JUGLAN:
+shame is not finishing your quest right at
+the start. This one might take time, but
+you don't need to feel bad comin' home to
+JUGLAN:
+check in before you're done. Maybe take a
+nap at home, or talk to your sister. We're
+glad to see you.
+TILIA:
+Thanks, Juglan.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.1",
+  text = [[
+LINDEN:
+Hey, it's my little sister. I thought you
+died in your sleep, you've been in bed
+so long.
+TILIA:
+Hey, it's my older sister. I thought$1...
+...you...$3 were busy being responsible and
+figuring out how to run our tavern better?
+LINDEN:
+Haha, yes, I have. Hey, the new stout you
+started brewing is doing really well, you're
+doing your part around here too.
+TILIA:
+I mean, Hazel helped a lot with the brewing.
+I'm better at fighting off the monsters that
+attacked us when we were gathering herbs...
+LINDEN:
+Maybe you're better with a sword than a
+stout, but I'm glad the three of us are
+making this work. Can you do the dishes?
+TILIA:
+Oh, uh nope! Dad needs me to go out to the
+secret storage cave to get something!
+
+LINDEN:
+Will that take all day?
+
+
+TILIA:
+Who knows? I definitely won't have time to
+do dishes though.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.2",
+  text = [[
+LINDEN:
+Good morning, Tilia. You still keeping
+borderline neurotic notes in your quest
+log?
+TILIA:
+There's a lot going on in my life! It's
+sometimes hard to remember! I keep my log
+next to my inventory in my menu.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.3",
+  text = [[
+LINDEN:
+Tilia, I'm so glad you're safe! I tried to
+block off the tavern with barrels, but they
+were throwing bombs... I don't know what they
+LINDEN:
+came for, but dad ran off to fight them. I
+guess it's his duty as a volunteer navyman.
+He's down at the pier.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.4",
+  text = [[
+LINDEN:
+So Tilia. Today's really the day?
+
+
+TILIA:
+I've been talking myself up for a couple months
+now. If Hazel and Dad aren't back yet, then...
+well, I'll bring them back somehow.
+LINDEN:
+It's not just because I make you do the
+dishes every night is it?
+
+TILIA:
+Linden, you keeping the tavern running since
+Dad left has been inspiring. For everyone, but$1..
+I...$3 Anyway, Juglan is meeting me soon.
+LINDEN:
+So he's taking you to Goatshead Harbor to
+look for leads, huh?
+
+TILIA:
+I know the pirates flew a white hourglass on
+their flag. Seems like enough to get started.
+
+LINDEN:
+You'll find them. Remember to get enough
+sleep. Staying at an inn will heal you, but
+you can always come home and sleep here too.
+TILIA:
+You sound like Juglan, don't worry so much.
+I love you, Linden.
+
+LINDEN:
+I love you too. I'll see you when you're
+back with Dad and Hazel.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.5",
+  text = [[
+LINDEN:
+What, are you back already? I've got things
+covered here at the tavern, go look for Dad.
+...
+LINDEN:
+Although, do come back from time to time.
+I'm gonna miss you.
+
+TILIA:
+I'll miss you too, Linden. I will.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.6",
+  text = [[
+LINDEN:
+Well, good luck. Did you remember to grab your
+sword or did you leave it over at your little
+training ground?
+TILIA:
+Yeah, $1I...$3 Shoot! No, I left it over there!
+
+
+LINDEN:
+Haha, you'll be fine, Tilia. Get your sword.
+And maybe come back to visit occasionally.
+Now go find Dad!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.7",
+  text = [[
+LINDEN:
+I'm sure if you ask around in the right places,
+you'll find clues. Be sure to come back and
+visit from time to time. Now get going!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.catacombs",
+  text = [[
+LINDEN:
+Hey Tilia. Things are going well here,
+how is the search going?
+
+TILIA:
+I've got a couple clues. I found a man
+who'd met dad, and got this key dad had
+with him. I'm trying to figure out
+TILIA:
+what it unlocks. Sounds like dad has
+been messing with this Pirate Council.
+
+LINDEN:
+If there's something called a Pirate
+Council, of course dad would mess with
+them. Well, keep following the clues.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.fort_crow",
+  text = [[
+LINDEN:
+Tilia, lovely to see you back! Did you
+find anyone yet?
+
+TILIA:
+I found her! I found Hazel. She's in
+Oakhaven. She and dad are involved in
+this whole pirate-fighting plot and...
+LINDEN:
+Hey, don't get caught up in all the
+details, you found your best friend!
+Let's celebrate that!
+TILIA:
+...yeah! You're right, she's safe.
+Thanks, Linden.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.isle_of_storms",
+  text = [[
+LINDEN:
+Hey kiddo! Where is your hunt taking you
+now?
+
+TILIA:
+Some mythical island where the ancient
+Sea King's palace was supposed to be.
+Stupid pirates are going after this dumb
+TILIA:
+artifact that's there, gonna wreck the
+whole ocean if they get it.
+
+LINDEN:
+Alright, adventure tourism. Sounds like
+you'll get to see something nobody else
+gets to. You think dad is there?
+TILIA:
+He probably is, knowing him. But either
+way, I think I need to stop these pirates.
+
+LINDEN:
+Well, you do what you need to. I'm proud
+you've made it this far.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.oakhaven",
+  text = [[
+LINDEN:
+Nice to see you back, Tilia. Any news
+on finding dad or Hazel?
+
+TILIA:
+I'm close! Hazel is in Oakhaven somewhere.
+
+
+LINDEN:
+That's fantastic! You'll find her in no
+time, and then I'm sure you'll be able
+to track dad down.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.snapmast",
+  text = [[
+LINDEN:
+Good to see you back, Tilia! How's Hazel?
+
+
+TILIA:
+She's doing good! She's staying in
+Oakhaven for now since we're trying to
+destabilize the Pirate Council's plans.
+LINDEN:
+Great. Had some sailors come through
+yesterday who were complaining about that
+council. They're trying to conscript
+LINDEN:
+anyone they can, it sounds like. What
+do they want?
+
+TILIA:
+Some magic artifact thing so they can
+control storms and stuff.
+
+LINDEN:
+Well definitely nobody should have that.
+Keep it away from them, Tilia!
+
+TILIA:
+Thanks, Linden.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.mallow.1",
+  text = [[
+MALLOW:
+Tilia! Guess what? That flock of egrets
+that was pestering us at the pier has
+moved on.
+TILIA:
+Good morning, Dad.
+
+
+MALLOW:
+I'm not mourning them at all. They were a
+nuisance. Hey, if you have some time today,
+could you run up the hill and get a bottle
+MALLOW:
+of whisky out of the secret storage cave?
+Juglan's had a poor month with the fishing,
+and I want to give him something.
+TILIA:
+No problem, dad.
+
+
+MALLOW:
+Thanks, Little Gull. The cave is on the
+north side of the island! Write it down
+in your quest log in case you forget!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.mallow.2",
+  text = [[
+MALLOW:
+Hey Little Gull. So, I know I haven't been
+keeping up on your sword training like you'd
+like. But once I get the paperwork all
+MALLOW:
+caught up for this month, I promise we'll
+get back to it. Did you get that bottle of
+whisky for Juglan yet?
+TILIA:
+Not yet.
+
+
+MALLOW:
+It's in the secret stash on the north end
+of the island. I know you know I keep the
+nice stuff there because I know you've
+MALLOW:
+sneaked off with a couple bottles over the
+years.
+
+TILIA:
+...
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.mallow.3",
+  text = [[
+MALLOW:
+Tilia! I knew you'd be fine somehow. You've
+got your father's wits about you. My wits.
+They're excellent wits.
+TILIA:
+Dad, what happened? Is everyone alright?
+
+
+MALLOW:
+Pirates flying a White Hourglass on their flag
+attacked. They raided that old ruin up on the
+mountain. Most of us got away, but...
+TILIA:
+But what?
+
+
+MALLOW:
+Hazel was up on the mountain collecting herbs.
+The pirates threw her in a barrel and rolled
+her off with whatever they took from the ruin.
+TILIA:
+They kidnapped Hazel? We have to get some
+help then!
+
+MALLOW:
+Tilia... I am the help. I'm a volunteer
+navyman. It's my duty to take care of this
+island. Yours too if you want to join someday.
+TILIA:
+But... you're not leaving, though. You have
+to teach me how to fight monsters and
+pirates! And run the tavern!
+MALLOW:
+I'm sorry, Little Gull. You'll be fine. They've
+just sailed away. It shouldn't take me more
+than a week or two to catch up and get Hazel.
+MALLOW:
+I'll be back home before you realize it.
+You and Linden just watch the tavern for a
+few days...
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.tim.1",
+  text = [[
+TIM:
+Eh, Tilia. Did your friend Hazel tell my
+apprentice that willow leaves are magic
+medicine or something? He's been stashing
+TIM:
+leaves in a pot for my headaches instead of
+chopping timber like he should be. It's giving
+me a headache!
+TILIA:
+I don't know if Hazel told him that, but she's
+usually right when it comes to plants and stuff.
+Did you try eating the willow leaves?
+TIM:
+Eh? I haven't tried them... huh.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.tim.2",
+  text = [[
+TIM:
+Those pirates started tossing explosives
+everywhere! Our roofs are literally made
+of grass! This is the worst material!
+TIM:
+Why would pirates attack us? To raid the
+ol' ruin on the mountain? I don't get it!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.tim.3",
+  text = [[
+TIM:
+Ay, so you're going off to find old Mallow,
+eh? I'm sure he's fine and has good reason
+for being' away so long.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.blocker_bush",
+  text = [[
+TILIA:
+This is where dad said the whisky should
+be... how did he get past this bush? I'll
+just cut it down with my... oh wait?
+TILIA:
+Did I leave my sword at Hazel's last
+night? I should go find her.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.carving",
+  text = [[
+It's a really nice carving of a... deer? Rabbit
+maybe? It's still in progress.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.cavern_sea_shrine",
+  text = [[
+TILIA:
+I never realized there was an old shrine to
+the Ocean goddess way back here. This has
+probably been here hundreds of years. Neat.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.dad_books",
+  text = [[
+Your dad has been trying to work out a
+budget for the tavern. There's a whole bunch
+of scribbling out.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.dad_list",
+  text = [[
+There's some names, dates, amounts,
+whatever dad writes when he works on the
+tavern's budget. Also doodles of ships.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.empty_space",
+  text = [[
+TILIA:
+Looks like there used to be something kept
+here. I wonder if the pirates took it or if it
+was already gone when they attacked.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.fish_block",
+  text = [[
+There's a box of fish blocking the door.
+You suppose that's a good problem to have.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_balance",
+  text = [[
+Linden has been trying to work out a
+budget for the tavern. All the lines and
+columns are lined up neatly. Does she use
+a ruler for this?
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_books",
+  text = [[
+It looks like your sister Linden has been
+reading the books she borrowed from
+Hazel. She's learning about growing barley
+and hops.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_chair",
+  text = [[
+TILIA:
+Ugh, I really need to clean out our room.
+Better drag this stuff out of the way.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_doodles",
+  text = [[
+There's a messy, scribbled-up attempt to
+work out a budget for the tavern. It's hastily
+shoved under a book.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_list",
+  text = [[
+To Do!
+Tilia: Repair leaky window, chop firewood,
+unload new mead shipment
+Linden: Inventory ale, order new mugs, budget!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.mandrake",
+  text = [[
+It's instructions for how to identify
+mandrake plants. Apparently their root is
+quite valuable. Let's see...
+
+1) The Mandrake has small colorful flowers.
+Often blue or purple.
+2) The Mandrake will rise from the ground and
+easily kill the careless botanist. Take care.
+]],
+}

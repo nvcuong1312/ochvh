@@ -1,0 +1,879 @@
+dialog{
+  id = "_goatshead.npcs.guards.4",
+  text = [[
+GUARD:
+What are you doing on the pier? You aren't
+a dockworker! Do you even lift... crates?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.5",
+  text = [[
+GUARD:
+Sorry, they told me not to let
+anybody go past me.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.6",
+  text = [[
+GUARD:
+Just try and sneak past a guard... I mean
+that as advice- you can't fight us. We're all
+super strong! The stronguards! That's us!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.7",
+  text = [[
+GUARD:
+We're the town guard, but most people call
+us the Barbell Brutes. Because we all lift
+barbells to get so ripped.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.8",
+  text = [[
+If you're heading out of town, watch out for
+all the monsters. They can be pretty strong.
+Which I respect about them.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.1",
+  text = [[
+GUARD:
+This is where the town guards live. The
+Barbell Brutes! It's what they call us. I'm all
+about it. What business do you have here?
+TILIA:
+I don't suppose anything. I'm not a town to
+guard.
+
+GUARD:
+Yeah, you're not... Well.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.2",
+  text = [[
+GUARD:
+This is where the town guards live. The
+Barbell Brutes! It's what they call us. I'm all
+about it. What business do you have here?
+TILIA:
+I heard you guys are all working for
+Eamon. I'm here to challenge whoever to
+a fight or whatever it is. The uh, the
+TILIA:
+Barbell brawl battle thing. So when I win
+the Crabhook people can be safe and you
+won't work for Eamon. That thing.
+GUARD:
+A-hahahahahahaha!
+
+
+GUARD:
+Hahahahaha!
+
+
+GUARD:
+Hahaha. Alright, girl. You do that. Why don't
+you go fight your way to the boss and show
+him your power?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.3",
+  text = [[
+GUARD:
+Alright fighty girl. Go beat up our boss to
+show us how you're the most powerful.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.4",
+  text = [[
+GUARD:
+I can't believe you actually beat your way
+through everyone. You've earned my
+allegiance, captain.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.5",
+  text = [[
+GUARD CAPTAIN:
+Well. I could hear you beating up the rest
+of the Barbell Brutes from all the way up here.
+What brings you straight through my guards?
+TILIA:
+I heard you guys work for Eamon, so I'm
+stooping down to fight in your boy battle
+thing to make you stop it.
+GUARD CAPTAIN:
+Interesting. Ready to rumble, then?
+
+
+TILIA:
+Bring it on!
+
+
+GUARD CAPTAIN:
+I mean, rumble through some negotiations.
+Eamon designated the three strongest guards
+to be his stand-ins for a challenge, but
+GUARD CAPTAIN:
+you already beat them. By the ancient
+code, I hereby ordain you as the captain
+of the Goatshead Barbell Brutes.
+TILIA:
+Wait, I don't want to be the captain.
+
+
+VICE CAPTAIN:
+Too late, you're the captain now!
+
+
+TILIA:
+Ugh. Well alright, stop doing anything Eamon
+told you to. He's a jerk. And go apologize
+to Aster and the Crabhook merchants.
+VICE CAPTAIN:
+Done. Honestly I knew Eamon was bad news.
+But what could we have done? The guard
+code compelled us to follow him!
+TILIA:
+That's absolutely stupid. As captain,
+I abolish the code.
+
+VICE CAPTAIN:
+Wait, wait, but-
+
+
+TILIA:
+Actually, I'm just disbanding the town
+guard totally. You guys can have your
+club back when you prove you can be helpful.
+VICE CAPTAIN:
+That's not... Hmm. Well, Captain, you're
+definitely the one with the inner strength.
+Aye aye!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.5.5",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.barrack_guard.6",
+  text = [[
+VICE CAPTAIN:
+How's it going, captain? Smash in any
+heads with your inner strength recently? I've
+been thinking about taking a journey to
+VICE CAPTAIN:
+develop my inner strength.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.post_defeat.1",
+  text = [[
+GUARD:
+Oh! Captain! How's it going, captain?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.post_defeat.2",
+  text = [[
+GUARD:
+Hey, captain! Don't worry, we're keeping
+smugglers out of the harbor. But not innocent
+people. Anymore. Sorry about that.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.post_defeat.3",
+  text = [[
+GUARD:
+Hey, captain. Come on in!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.thomas.1",
+  text = [[
+GUARD:
+Sorry, can't let just anybody down through
+here. Eamon, head of the Merchants' Guild,
+will meet you across the hallway though.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.guards.thomas.2",
+  text = [[
+GUARD:
+Sorry, can't let just anyone down through
+here. You'd need clearance or something.
+
+TILIA:
+Why don't you take a look at this letter
+that I have here?
+
+(You handed over the threatening letter
+from Aster)
+
+
+GUARD:
+This $1is... Oh! $3Oh dear! Goodness, I need
+to leave! Excuse me!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.1",
+  text = [[
+GHOST:
+Who would drink from my well to test
+their worthiness? The rain that fills
+it is the tears of the forgotten sky.
+TILIA:
+Wait, to do what now?
+
+
+GHOST:
+Due to my ghost powers, I can tell
+you are a goodly person. You are worthy
+to be my champion.
+TILIA:
+That's a ghost power? Look, thanks for
+the compliment, I guess? But I'm not
+trying to be anyone's champion.
+GHOST:
+I am a hero of the past. My name is Heron.
+My champion, set my regrets at ease. I failed
+to withstand the Sea King in my life. My
+HERON:
+people and those I held closest paid with
+their lives for my failures. And now my
+tomb is overrun with monsters summoned from
+HERON:
+the abyss by the Sea King in his life.
+Please, purify my resting place. Take this
+key, cleanse my tomb, west of Goatshead.
+TILIA:
+Wait, what if I don't want-
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.2",
+  text = [[
+HERON:
+My champion. Cleanse my resting place.
+Destroy the Sea King's abominations, which
+overrun my tomb. Do you want directions?
+TILIA:
+Like, to your grave? Sure.
+
+
+HERON:
+Go West past Goatshead Harbor, then
+follow the road North. Near the
+ferry is where I lie. Good luck.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.3",
+  text = [[
+HERON:
+You have done well, my champion. My soul is
+at rest knowing there are less of the
+twisted monstrosities the Sea King summoned
+HERON:
+into the world. However, many still remain.
+The Sea Bird, the Sky, was once revered. It
+has been reduced to a servant in the Sea King's
+HERON:
+histories. But its gift can grow more powerful.
+Seek out the Sea Bird's shrines, champion.
+Find this forgotten god's favor...
+TILIA:
+Sure thing, ghost.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.4",
+  text = [[
+HERON:
+Ah, I see you've found all the shrines. The
+Sea Bird's Tear is at its strongest. It
+lends its strength to you, as it once
+HERON:
+did to me. May you remain uncorrupted by
+the old magic. Balance the scales the
+king tipped, rid the seas of the abyssal
+HERON:
+beasts he summoned from the earth's
+corrupted core.
+
+TILIA:
+Yeah ghost, I'll try.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.heron_ghost.well_choice",
+  text = [[
+There's an ancient well nestled among the
+trees. The water looks clear and cool.
+What will you do?
+
+$?Drop a few coins in
+$?Take a drink
+$?Spit in the well
+$?Nothing
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.0",
+  text = [[
+ILEX:
+I didn't think many people came up to
+Spruce Head anymore. Why did you come
+here?
+TILIA:
+I guess I'm just exploring, I'm not
+really sure where I'm headed.
+
+ILEX:
+Well I've got things I'm trying
+to figure out too. Best of luck.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.1",
+  text = [[
+ILEX:
+I didn't think many people came up to
+Spruce Head anymore. What brings you
+up here?
+TILIA:
+I'm trying to find a crew of pirates that
+flies an Hourglass on their flag. Heard they
+came by here a while ago.
+ILEX:
+Well, you missed them. They looted the
+shrine half a year ago. Killed my grandpa.
+
+TILIA:
+Oh, I... I'm sorry.
+
+
+ILEX:
+Don't worry. I didn't know him that well,
+he lived here watching the shrine. I heard he
+was murdered by pirates a while ago, so I
+ILEX:
+came here. It just... I'm trying to make sense
+of it. Why they would attack an old place
+like this.
+TILIA:
+I don't know. But they looted an old ruin in
+my village too. I'd like to go look around the
+shrine for clues maybe.
+ILEX:
+I'll have to let you in, I locked it up. If you
+head up there, I'll unlock the gate and meet
+you inside.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.2",
+  text = [[
+ILEX:
+The shrine is locked. I'll head up there to
+get it open and meet you inside.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.3",
+  text = [[
+ILEX:
+I looked around a bit for clues a while ago,
+but this place is full of monsters. From what
+I can tell from my grandpa's journals, there
+ILEX:
+was some kind of amulet inside this tree in
+the center, the Hourglass Pirates must have
+been after that for some reason. You can only
+ILEX:
+get the door open when four fountains in the
+shrine are turned on. These torches show how
+many fountains are activated- right now, none.
+ILEX:
+As you start each fountain, a torch will light
+up, and all 4 will unlock this door in the
+center of the tree and we can look for clues.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.4",
+  text = [[
+ILEX:
+As you activate each of the four fountains,
+the torches will light up. Once you have all
+four, this door will unlock.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.5",
+  text = [[
+ILEX:
+Did you get all four fountains going? The
+door should be unlocked then, let's go on in
+and see what's there.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.6",
+  text = [[
+ILEX:
+Seems like they managed to get in here too.
+There should have been some amulet thing
+over here. And there should not have been
+ILEX:
+bottles of... liquer? What is that stuff
+over there?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.7",
+  text = [[
+ILEX:
+There's not much in here for clues about the
+pirates' whereabouts, huh. Except bottles of
+liquer over there, I don't know if that's helpful.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.8",
+  text = [[
+ILEX:
+So you're going to Briarwood Distillery
+on Yarrowmouth to ask them about the
+pirates? Good luck.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex.9",
+  text = [[
+TILIA:
+These are bottles of gin... Actually,
+they're Briarwood Gin. We had this at the
+tavern back home. You can only get it
+TILIA:
+from Briarwood Distillery on Yarrowmouth
+Island, which means...
+
+ILEX:
+The people at Briarwood Distillery might
+know where the pirates are, if they drink
+so much?
+TILIA:
+Thanks for interrupting, but yeah. I need
+to go to Yarrowmouth Island and question
+the people at Briarwood. What will you do?
+ILEX:
+I still don't know why the pirates would
+want the amulet that was in here. I'm going
+to keep exploring and try to figure it out.
+ILEX:
+Look, thanks for helping me get in here.
+I couldn't have done it on my own. Good
+luck finding your dad.
+TILIA:
+Thanks Ilex.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.0",
+  text = [[
+ILEX:
+Oh, a traveler to Spruce Head shrine?
+What brings you here?
+
+TILIA:
+Well, I guess just wandering around. It's
+the beginning of a pretty long quest for
+me. I'm supposed to go to some bar. It's
+TILIA:
+in my quest log, I'm just going on a long
+walk before I get to that I guess.
+
+ILEX:
+Hmm, the world is large and full of both
+dangers and treasures. But I cannot let
+you enter Spruce Head Shrine without
+ILEX:
+reason! My forefathers have been guarding
+this shrine for ages.
+
+TILIA:
+Makes sense, I can't think why I would
+need to go in. Unless something about my
+quest brings me here later.
+ILEX:
+I'll think about it then. For now, explore
+the world at your own pace, young lady.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.1",
+  text = [[
+ILEX:
+Oh, a traveler? Didn't think anyone cared
+for the old shrines anymore. Pirates freely
+pillaging them. Or are you just some
+ILEX:
+young upstart monster-fighter trying to
+prove your worth?
+
+TILIA:
+Oh, no, I uh, I totally care about ancient
+shrines. What did they used to do here,
+am I right?
+ILEX:
+Hmmph. Spruce Head Shrine once sent out
+saplings grown from the Devana Tree. And
+here lay the King's Amulet, given to
+ILEX:
+Heron to allow him passage through the
+storms to the palace. After the monks
+died in the great flood, my forefathers
+ILEX:
+continued to guard the King's Amulet, even
+as the Shrine decays and returns to the
+forest. Well, until those pirates showed
+ILEX:
+up and sacked the place. Stole the King's
+Amulet. I'm still hanging out here, but
+I'm honestly not sure why anymore.
+TILIA:
+That sounds rough, buddy. Look, so I'm
+actually here about the pirates. Were they
+flying an hourglass flag?
+ILEX:
+Yeah, it was the Hourglass Crew. One of
+their ships hit a rock in the bay as they
+were leaving. If you head deeper into the
+ILEX:
+shrine, you can get to the shipwreck.
+Watch out for the monsters, though. This
+place is getting dangerous.
+TILIA:
+Thank you. I'm gonna go check on that
+shipwreck, see if I can find a clue about
+where the pirates went.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.2",
+  text = [[
+ILEX:
+The Hourglass pirates came and stole the
+King's Amulet. They wrecked one of their
+ships as they left, it's still in the bay.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.3",
+  text = [[
+ILEX:
+Did you find the shipwreck in the shrine's
+bay?
+
+TILIA:
+I did. Wasn't much in there, but it looks
+like the pirates have more Briarwood Gin
+in their bodies than blood.
+ILEX:
+Ah, the distillery on Yarrowmouth. The
+isle of thorns. It's said in ages past, a
+great tragedy took place there.
+TILIA:
+I'm just hoping they kept the pirate's
+receipts. Thanks.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.ilex_new.4",
+  text = [[
+ILEX:
+Did you find what you were searching
+for on the Isle of Thorns?
+
+TILIA:
+At the distillery? Yeah, thanks.
+
+
+ILEX:
+Yarrowmouth, the Isle of Thorns, once
+held knowledge the Sea King forbid.
+They say all the inhabitants died in war.
+TILIA:
+Yikes, I guess.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.inn.1",
+  text = [[
+JUDE:
+Oh, hi! A customer. Great! This is the
+Juneberry inn. We have one room open
+at the moment, at the end of the hall. The
+JUDE:
+other room isn't open. It's locked. The last
+guest accidentially took the key with them,
+and uh... well, anyway, want to stay?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.inn.2",
+  text = [[
+JUDE
+Oh, hi! A customer. Great! This is the
+Juneberry inn. We have one room open
+at the moment, at the end of the hall. The
+JUDE:
+other room isn't locked anymore, but it
+got all dusty when it was closed and I
+haven't cleaned yet.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.juglan.1",
+  text = [[
+JUGLAN:
+Well, this is Goatshead Harbor. It's no pit of
+scoundrels, but someone in the Sodden
+Cormorant Tavern might've seen the pirates.
+TILIA:
+Thanks, Juglan. I'm sure I'll be back soon.
+
+
+JUGLAN:
+Right. Well. Be careful. The Sodden Cormorant
+is in the northwest part of town. Remember
+to craft potions if you need!...
+TILIA:
+Juglan. I'll be fine. Thank you.
+
+
+JUGLAN:
+Oh, and take this sea chart. When you need
+to sail back to Limestone, this will help.
+Wouldn't want to hit a shoal or anything.
+TILIA:
+Juglan! I'll be fine$1...$3Thank you though.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.juglan.ride_back",
+  text = [[
+JUGLAN:
+Hey, Tilia. I'm still unloading my fish. The
+Sodden Cormorant is in the northwest part
+of town. Take a look there for leads.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.kids.1",
+  text = [[
+OTHER KID:
+Hey, did you know there's a giant man
+west of here? It's supposed to be a
+statue but it's alive! It ate Clyde!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.kids.2",
+  text = [[
+OTHER KID:
+Me and my friends were exploring with no
+intention to graffiti the giant statue at all,
+but then it got angry and swallowed a kid!
+OTHER KID:
+He was trying to climb its knee when it
+happened, I think the statue has a
+ticklish knee. I hate being tickled.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.1",
+  text = [[
+Get your limes here! Guarenteed to ward
+off scurvy, halitosis, even lack of cocktail
+garnishes! What can't they fix?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.10",
+  text = [[
+Wouldn't you know it. Pirates forming cartels
+or whatever, I can take that. But now we've
+got nitrodendron growing around here? Ugh.
+You see that plant with the thorns? That's
+nitrodendron. The thorns hurt. Obviously. But
+it's the flowers that are the problem. They're
+explosive, super dangerous. And they grow
+back right away. I have no idea how to weed.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.11",
+  text = [[
+I used to think the merchants from the guild
+were all greedy and self-interested. After
+talking with Aster I'm not so sure I'll make as
+much money if I joined...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.12",
+  text = [[
+So, my sword broke in a daring battle against
+cut-throat pirates, so I set ashore here, right?
+But this armorer doesn't make swords!
+There's a guy inside who's like, "I know
+about a sword", but what even is that?
+Knowing about a sword does not keep a
+shop in business.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.13",
+  text = [[
+WEARY SALESMAN:
+Look, I know this isn't in my best interest,
+but... if you just explore around the world,
+you'll probably find some berries or apples.
+WEARY SALESMAN:
+You can collect those, and eat them later
+when you aren't feeling well, and they'll
+help a little. Of course, if you know that
+WEARY SALESMAN:
+you're going into a tough battle, maybe
+just buy some bread or potions. Those are
+a lot more effective, but don't grow on trees.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.14",
+  text = [[
+VENDOR:
+Hey, you look like the adventuring type.
+My sister runs the shop behind me, if you
+want supplies to keep your health up, or
+VENDOR:
+potions to make you stronger, take a look
+inside. Sometimes she sells ammunitions like
+arrows too.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.15",
+  text = [[
+So I was weeding my garden last week, bear
+with me, this story has a point, but I was
+weeding, and pulled up a bush, and underneath
+the bush was a hole. I was off my balance
+and wasn't expecting that, so I fell right
+in, and wouldn't you know? There was a
+pirate cache down the hole! Some treasure!
+I figure any other buried treasure must be
+hidden under some distinctive markings, so
+the pirates can remember where they left
+their cache.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.16",
+  text = [[
+Have you seen the ruins just west of town
+near the ferry? It's an old tomb, quite
+a lovely little tourist destination honestly,
+if a bit grim.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.17",
+  text = [[
+If you head west out of town, you'll probably
+see the statue of Goatshead's founder,
+Heron. My grandpappy always told me the
+founder's left knee was ticklish, and that
+goes for the statue too. Don't know why
+he would always tell me that. Sounded
+crazy. But now you've gotta hear it also.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.18",
+  text = [[
+If you head east of here, be careful. There's
+a rainy ravine you can get to through a
+tunnel. I heard people that go there, it
+makes their journeys much harder.
+]],
+}

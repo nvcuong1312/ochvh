@@ -1,0 +1,763 @@
+dialog{
+  id = "_goatshead.npcs.market_people.2",
+  text = [[
+I just don't understand. If you're selling
+fruit, why do you have tomatoes? Are they...
+...hm.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.3",
+  text = [[
+LOCAL ORANGE SALESMAN:
+Try an orange? Just 5 crowns, and they
+restore a heart of your health.
+
+TILIA:
+$? No thanks
+$? Sure!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.4",
+  text = [[
+SHADY POT SALESMAN:
+Interested in some crockery? Perhaps a
+stockpot or ramekin? I even have tureens.
+
+TILIA:
+Oh, maybe like an empty bottle? I could
+see that being useful if I wanted to carry
+some water with me, maybe put a bug into.
+SHADY POT SALESMAN:
+What? Why, a bottle would have to be
+magic to use it like that!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.5",
+  text = [[
+It's all well and good to cook fruit, but I
+really want to learn to cook with foraged
+ingredients. Out in the wilderness, you can
+recognize certain plants that are useful,
+cut them down and collect them. You can make
+potions at crafting tables, but I'm wondering,
+can you make pies that also give you stat
+boosts? Or salads?
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.6",
+  text = [[
+I know there's an armorer around here
+somewhere... I'm a member of the
+Merchants' Guild, and we need him to help
+outfit our guards. If the merchants don't hire
+guards to do our bidding, then pirates might
+start showing up to sell stolen goods. Or
+just like, general riff-raff. We need guards to
+make sure we can do business.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.7",
+  text = [[
+Ever heard of the Merchants' Guild, girl?
+They're supposedly monopolizing, bureaucratic
+fiends who gouge prices to line their pockets
+with silk...
+I'm putting in an application to join today.
+Sounds like the place to be.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.8",
+  text = [[
+There's a town called Crabhook if you follow
+the West road out of town. Lots of people
+around here don't like to visit it, so they
+never paved the road.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.9",
+  text = [[
+Haven't seen you around town before. Well
+here's a Goatshead fact- the town was
+founded ages ago, before the Great Flood.
+The founder, Heron, enshrined his sword up
+on Heron Hill to symbolize peace. Well right
+after that was the flood and he was killed by
+sea monsters. His ghost is supposedly still
+up there. That was a Goatshead Fact!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.alchemist",
+  text = [[
+HELGA:
+Welcome dear. I'm the town's alchemist.
+If you need any elixers, berries, or anything,
+just take a look over on the shelf. Or
+HELGA:
+if you've got the ingredients, check that pot
+on the corner of the counter and we can brew
+up an Elixer for just 25 crowns.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.geode_buyer.1",
+  text = [[
+So, I'm really into Monster Geodes. You can
+use them to make jewelry, or even to season
+fish. Different types of rocky monsters drop
+them. I'll buy one from you for 5 crowns!
+(Sell her a monster geode?)
+$? Sell her one
+$? Sell her ten
+$? No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.geode_buyer.2",
+  text = [[
+Thanks! Let me know if you have any more
+to sell.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.market_people.shop",
+  text = [[
+Looking for some supplies? Have a look
+at my stuff.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.1",
+  text = [[
+HAUGHTY-TAUGHTY MAN:
+Oh, you interested in learning about what
+us merchants do here? We're really responsible
+for keeping all of Goatshead orderly. By
+HAUGHTY-TAUGHTY MAN:
+using the power of economics! Keeps everything
+from becoming unstable.
+
+TILIA:
+If only I had time for my life to be so
+improved by some man in a library explaining
+things to me. Unfortunatly I need to go.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.2",
+  text = [[
+MERCHANT:
+Did you know, all across the North sea,
+prices for items like potions, berries,
+and other adventuring prices are consistent?
+MERCHANT:
+That's because of the tireless work we do
+around here. Keeps adventurers from having
+to travel around to get better prices.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.clue",
+  text = [[
+MERCHANT GUY:
+Oh! I thought it was Eamon sneaking up
+behind me again. He's always zig-zagging
+though here. Must be a nervous habit,
+MERCHANT GUY:
+because he always starts at the north end
+of the room, walks like a Z down to the other
+end, then back to the north part.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.1",
+  text = [[
+EAMON:
+Me? You're all voting to remove me as the
+chairman? And allow some bum from Crabhook
+into the Merchant's Guild? What is this?
+MERCHANT:
+Aster showed us proof you've been stealing
+from the Guild. And he's convinced me, for
+one, that he's a good man. It's time we
+MERCHANT:
+let the people from Crabhook have a chance
+to prove themselves also. Without all the
+rules you made to keep them from succeeding.
+EAMON:
+You'll regret this. I was the best
+leader the Guild ever had.
+
+MERCHANT:
+As hard as Aster had to work for us to
+realize Crabhook wasn't being treated
+fairly, no. You weren't.
+EAMON:
+...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.aster",
+  text = [[
+ASTER:
+Tilia, thank you for you part in helping
+the voices of Crabhook have a say in how
+this town runs. I actually have a seat
+ASTER:
+in the Merchants' Guild now, and I noticed
+Eamon had earmarked some money to pay for
+my assassination. The Phantom Squid still
+ASTER:
+might have to be at large if it weren't
+for your help, so consider this payment
+for ending his activities.
+(You received 200 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch1",
+  text = [[
+MERCHANT:
+Aster tells me you played a part in bringing
+Eamon's misdeeds to light. Thank you.
+But it takes more than some burglary and
+MERCHANT:
+getting into fights with guards to fix
+the problems here. We'll work on the
+rest.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch2",
+  text = [[
+MERCHANT:
+Honestly, my focus in the guild is just
+accounting, I don't really care where the
+money comes from. Hope we still get some.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch4",
+  text = [[
+MERCHANT:
+There's someone from Crabhook in the guild
+now, but there's still a lot of people in
+Goatshead who don't like people from
+MERCHANT:
+Crabhook. I guess somebody will have to
+work on that at some point.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.merchants_guild.ousting_scene.merch5",
+  text = [[
+MERCHANT:
+Hmph. I get it, Eamon took some money off
+the top. But that doesn't mean we need to
+open the guild to just anyone now...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.overworld.bomb_rocks_guy_1",
+  text = [[
+GERALD:
+So, I'm a geologist. I've been studying this
+type of rock all month, and I've come to the
+conclusion that the cracks they possess...
+GERALD:
+cause them to be weak. My hypothesis is
+that explosions would cause them to break
+apart entirely. You can trust me on this,
+GERALD:
+I'm a geologist.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.overworld.bomb_rocks_guy_2",
+  text = [[
+GERALD:
+As a geologist, I can conclude that the
+cracks in these boulders definitively
+contributed to the reason they were
+GERALD:
+destroyed in that explosion. My new
+hypothesis is that most rocks with such
+cracks may be destroyed in a similar way.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.overworld.forest.1",
+  text = [[
+Hey, if you're traveling through the
+forest, watch out for mandrakes. They
+look like normal bushes but pop out and
+kill ya! There used to be a blacksmith
+who lived in the forest. He locked his
+house to go on a walk one day and what do
+you think? Killed by mandrakes! Watch out!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.palladio.1",
+  text = [[
+PALLADIO:
+Well hey. I'm working on an order for the
+town guard, but man, helmets over and over
+is boring. I think they must have headbutting
+PALLADIO:
+contests to need this many. But hey, I'd be
+glad for a break. If you've got 50 crowns and
+Coral Ore, I can improve a sword or bow.
+(Improve your sword or bow for 50 crowns?)
+$? Sword
+$? Bow
+$? Neither
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.palladio.bow_improved",
+  text = [[
+(Your bow was improved! It now deals
+more damage.)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.palladio.sword_improved",
+  text = [[
+(Your sword was improved! It now deals
+more damage.)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.1",
+  text = [[
+TILIA:
+Hey! Ink guy!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.10",
+  text = [[
+ASTER:
+Since Crabhook finally has representation
+in the Merchants' Guild, I've got a lot of work
+to do.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.11",
+  text = [[
+ASTER:
+Ah, Tilia! Good to see you. We're discussing
+how to get people imports from Oakhaven
+for a better price. Sound interesting?
+TILIA:
+Not to me.
+
+
+ASTER:
+Ahaha! Very well. Thank you for your
+help. It's still a long road until my
+people are treated fairly, but we've started.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.2",
+  text = [[
+ASTER:
+Excuse me. What are you doing in my
+house?
+
+TILIA:
+I followed some footprints here. Mr. Squid!
+
+
+ASTER:
+I'm afraid I have no idea what you're talking
+about. Please don't touch anything on
+your way out. Especially the bookshelf.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.3",
+  text = [[
+ASTER:
+Well. I suppose I've been caught. I am the
+Phantom Squid. The name is Aster. But
+please listen to me, for just a moment.
+ASTER:
+I'm from the village of Crabhook. It's
+a small fishing town to the West, but
+Eamon despises my people. While we once
+ASTER:
+traded freely with Goatshead, he's convinced
+merchants to fake records to cheat us. He's
+passing laws to tax us into starvation, and
+ASTER:
+my people are struggling to make a living.
+I won't pretend I'm perfect, but my cause
+is a good one. Will you help me?
+TILIA:
+$? I'll side with you
+$? I'm turning you in.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.4",
+  text = [[
+TILIA:
+Whatever your story is, you've been breaking
+into people's houses and destroying things.
+People are terrified of you. Just because you
+TILIA:
+can talk like a hero doesn't make you one.
+
+
+ASTER:
+Fine then.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.5",
+  text = [[
+TILIA:
+Say I decide to help you out. What do
+you need?
+
+ASTER:
+I've been meeting with other people on the
+Merchants' Guild board. I have support, but
+they can't make changes while Eamon is in
+ASTER:
+control. From my nighttime... walks, I know
+Eamon has been stealing money from the
+guild. And I believe there are papers to
+ASTER:
+prove it in Guild headquarters. But, someone
+who looks like me, trying to poke around
+in there, I'll get caught. But you...
+TILIA:
+You want me to sneak into the Merchants'
+Guild and find some evidence to prove this
+Eamon guy is a crook? I can take a look.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.5andahalf",
+  text = [[
+TILIA:
+Say I decide to help you out. What do
+you need?
+
+ASTER:
+I've been meeting with other people on the
+Merchants' Guild board. I have support, but
+they can't make changes while Eamon is in
+ASTER:
+control. From my nighttime... walks, I know
+Eamon has been stealing money from the
+guild. And I believe there are papers to
+ASTER:
+prove it in Guild headquarters. But, someone
+who looks like me, trying to poke around
+in there, I'll get caught. But you...
+TILIA:
+Hold on a second, I think I actually found
+some papers like that already.
+
+ASTER:
+What? Come over here and let me see those!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.6",
+  text = [[
+ASTER:
+I know somewhere in the Merchants' Guild
+headquarters, there's evidence that Eamon
+has been stealing money from them. If we
+ASTER:
+can get that evidence, the people on the
+guild board who agree with me and help
+stop the guild from opressing my people.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7",
+  text = [[
+ASTER:
+Those papers... Tilia, this is exactly
+what we need! The people in the guild who
+will help me, they can remove Eamon from
+ASTER:
+power now, and we can start dismantling the
+structure that's been keeping Crabhook's
+people from succeeding! I'm going to-
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.2",
+  text = [[
+EAMON:
+Well well well, so the Squid man is just
+another lowlife from Crabhook. I should
+have guessed. Well, I did guess. But now
+EAMON:
+I've proven it. People from Crabhook are
+lawless. And foolish. I followed this
+woman you hired to burgle my papers.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.3",
+  text = [[
+ASTER:
+Eamon, your time abusing the people of
+Crabhook is over. The travel restrictions,
+the taxes, way you've kept the fruits of
+ASTER:
+our hard work in your own hands. I can
+prove it, and I have friends in the guild
+who will force you out.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.4",
+  text = [[
+EAMON:
+It doesn't matter what you can prove, fool.
+By right of the Barbell Battle Boyale, I
+control the town's guards. I'm unstoppable.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.7.5",
+  text = [[
+ASTER:
+This isn't good. the town guard are...
+well, they have this code passed down
+from long ago.
+TILIA:
+Is this going to explain the phrase
+Barbell Battle Boyale?
+
+ASTER:
+At any time, someone can challenge the
+Barbell Brutes, as they're called, to a
+contest of Strength. The winner of the
+ASTER:
+battle has the right to lead the guard.
+And it's called Boyale because they're
+all boys. It's dreadful.
+TILIA:
+I hate it. But if you can just beat them
+up and you're in charge, why don't you
+challenge them and take over?
+ASTER:
+I already have. Years ago. And I lost.
+One can only challenge the Brutes once
+in their life.
+TILIA:
+Then I'll go beat them up and tell them
+they have to stop taking orders from 
+Eamon. Where do I challenge them?
+ASTER:
+I appreciate this. Find them in a building
+next to the river, along the north edge
+of town. I'll meet you at the
+ASTER:
+Merchants' Guild building after.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.8",
+  text = [[
+ASTER:
+As long as Eamon controls the town guard,
+me and the people of Crabhook are in danger.
+If you can beat the Barbell Brutes at
+ASTER:
+their contest of strength, their rules
+mean you'll be their leader. If I could
+once again challenge them, I would...
+TILIA:
+Don't sweat it, Aster. I can beat up
+a bunch of idiots who think naming something
+the Barbell Battle Boyale is a good idea.
+ASTER:
+Good. I'll meet you at the Merchants'
+Guild building after.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.9",
+  text = [[
+ASTER:
+Some town guard just came by and apologized
+to me. I take it you managed to convince
+them to stop working for Eamon?
+TILIA:
+Yeah. Their game was dumb but I beat them
+at it. They won't stop you or people from
+Crabhook from joining the Merchants' Guild.
+ASTER:
+Excellent. Then I'm going to the Guild
+Headquarters to see that Eamon is out.
+You're welcome to meet me there. Oh,
+ASTER:
+one more thing. This is what Eamon should've
+paid you for bringing me in. I'm glad you
+took that job. Moreso you didn't finish it.
+(You received 200 crowns)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.brassico.1",
+  text = [[
+BRASSICO:
+Oh, Aster told me about you, you're helping
+him! Some man earlier lied about me not
+having papers to sell fruit, and pushed
+BRASSICO:
+me off the pier. I twisted my ankle,
+but Aster splinted it and made me some
+lunch.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.brassico.2",
+  text = [[
+BRASSICO:
+That Eamon guy is really scary. I'm glad
+there's people like Aster around to help
+people like me out when people like Eamon
+BRASSICO:
+urge people like the guy who pushed me off
+the pier to treat us like people who should
+be pushed off piers. Sorry, that was
+BRASSICO:
+probably one of the more confusing ways
+I could have worded that.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.brassico.4",
+  text = [[
+BRASSICO:
+Oh, hi! A guard came by and apologized to
+me, I guess you're in charge of them now?
+Anyway, Aster went to the Merchants' Guild.
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.got_away",
+  text = [[
+TILIA:
+Dang, that man is good at jumping through
+windows. He dropped some ink, maybe
+he'll have left some kind of trail...
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.phantom_squid.wait_for_him_question",
+  text = [[
+Wait here for the Phantom Squid?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.1",
+  text = [[
+PLUMBUM:
+Constant orders of helmets and shields for
+the town guard, that's all I get around here
+these days. Hm. That's Volunteer Navy armor
+PLUMBUM:
+you've got on isn't it? A little big... could
+use a few improvements, too. Tell you what, I
+can improve your armor for 50 crowns.
+TILIA:
+$?No thanks.
+$?That sounds great!
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.2",
+  text = [[
+PLUMBUM:
+That's the spirit! Let's get some more padding
+here, some chain link here... Done!
+
+(Your defense increased by 1)
+]],
+}
+
+dialog{
+  id = "_goatshead.npcs.plumbum.3",
+  text = [[
+PLUMBUM:
+To be honest, I'm not a fan of orders for
+the town guard. I like making nails. Tacks.
+Simple stuff. They call the guard the
+PLUMBUM:
+Barbell Brutes. The most brutal thing about
+them is the schedule they need for armor.
+]],
+}

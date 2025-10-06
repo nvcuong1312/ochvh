@@ -1,0 +1,1253 @@
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.1",
+  text = [[
+BENJAMIN:
+Oh, uh... hey. This is the Marsh Meadery.
+Are you looking to stock our mead for your
+tavern?
+TILIA:
+My family owns a tavern actually. But no.
+I'm hunting pirates right now.
+
+BENJAMIN:
+Oh, you're in the Volunteer Navy, aren't you?
+I, uh... Could you help me? My boss,
+Michael, wants me to get some Hornet
+BENJAMIN:
+Honey, but... The hornets are super dangerous.
+Not that I'm saying you shouldn't be
+careful. But if you happen to see any
+BENJAMIN:
+in the marsh, and I know you're busy, but if
+you see some Hornet Honey, could you
+bring it by? I'll pay you 45 crowns.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.2",
+  text = [[
+BENJAMIN:
+Oh, uh... hey. This is the Marsh Meadery.
+Are you looking to stock our mead for your
+tavern?
+TILIA:
+My family owns a tavern actually. But no.
+I'm hunting pirates right now.
+
+BENJAMIN:
+Oh, you're in the Volunteer Navy, aren't you?
+Could you lend me a hand? I need to get
+some Hornet Honey, but I'm super busy.
+BENJAMIN:
+I just took over the Meadery from the previous
+owner. If you happen by some Hornet Honey, I'll
+buy it for 60 crowns.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.3",
+  text = [[
+BENJAMIN:
+My boss is really hounding me to get
+some Hornet Honey. But I'm scared of the
+hornets. If you have some, I'll buy it.
+TILIA:
+I happened across some recently. Here.
+
+
+BENJAMIN:
+This is great! You aren't even stung, are
+you? Well, here.
+
+(You received 45 crowns)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.4",
+  text = [[
+BENJAMIN:
+I've been super busy -I just took over the
+meadery. I'd like to get some hornet honey
+for a new mead, but the hornets are scary.
+TILIA:
+I happened across some recently. Here.
+
+
+BENJAMIN:
+This is great! You aren't even stung, are
+you? Well, here.
+
+(You received 60 crowns)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.5",
+  text = [[
+BENJAMIN:
+Thanks for tracking down that honeycomb.
+I'm going to make some extra-strength
+mead!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.bone_buyer.1",
+  text = [[
+Eh? You look like you've seen your share of
+battles. Wasn't expectin' that. Well then
+maybe you've got some monster bones ye'd
+be willin' to sell? I'll pay 10 crowns each.
+(Sell him monster bones?)
+$? Sell him one
+$? Sell him 10
+$? Don't do it, he's weird
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.bone_buyer.2",
+  text = [[
+Much obliged. If ye've ever got more bones
+than yeh need, I'll be here.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.charging_pirate.1",
+  text = [[
+BRUTUS:
+Eh! What's about you doing in here?! You
+here to steal my Sea King's sword? 'Cause
+I found out it isn't the real one, so
+BRUTUS:
+joke's on you! Hahaha!
+
+
+TILIA:
+Uh, it's not on me, because I'm here to
+take back the sea charts you guys took
+from Kelpton.
+BRUTUS:
+Oh, so viliganty justice, huh? Well the
+joke's still on you, because those charts
+didn't even lead us to the Isle o' Storms!
+TILIA:
+That's not why I want them, so the joke
+still isn't-
+
+BRUTUS:
+Don't matter! I'm about to grind your
+dust into bones! Better start thinking
+what you want in your otibuary!
+TILIA:
+What?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.council_cutscene.1",
+  text = [[
+BLACKBEARD:
+...because I'm leaving. We've got what I
+think is the first real lead in a year on where
+exactly Ocean's Heart is. Some crew of
+BLACKBEARD:
+burglars on Oakhaven accidentally stumbled
+across a chart, they have no idea what it is.
+We'll see if they'll join the Council willingly.
+BRUTUS:
+No problem, boss. Are you planning on
+coming back here?
+
+BLACKBEARD:
+Nah. I'll head back to the hideout once
+I have the chart. Just need some rum for
+the journey.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.crabhook_ferry",
+  text = [[
+Lookin' to get to Crabhook Village? I'm goin'
+that way, I can take you for 10 crowns.
+
+
+(Sail to Crabhook Village?)
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.captain_1",
+  text = [[
+Hey! It's that girl I trapped in a cave
+earlier! She's obviously here for revenge.
+Get her!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.captain_2",
+  text = [[
+Ahhh!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.captain_3",
+  text = [[
+Alright! We get it! We won't mess with
+Carlov or Nina or... you? Who are you
+even? You know what, it doesn't even matter.
+You're off the messing-with list.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.guard",
+  text = [[
+Hey! You can't come through here. This is
+the top-secret base of the amazingly tough
+pirate crew called the Dream Cannons!
+We'll blow yours up if you mess with us!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dropoff_guys.1",
+  text = [[
+SAILOR:
+Ah, feels nice to have solid planks
+'neath me feet. Pirate Council will
+send you out to sea for the longest
+SAILOR:
+stretches when they're really looking
+for something.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dropoff_guys.2",
+  text = [[
+SAILOR:
+Ugh, gotta carry all these barrels
+to the Pirate Council's vault. Don't
+even know what's in most of 'em,
+SAILOR:
+we just had a contract to ship cargo
+from a few different pirate crews
+back here to the vault.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dropoff_guys.3",
+  text = [[
+SAILOR:
+Hey, don't be playing around in those
+barrels. We're busy carrying them into
+the Pirate Council's vault. Maybe
+SAILOR:
+just give us some space, eh? I'm
+trying to do figure out how to move
+all these.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.guts_buyer.1",
+  text = [[
+Hey, you look gutsy. I mean, like, covered
+in monster guts. You been slaying beasts?
+Sometimes their guts fall out when they die,
+which come in mighty handy for potions.
+Honestly they aren't bad just fried on a
+skewer. Anyway, I'll buy monster guts from
+you for 5 crowns a piece. Interested?
+
+(Sell him monster guts?)
+$? Sell him 1
+$? Sell him 10
+$? Hoard your guts
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.guts_buyer.2",
+  text = [[
+Mmm. Thanks. You feel the urge to
+trade any more, you find me, alright?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.1",
+  text = [[
+HONESTBEARD:
+Hey, I'm Captain Honestbeard. Everything
+I sell here has been obtained through
+100% legitimate means. Nothing shady
+HONESTBEARD:
+goes on here at all. Take a look around
+and see if there's anything you'd like.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.armor",
+  text = [[
+HONESTBEARD:
+That's some pretty good armor, I think it'll
+raise your defense by 2. Which will help,
+but is no guarentee that nobody will kill
+HONESTBEARD:
+you and sell your armor. Just 150 crowns!
+$? Buy it
+$? Nope
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.armor_tools",
+  text = [[
+HONESTBEARD:
+Those are tools for a master armorer. Imagine
+in the right hands, someone would use them
+to make some mighty fine armor. 250 crowns.
+HONESTBEARD:
+Will you be takin' them for 250 crowns?
+$?I'll take them
+$?Not today
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.bomb_arrow_quest",
+  text = [[
+HONESTBEARD:
+Captain Honestbeard's the name, and making
+an honest living is my game. How can I
+help you?
+TILIA:
+Oh actually, I found this, uh, receipt
+thing. I'm here to pick something up
+for Captain Thyme.
+HONESTBEARD:
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.candelabra",
+  text = [[
+HONESTBEARD:
+That's a candella... candleahbr...
+candle holder. You have any candles?
+
+TILIA:
+Nope. Probably gonna pass on this one then.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.coral_ore",
+  text = [[
+HONESTBEARD:
+That's a chunk of Coral Ore. A blacksmith
+could turn that into an upgrade for your
+sword or bow. I'll sell it for 120 crowns.
+HONESTBEARD:
+You interested?
+$? Buy it
+$? Not now
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.magic_books",
+  text = [[
+HONESTBEARD:
+Those are some books about black
+magic. They uh, totally work. I turned
+someone into a newt. 200 crowns.
+TILIA:
+I'm not a big fan of newts, actually.
+No thanks.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.out_of_coral",
+  text = [[
+HONESTBEARD:
+We're all out of that item, matey.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.pot",
+  text = [[
+HONESTBEARD:
+That's a hot pot of shallot soup. It turns
+your breath so bad that nobody will talk
+to you. Great for introverts. 30 crowns.
+TILIA:
+I've actually found talking to people
+pretty helpful for what I'm trying to do,
+so, no thanks.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.shoes",
+  text = [[
+HONESTBEARD:
+That's a pair of magic shoes that can
+never be untied. You'd never trip on the
+laces. Just 50 crowns.
+TILIA:
+If you can't untie them, how do you get
+them on?
+
+HONESTBEARD:
+I, uh... huh. Dunno.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.statues",
+  text = [[
+HONESTBEARD:
+That's some weird statue I found, seen a
+few of them around, think they depict some
+diety from the Zephyr empire. Creeps me out.
+TILIA:
+Me too, actually.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.weapons",
+  text = [[
+HONESTBEARD:
+Oh, those weapons aren't actually for
+sale. Just use them in case ruffians run
+up on me to shoplift.
+TILIA:
+You use all three of these weapons
+in that situation?
+
+HONESTBEARD:
+All three.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.hornigold.1",
+  text = [[
+SAILOR:
+Ah, sorry lass, I was lost in thought and
+didnae see yeh there. You happen to see
+a big galleon comin' into port? Carrying
+SAILOR:
+a bunch of loot they're gonna be moving
+to the Pirate Council's Vault? That big
+stone building, that is. It's the council's.
+TILIA:
+I didn't see anything like that. I don't
+know much about the Pirate Council, but I
+don't think they're up to any good anyway.
+SAILOR:
+Ahaha! The Pirate Council is a bunch of
+pirate captains. Blackbeard is trying to
+get them all together so they won't be
+SAILOR:
+fighting each other$1...$3 But, well...
+Between you and me, Blackbeard might be
+tryin' to get too much power. He's got
+SAILOR:
+the council's crews all lookin' for some
+magic treasure or somethin'. I don't$1...$3
+Don't honestly know if he's up to much
+SAILOR:
+of anything good meself anymore either.
+
+
+TILIA:
+So, you sound like you're involved in that
+or something? That's not just an unrelated
+person's thoughts on pirate politics, is it?
+SAILOR:
+Ahahaha, oh look at me. Yeah, lost in
+thought I am. Anyway, I gotta get goin'!
+Lots of ships comin' in today.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.0",
+  text = [[
+KELPTON:
+Can I help you? Looking for any sea charts
+in particular?
+
+TILIA:
+No, just browsing I guess.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.1",
+  text = [[
+KELPTON:
+Can I help you? Need a chart of something
+in particular?
+
+TILIA:
+Maybe. I heard a while ago, a man came in
+here asking about the Hourglass Crew. He
+was tall, had a beard...
+KELPTON:
+Oh, fellow called Mallow, yeah? I remember.
+He had a hurt leg when he showed up in
+Ballast Harbor, but helped me out of a spot.
+TILIA:
+DO YOU$1...$3 Do you know where he went?
+
+
+KELPTON:
+Well you seem anxious to find him. Look, he
+saved me from some Pirate Council guys
+he was investigating. I owe him one... but I
+KELPTON:
+don't owe you nothing. Ballast Harbor is a
+pirate market. You've gotta pay for
+information.
+TILIA:
+What do you want?
+
+
+KELPTON:
+I need a favor. These Pirate Council guys,
+they sent some heavys in here and took a
+bunch of my charts. I want them back. As
+KELPTON:
+best I can figure, they're somewhere in the
+Pirate Council's Vault. It's that big stone
+building. The captains in the pirate council
+KELPTON:
+used to use it to keep really big hauls
+safe, but lately they're collecting some
+weird stuff in there. My charts are in
+KELPTON:
+a green trunk. If you could sneak in, get
+my charts, and bring them back to me,
+I'd be so impressed that I would give you
+KELPTON:
+some very, very interesting information
+about this Mallow guy.
+
+TILIA:
+No problem. I can get your charts back.
+
+
+KELPTON:
+I hear the pirates are sailing in with a
+haul of loot. Maybe check around there.
+To find a way into the Vault.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.2",
+  text = [[
+KELPTON:
+You back already? From getting my sea
+charts out of my green trunk?
+
+TILIA:
+No, they're still in the Pirate Council's
+vault. But I'm figuring it out.
+
+KELPTON:
+I hear the pirates are sailing into port
+with a haul of loot. Might be worth lookin'
+into.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.3",
+  text = [[
+KELPTON:
+You back with my sea charts?
+
+
+TILIA:
+I have them. Here. So, what can you tell me
+about Mallow? Where did he go?
+
+KELPTON:
+Alright, here's the low-down. This guy comes
+into my shop a while ago, asking about the
+Pirate Council. Trying to figure out what
+KELPTON:
+their agenda is. Cannonballs if I know. I
+know it ain't just to unite all the pirate
+crews, even if that's part of it. Anyway,
+KELPTON:
+before we get to talking even, who comes
+through the door but Council thugs. To
+either take charts from me, or break bones.
+KELPTON:
+Mallow, this guy, he chases them off, then
+goes and spies on the council meeting. Guess
+he got caught, because he comes back to me
+KELPTON:
+with a gash on his leg. I stitched him up
+like I would a torn map, then he left. But
+he accidentally left this key here. I guess
+KELPTON:
+it seemed important, so I kept it. But I
+have no idea where it goes. If you ever
+find him, give it back I guess.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.4",
+  text = [[
+KELPTON:
+You ever figure out where that key goes to?
+Eh. Good luck.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.5",
+  text = [[
+KELPTON:
+In the market for some sea charts? I've got
+great charts for the Isle of Lobb, or maybe...
+hey! Those charts you got, did you get
+KELPTON:
+those from the pirate council building?
+Those cannonheads stole those from me
+after that Mallow guy came in here!
+TILIA:
+Wait, you've met Mallow?! I'm looking
+for him, he's my dad!
+
+KELPTON:
+Well, that's lucky. He's a good man. Look,
+I got a trade for you. Give me those charts,
+I'll give you this key Mallow left with me.
+TILIA:
+Sure. What does the key go to?
+
+
+KELPTON:
+No idea. Mallow forgot it here and it
+seemed important, so I held onto it. If
+you catch up to him, give it back I guess.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.1",
+  text = [[
+I heard the pirate council uses this building
+for storage, so I've been waiting to catch a
+glimpse of Blackbeard! But no famous
+captains have come in or out...
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.2",
+  text = [[
+Hey, I've got all the best spices here. You
+want cardamom? I've got cardamom. Need
+cloves? Have 'em. Looking for turmeric?
+I'll give you tumeric! I have the spices!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.3",
+  text = [[
+So you've probably heard you can't trust snake
+oil salesmen. And I'll grant you that. But have
+you tried fish oil? Imported from the exotic
+Zephyr Empire, it can cure anything!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.4",
+  text = [[
+EXOTIC APPLE SALESMAN:
+Lookin' fer the perfect pick-me up? ...Suppose
+the perfect one is whisky. But I've got apples
+from the mayor's orchard in Oakhaven.
+EXOTIC APPLE SALESMAN:
+Interested? Each is 8 crowns, heals two hearts.
+$? Sure
+$? No thanks
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.5",
+  text = [[
+You've really got to stay on top of
+sweeping up gunpowder. Learned that
+one the hard way.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.6",
+  text = [[
+Tryin' to ward off scurvy? I've got apples
+here, right from the mayor's personal
+orchard in Oakhaven. Don't ask how we got
+'em, it was a difficult process.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.7",
+  text = [[
+Ballast Harbor is a pirate market. Pirates
+from all across the North Sea come here to
+peddle their ill-gotten gains. It's the
+right place if you're looking for some
+strange items, choice information, or
+rare trading cards. I'm here for the
+third category.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.8",
+  text = [[
+The Pirate Council's vault is on the
+outskirts of town- crews that have joined
+have been stashing treasure in there, so
+it's guarded pretty heavily. But I bet if
+I had maybe nine... ten other people, I
+could pull off the heist of the century.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.9",
+  text = [[
+Since this is a pirate market, you can find
+things here you can't buy anywhere else.
+I'm a chef in Oakhaven, I'm here looking
+for some... ilicit vegetables.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.arrows_no_bow",
+  text = [[
+I'm selling arrows. It doesn't look like you
+have a bow, so maybe you could use them
+as like, shish kebab... you know what,
+nevermind. Come back when you have a bow.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.blacksmith_hammering",
+  text = [[
+BLACKSMITH:
+I'm just the muscle of this operation. If you
+want some weapon work, talk to my partner.
+He's also the muscle, but he's slacking off
+BLACKSMITH:
+so I'm gonna say he has to do the customer
+service stuff.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.shop",
+  text = [[
+Need to do some shopping, love?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.michael.1",
+  text = [[
+MICHAEL THE MEAD MAKER:
+I am Michael, the Mightiest Mead Maker!
+And this is Marsh Meadery! Do you have
+any proof?
+TILIA:
+$1Any...$3 any proof of what now?
+
+
+MICHAEL THE MEAD MAKER:
+I thought not! Now scramble off, puny girl!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.michael.2",
+  text = [[
+MICHAEL THE MEAD MAKER:
+I am Michael, the Mightiest Mead Maker!
+And this is Marsh Meadery! Do you have
+any proof?
+TILIA:
+Wait, do you already know why I'm here?
+
+
+MICHAEL THE MEAD MAKER:
+$1Uh, ha... ha... ha... $3No. Why would I?
+
+
+TILIA:
+I'm trying to figure out who lured monsters
+to Briarwood Distillery's mushroom picking
+spot. You seem kind of guilty.
+MICHAEL THE MEAD MAKER:
+No I didn't. I mean I don't.
+
+
+TILIA:
+So you had someone put the bait there
+to keep them away, or were you hoping the
+monsters would kill them?
+MICHAEL THE MEAD MAKER:
+Look, I don't know if you've dealt with
+illegitimate alcohol makers before, but we
+don't negotiate! You're going down!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.michael.3",
+  text = [[
+MICHAEL THE MEAD MAKER:
+I am Michael, the Mightiest Mead Maker!
+And this is Marsh Meadery! Do you have
+any proof?
+TILIA:
+Wait, do you already know why I'm here?
+
+
+MICHAEL THE MEAD MAKER:
+$1Uh, ha... ha... ha... $3No. Why would I?
+
+
+TILIA:
+I'm trying to figure out who lured monsters
+to Briarwood Distillery's mushroom picking
+spot. You seem kind of guilty.
+MICHAEL THE MEAD MAKER:
+No I didn't. I mean I don't.
+
+
+TILIA:
+So you had someone put the bait there
+to keep them away, or were you hoping the
+monsters would kill them?
+MICHAEL THE MEAD MAKER:
+Look, I don't know if you've dealt with
+illegitimate alcohol makers before, but...
+
+MICHAEL THE MEAD MAKER:
+$1Wait...$3 You're the one who took down
+Beetle-Eyed Bartholemy, aren't you...
+You're going down, kiddo!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.1",
+  text = [[
+???:
+$1...$3so you're saying this is the
+Sword of the Sea King? I'm a little
+skeptical, Brutus.
+SOMEONE WHO MUST BE BRUTUS:
+That's what me guys said, is that it is.
+Pulled it from the ruins on Yarrowmouth,
+where they say the Bear Warriors dueled
+SOMEONE WHO MUST BE BRUTUS:
+with the Sea King. Or, well, we didn't,
+but we stole it from someone who said
+that's where it's from, Mr. Beard.
+???:
+It's not Mr$1...$3 You can just call me
+Blackbeard.
+
+(You should probably climb out of this
+barrel if you want to see what's going
+on.)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.2",
+  text = [[
+BRUTUS:
+Yessir, Mr. Blackbeard. But the people
+what who we stole this from swore up and
+backward it was the Sea King sword.
+BLACKBEARD:
+The Sword of the Sea King is blessed by
+the Ocean. It can cut through any armor
+and break curses. Let me see this blade.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.3",
+  text = [[
+BLACKBEARD:
+It's a fake. But the good news is that the
+real one is lost forever. Once we get the
+Ocean's Heart, the sword of the Sea King
+BLACKBEARD:
+might be one of the few things that could
+stand against us. Anyway, while I'm here,
+I have a job for you, Gavrillo.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.4",
+  text = [[
+GAVRILLO:
+What do you want, boss?
+
+
+BLACKBEARD:
+Our old friend, Captain Thyme, has decided
+to leave the Pirate Council. He's gone into
+hiding. I don't know where his hideout is,
+BLACKBEARD:
+but I want you to track him down. He knows
+what happens when you leave the Pirate
+Council.
+GAVRILLO:
+You got it, boss.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.5",
+  text = [[
+BLACKBEARD:
+I have some business on Oakhaven. We've
+heard a small crew of burglars found a chart
+that might show the Isle of Storms. If that's
+BLACKBEARD:
+true, then we might be able to find the
+Ocean's Heart very soon.
+
+BRUTUS:
+I'd be estastic. We been lookin' for this
+conflangeld thing forever.
+
+BLACKBEARD:
+Being able to control the sea will be worth
+it, Brutus.
+
+BRUTUS:
+Aye aye, Mr. Beard.
+
+
+BLACKBEARD:
+It's not$1...$3
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.1",
+  text = [[
+PROMETHEUS JONES:
+Heey! Welcome to my invention shop. So,
+this is gonna sound super weird, but do
+you have a flail? Like, a ball and chain?
+TILIA:
+I'm sorry, no?
+
+
+PROMETHEUS JONES:
+Well that's too bad! See, I have a one
+track mind for inventing. And what I want
+to make, is a flail that just freaking
+PROMETHEUS JONES:
+explodes. Like, everything it hits. Bam!
+It'd be real dangerous. A bad idea! Bam!
+But, well. I don't have one.
+TILIA:
+Sounds like a serious issue. I'll let you
+know if I happen across one.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.2",
+  text = [[
+PROMETHEUS JONES:
+Heey! Welcome to my invention shop. So,
+this is gonna sound super weird, but do
+you have a flail? Like, a ball and chain?
+TILIA:
+Uh, yeah, I do actually.
+
+
+PROMETHEUS JONES:
+No way! See, I have this idea! It's like,
+it's that. But it explodes! Bam! Everything
+it touches, it just causes an explosion.
+TILIA:
+That sounds like a really bad, really
+dangerous idea.
+
+PROMETHEUS JONES:
+Yeah, you'd probably just hurt yourself!
+Want me to do it? I can change it back
+later if you want?
+(Upgrade, er... change your flail?)
+TILIA:
+$?Sign me up!
+$?No, I want to keep all my fingers??
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.dont_do_it",
+  text = [[
+PROMETHUS JONES:
+Yeah, I understand. I mean, I actually
+don't. Explosions are super cool. But hey,
+you want to not die. Fine. I get it. Ugh.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.downgrade_choice",
+  text = [[
+PROMETHEUS JONES:
+Hey! It's exploding flail lady! How is
+the exploding flail treating you?
+
+TILIA:
+I mean... it's a lot.
+
+
+PROMETHEUS JONES:
+Right! It's probably way worse for anything
+practical than just a normal flail! It's
+suuuuuper cool. Man, just fire everywhere.
+PROMETHEUS JONES:
+Soooo... you don't want me to change it
+back, do you?
+
+(Change it back?)
+TILIA:
+$?Please, it's so bad, change it back.
+$?No way, I'm a demolitions expert!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.make_explode",
+  text = [[
+PROMETHEUS JONES:
+Yeah yeah yeah! Alright, check it out!
+
+
+(This guy did some weird science stuff
+to your flail)
+
+
+PROMETHEUS JONES:
+Now it'll just explode when it hits walls
+and stuff. Not enemies. That won't make
+it blow up. But yeah! Boom, man!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.stay_exploding",
+  text = [[
+PROMETHEUS JONES:
+Yeah, yeah, alright, awesome!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.1",
+  text = [[
+Ey, you seen me mate? He's a geologist
+type, doesn't know how much to drink.
+We was just celebrating gettin' back from
+Goathead isle and he wandert off. Well,
+maybe he went to bed. Good for him,
+the rocky lad.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.2",
+  text = [[
+You know what I just heard? They say
+there's a crew of art thieves in this town-
+they're supposed to have a hidden hideout.
+Well, I suppose all hideouts are hidden...
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.3",
+  text = [[
+Ballast Harbor is a pirate market, and
+I suppose that makes it immoral in one
+way or another to be shopping here.
+But on the other hand, if I don't buy such
+cheap goods, then they'll have been stolen
+for no reason at all, which is really worse
+when you think about it. Right?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.4",
+  text = [[
+Have you been to Honestbeard's
+Emporium? The deals there are great!
+But between you and me$1..... $3I don't
+think he's as honest as he says he is.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.5",
+  text = [[
+You get a nice cross-section of unsavory
+sorts here. It can really make you appreciate
+how decent your friends are, even if they're
+dishonest bilge-lizards... Oh, but yeah, this
+is an inn also. The rooms aren't much, but
+they'll bring your health back up if you're
+hurt.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.6",
+  text = [[
+Keep this on the down-low, but my crew was
+just wiped out by the pirate council. See,
+they're trying to amass a giant force of pirates,
+because they need help going after some old
+treasure of some sort. We didn't want to join,
+so they sank our ship!... Makes me wonder,
+though, why would they need so many pirates
+to go after some treasure? It's that dangerous?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.lost_pirate_1",
+  text = [[
+TIPSY PIRATE:
+I can't... what is going on here? *hic*
+This key is useless! It must be shaped
+like a.... different key or something,
+TIPSY PIRATE:
+that's no good. How will I sleep? Where
+can I sleep without a bed?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.lost_pirate_2",
+  text = [[
+$1...zzz.....
+
+
+
+$3(He seems to have fallen asleep
+standing up.)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.charts.1",
+  text = [[
+There's a chart of the waters around
+some islands in the Zephyr empire.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.charts.2",
+  text = [[
+Various maps and charts are stacked
+in kind of a mess.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.charts.3",
+  text = [[
+How to read a map:
+Open the menu to see your map. To determine
+your location, search for landmarks you
+can see, such as coastlines, bridges,
+or towns, and try to find corresponding
+areas shown on the map. Keep in mind,
+not everything is shown on a map.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.1",
+  text = [[
+The book is fraying at the binding. A
+passage is highlighted: "The Ocean's
+Heart belonged to the king. The tides
+and storms favored him. The beasts of the
+deep would heed his call and the waves
+rolled where he directed. The king used his
+favor to grow his kingdom and protect his
+people at first, but he grew complacent."
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.2",
+  text = [[
+There's a letter from some pirate captain,
+wanting help. It says colonies from the
+Zeyphr empire are trying to oust the
+pirates from an... archeological site?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.3",
+  text = [[
+Someone is going through a stack of books
+about the ancient Meurian Kingdom and
+taking notes... it looks like they're
+guessing locations of the king's palace.
+]],
+}

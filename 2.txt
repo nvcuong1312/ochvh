@@ -1,0 +1,983 @@
+dialog{
+  id = "_ballast_harbor.observations.council_book.4",
+  text = [[
+There's a map of the northern seas. Lots
+of spots are marked$1...$3 including your
+hometown on Limestone Island...
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.5",
+  text = [[
+There's a map of Goatshead Island. A
+note by "Zephyr Bay" says the Sea-King
+visited once and lit a lighthouse.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.6",
+  text = [[
+The book describes an ancient kingdom...
+"It's said the Sea King was so enamored
+by the ocean, he sailed to its very
+center and confessed his love to her in
+a song. Charmed by his respect for her,
+the Ocean invited him into her depths
+and gave him her heart. At first, he
+wielded her power as a wise king..."
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.7",
+  text = [[
+It's a dusty book about the Meurian King.
+"Seeing her powers used selfishly, the
+Ocean asked the king if she might visit
+him. Arrogantly, he agreed. With all her
+waves and storms, the Ocean arrived in
+his palace and dragged the king down
+to the seabed, along with her heart. The
+kingdom collapsed in the flood."
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.armor_1",
+  text = [[
+Huh. It's a suit of armor made for the
+Goatshead Harbor guards. Wonder why
+it's here.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.armor_2",
+  text = [[
+There's a suit of shiny metal armor. It
+doesn't look very practical for naval
+battles.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.blackbeard_1",
+  text = [[
+It appears to be the pirate Blackbeard's
+journal! He's supposed to be a legendary
+pirate captain. What's he writing?...
+
+There's a list of archeological sites he
+has to visit... There's a memo about not
+paying for charts that don't relate to
+Ocean's Heart or the Meurian King...
+Huh. There's a lot more archeology and a
+lot less bloodlust than you'd expect.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.inn_table",
+  text = [[
+The table seems to have sustained some
+damage.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.inviting_barrel",
+  text = [[
+This barrel looks really inviting. If you
+climbed in and closed the lid, you might
+just get scooped up and carried into the
+Pirate Council's vault with the other cargo.
+Climb into the barrel?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.old_spruce_shrine_leave_dialog",
+  text = [[
+There's a location marked on the chart
+here. Take the boat and sail there?
+$? Set sail
+$? Nope
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.old_spruce_shrine_return",
+  text = [[
+Exit Willow Palace and sail back
+to Ballast Harbor?
+$?Set sail
+$?Stay here
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.outdoor_charts",
+  text = [[
+A bunch of rolled up sea charts. It looks
+like they keep the cheaper ones outside.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.outdoor_charts_2",
+  text = [[
+It's a map of the Zephyr Empire, waaay
+south of here. Judging by the number of
+dragons and giants depicted, it's accuracy
+may be in dispute.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.barrel",
+  text = [[
+It's the barrel you used to sneak in.
+Smells a little bit like you now.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.door_opened",
+  text = [[
+Sounds like several doors opened nearby.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.live_rock1",
+  text = [[
+Warning! The load of ore we stole was mixed
+in with a bunch of rock monsters! They've
+spread out all over the vault and resist
+swords. And bombs. Be careful.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.1",
+  text = [[
+There's a very fancy sword inlaid with
+gold laying on the table.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.2",
+  text = [[
+The board is covered with charts, notes,
+and yarn connecting things together...
+Interestingly, it seems to conflate the
+Sea King and a Captain P. Sylvia.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.4",
+  text = [[
+There are charts with archaic symbols and
+runes scrawled across them.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.pirate_vault.sword_room.5",
+  text = [[
+There's some charts, letters, sinister
+looking plans... also a word jumble.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.willow_palace_note",
+  text = [[
+There's a  old note laying by the skeleton.
+Willem- none of the fountains are running anymore.
+Shrine's sealed shut, even explosides can't get us
+inside. Even worse, there are monsters that- aack
+(It looks like whoever was writing this was killed,
+and wrote down their final cry of surprise.)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.charts",
+  text = [[
+Kelpton Sea Charts
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.directions_1",
+  text = [[
+East - Ballast Harbor Market
+West - Forest of Tides
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.dream_cannon_crew",
+  text = [[
+Top-Secret Hideout of the
+Dream Cannon Crew
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.emporium",
+  text = [[
+Honestbeard's Emporium
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.inn",
+  text = [[
+Sharkfire Tavern and Inn
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.signs.meadery",
+  text = [[
+Marsh Meadery
+]],
+}
+
+dialog{
+  id = "_blacksmith.1",
+  text = [[
+BLACKSMITH:
+You look like you'd enjoy hurting things more
+efficiently. With some Coral Ore and 50
+crowns, I can improve a sword or bow.
+(Improve your sword or bow for 50 crowns?)
+$? Sword
+$? Bow
+$? Neither
+]],
+}
+
+dialog{
+  id = "_blacksmith.2",
+  text = [[
+BLACKSMITH:
+Need a sharper sword? Bigger bow? If
+you have 50 crowns and some Coral Ore, I
+can beef up your battling.
+(Improve your sword or bow for 50 crowns?)
+$? Sword
+$? Bow
+$? Neither
+]],
+}
+
+dialog{
+  id = "_blacksmith.3",
+  text = [[
+BLACKSMITH:
+I don't know your first name, but it looks like
+your middle name is danger. How about
+upgrading your sword or bow with Coral Ore?
+(Improve your sword or bow for 50 crowns?)
+$? Sword
+$? Bow
+$? Neither
+]],
+}
+
+dialog{
+  id = "_blacksmith.maxed_out",
+  text = [[
+BLACKSMITH:
+Actually, looking closer, I don't think
+anyone could make this any stronger. This
+is a very fine weapon you have.
+]],
+}
+
+dialog{
+  id = "_crystal",
+  text = [[
+It looks like something might happen if
+you hit it with your sword. Just a
+feeling you get.
+]],
+}
+
+dialog{
+  id = "_endgame.basswood_1",
+  text = [[
+LINDEN:
+Dad?
+]],
+}
+
+dialog{
+  id = "_endgame.lily",
+  text = [[
+LILY:
+Hey. I hear the Pirate Council lost its
+captain. I think I know someone who could
+replace Blackbeard, and it's me.
+]],
+}
+
+dialog{
+  id = "_endgame.lily_2",
+  text = [[
+HORNIGOLD:
+...
+
+
+HORNIGOLD:
+Aye, I've a good feeling about you. Maybe
+let's see.
+]],
+}
+
+dialog{
+  id = "_endgame.oakhaven_1",
+  text = [[
+HAZEL:
+You're back! I knew you'd do it!
+
+
+TILIA:
+Are you ready to go home?
+]],
+}
+
+dialog{
+  id = "_fast_travel.already_here",
+  text = [[
+LILY:
+Tilia, that's where we already are.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_ballast_harbor",
+  text = [[
+LILY:
+Fancy meetin' you here, Tilia. You joining
+the pirate council? Ahaha, just kidding,
+I don't get pirate vibes from you.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_goatshead_harbor",
+  text = [[
+LILY:
+Hey, Tilia! We meet again. Just dropped a
+load of cargo off at the Marchants' Guild.
+Literally the most generic cargo.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_isle_of_storms",
+  text = [[
+LILY:
+I don't like this place, Tilia. Look, I'm
+sure you can take care of yourself, but
+I'm gonna be worried while you're here.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_ivystump",
+  text = [[
+LILY:
+Oh, we meet again! Dude, I can't get
+enough of the birdsong around here. And
+how does the whole town smell like apples?
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_kingsdown",
+  text = [[
+LILY:
+Now this kind of little cove, I could put
+down roots here. Just sleep in the sunshine
+all day.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_limestone_island",
+  text = [[
+LILY:
+Good to see you, Tilia. I just had a chat
+with that Juglan guy, always love bumping
+into him at ports.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_oakhaven",
+  text = [[
+LILY:
+Oh, Tilia! I thought I'd see you in Oakhaven
+someday. You like the big city? Personally,
+I hate it. Nobody leaves you alone.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_snapmast",
+  text = [[
+LILY:
+Ugh, this is miserable. The rain doesn't
+show any signs of letting up. Whenever you're
+ready to get outta here, let's skedaddle.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_spruce_head",
+  text = [[
+LILY:
+Well, well, well, if it isn't Tilia. I had
+a meeting about some cargo here, but the
+other guy never showed up.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_yarrowmouth",
+  text = [[
+LILY:
+Oh, it's you! I had a delivery to
+Yarrowmouth then decided I'd take a quick
+nap.
+]],
+}
+
+dialog{
+  id = "_fast_travel.location_zephyr_bay",
+  text = [[
+LILY:
+Hey, Tilia. Can't believe I never knew
+about this little island.
+]],
+}
+
+dialog{
+  id = "_fast_travel.ride_question",
+  text = [[
+LILY:
+Anyway, you want a ride somewhere?
+]],
+}
+
+dialog{
+  id = "_fast_travel.ride_question_new_chart",
+  text = [[
+LILY:
+Hey, you brought me a new chart? Right on!
+If you want to sail here, just let me know.
+Anyway, you want to get out of here?
+]],
+}
+
+dialog{
+  id = "_ferries.goatshead",
+  text = [[
+This is the ferry to Goatshead Harbor.
+The trip costs 10 crowns. Want a ticket?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_ferries.oakhaven",
+  text = [[
+This ferry is heading to Oakhaven.
+Passage is 10 crowns. Will you board?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_ferries.yarrowmouth",
+  text = [[
+Ferry to Yarrowmouth Island. You want on
+it's 10 crowns. Sound good?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.1",
+  text = [[
+BLACKBEARD:
+Well, looks like someone defeated the
+Witch's Ghost for me. Who are you, girl?
+Eh, actually I don't suppose it matters.
+BLACKBEARD:
+As long as you stay out of my way, you
+don't need to worry about my killing you,
+you've saved me some time with the ghost.
+BLACKBEARD:
+Looks like she was trying to use that sword
+of yours to place a magic seal on this tomb.
+Let's see if she's hiding what I think she is.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.2",
+  text = [[
+BLACKBEARD:
+Well well. So the witch Ophira remembered
+the forgotten god. Then the Sea King knew
+it as well. If I'm right...
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.3",
+  text = [[
+BLACKBEARD:
+It's more than just the powers of the sea
+that I'm after then. This is just the first
+step to divinity...
+BLACKBEARD:
+Oh, you're still here? Where did you come
+from again? Eh, doesn't matter, you're not
+important to me. Stay safe, kid.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.heheheh",
+  text = [[
+BLACKBEARD:
+Where did your power come from, Ophira?
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.blackbeard.to_be_contd",
+  text = [[
+
+          To Be Continued...
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.1",
+  text = [[
+BOMBINO:
+Oh, ah, hey! I saw you coming through the
+thicket, you can like, you're actually
+managing to get through the monsters!
+TILIA:
+Yeah, fighting monsters is kind of what
+I do. Also I have a sword, which it seems
+like you don't, so...
+BOMBINO:
+That's true, I don't! I've made a mistake
+coming here! In fact, I'm kind of pinned
+down here, just out of reach of those
+BOMBINO:
+Arborgeists' roots. I'd love to leave,
+but some goblins stole my backpack and
+threw it up just north of here.
+TILIA:
+You want me to get your backpack? I find
+myself helping people like this a lot.
+I can get it.
+BOMBINO:
+Ah, I mean, if you're okay with that!
+I'd really appreciate it. 
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.1.2",
+  text = [[
+BOMBINO:
+It's really not my fault that I'm stuck
+here. Goblins have been stealing all kinds
+of things. I think it's because somebody's
+BOMBINO:
+messing with like, the old tombs or ruins.
+That'd make the ghosts angry!
+
+TILIA:
+Yeah, I heard there were some ghost
+problems around here.
+
+BOMBINO:
+There are! A sailor told me there used
+to be a Witch Queen that lived on this
+island, and her spirit gets mad.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.2",
+  text = [[
+BOMBINO:
+Hey! That's my backpack! Do you think, if
+you want, could you bring it over here to
+me? I'm trapped by the monster trees.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.3",
+  text = [[
+BOMBINO:
+You got my backpack! I owe you, uh, maybe
+not my whole life, but... I guess in this
+case my backpack? That doesn't make sense.
+TILIA:
+Don't worry about figuring out the exact
+value of me helping you, okay.
+
+BOMBINO:
+Phew, thanks. I'm not great at math. I
+am something of a demolitions expert
+though! Here, take these!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.bombino.4",
+  text = [[
+BOMBINO:
+Bombs can destroy cracked blocks no probs.
+If they're not cracked, you gotta push or
+lift them, if you get strong enough.
+BOMBINO:
+Well, I've gotta get back to town. If
+you want to buy some more bombs, I sell
+'em at the shop! Thanks, woods lady!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.elder.1",
+  text = [[
+VILLAGE ELDER:
+Well, you're a new face. What brings you
+to Fykonos Island?
+
+TILIA:
+A shipwreck, actually. I woke up on the
+beach and all my stuff was stolen too.
+
+VILLAGE ELDER:
+Ah, sounds like the earth spirits. Some
+pirates have been disturbing the sacred
+places. The Witch's Ghost has been seen.
+TILIA:
+Sorry, ghosts stole my equipment? Is that
+just a normal thing to say in this
+town?
+VILLAGE ELDER:
+Oh, not normal at all. Normally the
+Witch's Ghost is contained to the tomb
+east of the beach. But it seems the
+VILLAGE ELDER:
+pirates' activities have disturbed her
+and riled up her earth spirits. Until we
+solve this problem, we're closing the
+VILLAGE ELDER:
+ferry to all travelers...
+...$3You wouldn't be interested in helping
+us solve our ghost problem, would you?
+TILIA:
+Well, solving these kind of problems seems
+to have become kinda my thing. What does
+it involve?
+VILLAGE ELDER:
+You'll have to find a way into the sealed
+tomb and fight the Witch's Ghost. I think
+that will calm things down.
+TILIA:
+If you say so. Also I was shipwrecked
+here and if the ferry isn't running, you
+really aren't leaving me much choice.
+VILLAGE ELDER:
+All I'm saying is I'd really appreciate
+help with this. Here, take this sword.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.elder.2",
+  text = [[
+VILLAGE ELDER:
+You'll need to find a way into the
+Sealed Tomb east of the beach. I'm not
+sure how to get in there, but if you
+VILLAGE ELDER:
+explore the island, I'm sure you'll find
+something that'll help you get in. Maybe
+even some of the equipment the spirits took!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.elder.3",
+  text = [[
+VILLAGE ELDER:
+Aha, freed our island from the curse of
+the Witch's Ghost, did you? Eheheheh,
+and you found your sword. Good think I
+VILLAGE ELDER:
+convinced you to help us out, isn't it?
+
+
+TILIA:
+Again, I really had no choice, since
+I have been trapped here. But yeah, I
+guess I'm glad your town isn't being
+TILIA:
+plagued by ghosts or whatever anymore.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.goatshead_messenger.1",
+  text = [[
+MESSENGER:
+Hey! ...huff, huff. I've been looking
+everywhere for you. When you came into
+town, you were the thirtieth person to
+MESSENGER:
+come into town today. There was a contest,
+one of those morning show types. The
+thirtieth person to come through the
+MESSENGER:
+gates wins a ticket to Fykonos Isle.
+It's like a, it's one of those vacation
+spots.
+TILIA:
+Wait, I just won passage on a ship for
+walking into town?
+
+MESSENGER:
+Yeah, it's a bit weird. Don't think about
+it too much, that's not really the point.
+It's kind of just an excuse for the demo.
+TILIA:
+I'll agree not to break the fourth wall
+if you don't anymore.
+
+MESSENGER:
+Sounds good. Sorry the justification is
+so thin. It's not usually like that around
+here. Anyway, here's the ticket.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.goatshead_messenger.2",
+  text = [[
+MESSENGER:
+Well, I gotta get going. Have a good trip!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.goatshead_messenger.4",
+  text = [[
+MESSENGER:
+Puff, huff. Whoo. Running around made
+me super tired. Anyway, check the pier
+for the ship to use that ticket.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.1",
+  text = [[
+INAUSPICIOUS-LOOKING CAPTAIN:
+Hey! You here to catch the ferry to
+Fykonos Island?
+
+TILIA:
+Yeah, I've got a ticket, do you like,
+you want this? Rip it in half?
+
+INAUSPICIOUS-LOOKING CAPTAIN:
+Nah, you're good. Hop on board! We're
+about to head out!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.been_attack",
+  text = [[
+INAUSPICIOUS-LOOKING CAPTAIN:
+Hey! I sure hope you can help, the ship
+is under attack! Some kinda monster!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.oakhaven_normal_ferry",
+  text = [[
+INAUSPICIOUS-LOOKING CAPTAIN:
+O-oh! Hey, I wanted to say sorry I lost
+track of you during the shipwreck. I
+repaired her though, shipshape again!
+INAUSPICIOUS-LOOKING CAPTAIN:
+Want to head over to Fykonos Island then?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.real_game_dialog",
+  text = [[
+INAUSPICIOUS-LOOKING CAPTAIN:
+Oh hey, you here to catch the ferry to
+Fykonos Island? I'm doing a special, no
+fare ferry, because, uh, well
+INAUSPICIOUS-LOOKING CAPTAIN:
+business hasn't been great since all the$1...
+ghost...$3 attacks. So I'm doing a promo
+to advertise the ferry service! Want in?
+(Sail to Fykonos Island?)
+$?Weigh anchor
+$?I'll stay here, thanks
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.max.real_game_dialog_2",
+  text = [[
+INAUSPICIOUS LOOKING CAPTAIN:
+Right on! Climb aboard!
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.orchard.andei.1",
+  text = [[
+ANDEI:
+Hey, welcome to my orchard. We grow buncha
+different varieties of oranges. But you
+know, oranges don't give you health the
+ANDEI:
+way apples do. So not so good for an
+adventurer like you. Still, make some
+great juice.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.orchard.andei.2",
+  text = [[
+ANDEI:
+Welcome to my orchard. You... wait a second,
+you're Tilia, from my daughter's letter.
+You help her scam buncha money from that
+ANDEI:
+tic tac toe contest! You have no idea,
+that money really help the orchard out.
+My boat was broken in a shipwreck, now
+ANDEI:
+I get it completely repaired. It's all
+thanks to you and Aubrey getting away
+with that money.
+TILIA:
+Woah, I mean, don't put me in the same
+category- I didn't help her steal it.
+I just didn't stop her very effectively.
+ANDEI:
+We were gonna go out of business with no
+boat, but now we're doing good business.
+I sent a buncha money back to the
+ANDEI:
+tic tac guy, because even though tic tac
+toe is a coward's sport, I always pay back
+unintentional loans. This is  for the heist!
+(You received 200 crowns)
+(for being involved in a heist)
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.1",
+  text = [[
+WOMAN:
+They say that sunflowers repel malicious
+spirits. That's why they keep them around
+doors and windows.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.2",
+  text = [[
+WOMAN:
+Across the bridge to the west there's a
+darling orange orchard. North of that is
+the Witchthicket. They say in ancient times,
+WOMAN:
+the witch that lived on the island cursed
+it to protect it from invaders.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.4",
+  text = [[
+LOUNGING MAN:
+Out east of here there's a statue garden.
+If you push or pull on them, you can
+actually scoot them around. If you're,
+LOUNGING MAN:
+looking for some kind of statutory
+workout or something. Is that how you
+use the word "statutory"?
+TILIA:
+I don't think so. But thanks for the
+tip anyway, I guess.
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.5",
+  text = [[
+NERVOUS WOMAN:
+Hmm, did you hear the ferry isn't running?
+We're... well effectively we're all trapped
+on this island. There's a fortress of
+NERVOUS WOMAN:
+pirates on the Northeast side of the island.
+Who knows what they're up to? I heard
+they've ties to the pirate Blackbeard, even...
+]],
+}
+
+dialog{
+  id = "_fykonos.npcs.village.6",
+  text = [[
+WOMAN:
+If you're feeling tired, or low on health
+for example, come on inn! Ahaha, get it?
+Anyway, staying here will heal you.
+]],
+}
