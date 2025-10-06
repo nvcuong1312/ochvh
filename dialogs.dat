@@ -8262,3 +8262,1131 @@ Thường là màu xanh lam hoặc tím.
 dễ dàng giết chết nhà thực vật học bất cẩn. Hãy cẩn thận.
 ]],
 }
+
+dialog{
+  id = "_new_limestone_island.observations.sea_hag",
+  text = [[
+TILIA:
+Đương nhiên rồi, có một con quái vật to lớn đang ẩn nấp
+giữa tôi và lối thoát của mình. Chà, tôi muốn
+gia nhập Hải quân Tình nguyện, và việc giải quyết
+TILIA:
+mấy thứ kinh tởm này là một phần của điều đó.
+Tôi có thể xử lý chuyện này. Cô làm được mà, Tilia.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.tavern_notice",
+  text = [[
+Việc vặt tuần này:
+Quét nhà - Linden
+Rửa bát - Tilia
+Cân đối sổ sách! - Bố
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.tilia_books",
+  text = [[
+Cô đã đọc nhiều sách khác nhau về
+theo dõi dấu vết và định hướng. Cũng có một vài
+bản đồ của các hòn đảo lân cận.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.tilia_list",
+  text = [[
+Đó là danh sách việc cần làm mà cô đã lập, những thứ cô muốn
+hoàn thành trước khi rời đi để tìm bố mình.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.trapped_in_stash",
+  text = [[
+TILIA:
+Đó có phải là một trận động đất không? Một vụ nổ? Thật may là
+nó đã không xảy ra khi tôi đang băng qua,
+nhưng nghe có vẻ như là sập hang
+TILIA:
+ngay phía sau lối vào... Chà, tôi nghĩ
+có một lối ra khác ở sâu bên trong.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.wine",
+  text = [[
+Một chai rượu vang ngon, thức uống yêu thích
+của Juglan. Ông ấy không bao giờ gọi thứ gì khác tại
+quán rượu.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.wood_sword",
+  text = [[
+Đó là thanh kiếm gỗ mà cô đã học
+cách chiến đấu. Một số người nói cô có thể
+bắt đầu một cuộc phiêu lưu chỉ với thứ này, nhưng
+nghe có vẻ không ổn lắm.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.one_year_later",
+  text = [[
+
+                 Sáu Tháng Sau
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.signs.stash",
+  text = [[
+Hang Cất giữ Bí mật của Mallow, lối này
+(Đừng nói với ai)
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.signs.tavern",
+  text = [[
+Quán rượu Basswood
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.1",
+  text = [[
+...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.2",
+  text = [[
+NGƯỜI CHƠI CỜ CA-RÔ BÍ ẨN:
+Eek! Kế hoạch của ta!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.3",
+  text = [[
+AUBREY:
+Ôi không! Nghe này, tôi có thể giải thích. Bố tôi điều hành
+một Vườn Cam và thời gian gần đây thực sự
+rất khó khăn. Tôi muốn giúp ông ấy...
+TILIA:
+Vậy là cô chỉ đơn giản là lấy trộm một đống tiền?
+
+AUBREY:
+Không, tôi $1... $2 ừm. $3Ừ. Tôi đã làm thật. Ugh. Rõ ràng
+cô đến đây để xử lý chuyện này.
+Cô muốn gì?
+TILIA:
+$? Đưa lại tiền thưởng đây.
+$? Cứ giữ lấy đi.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.4",
+  text = [[
+AUBREY:
+Tôi hy vọng số tiền thưởng đã đến tay ai đó
+THỰC SỰ XỨNG ĐÁNG. Vì giỏi
+chơi cờ ca-rô. Cái đó đáng giá 200 crown...
+TILIA:
+Nghe này, tôi không đặt ra luật. Về việc ăn trộm
+tiền của người khác. Nhưng đó là một luật
+đã được thống nhất chung rồi.
+AUBREY:
+Ugh! Được rồi.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.5",
+  text = [[
+AUBREY:
+Cảm ơn cô rất nhiều. Vì đã để tôi
+thoát tội với việc ăn trộm nhiều tiền như vậy. Tôi hứa
+nó sẽ được sử dụng vào việc tốt.
+TILIA:
+Này, đừng biến tôi thành kẻ đồng lõa của cô.
+Cô tự ăn trộm số tiền đó đấy.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.alright",
+  text = [[
+AUBREY:
+Được rồi! Cô bắt được tôi rồi!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.get_into_fight",
+  text = [[
+AUBREY:
+Này, cô không phải là anh chàng cam! $2Đợi một chút$3... tôi có biết cô từ đâu không nhỉ?
+
+TILIA:
+Từ giải vô địch cờ ca-rô?
+
+AUBREY:
+Ồ. Ồ! Ôi không! Cô sẽ không bắt sống được tôi đâu, cảnh sát!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.keep_money",
+  text = [[
+TILIA:
+Nghe này, cứ... giữ lấy đi. Tôi thực sự không có
+liên quan gì đến cuộc đua này. Nếu đây là cách cô muốn
+gây quỹ cho một vườn cam đang gặp khó khăn, bằng
+TILIA:
+tiền ăn trộm, thì tôi không biết cách điều hành một vườn cam.
+Đó là chuyện của cô.
+
+AUBREY:
+Thật sao? Cảm ơn cô! Cô không biết điều này
+sẽ giúp chúng tôi nhiều thế nào đâu! Làm ơn, hãy ghé thăm
+Vườn Cam nếu cô có đường đến
+AUBREY:
+Đảo Fykonos. Chúng tôi sẽ trả ơn cô bằng cách nào đó!
+
+TILIA:
+Đừng bận tâm về chuyện đó. Chỉ cần coi chừng
+trọng tài cờ ca-rô, anh ta trông có vẻ là tay đấu sĩ.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.take_money",
+  text = [[
+TILIA:
+Đưa số tiền đó cho tôi. Tôi sẽ mang nó trả lại
+cho anh chàng cờ ca-rô.
+
+AUBREY:
+$1... $3 được rồi. Bố tôi và tôi sẽ bằng cách nào đó
+vật lộn qua và tìm tiền
+để giữ cho vườn cam mở cửa ở đâu đó...
+(Bạn nhận được 200 crown)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.1",
+  text = [[
+ARAMIS:
+Chào mừng đến với Hiệu thuốc Metheglyn. Có
+nhu cầu mua rượu bổ, thuốc trị bách bệnh, hay thuốc tiên nào không?
+Làm tóc dài hơn, chữa mụn cóc?
+TILIA:
+Tôi đang tìm mua các loại thuốc thực tế hơn.
+Lành vết thương, gây sát thương cho quái vật.
+Kiểu đó ấy.
+ARAMIS:
+Ồ! Chà, nếu cô muốn sử dụng
+bàn chế tạo, cứ tự nhiên.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.2",
+  text = [[
+ARAMIS:
+Xin chào, chào mừng đến hiệu thuốc nhỏ bé của chúng tôi.
+Cần thứ gì cho da không? Thuốc tiên tình yêu?
+
+TILIA:
+Thực ra tôi đang tìm cách chế thứ khác. Tôi đang cố...
+giúp một số người ngủ được.
+Họ đang cảnh giác kinh khủng.
+ARAMIS:
+Một lọ thuốc tiên ngủ sẽ dễ pha chế
+nếu tôi có nguyên liệu. Nhưng tôi sẽ cần
+một ít Hoa Monkshood, và tôi đã hết rồi. Than ôi.
+TILIA:
+Tôi có thể đi tìm giúp ông một ít không? Rồi ông có thể
+pha chế lọ thuốc tiên ngủ này?
+
+ARAMIS:
+Điều đó thật tuyệt. Có một chỗ ở
+Rìa Tây Bắc của Núi Marblecliff, nơi mà
+có những cây nguy hiểm. Tôi nghĩ
+ARAMIS:
+cô có thể tìm thấy Monkshood mọc
+ở đó.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.2_already_have_monkshood",
+  text = [[
+ARAMIS:
+Xin chào, chào mừng đến hiệu thuốc của chúng tôi. Đang tìm
+một ít nước ép sên? Tuyệt vời cho tiêu hóa.
+
+TILIA:
+Thực ra tôi đang tìm cách chế thứ khác.
+Tôi đang cố... giúp một số người ngủ được.
+Họ đang cảnh giác kinh khủng.
+ARAMIS:
+Một lọ thuốc tiên ngủ sẽ dễ pha chế
+nếu tôi có nguyên liệu. Nhưng tôi sẽ cần
+một ít Hoa Monkshood, và tôi đã hết rồi. Than ôi.
+TILIA:
+Khoan đã, tôi thực ra đã tìm thấy một ít trước đó rồi.
+Cái này sẽ giúp ông chứ?
+
+ARAMIS:
+Ồ! Vâng, đó là Monkshood. Tôi có thể nhanh chóng
+pha một thứ gì đó sẽ giúp cô$1...
+...$3Của cô đây!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.3-sleepwell",
+  text = [[
+ARAMIS:
+Tôi hy vọng lọ thuốc tiên ngủ đó đang giúp
+bạn bè của cô chìm vào giấc ngủ.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.4-look_for_monskhood",
+  text = [[
+ARAMIS:
+Nếu cô đang tìm Monkshood để giúp tôi
+pha thuốc tiên ngủ, hãy thử phần tây bắc
+của Núi Marblecliff. Nó ở phía tây bắc của
+ARAMIS:
+cảng. Cô sẽ đi theo con đường mòn xuyên qua một tàn tích trên
+núi, rồi cô sẽ đi qua một hẻm núi
+hẹp.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.5-return_with_poison",
+  text = [[
+ARAMIS:
+À, cô có vẻ buồn ngủ,
+cô đã tìm thấy Monkshood chúng ta cần chưa?
+
+TILIA:
+Rồi, nó chẳng có rắc rối gì cả, chỉ là
+hái hoa thôi.
+
+ARAMIS:
+Tuyệt vời. Tôi sẽ pha thuốc tiên ngủ
+ngay lập tức$1...
+...$3và, xong rồi. Cầm lấy này, và ngủ ngon nhé.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.husband",
+  text = [[
+Tôi biết trông có vẻ như tôi đang lén lút quanh đây.
+Tôi chỉ đang tưới hoa thôi.
+Cứ tự nhiên xung quanh. Những bông hoa
+không phải để bán, nhưng chúng khá đẹp.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.1",
+  text = [[
+FERRIS:
+Cô đang tìm một thợ thủ công bậc thầy về áo giáp à? Nếu vậy,
+đừng tìm đâu xa! Trừ khi cô đang tìm một người
+có những công cụ tôi cần... thì tôi đoán cô phải tiếp tục
+FERRIS:
+tìm. Nhưng tôi có thể làm một công việc khá ổn mà không cần
+bất kỳ công cụ nào! Tôi sẽ chỉ tính cô 100 crown để
+tăng phòng thủ cho áo giáp của cô.
+(Tăng phòng thủ với giá 100 crown?)
+$? Làm đi!
+$? Không, cảm ơn.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.2",
+  text = [[
+FERRIS:
+Tôi có thể làm áo giáp của cô mạnh hơn đáng kể,
+nếu tôi có thể tìm thấy một số công cụ của thợ rèn áo giáp.
+Giá như ông chủ của tôi chịu lấy cho tôi một ít...
+TILIA:
+Anh có biết chỗ nào có không?
+
+FERRIS:
+Tôi cá là Cảng Ballast sẽ không phải là nơi tồi để
+tìm, rất nhiều hàng hóa bị đánh cắp đi qua
+đó. Nhưng... cũng có cướp biển... và họ rất đáng sợ.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.3",
+  text = [[
+FERRIS:
+Tôi thực sự có thể cải thiện bộ giáp đó mà cô đang
+mặc nếu tôi có một số công cụ của thợ rèn áo giáp. Nhưng ông chủ
+của tôi sẽ không lấy cho tôi...
+FERRIS:
+Đợi một chút, cô có một số công cụ của thợ rèn áo giáp.
+Hãy đưa chúng cho tôi, và tôi sẽ làm
+bộ giáp của cô mạnh hơn đáng kể!
+(Đưa công cụ?)
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.4",
+  text = [[
+FERRIS:
+Cảm ơn cô đã cho tôi những công cụ của thợ rèn áo giáp này.
+Tôi hy vọng những cải tiến tôi đã làm sẽ
+giữ cô an toàn.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.upgrade_armor",
+  text = [[
+FERRIS:
+Tốt, tốt.... Để tôi chỉ... và cái này như là...
+Cái này có thể dùng một cái chốt thay vì một....
+Xong rồi!
+(Phòng thủ của bạn đã tăng lên 1)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.upgrade_armor_2",
+  text = [[
+FERRIS:
+Cảm ơn cô! Để tôi chỉ... hãy thêm một ít
+giáp xích... siết chặt cái này xuống... đặt thêm
+một ít đệm ở đây...
+FERRIS:
+Tất cả đã xong! Trông cô an toàn hơn nhiều!
+
+(Phòng thủ của bạn đã tăng lên 2)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.1",
+  text = [[
+NGƯỜI ĐÀN ÔNG ĐANG RUN RẨY:
+O-ồ, ồ, chào. Tôi xin lỗi. Tôi đang, ờ,
+cô không thể vào trong đó. Hang động này là tài sản
+riêng. Tôi là thực tập sinh tại cửa hàng.
+THỰC TẬP SINH:
+Cửa hàng Bom Oakhaven, và hang động này là tư
+nhưng ờ. Chà. Có một con quái vật trong đó
+dù sao đi nữa, nên. Có lẽ cô nên rời đi.
+TILIA:
+Anh có muốn tôi đi xử lý con
+quái vật đó cho anh không? Tôi có thể làm điều đó.
+
+THỰC TẬP SINH:
+Ồ-ồ! Vâng! Ý tôi là, chà. Ờ, tôi chỉ là một
+thực tập sinh. Tôi không thể nói với cô rằng cô được phép
+làm điều đó. Có lẽ hãy đến kiểm tra cửa hàng bom?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.2",
+  text = [[
+THỰC TẬP SINH:
+Ồ-ồ, chào. Tôi là thực tập sinh tại Cửa hàng Bom
+Oakhaven. Tôi không thể, cô thấy đấy, đó là công việc của tôi...
+chà, tôi không được trả lương. Nhưng nhiệm vụ của tôi là
+THỰC TẬP SINH:
+giữ mọi người tránh xa. Vì sự an toàn của chính họ,
+khỏi mỏ này, nơi đầy rẫy một con quái vật.
+
+TILIA:
+Này, đừng lo. Anh chàng ở cửa hàng bom
+đã gửi tôi xuống đây để xử lý nó.
+
+THỰC TẬP SINH:
+Ồ, ồ, ồ tốt. Trời, tốt quá. Vâng, làm ơn,
+đi vào trong. Cứ tự nhiên với con quái vật.
+Ý tôi là, để tiêu diệt nó. Ờ.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest1",
+  text = [[
+THỰC TẬP SINH:
+Này, ồ, chào, là cô! Làm tốt lắm, với con
+quái vật đó? Cô đã đánh bại nó. Thật tuyệt.
+ÔI! NÀY! Đó có phải là, tôi xin lỗi, những bản thiết kế
+THỰC TẬP SINH:
+cô có? Những bản vẽ kỹ thuật đó? Trông giống như
+thiết kế cho, mũi tên bom?
+
+TILIA:
+Ồ, những cái này? Vâng, tôi tìm thấy chúng trong một
+pháo đài cướp biển. Anh có thể chế tạo mũi tên bom với thứ này không?
+
+THỰC TẬP SINH:
+Chà, tôi đã nghiên cứu... bom. Ở trường? Không phải ở trường,
+thật là điên rồ nếu đó là một môn học.
+Ờ, trong thời gian rảnh... Ý tôi là, có! Tôi có thể!
+THỰC TẬP SINH:
+Có vẻ như tôi chỉ cần một vài thứ.
+Hai thứ. Một ít tungsten, nó là kim loại này,
+nó không nóng chảy, ờ, điều đó không quan trọng...
+TILIA:
+Thật tuyệt, tôi có thể tìm thấy tungsten ở đâu?
+
+THỰC TẬP SINH:
+Thực ra có một hang động, trong eo biển
+giữa Oakhaven và Yarrowmouth. Nó
+được gọi là Eo biển Throns. Bởi vì
+THỰC TẬP SINH:
+những tảng đá, nhưng có một hang động ở đó. Sau đó
+cô sẽ phải mang tungsten đến cho
+anh chàng Rusty này, và anh ta sẽ như là, ồ, cô có
+THỰC TẬP SINH:
+tungsten, cô là người thật sự, hãy lấy bộ phận máy móc này,
+oooh. Ý tôi là, anh ta nói sẽ đưa cho tôi
+bộ phận máy móc nếu tôi có thể chứng minh mình sẽ sử dụng nó.
+TILIA:
+Được rồi, mang tungsten đến cho Rusty. Anh ta
+sống ở đâu?
+
+THỰC TẬP SINH:
+Cô có thể tìm thấy anh ta ở quán bar bí mật
+dưới lòng đất tại cảng. Cô có biết
+có một quán bar ngầm không? Nó, cô phải
+THỰC TẬP SINH:
+đi ra phía sau một quầy hàng của thương nhân, phía sau
+một vài cái chậu? Nó rất bí mật. Rusty
+thường ở đó.
+TILIA:
+Nếu anh có thể chế tạo cho tôi mũi tên bom, tôi có thể làm
+điều này. Đi lấy một ít tungsten từ hang động,
+đi tìm Rusty. Rõ rồi.
+THỰC TẬP SINH:
+Woah, điều này sẽ thực sự tuyệt đấy. Những
+mũi tên này sẽ, ôi trời, thực sự nguy hiểm.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest2",
+  text = [[
+THỰC TẬP SINH:
+Ồ, vậy để có mũi tên bom, cô phải
+đi lấy tungsten. Nó là kim loại không
+nóng chảy. Tôi biết cô có thể tìm thấy thỏi trong
+THỰC TẬP SINH:
+hang động này ở eo biển giữa Yarrowmouth
+và Oakhaven. Cô có thể đến đó từ
+Ngã tư Stonefell.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest3",
+  text = [[
+THỰC TẬP SINH:
+Ồ, cô lấy được rồi! Tungsten! Cho mũi tên bom.
+Thật tuyệt. Nếu cô mang nó đến
+Rusty, ở quán bar bí mật dưới kia, anh ta sẽ đưa
+THỰC TẬP SINH:
+cho cô bộ phận máy móc tôi cần. Quán bar ở
+cảng, đằng sau một vài cái chậu. Đó là một quán bar
+bí mật. Tôi không chắc tại sao?
+TILIA:
+Tại sao Rusty không chỉ đưa cho anh cái
+máy móc đó?
+
+THỰC TẬP SINH:
+Chà, tôi chỉ là thực tập sinh. Nó có lẽ giống như một...
+kiểu hành trình của anh hùng? Tôi phải
+chứng minh bản thân?
+TILIA:
+Bằng... bằng việc tôi đi và lấy một cục
+quặng cho anh?
+
+THỰC TẬP SINH:
+Tôi không biết, tôi làm việc với rất nhiều người kỳ lạ!
+Nó làm tôi lo lắng!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest4",
+  text = [[
+THỰC TẬP SINH:
+Ồ, cô đã làm được! Cô đã lấy được quặng tungsten và
+bộ phận máy móc! Đây chính xác là những gì tôi
+cần để chế tạo những mũi tên mà thiết kế này chỉ ra.
+THỰC TẬP SINH:
+Cho tôi một chút thời gian, và tôi sẽ làm
+điều này thành hiện thực!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest_already_tungsten",
+  text = [[
+TILIA:
+Ồ, đợi một chút, tôi thực ra
+đã ở trong hang động đó và tìm thấy một ít
+quặng tungsten. Là thứ này phải không?
+THỰC TẬP SINH:
+Ồ, chào! Vâng, đó là quặng tungsten, tôi sẽ
+cần nó. Nhưng hãy mang nó cho Rusty xem ở
+quán bar bí mật dưới kia!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.shop_dialog",
+  text = [[
+THỰC TẬP SINH:
+Này, là cô! Cô thực sự đã giúp chúng tôi.
+Với cả con quái vật, ở, cái ở
+các mỏ. Chúng tôi cần thứ đó. Cái
+THỰC TẬP SINH
+diêm tiêu, không phải con quái vật. Chúng tôi không cần
+con quái vật. Ồ, rõ ràng cô biết điều đó.
+Nếu không, cô, ý tôi là, chà. Ờ. Chào.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.owner.1",
+  text = [[
+NGƯỜI CHẾ TẠO BOM:
+Chào mừng, chào mừng! Đây là Cửa hàng Bom
+Oakhaven, chuyên về bom! Một điều,
+chúng tôi không có bất kỳ quả bom nào. Có một chuyện,
+NGƯỜI CHẾ TẠO BOM:
+ở mỏ diêm tiêu. Một trong những chuyện, chúng tôi
+đào quá sâu và giải phóng một con quái vật, một trong những chuyện đó. Cô không có khuynh hướng đi
+NGƯỜI CHẾ TẠO BOM:
+xuống các mỏ để tiêu diệt quái vật, phải không?
+Tôi đã hỏi mọi người. Tôi sẽ trả tiền,
+tất nhiên. Có lẽ bằng bom.
+TILIA:
+Có vẻ như đó là loại công việc tôi
+đã đảm nhận gần đây. Thực sự có vẻ như
+là lỗi của chính ông, nhưng tôi có thể xem xét nó.
+NGƯỜI CHẾ TẠO BOM:
+À! Vâng, tuyệt vời! Cô sẽ tiêu diệt
+con quái vật mà tôi đã tự giải phóng lên mình! Làm ơn,
+mỏ diêm tiêu nằm ở phía tây nam của cảng.
+NGƯỜI CHẾ TẠO BOM:
+Đi ra cổng nam, sau đó đi về phía tây từ
+cảng. Thực tập sinh của tôi đang đứng ở
+lối vào, nói với nó là tôi gửi cô đến, nó sẽ cho cô vào.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.owner.2",
+  text = [[
+NGƯỜI CHẾ TẠO BOM:
+À! Cô. Vâng! Cô đã đồng ý tiêu diệt
+con quái vật mà tôi đã tự mang lên mình bằng cách đào
+quá sâu vào các mỏ diêm tiêu. Vâng.
+NGƯỜI CHẾ TẠO BOM:
+Một khi cô xử lý xong vấn đề đó, tôi sẽ
+có thể bán bom trở lại. Và vận chuyển chúng
+đi. Khắp nơi. Mọi người sẽ bán bom của tôi!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.owner.3",
+  text = [[
+NGƯỜI CHẾ TẠO BOM:
+À! Cô trở lại rồi. Cô đã tiêu diệt
+con quái vật ẩn nấp trong sâu thẳm của
+mỏ diêm tiêu, phải không?
+TILIA:
+Tôi đã làm. Ông nói sẽ trả tiền cho tôi?
+
+NGƯỜI CHẾ TẠO BOM:
+Hoan hô! Giờ, vâng, giờ tôi có thể bán bom của mình.
+Mọi cửa hàng trên thế giới sẽ muốn nhập
+bom của tôi! Thật nhiều vụ nổ! Nhưng vâng,
+NGƯỜI CHẾ TẠO BOM:
+Tôi sẽ trả tiền cho cô, ahahahaha!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.carpenter.1",
+  text = [[
+Tôi rất tự hào về những ngăn kéo của mình. Tôi đã
+nhập khẩu núm từ Đảo Lobb trong một
+thời gian - chỉ vì nó vần - nhưng tôi
+nhận ra đó không phải là một chiến lược kinh doanh.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.carpenter.2",
+  text = [[
+Tôi vào nghề mộc nghĩ rằng mình sẽ làm
+các nhà kho chứa đầy đồ nội thất sang trọng. Nhưng hóa ra
+thứ mọi người muốn hơn bất cứ thứ gì là
+hộp và thùng.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.eastoak.boyle.1",
+  text = [[
+BOYLE:
+Vì vậy, thằng em ngốc của tôi đã đào lên tảng đá bị nguyền rủa đó
+và sẽ không đặt nó lại. Dù sao thì đó là điềm xui xẻo,
+khi làm xáo trộn những tảng đá đứng.
+BOYLE:
+hoặc ngôi mộ trong cánh đồng. Có lẽ toàn bộ
+khu vực, nói chung là vậy. Có lẽ ngu ngốc khi
+chúng ta canh tác ở đây, nhưng đất đai màu mỡ.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.eastoak.brince.1",
+  text = [[
+BRINCE:
+Cô đã thấy những tảng đá đứng khắp
+cánh đồng chưa? Tốt nhất là đừng làm phiền chúng,
+không ai biết ai đã dựng chúng lên hay tại sao, từ quá lâu
+BRINCE:
+rồi. Nhưng tôi đã đào xung quanh chúng, và
+tìm thấy một tấm bia đá, nên tôi mang nó về nhà,
+như một đồ trang trí... nhưng có một điều.
+BRINCE:
+Kể từ đó, tôi sợ không dám đến gần
+ngôi mộ ở giữa cánh đồng.
+Không thể giải thích tại sao! Có điều gì đó về
+BRINCE:
+tấm bia đá? Nhưng tôi vẫn giữ nó như một
+đồ trang trí. Nó làm tôi trông có vẻ
+đã đi nhiều nơi.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.01",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.1",
+  text = [[
+ĐẠI ÚY AL-JAZARI:
+A-ha! Ta tìm thấy ngươi rồi! Ta đã nghi ngờ có điều gì đó
+bất ổn khi tất cả thủy thủ của ta đều ngủ thiếp đi,
+và đây là một kẻ xâm nhập. Ngươi là ai?
+TILIA:
+Tôi đang tìm Đại úy Thorne. Cô ấy đã bắt cóc
+bố tôi.
+
+ĐẠI ÚY AL-JAZARI:
+Thorne? Cô ta đã bị tước quân hàm. Cô ta không còn
+phục vụ dưới quyền ta nữa. Cô ta đã đào tẩu
+với một số tàu của ta.
+TILIA:
+Vậy là cô ta không ở đây. Cô ta đang ở đâu?
+
+ĐẠI ÚY AL-JAZARI:
+Cô ta đã chiếm giữ một pháo đài cũ ở phía bắc.
+Pháo đài Crow. Cô ta đã xây dựng một nhóm cướp biển
+của riêng mình. Cô ta đã bắt cóc bố ngươi?
+TILIA:
+Vâng. Tôi cần tìm cô ta.
+
+ĐẠI ÚY AL-JAZARI:
+Ta sẽ cho ngươi một con tàu. Ta không thể để
+một kẻ phản bội như Thorne tự do ngoài vòng pháp luật.
+Nhưng trước tiên, hãy chứng tỏ rằng ta có thể tin tưởng ngươi.
+ĐẠI ÚY AL-JAZARI:
+Có một tên phù thủy ở Rừng Yarrow. Hắn đã
+quấy rối các tàu của ta. Hãy xử lý hắn, và ta sẽ
+cho ngươi một con tàu để đến Pháo đài Crow.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.2",
+  text = [[
+ĐẠI ÚY AL-JAZARI:
+Ngươi đã xử lý tên phù thủy trong Rừng Yarrow chưa?
+Hắn đã gây ra đủ rắc rối cho các tàu của ta.
+Hãy cho ta thấy ngươi xứng đáng với sự tin tưởng của ta.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.3",
+  text = [[
+ĐẠI ÚY AL-JAZARI:
+Ngươi đã xử lý tên phù thủy trong Rừng Yarrow.
+Tốt lắm. Ta sẽ giao cho ngươi một con tàu.
+Đi đến cảng, nói chuyện với thuyền trưởng của
+tàu Hải âu. Hắn sẽ đưa ngươi đến Pháo đài Crow.
+ĐẠI ÚY AL-JAZARI:
+Nhưng hãy cẩn thận. Thorne rất nguy hiểm.
+Cô ta đã từng là một trong những sĩ quan giỏi nhất của ta.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.pirates.guard_1",
+  text = [[
+LÍNH CANH:
+Eh, cô đang giao bia à?
+
+TILIA:
+Ờ, không, tôi không có.
+
+LÍNH CANH:
+Vậy thì cút đi!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.thyme.1",
+  text = [[
+ĐẠI ÚY THYME:
+Hả?! Ta đã lo rằng mình sẽ bị mắc kẹt trong
+tòa tháp này mãi mãi! Ý ta là, ta không bao giờ lo lắng. Cô,
+đợi đã, cô là ai?
+TILIA:
+Ông hẳn là đại úy của Bọn Đồng Hồ Cát.
+Ông đã cướp phá thị trấn của tôi, bắt cóc bạn tôi,
+và giờ ông sẽ nói cho tôi biết tôi có thể
+TILIA:
+tìm thấy Râu Đen ở đâu trước khi tôi đánh bại ông!
+
+ĐẠI ÚY THYME:
+Ồ, cô đến từ Đảo Đá Vôi sao? Nghe này,
+kinh doanh là kinh doanh và công việc của ta là
+làm việc cho Râu Đen. Hắn đang ở trụ sở của
+ĐẠI ÚY THYME:
+Hội đồng, nhưng ta không có khuynh hướng
+nói cho cô biết đó là đâu. Giờ thì, người máy!
+Tấn công!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.chest1",
+  text = [[
+Bạn không nên chỉ lấy tiền ở bên trong
+đây. Đây không phải là một trong những cái rương *kiểu đó*.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.1",
+  text = [[
+NGƯỜI CHƠI CA-RÔ:
+Cô đã bao giờ chơi ca-rô trước đây chưa? Trông
+cô không quá cứng lắm. Hừm.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.2",
+  text = [[
+ĐỐI THỦ NGHIÊM TÚC:
+Trông tôi có vẻ không giống, nhưng tôi đã luyện tập
+cờ ca-rô trong nhiều thập kỷ.
+
+TILIA:
+Tôi không biết điều đó trông sẽ như thế nào.
+
+ĐỐI THỦ NGHIÊM TÚC:
+Tôi, ờ... Chà, nó sẽ trông giống tôi!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.3",
+  text = [[
+NGƯỜI CHƠI CA-RÔ:
+Bí mật của tôi? Tôi luôn chơi O. Họ không bao giờ
+ngờ tới điều đó, bởi vì X ngầu hơn, vì vậy bạn
+làm họ mất tập trung.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.4",
+  text = [[
+NGƯỜI CHƠI CA-RÔ:
+Cô có thể đã học cách xếp được ba hàng,
+nhưng tôi được sinh ra với nó. Tôi được nuôi dạy trên một
+bàn cờ ca-rô.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.5",
+  text = [[
+NGƯỜI CHƠI CA-RÔ BÍ ẨN:
+...đừng suy nghĩ quá nhiều. Hãy làm điều đó vì
+những quả cam.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b1",
+  text = [[
+NGƯỜI CHƠI CA-RÔ:
+Woah. Cô gái đó vừa mới cuỗm đi 200
+crown. Thật là một tên trộm bậc thầy. Tôi cần
+về nhà và suy nghĩ lại về sự nghiệp của mình.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b2",
+  text = [[
+ĐỐI THỦ NGHIÊM TÚC:
+Tôi... giải vô địch bị hủy rồi? Nhưng...
+tôi đã luyện tập trong ba năm...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b3",
+  text = [[
+NGƯỜI CHƠI CA-RÔ:
+Cô biết không, tôi gần như cảm thấy nhẹ nhõm. Sự thật là,
+tôi rất tệ ở cờ ca-rô.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b4",
+  text = [[
+NGƯỜI CHƠI CA-RÔ:
+Tôi đã ngồi ngay cạnh một tội phạm suốt.
+Tôi hy vọng tôi không bị dính phải mầm bệnh tội phạm nào.
+Tốt hơn hết là tôi nên về nhà và tắm.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.guard",
+  text = [[
+Tôi nghe nơi này là hiện trường vụ án và đã đến
+nhanh nhất có thể! Thật không may cho tội phạm,
+tôi rất nhanh! Một thám tử đang trên đường tới.
+Giờ chúng ta chơi trò chờ đợi.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.guard2",
+  text = [[
+LÍNH CANH:
+Có vẻ như nghi phạm đã trốn thoát. Tốt hơn nên đi
+nộp báo cáo hoặc làm gì đó...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.1",
+  text = [[
+TRỌNG TÀI:
+Chúng ta gần như đã sẵn sàng cho giải vô địch
+cờ ca-rô, nhưng có một người vắng mặt...
+Này! Cô có thể thay thế cho chúng tôi không?
+(Tham gia giải vô địch cờ ca-rô?)
+$?Ghi danh cho tôi!
+$?Tôi sẽ không chơi trò chơi của ông đâu!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.2",
+  text = [[
+TRỌNG TÀI:
+Tuyệt! Chúng ta sẽ bắt đầu ngay lập tức.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.3",
+  text = [[
+TRỌNG TÀI:
+Kính thưa quý bà và quý ông, Giải vô địch
+Cờ Ca-rô Oakhaven lần thứ 29
+sắp bắt đầu. Tiền thưởng...
+TRỌNG TÀI:
+$1...hả?$3
+Đợi một chút! Cái rương đựng tiền thưởng
+trống rỗng! Không ai được rời khỏi phòng,
+TRỌNG TÀI:
+đây giờ là hiện trường vụ án!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.4",
+  text = [[
+TRỌNG TÀI:
+Đừng lo. Chúng tôi đang phong tỏa nơi này.
+Không ai được vào, không ai được ra, cho đến khi thám tử
+đến và chúng ta có thể tìm ra kẻ trộm là ai.
+TRỌNG TÀI:
+Nó giống như một cuốn tiểu thuyết trinh thám vậy. Ngoại trừ
+không có vụ giết người. Hoặc cuốn tiểu thuyết, tôi đoán vậy.
+Vậy nó chỉ là một vụ bí ẩn.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.5",
+  text = [[
+TRỌNG TÀI:
+Cô có thấy không?! Tôi cho là cô đã thấy. Làm tốt lắm
+khi tìm thấy nhân vật đáng ngờ đó... nhưng,
+đã không ngăn cô ta thành công. Dù sao thì, tiền
+TRỌNG TÀI:
+cũng đã mất, và chúng ta không thể tiếp tục giải đấu
+của mình nữa. Chà, hãy quên 200 crown đó đi,
+nhóc.
+TILIA:
+Nếu tôi có thể tìm thấy cô gái đó. Hoặc số tiền.
+Hoặc cả hai?
+TRỌNG TÀI:
+Ồ, cô đang ở Hải quân Tình nguyện, phải không?
+Đang tìm rắc rối? Để giải quyết nó? Chà được thôi. Nếu
+cô lấy lại được tiền, cô sẽ được một phần.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.55",
+  text = [[
+TRỌNG TÀI:
+Cô đã tìm thấy cô gái đó ăn trộm
+tiền thưởng cờ ca-rô chưa?
+
+TILIA:
+Tôi vẫn đang tìm.
+
+TRỌNG TÀI:
+Tôi cũng đã cho lính canh thị trấn theo vụ này.
+Đây là vụ trộm thế kỷ! Tôi đang lên kế hoạch
+viết một cuốn sách.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.6",
+  text = [[
+TRỌNG TÀI:
+Cô đã lần theo số tiền mà cô gái đó
+lấy trộm chưa?
+
+TILIA:
+Thực ra thì, tôi đã tìm thấy.
+
+TRỌNG TÀI:
+Không nói đùa chứ! Chúng ta có thể tổ chức giải đấu
+rồi! Chúng tôi sẽ không cần cô tham gia nữa,
+vì kẻ trộm rõ ràng là bị loại, nhưng
+TRỌNG TÀI:
+tôi sẽ để cô giữ một nửa số này. Lính canh thị trấn
+đã vô dụng trong việc tìm ra kẻ trộm, vì vậy chúng ta
+sẽ không có khoản này nếu không nhờ cô.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.7",
+  text = [[
+TRỌNG TÀI:
+Nhờ có cô, chúng tôi có thể tiếp tục tổ chức
+giải vô địch cờ ca-rô hàng năm!
+Cô nên luyện tập và thử sức vào năm sau.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.orange_peel",
+  text = [[
+Có một đống vỏ cam ở đây. Một
+đống vỏ cam rất lớn... Ai đó
+có thể sẽ nhớ đã bán chừng này
+cam.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.1",
+  text = [[
+Tôi đã đọc tập thơ sưu tầm về những
+ngọn hải đăng cổ xưa rải rác khắp các
+hòn đảo. Chúng được xây dựng để gọi về
+người yêu bị lạc trên biển. Cách chúng bị tắt,
+chết, nhắc tôi về cái cây này. Ngoại trừ
+tôi đoán có lẽ đừng cố thắp lửa cái cây này.
+Bạn chắc chắn có thể thắp sáng lại cả bốn
+ngọn hải đăng.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.10",
+  text = [[
+Bạn có nghe nói chó của thống đốc sắp có
+một bữa tiệc sinh nhật không? Hoặc, họ đang tổ chức một
+bữa tiệc cho con chó của thống đốc. Hay ông ấy là
+thị trưởng? Ý tôi là người đó, không phải con chó.
+Hay con chó là thị trưởng? Ý tôi là, tôi không
+nắm rõ lắm về chính trị.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.11",
+  text = [[
+Này, có vẻ như là một lời cảnh báo kỳ lạ,
+nhưng hãy cẩn thận xung quanh các đài phun nước ở
+Oakhaven. Em gái tôi đã rơi xuống một cái giếng
+tuần trước. Nó nói là ở dưới đó cũng khá là
+đáng sợ. Nó có cảm giác
+có thể nghe thấy tiếng gì đó thì thầm với
+nó từ sâu hơn trong đường hầm. Với lại,
+nó còn gãy tay!
+]],
+}
