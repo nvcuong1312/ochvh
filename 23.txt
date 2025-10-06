@@ -1,0 +1,487 @@
+dialog{
+  id = "_treasure.fast_travel_chart_kingsdown.1",
+  text = [[
+You found a sea chart of Kingsdown Isle.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_limestone_island.1",
+  text = [[
+You found a sea chart of Limestone Island.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_oakhaven.1",
+  text = [[
+You found a sea chart to Oakhaven Port.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_snapmast.1",
+  text = [[
+You found a sea chart of Snapmast Reef.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_spruce_head.1",
+  text = [[
+You found a sea chart showing Spruce Head.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_yarrowmouth.1",
+  text = [[
+You found a sea chart showing Yarrowmouth
+Village. This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_zephyr_bay.1",
+  text = [[
+You found a sea chart of Zephyr Bay.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.feather.1",
+  text = [[
+Maybe you can jump now.
+]],
+}
+
+dialog{
+  id = "_treasure.firethorn_berries.1",
+  text = [[
+You collected a bunch of firethorn berries.
+]],
+}
+
+dialog{
+  id = "_treasure.firethorn_berries.2",
+  text = [[
+You collected 5 bunches of firethorn berries.
+]],
+}
+
+dialog{
+  id = "_treasure.firethorn_berries.3",
+  text = [[
+You collected 10 bunches of firethorn berries.
+]],
+}
+
+dialog{
+  id = "_treasure.forsythia.1",
+  text = [[
+You collected a branch of forsythia flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.forsythia.2",
+  text = [[
+You collected 5 branches of forsythia flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.forsythia.3",
+  text = [[
+You found 10 branches of forsithya flowers!
+]],
+}
+
+dialog{
+  id = "_treasure.fykonos_ticket.1",
+  text = [[
+You received a ticket for the ferry to
+Fykonos Isle! Better head down to the
+pier and catch the boat!
+]],
+}
+
+dialog{
+  id = "_treasure.geode.1",
+  text = [[
+You found a monsterous geode. It's much
+heavier than it looks like it should be,
+and much colder.
+]],
+}
+
+dialog{
+  id = "_treasure.geode.2",
+  text = [[
+You found some monsterous geodes. They're
+much heavier than they look like they should
+be, and much colder.
+]],
+}
+
+dialog{
+  id = "_treasure.geode.3",
+  text = [[
+You found some monsterous geodes. They're
+much heavier than they look like they should
+be, and much colder.
+]],
+}
+
+dialog{
+  id = "_treasure.ghost_orchid.1",
+  text = [[
+You found a rare Ghost Orchid!
+]],
+}
+
+dialog{
+  id = "_treasure.ghost_orchid.10",
+  text = [[
+You found 5 ghost orchid blooms!
+]],
+}
+
+dialog{
+  id = "_treasure.ghost_orchid.2",
+  text = [[
+You found 3 ghost orchids!
+]],
+}
+
+dialog{
+  id = "_treasure.gust.1",
+  text = [[
+You received Zephyrine's Tempest.
+This spell will summon the spirits of
+the west wind to aid you in battle.
+It will use most of your magic power.
+]],
+}
+
+dialog{
+  id = "_treasure.health_upgrade.1",
+  text = [[
+Your health is increased by one.
+]],
+}
+
+dialog{
+  id = "_treasure.health_upgrade.17",
+  text = [[
+Debug health upgrade
+]],
+}
+
+dialog{
+  id = "_treasure.hideout_chart.1",
+  text = [[
+You found a chart showing the location of
+the Pirate Council's Headquarters! You
+don't recognize the area, but maybe Morus
+would.
+]],
+}
+
+dialog{
+  id = "_treasure.homing_eye.1",
+  text = [[
+You got Seeker Eyes. When you throw these,
+they'll take off toward an enemy, then bounce
+around unpredictably.
+]],
+}
+
+dialog{
+  id = "_treasure.homing_eye_pickable.1",
+  text = [[
+You got Seeker Eyes. When you throw these,
+they'll take off toward an enemy, then bounce
+around unpredictably.
+]],
+}
+
+dialog{
+  id = "_treasure.homing_eye_pickable.2",
+  text = [[
+You got Seeker Eyes. When you throw these,
+they'll take off toward an enemy, then bounce
+around unpredictably.
+]],
+}
+
+dialog{
+  id = "_treasure.homing_eye_pickable.3",
+  text = [[
+You got Seeker Eyes. When you throw these,
+they'll take off toward an enemy, then bounce
+around unpredictably.
+]],
+}
+
+dialog{
+  id = "_treasure.homing_eye_pickable.4",
+  text = [[
+You got Seeker Eyes. When you throw these,
+they'll take off toward an enemy, then bounce
+around unpredictably.
+]],
+}
+
+dialog{
+  id = "_treasure.homing_eye_pickable.5",
+  text = [[
+You got Seeker Eyes. When you throw these,
+they'll take off toward an enemy, then bounce
+around unpredictably.
+]],
+}
+
+dialog{
+  id = "_treasure.honeycomb.1",
+  text = [[
+You found a hornet honeycomb. Hornets make
+some really strong honey, so you can't
+just eat it straight.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_candle.1",
+  text = [[
+You got salt candles. Throw these and
+as they burn, they'll pop several
+times, damaging enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_candle_pickable.1",
+  text = [[
+You got salt candles. Throw these and
+as they burn, they'll pop several
+times, damaging enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_candle_pickable.2",
+  text = [[
+You got salt candles. Throw these and
+as they burn, they'll pop several
+times, damaging enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_candle_pickable.3",
+  text = [[
+You got salt candles. Throw these and
+as they burn, they'll pop several
+times, damaging enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_candle_pickable.4",
+  text = [[
+You got salt candles. Throw these and
+as they burn, they'll pop several
+times, damaging enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_candle_pickable.5",
+  text = [[
+You got salt candles. Throw these and
+as they burn, they'll pop several
+times, damaging enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.iron_pinecone.1",
+  text = [[
+You found a rare Iron Pinecone. It's
+surprisingly heavy. Or maybe that's not
+surprising. It's very heavy, as iron might be.
+]],
+}
+
+dialog{
+  id = "_treasure.ironwood_charm.1",
+  text = [[
+You received the Ironwood Charm. Your lifting
+strength has increased even more.
+]],
+}
+
+dialog{
+  id = "_treasure.ivy_charm.1",
+  text = [[
+You received the Ivy Charm. Climb walls
+like a growing vine.
+]],
+}
+
+dialog{
+  id = "_treasure.key_ballast_council_building.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_basswood_tavern.1",
+  text = [[
+You found a key. It looks suspiciously
+like the key to the stockroom at the
+Basswood Tavern.
+]],
+}
+
+dialog{
+  id = "_treasure.key_bear_catacombs.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_brass.1",
+  text = [[
+You found an ancient brass key. Strange
+symbols and runes are etched around its
+teeth. It doesn't look like any of the
+locks around here...
+]],
+}
+
+dialog{
+  id = "_treasure.key_dandelion_charm.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_fort_crow.1",
+  text = [[
+You found a key. It can unlock a door in
+this fort.
+]],
+}
+
+dialog{
+  id = "_treasure.key_goat_caverns.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_goat_tunnels.1",
+  text = [[
+You found a rusty key. Just a little mold
+growing on it. It probably goes to a lock
+somewhere nearby.
+]],
+}
+
+dialog{
+  id = "_treasure.key_graveyard_of_the_waves.1",
+  text = [[
+You found a key! It probably unlocks
+a door in this area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_haunted_house.1",
+  text = [[
+You found a dusty old key with some
+oak leaves etched into the handle.
+]],
+}
+
+dialog{
+  id = "_treasure.key_hourglass_fort.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_juneberry_inn.1",
+  text = [[
+You found a key! It looks like it unlocks
+a door at an inn, but I guess not
+this one.
+]],
+}
+
+dialog{
+  id = "_treasure.key_juniper_grove.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_juniper_grove_2.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_kingsdown.1",
+  text = [[
+You received an old key your dad accidentially
+lost. It seems important, but it could unlock
+anything. Maybe just hold on to this and
+follow up on some other leads for now.
+]],
+}
+
+dialog{
+  id = "_treasure.key_limestone_sanctuary.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_mead_safehouse.1",
+  text = [[
+You found a key. It's... sticky. Smells like
+honey?
+]],
+}

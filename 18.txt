@@ -1,0 +1,894 @@
+dialog{
+  id = "_oakhaven.npcs.monastery.monk.2",
+  text = [[
+MONK:
+A beast born of the abyss lurks in this
+sacred place. Please, cleanse my
+monastery.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.monastery.monk.3",
+  text = [[
+MONK:
+You seem triumphant. Also I heard some weird
+monster screams. Have you dispatched the
+creature?
+TILIA:
+Yep. You're all clear down there.
+
+
+MONK:
+Thank you, brave pilgrim. I don't have much,
+but please, take this.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.monastery.monk.4",
+  text = [[
+MONK:
+With your help, the spring remains pure.
+The water it gives is what has allowed
+Oakhaven to flourish for thousands of years,
+MONK:
+although, since the great flood and the end
+of the line of kings, cursed creatures do
+occasionally arrive and threaten the spring.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.monastery.other_monk_1",
+  text = [[
+MONK:
+The godess, the Sea. The Sea Bird.
+The Sea King. The one who gives life,
+the one who carries it to us, and the
+MONK:
+Sea King our champion. These ancient
+legends, besides teaching us about our
+past, teach us how to live.
+TILIA:
+Sorry, what's the application of uh,
+so a bird brings people life from the
+sea?
+MONK:
+Hmm. You cannot expect to grasp their
+wisdom without devoting yourself to this
+trinity.
+TILIA:
+Sounds like you just don't have an
+answer for me, but you go ahead and
+keep doing you.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.monastery.other_monk_2",
+  text = [[
+MONK:
+Oh hello! Don't see many visitors much
+these days, mostly just raising goats and
+meditating on the Sea Godess's teachings,
+MONK:
+as passed down by the Sea King. Oh, but
+we could use a hand, there's something
+going on in the catacombs.
+MONK:
+Ask my superior, in the room to the east.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.1",
+  text = [[
+MORUS:
+Eh, what do you want?
+
+
+TILIA:
+You're Morus, right? I heard from my friend
+Hazel that you want to capture the pirate
+Al-Jazari. I want to help you. I need some
+TILIA:
+information from him. The location of the
+Pirate Council's hideout.
+
+MORUS:
+Huh, alright. That greasy, bolt-toothed
+nut sank two of my ships. But here's what
+you don't understand. Al-Jazari makes
+MORUS:
+automatons for the Pirate Council. Steam-
+powered, metal demons. So besides two
+foot thick iron gates at his fort, he's got a
+MORUS:
+giant crew of council pirates. Ain't no way
+an old man like me with a girl like you, or
+even a team of thirty men could get in.
+TILIA:
+Hmm. Don't they have like, a back door or
+something?
+
+MORUS:
+Nope. And they've got plenty of manpower
+to watch for sneaker-in-ers. Honestly, I don't
+know how they feed them all down at Fort Crow.
+TILIA:
+$1Hmm... $3Oh! Well here's what you don't understand.
+If you want to get into a pirate fort, you
+don't have to kick down the doors and fight
+TILIA:
+every pirate. Although I would. But we can
+be clever, not strong. Where do the pirates
+get their ale? Pirate forts always need ale.
+MORUS:
+Eh. I hadn't thought of that. I don't know.
+
+
+TILIA:
+Because we could slip some sleeping-powder
+or something into their drinks, and we
+wouldn't need to fight eighty guys. Is there
+TILIA:
+like, an apothecary or something in town?
+
+
+MORUS:
+Yeah, up on the east side of town. Alright.
+I can find out where the pirates at Fort
+Crow get their grog if you can get something
+MORUS:
+effective to put inside a shipment.
+
+
+TILIA:
+I'll meet you back here once I have some
+sleeping potion or something.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.2",
+  text = [[
+MORUS:
+If you're still trying to track down some
+sleeping potion, maybe ask the apothecary
+up on the east edge of town. But I like your
+MORUS:
+plan, getting the pirates knocked out just
+might get us into the fort. I'll find out where
+their booze comes from and meet you here.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.3-spike_ale",
+  text = [[
+MORUS:
+Hey, you look tired. Did you find the sleeping
+potion you were looking for?
+
+TILIA:
+Yeah, did you figure out where the Fort Crow
+pirates get their alcohol?
+
+MORUS:
+Well, it actually comes from this very
+establishment. There's a storehouse next
+door, where they keep their stock. I overheard
+MORUS:
+the bartender saying the pirates ale was in
+the basement, marked with stars on the
+barrels. If you can get into the storehouse's
+MORUS:
+basement, just pour that sleeping potion
+into the barrels with stars on them.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.4",
+  text = [[
+MORUS:
+So if you want to get your sleeping potion
+into the Fort Crow pirates' ale, you'll be
+looking for barrels marked with stars in the
+MORUS:
+storehouse next door. Somewhere in the
+basement. Those are headed down to
+Fort Crow, should do the trick. Meanwhile,
+MORUS:
+I'll sail to Fort Crow and make sure the shipment
+gets in and has time to put them out. It's
+south of Lotus Shoal. Meet you there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.5-gotofort",
+  text = [[
+MORUS:
+You look more alert. Did you pour that
+sleeping potion into the pirates' ale?
+
+TILIA:
+Sure did. Did you find out when the ale is
+going to be delivered?
+
+MORUS:
+I asked around, they send a barrel down
+every day. That one should be going out
+anytime.
+TILIA:
+Just what I wanted to hear.
+
+
+MORUS:
+Great. I'll sail ahead and follow the
+shipment, make sure it isn't attacked by
+other pirates, and I'll meet you at
+MORUS:
+Fort Crow. It's down south of Lotus Shoal.
+I'm sure you'll be able to find you way
+there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.6",
+  text = [[
+MORUS:
+I hear pirates from Fort Crow have been seen
+fleeing the island. That makes me happy.
+Did you find the pirate you were looking for?
+TILIA:
+Yep, and even better, I found a chart that
+shows where the Pirate Council's hideout
+is. Take a look.
+MORUS:
+Hmm$1.....$3 This looks like Snapmast Reef.
+Are you about to tell me that's where you're
+headed next?
+TILIA:
+That's where I'm headed next. My dad was
+trying to find Blackbeard, so I'm sure he
+would have been looking for his hideout.
+MORUS:
+Good luck, Tilia. You might just be able to
+pull this off.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.7",
+  text = [[
+MORUS:
+If you think you can take down the pirate
+council, I believe you can. Good luck,
+Tilia.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.8_have_ocean_chart",
+  text = [[
+MORUS:
+Wait, I shouldn't be here. This is a bug.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.ferry_1",
+  text = [[
+MORUS:
+I shouldn't be here, this is a bug in
+the game.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.ferry_1_reef",
+  text = [[
+MORUS:
+How did I end up here? This should be
+Lily who ferries you around. Some kinda
+bug in the game, I guess.
+TILIA:
+$?Let's set sail.
+$?Not now.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.ferry_2",
+  text = [[
+MORUS:
+This isn't right, it should be
+Lily sailing with you, this is
+some kinda bug in the gam.
+
+$?Oakhaven
+$?Snapmast Reef
+$?The Isle of Storms
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.ferry_already",
+  text = [[
+MORUS:
+What? That's where we already are,
+Tilia.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.1",
+  text = [[
+MORUS:
+That sleeping potion in the ale seems to
+have done the trick. Let's go track down
+Al-Jazari.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.2",
+  text = [[
+MORUS:
+Al-Jazari will finally be held accountable
+for sinking my ships! And his other crimes.
+Alright, let's split up. Even though the
+MORUS:
+pirates are asleep, Al-jazari's automatons
+will still be active.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.3",
+  text = [[
+MORUS:
+It looks like the center of the automaton
+factory is past this door. I'm trying to
+find a way to open it...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.4",
+  text = [[
+MORUS (echoing from elsewhere in the fort):
+A-ha! I've found a way to get the door
+open! On my own! I'm coming for you,
+Al-Jazari!
+(It seems the door Morus was trying to
+open has finally unlocked)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.5",
+  text = [[
+MORUS:
+A-ha!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.6",
+  text = [[
+MORUS:
+Ah! Excellent work, Tilia. I'll finally be
+able to bring this ruffian to justice. You
+should check his office, he's likely to
+MORUS:
+have a chart showing how to get to the
+Pirate Council's headquarters.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.7",
+  text = [[
+MORUS:
+I uh, I accidentally hit my head on the
+door frame as I was running in. Then
+Al-Jazari just finished me off, is all.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.8",
+  text = [[
+MORUS:
+You find what you're looking for?
+
+
+TILIA:
+Yeah, there's a chart here. You recognize
+this area?
+
+MORUS:
+Hmm... yeah, that's Snapmast Reef. There's
+a chain of shipwrecks there called the
+Cemetery of the Waves, looks like their
+MORUS:
+hideout is nestled in there. I won't sail
+there, too many pirates and I've gotten my
+revenge already. But I'll give you a ride
+MORUS:
+back to Oakhaven if you want.
+
+
+TILIA:
+$?Take me
+$?I'll travel myself
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.morus.fort.9",
+  text = [[
+MORUS:
+Thank you for helping me take
+Al Jazari down. If anyone can defeat
+the pirate council, it's you.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.brian.caught",
+  text = [[
+TILIA:
+What the heck?! Were you seriously
+dressed up as a monster?
+
+BRIAN:
+I was. I'm the trumpet player from the
+Salamander Heartache Saloon. I'm not a
+good musician, but except for Gunther and
+BRIAN:
+Gloria, I'm all there is. I had a great gig at
+the saloon, but if people knew how good
+those two were, they'd get all the attention.
+BRIAN:
+So I dressed up as a monster to tear down
+their advertising, keep people from discovering
+them, and break their spirit...
+BRIAN:
+...And I would have gotten away with it too!
+If it weren't for you meddling... jerk.
+
+TILIA:
+Look buddy. That's an elaborate plan.
+I don't know why you thought that would
+work.
+BRIAN:
+It was easier than learning to play trumpet.
+
+
+TILIA:
+I'm just gonna leave you here and go see
+if Gunther is playing at the saloon.
+
+BRIAN:
+...fine...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.brian.caught2",
+  text = [[
+BRIAN:
+...grumble grumble...
+
+
+TILIA:
+Not planning on tearing down any more
+posters, are you?
+
+BRIAN:
+No!.... not with you around, anyway...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gloria.1",
+  text = [[
+GLORIA:
+...andasda duh dataee
+uhnduhh iruhgahh naaallll
+whuunnnh gaeee emnnhhh...
+(She's singing something, but the
+words could be literally anything.
+You have no idea.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gloria.2",
+  text = [[
+GLORIA:
+Isnaaah staaauu buuuh
+Ahhauu neeesii luuuuuh
+Ooooooooo
+(Despite how incomprehensible her words
+are, she has a good singing voice. Hopefully
+she isn't saying anything you'd be
+embarrassed to tap your foot to.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.1",
+  text = [[
+GUNTHER (singing):
+...and that's the sad tale
+of the ironclad snail
+who repressed each and every emotion...
+TILIA:
+That's an entirely unique song.
+
+
+GUNTHER:
+Thanks, I think so too. Unfortunately, we
+can't get anyone to come to our gigs. We're
+like, the best band with no audience. It's
+GUNTHER:
+crazy, whenever we try to advertise a show
+at the Saloon, a monster shows up and
+tears down our posters.
+TILIA:
+That's... crazy.
+
+
+GUNTHER:
+Seriously. Oh, hey, you've got a sword! Are
+you like, part of the volunteer navy? Can
+you help protect our band posters?
+TILIA:
+$?I guess so?
+$?No way, man.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.2",
+  text = [[
+TILIA:
+I guess I can help out.
+
+
+GUNTHER:
+Bodacious! If you go tell the bartender at
+the Salamander Heartache Saloon that we'll
+play a show, I'll go hang up some posters,
+GUNTHER:
+but it'll be like, a trap! The posters are bait.
+You can go check out the posters, and beat
+up the monster. Then we can play a show.
+TILIA:
+Why not. I'll go tell the bartender at the
+Salamander Heartache Saloon that you're
+willing to play a show.
+GUNTER:
+Right on! I'll have some posters hanging up
+by the time you talk to him!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.3",
+  text = [[
+GUNTHER:
+Hey, so like, did you let the bartender at
+the Salamander Heartache know that we're
+gonna play a show?
+TILIA:
+Not yet.
+
+
+GUNTHER:
+Well that's why I didn't hang up any posters
+yet either. The bartender said we could play
+a show whenever, so like, let him know.
+GUNTHER:
+Then you can go find the monster that's
+tearing down our band posters.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.4",
+  text = [[
+GUNTHER:
+Hey, I hung a bunch of posters up. Now it's
+all up to you. You've gotta protect my posters
+from being torn up by monsters.
+TILIA:
+I'll go check them out. Where are they?
+
+
+GUNTHER:
+All over, man! The monster could be anywhere
+in the city, no poster is safe!
+
+TILIA:
+I guess I'll just take a walk around the
+city and see if I see anything.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.5",
+  text = [[
+GUNTHER:
+How's the hunt going? Did you catch the
+monster?
+
+TILIA:
+I actually did. You were almost right Gunther,
+somebody was tearing down your posters.
+It wasn't a monster, though.
+GUNTHER:
+If your trying to ruin a musician's career,
+aren't you like, the real monster? Hey, we're
+gonna go play at the saloon! Come see us!
+TILIA:
+Sure, I'll meet you there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.6",
+  text = [[
+GUNTHER:
+Hey, it's you! We've finally got a crowd in
+here! Look, it's like, only right to give you a
+cut of what we're earning. Take this.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.musicians.gunther.7",
+  text = [[
+GUNTHER (singing):
+...So I grabbed the pot
+And with my soup ladle, fought
+Off the barbarian chef invaaaaaasion...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.blackbeard.1",
+  text = [[
+BLACKBEARD:
+Huh, you look kind of familiar. Well step
+aside, kiddo, I've got a treasure map to
+decipher.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.block_guy",
+  text = [[
+I'm so sorry! I was carrying some fish to
+the market to sell and I dropped them!
+It's going to take me an unspecified amount
+of time to clean these up. Maybe you should
+get back to whatever you were doing, it
+shouldn't be long before I'm finished taking
+care of this.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.1",
+  text = [[
+SHIFTY LOOKING GUY:
+Hey! Help us out! We're being attacked
+by pirates!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.2",
+  text = [[
+LEFTY:
+Thanks for saving us from those pirates.
+They came outta nowhere, demanding some
+chart we lifted last week. Wonder why.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.3",
+  text = [[
+AMOS:
+I think those guys who attacked were from
+the pirate council. We're not pirates, just
+burglars. Difference is we don't have a ship.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.4",
+  text = [[
+SHIFTY LOOKING GUY:
+Hey. The name's Shifty. You really helped
+us out of a spot there, those guys came
+in and stole a chart we stole last week, then
+SHIFTY:
+tried to beat us up when we wouldn't help
+them find some treasure. But what are you
+even doing here?
+TILIA:
+I'm looking for my friend Hazel. Did she
+come down here to meet you for some
+reason?
+SHIFTY:
+Oh, you know Hazel? She's the best, we
+met her up on Marblecliff when we were rock
+climbing. She showed us these tasty roots, uh...
+SHIFTY:
+Anyway, yesterday she was asking if we
+knew a way to get into the Mayor's Palace.
+She wants to sneak into his secret archives.
+TILIA:
+Do you know a way?
+
+
+SHIFTY:
+Oh, yeah. Up on Marblecliff, there are ruins
+with a big statue of a bird in the middle. You
+go just south of that and there's three trees
+SHIFTY:
+growing out of rocks. The middle one has
+a hidden tunnel. You gotta knock three
+times in a circle. The tunnel can get you down
+SHIFTY:
+to the palace. But hey, if you sneak in,
+don't take all the good stuff! We like to
+burgle that place every once in a while.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.5",
+  text = [[
+SHIFTY:
+Did you find Hazel yet? Remember, if you
+go up to Marblecliff, find the ruins with the
+bird statue in the middle. Just east of that,
+SHIFTY:
+there's three trees growing on rocks, and
+it's the middle on that has a secret tunnel
+that Hazel wanted to know about. That's
+SHIFTY:
+how we get to the palace, to burgle, take
+some apples from his orchard, you know.
+Usual stuff.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.lookout",
+  text = [[
+SHIFTY LOOKING GUY:
+Tryin' to get through here? What's the
+password?
+
+TILIA:
+Is it "password1234"?
+
+
+SHIFTY LOOKING GUY:
+No, we had to change it. Look, if you don't
+know the password, you won't be gettin'
+past me. Bug off!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.burglars.yikes",
+  text = [[
+Watch out for those pirates!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.cervio.1",
+  text = [[
+CERVIO:
+Hey, you look familiar. I swear I've seen you
+before. It's kind of bugging me.
+
+TILIA:
+I don't know, that sounds like something
+you'll have to solve yourself.
+
+CERVIO:
+I remember! You work in the tavern on
+Limestone Island, don't you? I stopped in a
+couple times last year when I was heading
+CERVIO:
+to the Zephyr empire on business. Funny,
+you're the second girl from Limestone to turn
+up here in a couple months.
+TILIA:
+Wait, who else is here?
+
+
+CERVIO:
+A girl with black hair, uh... Hazel? I met her
+in the market, she was buying fish from the
+vendor. Man I have a great memory.
+TILIA:
+Hazel! Dad must have rescued her!
+I'd better go talk to this fish vendor,
+Thanks, guy.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.cervio.2",
+  text = [[
+CERVIO:
+Did you find your friend, Hazel? I met her
+buying fish in the market, maybe the vendor
+knows where she is.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.1",
+  text = [[
+You know, up those stairs and past the statue
+of Ove, I've seen some shady characters up
+to no good. They don't have a boat, so they're
+not pirates, but... burglars maybe?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.10",
+  text = [[
+Ah, the Ivystump Apple Boat has arrived.
+You know you can walk through the Veilwood
+east of here to get to the source of these
+apples? I haven't been, but I'd love to
+one day see the apple... mine.
+The apple spring? The apple well. The
+apple factory. Wherever these things
+come from.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.11",
+  text = [[
+As big as Oakhaven City is, I heard a rumor
+there's some underground tunnels there.
+Can you believe it? As if they needed more
+to do there. Sounds like it'd be a
+nightmare for tourism. TOO much to do,
+if anything!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.12",
+  text = [[
+The city of Oakhaven is just north of here.
+It's the biggest city in the north sea,
+been around since before the great flood.
+Stories say the Sea King, from the flood
+legends, used to have his palace here before
+he moved it to a mystical island, but I
+think that's all just to drum up tourism.
+]],
+}

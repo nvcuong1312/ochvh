@@ -1,0 +1,788 @@
+dialog{
+  id = "_oakhaven.observations.palace.secret_experiment_room.1",
+  text = [[
+There's a bunch of runes and symbols carved
+into the stone. You can't read them, but as
+you look them over... do you want to prick
+your finger and drop blood on the stone?
+You can't read the runes, but still,
+inexplicably, you feel like doing that.
+$?Prick your finger
+$?Bodily fluids stay inside, that's the rule.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.secret_experiment_room.2",
+  text = [[
+TILIA:
+Oh, wait, this is Oakhaven Palace, isn't
+it... The palace is connected to that
+cave system?
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.secret_experiment_room.3",
+  text = [[
+There's a bunch of really, really old papers
+on the wall. It looks like crazy person
+scribbles. There's runes and drawings of
+waves and monsters.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.secret_experiment_room.afterglow",
+  text = [[
+The rune in the floor glows with
+a sinister light.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace_break_in.cookbook",
+  text = [[
+There's a cook book here. Looks like some
+one is trying to learn to make soup from
+Nitrodendron buds... those might cause
+quite a ruckus if you're not careful!
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace_break_in.dont_upstairs",
+  text = [[
+TILIA:
+I shouldn't go upstairs, I'd definitely get
+caught if I headed up there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace_break_in.guard_sees_explosion",
+  text = [[
+GUARD:
+Holy cannoli, what was that?! I better go
+let someone know the vegetables are
+exploding!
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace_break_in.mayor_letters",
+  text = [[
+There are a few drafts of a letter on the table.
+It looks like the Mayor was trying to tactfully
+dis-invite the pirate Blackbeard from coming
+to his dog's birthday party?
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace_break_in.too_close_to_guard",
+  text = [[
+TILIA:
+That must be the archives back there, but
+if I get any closer, the guard will see me.
+I better cause some sort of distraction.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.saloon.outgoing_booze",
+  text = [[
+There's a note written in angry handwriting:
+This area is for OUTGOING shipments only!
+Stop serving them at the saloon!
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.saloon.see_booze_go",
+  text = [[
+TILIA:
+That guy was carrying the ale I fixed up.
+Guess I got it just in time. The pirates should
+be good and sleepy by the time I get there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.saloon.star_barrel_1",
+  text = [[
+There's a barrel marked with a star here,
+just like Morus was talking about. Pour
+in the Sleeping Draught?
+
+$? Spike it
+$? Nah
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.saloon.star_barrel_2",
+  text = [[
+Glug glug.
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.bomb_shop",
+  text = [[
+Bomb Shop
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.eastoak1",
+  text = [[
+West - Oakhaven
+North - The Veilwood
+East - Stonefell Crossroads
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.eastoak2",
+  text = [[
+North - Oakhaven
+East - Stonefell Crossroads, The Veilwood
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.fort_crow_deliveries",
+  text = [[
+All deliveries use side door
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.hall_of_champions",
+  text = [[
+Hall of Champions
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.hornwart_inn",
+  text = [[
+Hornwart Inn
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.library",
+  text = [[
+Oakhaven Library
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.oakhaven_entrance",
+  text = [[
+Oakhaven South Gate
+South - Oakhaven Port
+West - Gull Rock, path to Marblecliff Moutain
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.poison_grove",
+  text = [[
+Poison Grove
+(Watch out for dangerous plants!)
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.port_1",
+  text = [[
+North - Oakhaven
+East - Fort Crow
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.port_office",
+  text = [[
+Oakhaven Port
+Port Office
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.port_warehouse",
+  text = [[
+Warehouse
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.saloon",
+  text = [[
+Salamander Heartache Saloon
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.saloon_storehouse",
+  text = [[
+Salamander Heartache Saloon Storehouse
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.westoak_north",
+  text = [[
+East - Oakhaven
+North - Marblecliff Mountain
+South - Saltpeter Mine
+]],
+}
+
+dialog{
+  id = "_oakhaven.signs.westoak_south",
+  text = [[
+East - Oakhaven Port
+South - Gull Rock
+West - Seaglint Ruins
+North - Marblecliff Mountain
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.blackbeard.1",
+  text = [[
+BLACKBEARD:
+Hmph. Looks like not only did you manage to
+get out, but my crews have abandoned me as
+well. Doesn't matter. I have the Ocean's Heart.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.blackbeard.2",
+  text = [[
+MALLOW:
+Sure, but do you have your boat? Or do your
+sea-powers include pulling ships up after I've
+shot them full of cannonballs?
+BLACKBEARD:
+You what?!
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.blackbeard.3",
+  text = [[
+BLACKBEARD:
+This is fine. It's fine. I don't need a ship.
+I'll figure out how to use the power of the
+Ocean's Heart to bear me across the waves by
+BLACKBEARD:
+my own willpower. As soon as I've used its
+power to crush you, kid.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.brutus.1",
+  text = [[
+BRUTUS:
+Oh, you again. Look, you don't need to worry
+about looking for a fight. Standwithnotting
+you beatin' me up so good last time, I don't
+BRUTUS:
+even want to fight for Mr. Beard anymore
+anyhow.
+
+TILIA:
+That's a change of heart. What happened?
+
+
+BRUTUS:
+We used this amulet thing to open a glowy
+circle on the ground back there. Soon as it
+shows up, great big monsters start pourin' out.
+BRUTUS:
+Mr. Beard, he orders the pirate crews to go on
+through anyway. Don't reckon lots of them are
+still fightin' on the other side left.
+TILIA:
+I'm going through too. Blackbeard wants the
+Ocean's Heart, and I think you're seeing how
+cruel he'd be if he gets it.
+BRUTUS:
+Oh yeah, I don't need conceiving. The other
+guy, Mallow? Yeah, I let him through too.
+
+TILIA:
+He's here too?! Okay. How do I follow them?
+
+
+BRUTUS:
+Just walk into that glowy circle back there.
+Then you'll disappear. Dunno after that.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.brutus.2",
+  text = [[
+BRUTUS:
+Blackbeard and the rest of 'em went down
+through the glowing circle back there.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.1",
+  text = [[
+TILIA:
+...Dad?! Dad!
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.2",
+  text = [[
+MALLOW:
+Tilia? I... Tilia! Wow Little Gull, you look so
+strong. Wait... you must have beat up a lot of
+pirates to get here, didn't you? Tilia, that-
+TILIA:
+Hey! No, you listen! Linden and I didn't hear
+word from you for months! We thought you might
+have died! I'm also proud of you for doing so
+TILIA:
+much to help people and stop these pirates.
+Next time, maybe send a letter or something
+though. But I'm gonna help you finish this.
+MALLOW:
+$1...$3
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.3",
+  text = [[
+BLACKBEARD:
+Mallow, of course you're here too. You're an
+awfully frustrating shadow.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.4",
+  text = [[
+MALLOW:
+$1Ooooooh.$3 Ouch. Tilia, you'll be fine, I'm sure
+you know what you want to do. I've gotta stop
+this knucklehead.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.4-2",
+  text = [[
+MALLOW:
+Oof. Get back here, ya ruffian.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.4-5",
+  text = [[
+MALLOW:
+Haha, deal with that you bilge-toed maroon.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.5",
+  text = [[
+MALLOW:
+Tilia, Blackbeard's run off to where his ship
+was. I'm uh, actually pretty hurt. I'll be fine,
+but I'm gonna need you to run across the
+MALLOW:
+bridges to the east to finish Blackbeard off.
+
+
+TILIA:
+Okay, Dad. I'll be back before you realize it.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.6",
+  text = [[
+MALLOW:
+Hey, I patched some of these wounds up. Not
+fast enough to help you take care of
+Blackbeard though, am I?
+TILIA:
+Yeah, I managed by myself. I think... nobody
+will be able to use that kind of magic again.
+
+MALLOW:
+I'm proud of you, Tilia. I certainly don't have
+anything left to teach you. Why don't we go
+home?
+TILIA:
+Yeah.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.mallow.7",
+  text = [[
+MALLOW:
+I'm fine. Well not like, fine fine, but I'll
+make it. Go over those bridges to the east
+of here. Fight Blackbeard.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.sea_king.1",
+  text = [[
+$2
+...
+
+
+Would you seek my curse?
+You've weakened me to the point
+where I can hide it no longer...
+
+...hmm, you might yet be
+worthy of the Ocean's blessing.
+Unlike myself.
+
+...I have only regrets. Unable to free
+myself from them in death... Would you bear
+this Ocean's blessing uprightly?...
+
+...Ah, another approaches.
+I will.....
+
+
+...
+$3
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.sea_king.2",
+  text = [[
+BLACKBEARD:
+Heh heh, you're definitely making my job
+easier, girl.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.cutscenes.sea_king.3",
+  text = [[
+BLACKBEARD:
+That wraith destroyed half my crews, I wasn't
+sure if I'd be able to separate it from this
+treasure. But here you are just sleeping,
+BLACKBEARD:
+leaving the Ocean's Heart out for anybody to
+grab. Communing with a demigod wear you out?
+Anyway, let's see what the Ocean's Heart can
+BLACKBEARD:
+bestow on a mortal. Let the sea fully cover the
+old king's ruins and wash away his ghost! I am
+the new king of the sea!
+TILIA:
+No, no, no, shoot! This is bad, I can't fight him
+like this. I need to get out of here!
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.observations.1",
+  text = [[
+There's a message inscribed on the stone.
+He who would visit the Spring Memorial must
+prove both marksmanship and faith. The
+arches will accept your offering.
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.observations.abyss_reaction",
+  text = [[
+        Ah, so you've seen the
+    source of the darkness, the abyss
+      at the center of the world...
+
+   I've not been made this way only by
+    the Ocean. The abyss corrupts,
+     and it will not be cleansed.
+
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.observations.final_battle_save",
+  text = [[
+(This is the final battle. You won't be able
+to save after this. Save your game?)
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_palace_of_storms.observations.smash_heart",
+  text = [[
+TILIA:
+...
+]],
+}
+
+dialog{
+  id = "_pause.save_question",
+  text = [[
+Would you really like to quit?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_shop.apple",
+  text = [[
+Some pretty nice apples, great for your health.
+One is 8 crowns, and heals two hearts.
+$? Sure
+$? No thanks
+]],
+}
+
+dialog{
+  id = "_shop.arrows",
+  text = [[
+Arrows. You could try using your bow
+without these, but... Well, actually you
+really couldn't.
+]],
+}
+
+dialog{
+  id = "_shop.inn",
+  text = [[
+Would you like to sleep here and recover all
+your health for $v crowns?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_shop.no_room",
+  text = [[
+You don't have room to carry any more
+of these!
+]],
+}
+
+dialog{
+  id = "_shop.purchase_confirm",
+  text = [[
+Sure you want to buy this item?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_shop.question",
+  text = [[
+Buy this for $v crowns?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_signs.limestone.sometimes_cape.no_travel",
+  text = [[
+Sometimes Cape
+North to Limestone Village
+]],
+}
+
+dialog{
+  id = "_signs.limestone.sometimes_cape.travel",
+  text = [[
+Sometimes Cape
+North to Limestone Village
+
+
+Fast Travel?
+  $? Yes
+  $? No
+]],
+}
+
+dialog{
+  id = "_signs.limestone.west_limestone_1.no_travel",
+  text = [[
+West Limestone Island
+South to Sometimes Cape
+]],
+}
+
+dialog{
+  id = "_signs.limestone.west_limestone_1.travel",
+  text = [[
+West Limestone Island
+South to Sometimes Cape
+
+
+Fast travel?
+  $? Yes
+  $? No
+]],
+}
+
+dialog{
+  id = "_signs.limestone.west_limestone_2.no_travel",
+  text = [[
+West Limestone Island
+North to Castone Grove
+]],
+}
+
+dialog{
+  id = "_signs.limestone.west_limestone_2.travel",
+  text = [[
+West Limestone Island
+North to Castone Grove
+
+
+Fast travel?
+  $? Yes
+  $? No
+]],
+}
+
+dialog{
+  id = "_snapmast.cemetery_of_the_waves.assassinbeard",
+  text = [[
+GAVRILLO:
+Ah, you again. Can't say I'm surprised, since
+you managed to track Thyme down. But I'm
+not about to let you get in Blackbeard's way.
+]],
+}
+
+dialog{
+  id = "_snapmast.cemetery_of_the_waves.first_mate.1",
+  text = [[
+HORNIGOLD:
+Aye, I figured somethin' like this must be
+going on when I heard the ruckus. I'm
+Hornigold, Blackbeard's first mate. Seems
+HORNIGOLD:
+we're making more and more enemies
+these days.
+
+TILIA:
+Between trying to take over the seas and
+being pirates, you guys should expect that.
+I'm here to find the Isle of Storms, and
+TILIA:
+if I have to fight every pirate in this
+hideout to get its location, I will.
+
+HORNIGOLD:
+Ah, that won't be necessary. We found the
+Isle of Storms just a while ago. Some kids
+on Oakhaven had an ancient chart they
+HORNIGOLD:
+couldnae even read. Blackbeard came back
+here with it, summoned the Captains and
+crews he could, and left to find the isle, but...
+HORNIGOLD:
+honestly, I'm worried about him. Blackbeard
+is me best friend. I've known him since he
+was a kid. He's a skilled fighter and leader,
+HORNIGOLD:
+but I'm worried this search for the Ocean's
+Heart is going to drive him to do something
+dangerous. Or stupid. The ancient sea-king
+HORNIGOLD:
+who first had the Ocean's Heart was destroyed
+because he lost his humility and didnae
+respect the sea. I don't want to see that
+HORNIGOLD:
+happen to Blackbeard. Here, take this chart.
+Go to the Isle of Storms. Maybe you can
+talk some sense into Blackbeard before he
+HORNIGOLD:
+makes an enemy of the Ocean herself.
+]],
+}
+
+dialog{
+  id = "_snapmast.cemetery_of_the_waves.first_mate.2",
+  text = [[
+HORNIGOLD:
+I hope you can use that chart to sail to the
+Isle of Storms and talk Blackbeard outta
+taking the Ocean's Heart for himself and
+HORNIGOLD:
+invoking the wrath of the ocean herself
+or something like that.
+
+TILIA:
+I hope I can too. Thanks, man.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.ferryboy.1",
+  text = [[
+TERRYWEATHER:
+If you want to take the ferry, just climb
+aboard and I'll open the gate. You been
+through Stonefell Crossroads recently?
+TERRYWEATHER:
+Seems like the monsters get tougher as
+you head up that way. If you ever wander
+into an area where the monsters are too
+TERRYWEATHER:
+tough for you, there's no shame in coming
+back later after you've improved your
+weapons or armor.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.ferryman.0",
+  text = [[
+MERRYWEATHER:
+Yeh lookin' to take the Sycamore Ferry
+across to Oakhaven or Yarrowmouth? No toll
+or fare, this one's a public service.
+TILIA:
+Yeah, sure.
+
+
+MERRYWEATHER:
+Alright, hop on the ferry and I'll let the
+gate down. Don't fall off or you'll have
+to wait for it to come back! Also watch
+MERRYWEATHER:
+your step when you're gettin' off, it
+just starts goin' back and forth once the
+gate is open. Weird currents, ya know.
+]],
+}

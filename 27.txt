@@ -1,0 +1,840 @@
+dialog{
+  id = "credits",
+  text = [[
+Created By:Max Mraz
+Additional Programming:Llamazing
+Enter_Command font:from fontenddev.com
+Special Thanks to:Alex Gleason
+The End
+]],
+}
+
+dialog{
+  id = "credits_scroll",
+  text = [[
+
+
+
+
+
+
+
+Created By Max Mraz
+
+
+
+
+
+Additional Programming
+Llamazing
+Grégoire Hirt
+
+
+
+
+
+Publishing
+Arturas Surgutanovas
+Andrius Mackevicius
+
+
+
+
+
+Support and QA
+Povilas Svetovas
+Arturas Rybakas
+Darius Sturonas
+Arunas Mieliauskas
+
+
+
+
+
+Fonts
+Enter_Command, Pixolde by Jeti - fontenddev.com
+Proggy by Tristan Grimmer
+Basis33 by Tristan Grimmer, Manchson
+Gnu Unifont by St. GIGAFONT Typefaces
+
+
+
+
+
+Special Thanks to
+
+Christopho
+Hugo Hromic
+Molly Mraz
+Alex Gleason
+The Solarus-Games Team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The End
+]],
+}
+
+dialog{
+  id = "demo_1.npcs.arrow_guy.1",
+  text = [[
+Look, I'll help you out this time but if you
+run out of arrows in the real game you'll have
+to deal with it another way.
+]],
+}
+
+dialog{
+  id = "demo_1.npcs.arrow_guy.2",
+  text = [[
+I'm the kind of guy who hands out arrows if
+you run out. But you don't have a bow, so
+like, what are you expecting here? Skedaddle.
+]],
+}
+
+dialog{
+  id = "demo_1.npcs.smith_guy.1",
+  text = [[
+Does it make sense to be a blacksmith in such
+an inaccessible location? Not really. But
+don't look into it and I'll temper your sword.
+]],
+}
+
+dialog{
+  id = "demo_1.signs.bow_island.no_travel",
+  text = [[
+Hemlock Island Ruins
+
+
+
+South to East Verne Island
+]],
+}
+
+dialog{
+  id = "demo_1.signs.bow_island.travel",
+  text = [[
+Hemlock Island Ruins
+
+
+
+South to east Verne Island
+Fast travel?
+     $? Yes
+     $? No
+]],
+}
+
+dialog{
+  id = "demo_1.signs.east_verne.no_travel",
+  text = [[
+East Verne Island
+
+
+
+East to Hemlock Island
+]],
+}
+
+dialog{
+  id = "demo_1.signs.east_verne.travel",
+  text = [[
+East Verne Island
+
+
+
+East to Hemlock Island
+Fast travel?
+     $? Yes
+     $? No
+]],
+}
+
+dialog{
+  id = "quest.heron_doors",
+  title = "REPLACED WITH QUEST.SIDE.HERON_DOORS",
+  text = [[
+@?This message is an error
+!tell Max!
+!make him fix it!!
+
+%~You haven't found any more shrines
+%=!Locations to explore: --// The player must find at least one door for these lines to be visible
+?Shrines explored: --// This line visible instead once quest is complete
+%1$@1   Tern Marsh
+%2$@2   Marble Summit
+%3$@3   Snapmast
+%=!
+%=!    Keep exploring to find them all
+
+    Shrines found: $v1 of 4 --// this value will always be at least 1 while this alt quest is active
+]],
+}
+
+dialog{
+  id = "quest.main.hazel",
+  title = "The Trail Warms Up",
+  text = [[
+#Hazel and Dad went to Oakhaven.
+@Investigate Oakhaven
+!The island lies in the
+!Northwest part of the sea
+@Search town for Hazel
+!
+!You were told to ask a man selling
+!mangrove leaves
+@!Try the Hornwart Inn
+!
+!It's in the northwest corner of town
+@!Search the library
+@!Hazel was going to meet pirates at
+!the port
+@Hazel's in the mayor's secret
+archives
+!
+!There's a secret tunnel on Marblecliff
+!Mountain- head south from the ruins,
+!over the waterfalls
+@Meet Hazel back at the inn
+]],
+}
+
+dialog{
+  id = "quest.main.hourglass_fort",
+  title = "The Hourglass Crew",
+  text = [[
+##You've almost found the Hourglass
+##crew's hideout
+@Find Jerah
+!
+!He went to the Juniper Grove near the
+!docks
+%2!
+%2!Maybe this key you found in Juniper
+%2!Grove will be useful
+@Investigate Kingsdown Isle
+!
+!There's a tunnel through some
+!catacombs. A secret keyhole is hidden
+!in the left pillar by a bear statue,
+!but you'll need a key...
+@Cut through the catacombs to get to
+Hourglass Fort
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.main.isle_of_storms",
+  title = "The Isle of Storms",
+  text = [[
+##Blackbeard's worried first mate gave
+##you a chart showing the location of
+##the Isle of Storms
+@Find someone to sail you to the Isle
+::!
+%=!$i0    QUEST ITEM:
+%=!    $ITEM_NAME
+@Find a way into the Sea King's sunken
+palace
+@Search for the Ocean's Heart
+@!Escape from the collapsing palace!
+@Fight Blackbeard
+]],
+}
+
+dialog{
+  id = "quest.main.kelpton",
+  title = "The Chart Salesman",
+  text = [[
+##Someone saw Mallow in Ballast Harbor
+@Talk to the Chart Salesman he was
+speaking with
+@Enter the Pirate Council's Vault
+@!Find Kelpton's charts
+@Return Kelpton's stolen sea charts
+@You received a key Mallow left with
+Kelpton
+!
+!It might have something to do with the
+!Hourglass crew, but you might have to
+!follow other leads for now
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.main.limestone.get_whisky",
+  title = "Whisky for Juglan",
+  text = [[
+##Your dad's friend Juglan has had a
+##rough week
+@Find a bottle of whisky in the secret
+stash
+!
+!The stash is on the north end of the
+!island
+@Return the whisky to your dad
+?
+?Pirates attacked the village.
+?Even whisky couldn't make this
+?week better.
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.main.limestone.meet_juglan_at_pier",
+  title = "Hitching A Ride",
+  text = [[
+##Juglan will give you a ride to
+##Goatshead Harbor
+@Meet Juglan at the pier
+@Investigate the Sodden Cormorant
+Tavern
+]],
+}
+
+dialog{
+  id = "quest.main.mangrove_sword",
+  title = "The Mangrove Sword",
+  text = [[
+##Hazel thinks the Sword of the Sea King
+##can destroy the Ocean's Heart
+@Locate an ancient mangrove thicket
+!
+!The fish seller in the market also
+!sells mangrove leaves, he might know
+!where one is
+@Meet Hazel at the south gate $!and take
+!her to Gull Rock, southwest of the
+!city
+@Find the oldest mangrove tree in the
+thicket
+@Retrieve the Sword of the Sea King
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.main.monkshood",
+  title = "Tiresome Herbs",
+  text = [[
+##To sneak into Fort Crow, you'll need
+##to make some sleeping draught
+@Gather monkshood petals
+!
+!Look in the northwest part of
+!Marblecliff mountain, near dangerous
+!plants
+@Bring the monkshood petals to the
+apothecary
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME ($v1) --// $v1 is the number of monkshood petals the player has in inventory
+#%=
+#REWARD: $ITEM{sleeping_draught.1}    Sleeping Draught
+]],
+}
+
+dialog{
+  id = "quest.main.pirate_fort",
+  title = "The Pirate Fort",
+  text = [[
+##You need to find out if the Pirate
+##Council knows where the Isle of Storms
+##is. Hazel gave you a lead on a captain
+@Speak with Morus
+!
+!He's a volunteer navyman who's usually
+!at the Salamander Heartache saloon
+@Get sleeping potion $!from the town
+!apothecary
+!
+!There's an apothecary up on the east
+!side of town
+@!Return to Morus
+@Find the pirates' ale shipment and
+spike it
+!
+!Look for a barrel marked with a star
+@Sneak into Fort Crow $!while the pirates
+!are asleep. The Fort is south of
+!Lotus Shoal
+!Morus will meet you down at Fort Crow
+@Find Captain Al-Jazari
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.main.snapmast",
+  title = "The Hideout",
+  text = [[
+##You've found the location of the
+##Pirate Council's hideout
+@Sail to Snapmast Reef
+@Search for the Pirate Council's
+hideout
+@Find information on the Isle of Storms
+]],
+}
+
+dialog{
+  id = "quest.main.spruce_head",
+  title = "Spruce Head",
+  text = [[
+##The Hourglass Pirates were seen
+##looting Spruce Head
+@!Investigate Spruce Head
+@Find your way to the shipwreck in the
+harbor
+@Check with Briarwood Distillery
+!
+!The distillery is on Yarrowmouth
+!Island
+]],
+}
+
+dialog{
+  id = "quest.main.tidal_starfruit",
+  title = "A Tidy Starnut?",
+  text = [[
+##Hazel needs a tiny Starfood or
+##something to make an amulet to catch
+##the pirates
+@Find a mangrove thicket
+@!Look southwest of town around Gull
+!Rock
+@Return the starfruit to Hazel
+]],
+}
+
+dialog{
+  id = "quest.side.abyss",
+  title = "The Brass Key",
+  text = [[
+##You found an ancient brass key
+##in the Sea King's sunken palace
+@There's probably some kind of
+matching brass lock, but where?
+@Explore the locked passage
+@You activated... or awakened?
+Something?
+?All you know for sure is you
+?fought a big monster in the
+?heart of the earth. What was
+?it?
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.side.ancient_groves",
+  title = "The Ancient Groves",
+  text = [[
+##After defeating a monster in an
+##ancient grove, the rune stone at
+##its center started  glowing
+@Rune Stones found: $v1
+@!Something definitely happened
+!after you found those 3. Is
+!there another grove like these?
+@Proceed through the ruins in the
+Ancient Grove
+
+]],
+}
+
+dialog{
+  id = "quest.side.ballast_harbor.hornet_honey",
+  title = "Hornet Honey",
+  text = [[
+##Somewhere in Tern Marsh you can find
+##hornet honey
+@Locate the hornets and take their
+honey
+@Return the honey to Benjamin at the
+meadery
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+#%=
+#REWARD: $ITEM{rupee.1}    $v1 --// $v1 is the number of crowns for the reward (more if Michael is dead)
+]],
+}
+
+dialog{
+  id = "quest.side.ballast_harbor.lost_key",
+  title = "The Wrong Key",
+  text = [[
+##A drunk man dropped a key in the
+##Ballast Harbor inn, which seems to go
+##to a completely different inn
+@Take the key and let youself into some
+other room, I guess?
+?
+?Turns out the key went to Juneberry
+?Inn on Goatshead Island
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.side.ballast_harbor.willow_palace",
+  title = "Willow Palace",
+  text = [[
+##You came across a crumbling palace
+@Start 4 stopped fountains.
+Fountains started: $v1
+@Explore the ruins
+#::
+?REWARD: $ITEM{health_upgrade.1}
+]],
+}
+
+dialog{
+  id = "quest.side.bomb_arrows",
+  title = "Thyme's Bombs",
+  text = [[
+##You found some plans for explosive
+##arrows at Hourglass Fort
+@Find someone who can build these
+@Find some tungsten for the intern
+!He says there's a cave in the
+!Straight of Thorns, between
+!Oakhaven and Yarrowmouth. You
+!can get there from Stonefell
+!Crossroads
+@Collect a machine part from
+Rusty in the Port Underground
+!Behind a merchant's stall at
+!Oakhaven Port is a secret door
+!to the underground
+@Get the machine part from the
+pirates that stole it
+!They're in a building across
+!the bridge on the west side
+!of the port
+@Return to the intern at the
+Bomb Shop
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+%=?
+?REWARD: $ITEM{bow_bombs.1}    Bomb Arrows
+]],
+}
+
+dialog{
+  id = "quest.side.carrot_cache",
+  title = "The Carrot Cache",
+  text = [[
+##An upset fisherman's spot's been
+##overrun with monsters
+@Find the fishin' spot and destroy
+the monsters
+!
+!The fishing spot is just East of
+!Goatshead Harbor
+@ Return to the fisherman
+#::
+#REWARD: $ITEM{rupee.1}    80
+]],
+}
+
+dialog{
+  id = "quest.side.crabhook.dusit",
+  title = "Brickenbranch Island",
+  text = [[
+A man in Crabhook wants your help
+searching Brickenbranch Island
+for treasure
+@Go to the dock and sail Dusit's boat
+to the island
+@Find your way into the shrine
+@Let Dusit know there wasn't
+anything inside the shrine
+]],
+}
+
+dialog{
+  id = "quest.side.crabhook.monster",
+  title = "The Shoal Beast",
+  text = [[
+##A monster has been attacking fisherman
+##from Crabhook
+@!Speak to fishermen to find out where
+!the monster is
+@!Arni was attacked recently, ask him
+!where
+@Search Lotus Shoal
+!
+!The monster was last seen near some
+!rocks by a cliff with two spruce trees
+!when Arni was fishing with monster
+!bait.
+@Return to Danley to get paid
+!
+!He's probably still at the tavern in
+!Crabhook
+#::
+#REWARD: $ITEM{rupee.1}    80
+]],
+}
+
+dialog{
+  id = "quest.side.crow_lord",
+  title = "The Crow Feather",
+  text = [[
+##You found a crow feather sitting
+##in front of a winged statue
+@Figure out what to do with the feather
+?You summoned the Crow Lord for a duel
+::?
+?REWARD: $ITEM{boomerang.2}    Crowfeather Boomerang
+]],
+}
+
+dialog{
+  id = "quest.side.ferris_tools",
+  title = "Black Market Tools",
+  text = [[
+##Ferris could make you more armor if
+##you find her some blacksmith tools
+@Find some tools $!somewhere
+!
+!Ferris recommends looking in Ballast
+!Harbor
+@Return the tools to Ferris
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+#%=
+#REWARD: $ITEM{armor_upgrade_2.1}    Defense +2
+]],
+}
+
+dialog{
+  id = "quest.side.fykonos",
+  title = "The Witch's Ghost",
+  text = [[
+##You awoke, shipwrecked on Fykonos Isle
+@Find a sword somewhere
+@Find your way into the tomb east
+of town and fight the Witch's Ghost
+@See if the ferry back to Oakhaven
+has opened since the ghost is gone
+]],
+}
+
+dialog{
+  id = "quest.side.goatshead.phantom_squid",
+  title = "Phantom Squid Hunt",
+  text = [[
+##The Phantom Squid is manacing
+##merchants' records and causing
+##economic chaos
+@Set a trap with Rilesdorf
+!
+!Rilesdorf's shop is by the market,
+!against the cliff
+@Track the Phantom Squid!
+@Return to Eamon back at the Marchants'
+Guild
+?
+?Eamon only paid 60 Crowns because ink
+?was left on Rilesdorf's carpet
+#::
+#!REWARD: $ITEM{rupee.1}    70
+?REWARD: $ITEM{rupee.1}    60
+]],
+}
+
+dialog{
+  id = "quest.side.goatshead.phantom_squid_aster",
+  title = "Phantom Squid Hunt",
+  text = [[
+##The Phantom Squid is manacing
+##merchants' records and causing
+##economic chaos
+@Set a trap with Rilesdorf
+@Track the Phantom Squid!
+?
+?You decided instead to side with Aster
+?and help the people of Crabhook
+]],
+}
+
+dialog{
+  id = "quest.side.goatshead.phantom_squid_part_2",
+  title = "The Phantom's Quest",
+  text = [[
+##Eamon is using his power of the Guild
+##to opress the people of Crabhook
+@Find evidence of Eamon's embezzlement in
+the Merchants' Guild building
+@Give Aster the documents you found
+#::!
+#%=!$i0    QUEST ITEM:
+#%=!    $ITEM_NAME
+@!?UNUSED PHASE
+@Challenge the Barbell Brutes $!to
+convince them to stop helping Eamon
+!
+!They live on the north street in town
+@Find Aster at the Guild Building
+::?
+?REWARD: $ITEM{rupee.1}    200
+]],
+}
+
+dialog{
+  id = "quest.side.goatshead.poplar_shack_key",
+  title = "Mossy Key",
+  text = [[
+##You found a key laying in on the
+##ground. Wonder where it goes?
+@Find a locked door for the key you
+found in the Forest of Tides
+::
+%1!$i0    QUEST ITEM:
+%1!    $ITEM_NAME
+?
+?It went to an abandoned shack.
+]],
+}
+
+dialog{
+  id = "quest.side.goatshead.secret_tunnels",
+  title = "Abandoned Tunnels",
+  text = [[
+##Some adventurers who know their limits
+##want help clearing monsters out of
+##some old tunnels
+@Meet the adventurers
+!
+!The entrance to the tunnels is near
+!the tavern
+@Defeat the big spider
+@Let the adventurers know the tunnels
+have been cleared
+]],
+}
+
+dialog{
+  id = "quest.side.heron_doors",
+  title = "The Seabird's Tear",
+  text = [[
+!Cleanse the remaining shrines to
+!strengthen the Seabird's Tear spell
+@?Explore the remaining shrines
+
+%~You haven't found any more shrines
+%=!Locations to explore: --// The player must find at least one door for these lines to be visible
+?Shrines explored: --// This line visible instead once quest is complete
+%1$@1 Tern Marsh
+%2$@2 Marble Summit
+%3$@3 Smoldering Rock
+%=!
+%=!  Keep exploring to find them all.
+::
+$ITEM{thunder_charm.1}    Seabird's Tear Upgrades: $v1 of 4 --// this value will always be at least 1 while this alt quest is active
+]],
+}
+
+dialog{
+  id = "quest.side.heron_well",
+  title = "Heron's Well",
+  text = [[
+##The ghost of the hero Heron tasked you
+##with cleansing Thrush Fort
+@Unlock Thrust fort
+!
+!It's West of Goatshead, near
+!the ferry
+@Destroy the monsters inside
+@Explore the tomb
+#::
+#%1$i0    QUEST ITEM:
+#%1    Thrush Fort Key --// Removed once door is opened
+%2ITEM FOUND: $ITEM{thunder_charm.1}    Thunder Charm
+]],
+}
+
+dialog{
+  id = "quest.side.lighthouses",
+  title = "Old Lighthouses",
+  text = [[
+##You heard about four ancient
+##lighthouses built to guide a lost
+##lover back from sea
+@Light all four lighthouses$!:
+! $v1 lighthouses are burning
+@You feel drawn back to Zephyr Bay
+!where the lighthouse keeper lives
+@Board the ghost ship
+#::
+#%=ITEM FOUND: $ITEM{gust.1}    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.side.mysterious_doors",
+  title = "Mysterious Doors",
+  text = [[
+@!? --// don't display checkmark for this phase
+You found a door marked with a
+Seabird carving at these locations:
+%1$@1 Tern Marsh
+%2$@2 Marble Summit
+%3$@3 Smoldering Rock
+--//Note: the one in Goatshead is excluded because it is behind a regular locked door
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.bomb_shop",
+  title = "Saltpeter Cave",
+  text = [[
+##The Oakhaven Bomb Shop is having
+##monster-related supply chain issues
+@!Check in with the shop in Oakhaven
+!City
+@Enter the saltpeter cave
+!
+!Out the city's south gate, head west
+!over the bridge, past the beach
+@Find and destroy the monster
+@Return to the bomb shop
+::?
+?REWARD: $ITEM{bomb.1}    70
+]],
+}

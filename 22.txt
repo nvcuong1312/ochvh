@@ -1,0 +1,913 @@
+dialog{
+  id = "_sycamore_ferry.npcs.ferryman.1",
+  text = [[
+MERRYWEATHER:
+Just hop on the ferry and I'll let the
+gate down. On the other side of the channel
+is Stonefell Crossroads. You can get to
+MERRYWEATHER:
+Oakhaven to the West, or Yarrowmouth to
+the East.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.lenda.1",
+  text = [[
+LENDA:
+Oh snails! I didn't think anyone would find
+me here! You're not with those pirates on
+the shoal, are you?
+TILIA:
+No way! You're hiding from them?
+
+
+LENDA:
+Yeah! I stole the key to the fort they built
+to lock them inside. I don't think any of
+them can swim.
+TILIA:
+Yeah, I mean, who can?
+
+
+LENDA:
+Right? I don't know anyone who can swim.
+It's bad luck.
+
+TILIA:
+So then now what?
+
+
+LENDA:
+$1...$3That's my whole plan. So, okay. It
+wasn't totally thought-through. Since then,
+I've been waiting here to make sure they
+LENDA:
+don't like... built a bridge to get out.
+They haven't yet.
+
+TILIA:
+What$1...$3 Do you want me to maybe just go
+beat them up? So you don't have to wait here
+forever?
+LENDA:
+OH! That's way better! Yeah, would you?
+Here's the key to their fort!
+
+(You got a Fort Key!)
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.lenda.2",
+  text = [[
+LENDA:
+So yeah, I guess my plan was just to lock
+those pirates in their fort and... well my
+plan was to lock the pirates in their fort.
+LENDA:
+Now I've gotta wait here to make sure they
+don't get out.
+
+TILIA:
+Don't worry, I'll go beat them up so you
+can stop camping here.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.lily.help",
+  text = [[
+WOMAN:
+Hey! You! Help a girl out, these monsters
+have me pinned in here!
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.lily.saved",
+  text = [[
+WOMAN:
+Hey, thanks, that was a tight spot. I'm
+Lily, of Lily's Delilveries.
+
+TILIA:
+No problem. You mean deliveries?
+
+
+LILY:
+No, it's... Delilveries, like Lil, short for
+Lily? I thought it was a good name. I've got
+a ship, I delilver cargo, you know.
+TILIA:
+Hey if that's part of your brand, go for
+it. Just stay out of the way of monsters.
+
+LILY:
+Hey, I want to do something for you. Since
+you really rescued me there. If you see me
+around, come talk to me. I'm always sailing,
+LILY:
+so I can sail you around to anywhere I've
+been. Or even places I haven't been, if you
+bring me a sea chart. I like traveling.
+TILIA:
+Alright, thanks. If I see you around, I'll
+be sure to catch up with you.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.npcs.lily.saved_follow_up",
+  text = [[
+LILY:
+Hey, thanks again. I'm just gonna catch my
+breath after watching you fight those
+monsters, but then it's back to the
+LILY:
+delilvery business... yeah, as I'm saying
+it out loud to you know, delilvery just
+doesn't roll off the tongue.
+TILIA:
+Not so much, no.
+
+
+LILY:
+Anyway, if you see me around, come talk to
+me. I'll be able to sail you around to
+places I've been. Or if you have charts
+LILY:
+of places I haven't been, then those
+places too.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.other.ancient_grove_egg",
+  text = [[
+The strange stone feels unnaturally
+cold to the touch.
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.other.crow_lord_challenge",
+  text = [[
+It's the same statue as the one where you
+found the crow feather. Offer the feather?
+$?Yes
+$?No
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.forest_of_tides",
+  text = [[
+West - Goatshead
+East - Zephyr Bay
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.forest_of_tides_2",
+  text = [[
+South - Tidal Tunnel
+East - Zephyr Bay
+Northwest - Goatshead
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.forest_of_tides_mandrake",
+  text = [[
+DANGER:
+White Mandrake!
+(Some monsters are really tough, you might
+need to come back when you're stronger)
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.lotus_1",
+  text = [[
+East - Goatshead
+West - Spruce Head, Fort Crow
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.lotus_2",
+  text = [[
+West - Spruce Head
+South - Fort Crow
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.stonefell_1",
+  text = [[
+North - Oakhaven
+East - Yarrowmouth
+South - Goatshead
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.sycamore_ferry_1",
+  text = [[
+East - Forest of Tides
+South - Lotus Shoal, Limestone Island
+North - Goatshead Harbor, Stonefell Crossroads
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.sycamore_ferry_2",
+  text = [[
+West - Lotus Shoal, Spruce Head
+South - Limestone Island
+East - Goatshead Harbor, Forest of Tides
+]],
+}
+
+dialog{
+  id = "_sycamore_ferry.signs.sycamore_ferry_3",
+  text = [[
+North: Stonefell Crossroads, to Yarrowmouth
+and Oakhaven
+South: Forest of Tides, Lotus Shoal
+East: Goatshead Harbor
+]],
+}
+
+dialog{
+  id = "_test.chinese",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_test.punctuation",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_test.russian",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_test.sub",
+  text = [[
+Dialog, substitute $v
+]],
+}
+
+dialog{
+  id = "_treasure.abyssal_flame.1",
+  text = [[
+You received the Abyssal Flame. This spell
+summons dark energy from the abyss at the
+center of the earth. It will consume most
+of your magic power to use.
+]],
+}
+
+dialog{
+  id = "_treasure.amulet.1",
+  text = [[
+You received a magic amulet. Created
+following directions in an old book, this will
+somehow allow you to get into the Ocean's
+Temple, if you can find it.
+]],
+}
+
+dialog{
+  id = "_treasure.apples.1",
+  text = [[
+You collected an apple. It'll heal 2 hearts!
+]],
+}
+
+dialog{
+  id = "_treasure.apples.2",
+  text = [[
+You collected 3 apples! They'll each
+heal two hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.apples.3",
+  text = [[
+You collected 5 apples! They'll each
+heal two hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.apples.4",
+  text = [[
+You collected 10 apples! They'll each
+heal two hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.armor_tools.1",
+  text = [[
+You received some Armorer's Tools. There's
+a pair of pliers, some needles, some... other
+stuff? This isn't your job, you don't know
+how to use whatever this stuff is.
+]],
+}
+
+dialog{
+  id = "_treasure.armor_upgrade_1.1",
+  text = [[
+You found some armor that's slightly better
+than what you currently have!
+(Your defense increased by 1)
+]],
+}
+
+dialog{
+  id = "_treasure.armor_upgrade_2.1",
+  text = [[
+You found some armor that's notably better
+than what you currently have!
+(Your defense increased by 2)
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.1",
+  text = [[
+You found an arrow. Send it toward some
+monsters with your bow.
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.2",
+  text = [[
+You collected some arrows.
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.3",
+  text = [[
+You collected some arrows!
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.4",
+  text = [[
+You collected 10 arrows! This should
+take out a lot of enemies if you don't
+mean too much.
+]],
+}
+
+dialog{
+  id = "_treasure.attack_upgrade.1",
+  text = [[
+Your sword and bow damage outputs
+were each increased by 1.
+]],
+}
+
+dialog{
+  id = "_treasure.attack_upgrade.8",
+  text = [[
+debug attack upgrade (8)
+]],
+}
+
+dialog{
+  id = "_treasure.bag_of_money.1",
+  text = [[
+You found a bag of money. It's a very
+specific amount.
+]],
+}
+
+dialog{
+  id = "_treasure.bait.1",
+  text = [[
+You found some monster bait. Place it in
+certain places to lure out various kinds of
+beasts and creatures.
+]],
+}
+
+dialog{
+  id = "_treasure.bait.2",
+  text = [[
+You found 3 jars of monster bait. Place it
+in certain places to lure out various kinds
+of beasts and creatures.
+]],
+}
+
+dialog{
+  id = "_treasure.bait.3",
+  text = [[
+You found 5 jars of monster bait. Place it
+in certain places to lure out various kinds
+of beasts and creatures.
+]],
+}
+
+dialog{
+  id = "_treasure.ball_and_chain.1",
+  text = [[
+You obtained a large flail. Press its
+button to swing it around recklessly,
+smashing into enemies and probably walls
+and trees and stuff. It's hard to control.
+]],
+}
+
+dialog{
+  id = "_treasure.ball_and_chain.2",
+  text = [[
+You obtained an explosive flail!
+It will explode whenever it smashes
+into anything. This is actually
+pretty dangerous! Be careful!
+]],
+}
+
+dialog{
+  id = "_treasure.barrier.1",
+  text = [[
+You received Devana's Barrier. Use this
+spell to deflect incoming projectiles.
+It will use a small amount of your magic.
+]],
+}
+
+dialog{
+  id = "_treasure.berries.1",
+  text = [[
+You found a berry. Eat it to restore
+half a heart. You can use healing
+items from the menu.
+]],
+}
+
+dialog{
+  id = "_treasure.berries.2",
+  text = [[
+You found 3 berries. Each will restore
+half a heart when you eat it.
+]],
+}
+
+dialog{
+  id = "_treasure.berries.3",
+  text = [[
+You received 5 berries. Each will restore
+half a heart when you eat it.
+]],
+}
+
+dialog{
+  id = "_treasure.berries.4",
+  text = [[
+You received 20 berries. Each will
+restore half a heart when you eat it.
+Or you could bake them all into a pie
+if you beat the game and settle down.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb.1",
+  text = [[
+You found a bomb! Equip it to set
+it on the ground and blow things up.
+You can pick the bomb back up to
+throw it as well.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb.2",
+  text = [[
+You found some bombs! Equip it to set
+it on the ground and blow things up.
+You can pick the bomb back up to
+throw it as well.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb.3",
+  text = [[
+You found some bombs! Equip it to set
+it on the ground and blow things up.
+You can pick the bomb back up to
+throw it as well.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb.4",
+  text = [[
+You found some bombs! Equip it to set
+it on the ground and blow things up.
+You can pick the bomb back up to
+throw it as well.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb.5",
+  text = [[
+You found some bombs! Equip it to set
+it on the ground and blow things up.
+You can pick the bomb back up to
+throw it as well.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb_arrow_ticket.1",
+  text = [[
+You found a diagram. It looks like blueprints
+to build some kind of explosive arrows?
+It's too complicated for you to follow, but
+someone might be able to build these.
+]],
+}
+
+dialog{
+  id = "_treasure.bombino_backpack.1",
+  text = [[
+You found a cute backpack. It's got a
+little pattern hand-stitched on the side.
+]],
+}
+
+dialog{
+  id = "_treasure.bombs_counter.1",
+  text = [[
+You shouldn't have received this item-
+let Max know how you got it.
+]],
+}
+
+dialog{
+  id = "_treasure.bombs_counter_2.1",
+  text = [[
+You received some bombs. Equip them
+to place one on the ground. You can
+pick them up and throw them, but be
+careful not to get too close to the blast.
+]],
+}
+
+dialog{
+  id = "_treasure.boomerang.1",
+  text = [[
+You found a boomerang. Luckily, you know
+how to throw it so it always comes back.
+]],
+}
+
+dialog{
+  id = "_treasure.boomerang.2",
+  text = [[
+You found the Crowfeather Boomerang. This
+one can go further and quicker, and leaves
+a trail of sharp crow feathers in its wake
+that will damage enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.bow.1",
+  text = [[
+You found a bow. It's been carved from
+a yew tree. Equip it to shoot arrows. If
+you've run out of arrows, you can use all
+of your magic power to fire a single shot.
+]],
+}
+
+dialog{
+  id = "_treasure.bow_bombs.1",
+  text = [[
+You received bomb arrows. These will create
+an explosion on impact- make sure they're
+far away from you when they hit something!
+]],
+}
+
+dialog{
+  id = "_treasure.bow_fire.1",
+  text = [[
+Your bow gained the flame spell. By using
+a little of your magic power, your arrows
+will create a burst of fire when they
+impact.
+]],
+}
+
+dialog{
+  id = "_treasure.bow_silver.1",
+  text = [[
+You got the silver bow now.
+]],
+}
+
+dialog{
+  id = "_treasure.bow_warp.1",
+  text = [[
+You found the Warpbolt Charm. Use this to
+shoot bolts of light from your bow instead of
+arrows. They will consume some of your
+magic, but will affect enemies and some
+other objects in the world in unexpected
+ways.
+]],
+}
+
+dialog{
+  id = "_treasure.bread.1",
+  text = [[
+You received a loaf of Burroak Bread. Made
+from acorns, it's traditionally wrapped in
+leaves to keep it fresh. Eat it to
+recover 5 hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.bread.2",
+  text = [[
+You received 5 loaves of Burroak Bread. Made
+from acorns, it's traditionally wrapped in
+leaves to keep it fresh. Eat it to
+recover 5 hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.bread.3",
+  text = [[
+You received 10 loaves of Burroak Bread. Made
+from acorns, it's traditionally wrapped in
+leaves to keep it fresh. Eat it to
+recover 5 hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.burdock.1",
+  text = [[
+You found a burdock root.
+]],
+}
+
+dialog{
+  id = "_treasure.burdock.2",
+  text = [[
+You found three burdock roots.
+]],
+}
+
+dialog{
+  id = "_treasure.burdock.3",
+  text = [[
+You found 5 burdock roots.
+]],
+}
+
+dialog{
+  id = "_treasure.burdock.4",
+  text = [[
+You found 10 burdock roots.
+]],
+}
+
+dialog{
+  id = "_treasure.buzzer.1",
+  text = [[
+You found a buzzer. Press the button to go buzz
+buzz buzz buzz
+]],
+}
+
+dialog{
+  id = "_treasure.chamomile.1",
+  text = [[
+You found some chamomile flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.chamomile.2",
+  text = [[
+You found 5 chamomile flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.chamomile.3",
+  text = [[
+You found 10 chamomile flowers!
+]],
+}
+
+dialog{
+  id = "_treasure.charts.1",
+  text = [[
+You found some sea charts that say
+"Kelpton Cartography" on them. They
+look stolen.
+]],
+}
+
+dialog{
+  id = "_treasure.contract.1",
+  text = [[
+You found some financial records. It's a lot
+of elaborate taxes on merchants from Crabhook,
+but the numbers don't quite add up. Some went
+missing maybe? You're not a great at math.
+]],
+}
+
+dialog{
+  id = "_treasure.coral_ore.1",
+  text = [[
+You found some Coral Ore. Using this rare
+material, blacksmiths can strengthen your
+equipment.
+]],
+}
+
+dialog{
+  id = "_treasure.crow_feather.1",
+  text = [[
+You found a Crow Feather. While you aren't
+sure why you're taking it, you can feel the
+statue you're standing in front of staring
+into the back of your head.
+]],
+}
+
+dialog{
+  id = "_treasure.crystal_spark.1",
+  text = [[
+You received the Ophira's Ember.
+This spell will summon a furious
+firestorm. It will use most of
+your magic power.
+]],
+}
+
+dialog{
+  id = "_treasure.cyclone_charm.1",
+  text = [[
+FILLER TEXT, YO!
+Use this item to do a crazy spin attack
+thing
+]],
+}
+
+dialog{
+  id = "_treasure.dandelion_charm.1",
+  text = [[
+You received the Dandelion Charm. Press
+the action button to dash as light and
+quickly as a dandelion seed in the wind.
+]],
+}
+
+dialog{
+  id = "_treasure.dandelion_seeds.1",
+  text = [[
+You collected dandelion seeds.
+]],
+}
+
+dialog{
+  id = "_treasure.dandelion_seeds.2",
+  text = [[
+You collected several dandelion seeds.
+]],
+}
+
+dialog{
+  id = "_treasure.dandelion_seeds.3",
+  text = [[
+You collected many dandelion seeds.
+]],
+}
+
+dialog{
+  id = "_treasure.defense_upgrade.1",
+  text = [[
+Your defense is increased.
+]],
+}
+
+dialog{
+  id = "_treasure.elixer.1",
+  text = [[
+You received an Elixer Vitae. Drinking
+it will replenesh much of your health.
+Additionally, when you fall in battle, you
+will drink a little bit of it automatically
+and return to the fight with a little
+health. Some say their effectiveness
+can be increased somehow.
+]],
+}
+
+dialog{
+  id = "_treasure.ether_bombs.1",
+  text = [[
+You got some Ether Bombs. Once thrown, these
+will explode and temporarily immobilize
+enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.ether_bombs_pickable.1",
+  text = [[
+You got some Ether Bombs. Once thrown, these
+will explode and temporarily freeze enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.ether_bombs_pickable.2",
+  text = [[
+You got some Ether Bombs. Once thrown, these
+will explode and temporarily freeze enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.ether_bombs_pickable.3",
+  text = [[
+You got some Ether Bombs. Once thrown, these
+will explode and temporarily freeze enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.ether_bombs_pickable.4",
+  text = [[
+You got some Ether Bombs. Once thrown, these
+will explode and temporarily freeze enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_ballast_harbor.1",
+  text = [[
+You found a sea chart of Ballast Harbor.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_goatshead_harbor.1",
+  text = [[
+You found a sea chart of Goatshead Harbor.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_isle_of_storms.1",
+  text = [[
+You found a sea chart showing the mythical
+Isle of Storms. This chart would actually
+allow someone to sail there.
+]],
+}
+
+dialog{
+  id = "_treasure.fast_travel_chart_ivystump.1",
+  text = [[
+You found a sea chart showing Ivystump Village.
+This could be used to allow someone
+to navigate there without issue.
+]],
+}

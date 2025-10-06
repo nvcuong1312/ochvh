@@ -1,0 +1,956 @@
+dialog{
+  id = "_oakhaven.npcs.guards.palace.archives.1",
+  text = [[
+GUARD:
+Hey! Are you the new cook?
+
+
+TILIA:
+Oh, uh. Yeah. Of course. Aren't I late?
+
+
+GUARD:
+Yeah you are! I'm glad you remembered to
+use the side door though. Head down that
+hallway to get to the kitchen.
+TILIA:
+Will do!
+
+$1...$3need to find a way to lure you away...
+GUARD:
+What was that?
+
+
+TILIA:
+Nothing! I'll check the kitchen!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.port.1",
+  text = [[
+TOWN GUARD:
+Just keeping the port free of blatantly
+suspicious characters. That's my job.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.port.2",
+  text = [[
+TOWN GUARD:
+Good afternoon.
+
+
+TILIA:
+Hey, question. Have you seen a blatantly
+suspicious guy running around down here
+carring a sack with a dog in it?
+TOWN GUARD:
+Now that you mention it, that guy was kind
+of suspicious. Yeah, he ran into the
+warehouse around the corner.
+TILIA:
+Thanks. Keep up the good work.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.port.3",
+  text = [[
+TOWN GUARD:
+Good day. Welcome to Oakhaven, ancient
+city of moss and knowledge. That's not
+what anybody calls it, I make those up
+TOWN GUARD:
+for anybody who stops to talk to me on
+their way in. Anyway, have a safe trip
+through the city.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.port.4",
+  text = [[
+TOWN GUARD:
+Good day. Headed to the port?
+
+
+TILIA:
+That guy who just ran past, he's a big
+wanted criminal. Looked like he was
+headed toward the port?
+TOWN GUARD:
+Oh! You know he did look like he had a
+sack with a living creature in it, but
+you know, sometimes that's just commerce.
+TOWN GUARD:
+Yeah, he looked to be headed to the port.
+Check with the guard by the archway down
+there!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.town.palace",
+  text = [[
+GUARD:
+No entry permitted by the mayor.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.town.palace_displacement",
+  text = [[
+GUARD:
+Hey, what are you doing over there?!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.town.party_entrance",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.town.party_entrance_ambivalent",
+  text = [[
+GUARD:
+There's a party for the Mayor's dog's
+birthday taking place right now.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.town.party_entrance_no",
+  text = [[
+GUARD:
+Excuse me. Do you have an invitation to the
+Mayor's dog's birthday party?
+
+TILIA:
+That's a thing? No, I dont.
+
+
+GUARD:
+I'm sorry, but the party is by invitation
+only.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.town.party_entrance_yes",
+  text = [[
+GUARD:
+Excuse me. Do you have an invitation to the
+Mayor's dog's birthday party?
+
+TILIA (PRETENDING TO BE FANCY):
+Why yes indeed my good sir. May I present
+my invitation to you here now.
+
+GUARD:
+$2Um.$3 Alright, well, yes, everything seems
+to be in order. Have a nice time at the party.
+
+TILIA (CONTINUING TO BE FANCY):
+Absolutely, thank you sir. I, a fancy noble
+person like the other guests, shall aquiesce
+with my peers.
+GUARD:
+You go right on in.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.inn.1",
+  text = [[
+HAZEL:
+Tilia! Thank goodness you made it out. I
+got my books too, successful heist.
+
+TILIA:
+I'm glad you're okay. Look, I was a little
+harsh about you not coming home to tell me
+you were fine, but it's okay-
+HAZEL:
+Tilia, listen, I'm going to stop these pirates.
+Mallow's doing that too. And you don't have
+to help us, but we're not stopping just
+HAZEL:
+because you... what? You want Mallow to
+go back and run a bar? You want me to come
+home and pick flowers with you?
+TILIA:
+I... no. I mean, yeah, I do want that. Ugh.
+Just, I was worried about you. I hate having
+to pause my life to fight pirates.
+HAZEL:
+Me too, Tilia. But if we don't, who's going
+to? That's why I'm going to find the Sword
+of the Sea King to destroy the Ocean's Heart.
+TILIA:
+$1...$3The sword of the Sea King? I heard
+about this, his sword was supposed to be
+magic. Cut through anything, break curses?
+HAZEL:
+Exactly. I assumed that legend was about
+the sword he battled with, but most records
+I've been reading, he destroyed armies
+HAZEL:
+and fleets with the Sea's power. Storms and
+stuff. And then there's the story in this
+book I found in the archives. It talks about
+HAZEL:
+the Sea King offering his sword to the Sea
+in front of an ancient mangrove tree. I
+wonder if he left it there.
+TILIA:
+I mean, I guess. So what, we go look for
+a mangrove tree and just check it for
+swords?
+HAZEL:
+So you'll help?
+
+
+TILIA:
+Well, yeah. You're my best friend, so if
+this is what we're doing... I'll do what I
+can, I guess.
+HAZEL:
+Thanks, Tilia. So, there's this guy at the
+market, named Grover. He sells mangrove
+leaves, you go ask him where he gets them,
+HAZEL:
+I'm gonna read up a little bit more about
+this mangrove offering legend. I'll meet
+you at the south gate of town, okay?
+TILIA:
+Alright. I'll meet you at the gate
+once I ask the guy in the market where
+he gets his mangrove leaves. Got it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.inn.4gochecktrees",
+  text = [[
+HAZEL:
+Hey Tilia. Have you seen the big tree in the
+Northeast corner of the city?
+
+TILIA:
+Maybe? There's a lot of trees in this town.
+
+
+HAZEL:
+It's the biggest one, also the oldest. And it
+looks pretty sick. It's got some kind of blight
+that I've never seen before. There's supposed
+HAZEL:
+to be two more trees like this on the island.
+Could you go find another one and get a twig
+from it for me to look at?
+TILIA:
+Sure, you know plants, so if you think it's
+important. Any idea where the other two
+might be?
+HAZEL:
+I've heard there's one in the Veilwood Forest,
+and one on Marblecliff Mountain's peak. I just
+want to know if the other trees have the same
+HAZEL:
+blight, it could help me figure out what's going
+on. I'm going to the library to research these
+trees more, find me there once you have a
+HAZEL:
+twig from another tree.
+
+
+TILIA:
+No problem, Hazel.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.inn.5gogettwigs",
+  text = [[
+HAZEL:
+There's two more big trees like the sick one
+in the corner of the city. One in the
+Veilwood, another on the summit of
+HAZEL:
+Marblecliff Mountain. Can you go get a twig
+from one of them for me to check out? I'll
+be at the library.
+TILIA:
+No problem, Hazel. If that's what you need.
+
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.library.1",
+  text = [[
+HAZEL:
+Hey, Tilia! You got a sample from another
+one of those big trees?
+
+TILIA:
+I did. What did you find out?
+
+
+HAZEL:
+These trees are called Manna Oaks. From
+what I can tell, the Sea King had them
+planted ages ago. A man named Amalenchier
+HAZEL:
+tended to them, and cared for them as all
+the other trees on Oakhaven grew around
+their root system. Amalenchier lived where
+HAZEL:
+the village of Ivystump is now. Supposedly,
+his spirit still protects the woods.
+Anyway, let me see the twig you brought me.
+TILIA:
+Sure, here.
+
+
+HAZEL:
+$1...hmm... $3Yeah, this confirms what I had
+been thinking. The other Manna Oaks have
+the blight too. It seems to be coming from
+HAZEL:
+their roots, up through their cambrium. But
+if they're all sick... do their roots all
+connect? $1...$3Alright. Can you go to Ivystump
+HAZEL:
+and ask around? See if anyone there knows
+about the history of the Manna Oaks or why
+they're sick.
+TILIA:
+You think just because that's where this
+Amalenchier figure lived, someone there
+would know?
+HAZEL:
+Sometimes people keep weird old traditions
+around. And they say there's a ghost. And
+anyway, I'm going to look at each of the trees
+HAZEL:
+myself and see if they'll respond to any
+treatment I can come up with. Take this letter
+with you, it describes what's going on with
+HAZEL:
+the trees. J$1uuuu$3st in case you can't describe
+it yourself.
+
+TILIA:
+Thanks, Hazel. Alright, I'll go ask around
+Ivystump and see what turns up.
+
+HAZEL:
+Thank- woah, what's that?!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.library.2",
+  text = [[
+TILIA:
+I have no idea where that came from, but
+it looked just like a monster that attacked me
+when I took that twig from the Manna Oak.
+HAZEL:
+That doesn't make sense. I don't think-
+$2...$3Is there something smart enough to be
+trying to protect the blight on the trees?
+TILIA:
+Is that the kind of thing that sounds
+ridiculous? I don't understand biology.
+
+HAZEL:
+Yeah, that'd be ridiculous. Still, be careful.
+It's definitely weird.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.library.3",
+  text = [[
+HAZEL:
+I'm going to go try a few different treatments
+on the Manna Oaks. You bring that letter I
+gave you to someone in Ivystump Village and
+HAZEL:
+see if anyone there might know why the
+trees are getting sick.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.new_library.1",
+  text = [[
+TILIA:
+Hazel! I've been looking everywhere for
+you!
+
+HAZEL:
+Tilia? What are you doing here?
+
+
+TILIA:
+I feel like I already answered that, I've
+been looking everywhere for you! Where's
+dad?
+HAZEL:
+Uh, kind of a long story, but it's so good
+to see you, Tilia. I uh, need these secret
+books to find the Sword of the Sea King to
+HAZEL:
+destroy this terrible, powerful magic
+artifact? There's this pirate council and
+Blackbeard is trying to unite all the
+HAZEL:
+pirate crews so they can get this artifact
+that will let them control the sea, and
+storms, sea monsters-
+TILIA:
+You're talking about the Ocean's Heart?
+
+
+HAZEL:
+Yes! Oh, you must have had to go through
+a lot to find me, you've probably fought
+pirates and heard about this.
+TILIA:
+Yeah! I fought a lot of pirates! Because
+you and dad didn't come home so I needed
+to find you! Hazel, I'm happy to see
+TILIA:
+you but honestly? Also pretty angry that
+you're doing some treasure hunt instead
+of letting me know you're alive.
+HAZEL:
+I don't think you understand how dangerous
+Blackbeard is. The last person to wield the
+Ocean's Heart washed cities into the sea-
+TILIA:
+That doesn't even sound like a real thing!
+Yeah, pirates are bad, let's fight them,
+but couldn't you come home first?-
+HAZEL:
+I'm trying to stop an army of pirates,
+and you're angry I didn't stop to sail
+home? Just for you? Seriously?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.new_library.2",
+  text = [[
+HAZEL:
+Oh cannonballs, looks like the pirate council
+is closing in on me!
+
+TILIA:
+Ugh! Take your book and get out of here! I'll
+take care of this problem and meet you back
+at the inn!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.palace.1",
+  text = [[
+TILIA:
+Hazel? I've been looking everywhere for you!
+
+
+HAZEL:
+Tilia?! What are you doing here?
+
+
+TILIA:
+I just said, I've been looking everywhere
+for you!$1...$3 Are you stealing books? And dad,
+isn't he here?
+HAZEL:
+No, he- well. It's kind of a long story.
+When I was with the Hourglass Crew, I
+learned about the Pirate Council. They're
+HAZEL:
+trying to unite all the pirate crews and
+find this legendary treasure that will
+let them control the sea and storms and stuff.
+TILIA:
+The Ocean's Heart, right?
+
+
+HAZEL:
+Oh, you've probably run into some pirates
+trying to find us, huh. Yeah. So the Ocean's
+Heart is supposedly on the Isle of Storms,
+HAZEL:
+and if you want to get to it, you need a
+magic amulet to get into the Sea King's
+palace.
+TILIA:
+And the Pirate Council already has it,
+because they stole it from Spruce Head.
+
+HAZEL:
+You've been around, I see. Yeah, after your
+dad beat up the Hourglass Crew and rescued
+me, we decided to split up to stop the
+HAZEL:
+Pirate Council. Mallow went off to figure
+out where the Isle of Storms is, and I
+stayed here in Oakhaven to try and find a
+HAZEL:
+way to destroy the Ocean's Heart. That's
+why I'm here, stealing some books.
+
+TILIA:
+Destroy it? Did you-
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.palace.2",
+  text = [[
+GUARD... WAIT, PIRATE?:
+Hey! What are you doing here?!
+
+
+HAZEL:
+Shoot! Look, I'm taking these books and
+heading back to the inn, I'll explain
+everything there!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.1",
+  text = [[
+HAZEL:
+I think I know how to find the Sword of the
+Sea King. You lead the way to the mangrove
+thicket! I'll follow you.
+TILIA:
+You got it, Hazel.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.2",
+  text = [[
+HAZEL:
+That's gotta be the tree. Hold on. I brought
+some plants for a ritual... thing. I think
+this will work.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.3",
+  text = [[
+HAZEL:
+$1...
+...
+...$3
+(She's whispering something you can't hear)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.4",
+  text = [[
+HAZEL:
+Go on in, Tilia.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.5",
+  text = [[
+HAZEL:
+That was really cool. And now we have it-
+something that should be able to destroy the
+Ocean's Heart. Something to keep people from
+HAZEL:
+being able to abuse nature. So... man.
+I don't actually know what to do next.
+
+TILIA:
+Well, my dad has been looking for the Isle
+of Storms, but... It's been a while since
+I've heard from him.
+HAZEL:
+Honestly, I haven't heard from him in a
+couple weeks. He's tough, so I'm not worried
+about him, but...
+TILIA:
+The Pirate Council might already have found
+the Isle of Storms. We need to know what
+they know.
+HAZEL:
+Oh, I have an idea! There's this pirate
+captain, his name is Al-Jazari. He's all
+the way down at Fort Crow, and I don't know how
+HAZEL:
+you'd possibly be able to get in, but I do
+know this guy, Morus, who really, really
+wants to capture him. You could help Morus.
+TILIA:
+Tell me where I can find him. I'll get into
+Fort Crow and try to find out if the
+pirates know where the Isle of Storms is.
+HAZEL:
+So Morus is a bit cantankerous, but I think
+you can help him. He's also a bit of a
+drinker, so probably you can find him at the
+HAZEL:
+Salamander Heartache saloon in Oakhaven.
+I can show you where it is if you want on
+my way back to the inn.
+TILIA:
+$?Yeah, take me there.
+$?I'll find it on my own.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.6",
+  text = [[
+HAZEL:
+Great, I'll drop you off at the door. Also,
+if you have some time later, I've got a bit
+of a side project I could use your help with.
+TILIA:
+I'll swing by the inn when I have time.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.thicket.7",
+  text = [[
+HAZEL:
+I'm sure you've got a lot to do. Well, the
+Salamander Heartache Saloon is in town,
+east of the Palace, above the market.
+HAZEL:
+I'm sure you'll be able to find it. Ask
+around for Morus, I bet you can help him
+get into Fort Crow.
+TILIA:
+Thanks, Hazel.
+
+
+HAZEL:
+Sure thing. Oh, also, if you have some time
+later, I've got a bit of a side project.
+Come by the inn, I could use your help.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.tree.1",
+  text = [[
+HAZEL:
+How did it go down in the tunnels?
+
+
+TILIA:
+There were a whole bunch of monsters
+all around the trees' roots, but I took care
+of them. Down at the center of the tunnels
+TILIA:
+there's some old shrine where the Oaks'
+roots grow into a pool of salt water. It
+seems like the kind of plant thing you might
+TILIA:
+like to check out.
+
+
+HAZEL:
+That's entirely accurate. I'm going to keep
+studying these trees. It seems like they have
+a lot to do with the entire ecosystem's health.
+HAZEL:
+Here, thanks for your help. I think you might
+find this useful as you look for your dad.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.tree.2",
+  text = [[
+HAZEL:
+I'm going to keep studying these trees.
+I think they have a lot to do with the entire
+island's ecosystem. But you need to get
+HAZEL:
+back to looking for your dad. I know you'll
+fight your way through anything to do what
+you think is right. Thanks for helping me.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.tunnels.1",
+  text = [[
+TILIA:
+Sure wasn't expecting to find you fighting
+monsters in these tunnels.
+
+HAZEL:
+Yeah, I was trying to see if the blight would
+respond to Elixer Vitae when the entrance
+to these tunnels opened up. I read that the
+HAZEL:
+Manna Oak's roots grew all the way down
+to the sea. These tunnels must wind down
+along with them. And then I think obviously
+HAZEL:
+the fact that there are monsters running
+around here is why the trees are sick.
+
+TILIA:
+Yeah, that's what I was thinking too.
+
+
+HAZEL:
+Well I don't mind fighting a monster here
+and there, but I'm going to let you take it
+from here. Meet me at the Manna Oak in
+HAZEL:
+Oakhaven once you've figured out this
+monster thing?
+
+TILIA:
+I'll see you there then.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.hazel.tunnels.2",
+  text = [[
+HAZEL:
+I think obiously it's the monsters running
+around their roots that are making the
+trees sick. That's really your department,
+HAZEL:
+so meet me back at the tree in Oakhaven
+once you've gotten this sorted out.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.inn.beaufort.1",
+  text = [[
+BEAUFORT:
+This is the Hornwart Inn. Oakhaven is a busy
+city, so we're usually pretty packed. Also
+the rooms are really small. And I can't say
+BEAUFORT:
+they smell the best. Or have much natural
+light. But where else will you stay?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.inn.beaufort.2",
+  text = [[
+BEAUFORT:
+This is the Hornwart Inn. What can I do
+for you?
+
+TILIA:
+That's fine, I'm looking for a person, not a
+room. My friend Hazel is staying here, I think.
+Have you seen her?
+BEAUFORT:
+Why yes, but I'm afraid she's out at the
+moment, would you like me to relay a
+message to her?
+TILIA:
+No, I'd like to find her, I've been looking all
+across the ocean. I'm going to search her
+room for clues.
+BEAUFORT:
+Please do not break into our guests' rooms.
+
+
+TILIA:
+I'm going to.
+
+
+BEAUFORT:
+$1sigh...$3 Her room is in the southwest
+corner upstairs. I never have had the guts to
+stand up to a burglar.
+TILIA:
+It's not a burglarly, I'm her friend, I just...
+ugh, whatever. Thanks.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.inn.beaufort.3",
+  text = [[
+BEAUFORT:
+Oh, you're that burglar. Back for more, eh?
+Well, what can I do about it? I don't run a
+people bank where I protect them in vaults.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.inn.beaufort.staying_question",
+  text = [[
+BEAUFORT:
+Welcome, would you like a room?
+$? Yes
+$? I'm here to talk
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.inn.hazel_door",
+  text = [[
+The door isn't locked, but it seems rude
+to just wander into someone's room.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.inn.innkeeper",
+  text = [[
+INNKEEPER:
+Hello dear, welcome to the Ivystump bed
+and breakfast. We don't get a lot of
+travelers coming all the way through the
+INNKEEPER:
+Veilwood, so it's only the one bed, but
+you're welcome to stay.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.lamia.1",
+  text = [[
+LAMIA:
+Hello dear. New faces in town have always
+come through the Veilwood. How did it
+treat you?
+TILIA:
+Well it's full of monsters. So...
+
+
+LAMIA:
+In this town, we've tried always to respect
+the Veilwood. I've studied its life forms as
+a botanist. It hasn't always been home to
+LAMIA:
+so many monsters. And I don't think they're
+doing the trees any good.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.lamia.2",
+  text = [[
+LAMIA:
+Hello, dear. New face in town, you must
+have crossed through the Veilwood to
+get here.
+TILIA:
+I did. I came here looking for someone who
+knows about the Manna Oaks. They're
+getting sick and my friend is trying to
+TILIA:
+help. She wrote a letter explaining what
+she's figured out so far. Take a look.
+
+LAMIA:
+$1hmm...$3 She's noticed the Oakblight. I'm
+impressed with her observations. Especially
+because the blight is starting to spread to
+LAMIA:
+other trees. I've been keeping an eye on the
+Oakblight for several months, but... I have no
+idea what's causing it. People used to say
+LAMIA:
+that the Manna Oaks were given to the Sea
+King by the Ocean herself, so he could shelter
+his people. Their roots grow so deep that
+LAMIA:
+they draw water from the sea. A man named
+Amalenchier tended to the trees as saplings.
+His grave is in the Veilwood, in a grove of
+LAMIA:
+fir trees. If his spirit still protects the
+woods, perhaps you ought to visit
+his grave.
+TILIA:
+I'm not a big fan of ghosts, but I'll give it a
+shot. Thanks.
+
+LAMIA:
+The blight on the forest has corrupted some
+of the trees' spirits. Be careful.
+
+TILIA:
+Not sure what to make of that, but all right.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.lamia.3",
+  text = [[
+LAMIA:
+Have you been to visit Amalenchier's grave?
+They say his spirit watches over the Veilwood.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.lamia.4",
+  text = [[
+LAMIA:
+I thought I might find you here. Did you
+feel that earthquake?
+
+TILIA:
+Yeah. It happened right as I destroyed some
+monster down in Amalenchier's tomb.
+
+LAMIA:
+Something in the forest has been upset. I
+think you should go check the Manna Oaks.
+I just have a feeling.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.lamia.5",
+  text = [[
+LAMIA:
+I noticed the Manna Oaks have leaves on
+their branches once more. It's not much,
+but I'm very thankful.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.lamia.6",
+  text = [[
+LAMIA:
+The Manna Oaks have been growing for
+thousands of years. They've survived the
+flood and will outlive our great grandchildren
+LAMIA:
+if people like you continue to protect them.
+]],
+}

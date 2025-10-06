@@ -1,0 +1,602 @@
+dialog{
+  id = "_yarrowmouth.npcs.guard_pirate.1",
+  text = [[
+PIRATE:
+Are you Carlov? You're not Carlov. Get
+outta here.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.guard_pirate.2",
+  text = [[
+PIRATE:
+Are you Carlov? No, you're not Carlov.
+
+
+TILIA:
+No, but I'm here to talk to the Dream Cannon
+pirate crew on Carlov's behalf.
+
+PIRATE:
+Huh. Well... That can work. Alright, follow
+me.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.hourglass_encounter.1",
+  text = [[
+TILIA:
+Captain Thyme. I finally found you. My name
+is Tilia. I'm from Limestone Island.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.hourglass_encounter.2",
+  text = [[
+CAPTAIN THYME:
+Hmm. Sounds right. Nothing but trouble from
+Limestone Island. Was what, six months ago
+Blackbeard sent us to your island, yeah?
+TILIA:
+That's right. Almost burned down my family's
+tavern and kidnapped my friend. Where is
+Hazel?
+CAPTAIN THYME:
+Girl, I'm sorry. Look, I was a member of
+the Pirate Council. Group of captains that
+Blackbeard got together. He'd sent my crew
+CAPTAIN THYME:
+out lootin' old shrines, looking for some
+magic amulet we eventually found in Spruce
+Head. That's why we was in Limestone. It
+CAPTAIN THYME:
+was right soon after I sent that amulet off
+to Blackbeard that another person from
+Limestone Island showed up here... Same
+CAPTAIN THYME:
+nose as you, that your dad? Well, anyway,
+he beat up my whole crew. Gave me a whoppin',
+and rescued the Hazel girl. Me crew left me
+CAPTAIN THYME:
+after that, said they'd had enough, didn't
+want to work for the Pirate Council. And
+honestly, I don't either. I've given up
+CAPTAIN THYME:
+on pirating, I'm just hiding out here,
+hoping Blackbeard won't find me. But I've
+been thinking, and regretting what I did
+CAPTAIN THYME:
+for that man, so I'll tell ya this. Hazel
+and your dad sailed for Oakhaven Island.
+Dunno why, but you might find them there.
+TILIA:
+...So you really regret working for
+Blackbeard? I thought for sure I'd be
+fighting you.
+CAPTAIN THYME:
+I lost so badly to your dad that I don't
+think I have another fight in me. That's
+another reason, if I don't help Blackbeard
+CAPTAIN THYME:
+find the Ocean's Heart, and I have no crew
+to send down to the seabed to fight the
+monsters of the deep in this hunt, then-
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.hourglass_encounter.3",
+  text = [[
+CAPTAIN THYME:
+Oh, Gavrillo. Can't say it's a pleasure.
+I don't suppose Blackbeard sent his assassin
+just to check in on my health.
+GAVRILLO:
+Nope, sure didn't.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.hourglass_encounter.4",
+  text = [[
+GAVRILLO:
+Sorry if you were here to settle a score
+with Thyme also. I'm pretty impressed you
+managed to track him down. If you ever
+GAVRILLO:
+think about putting your skills to work
+for the Pirate Council, come find me.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.hourglass_encounter.5",
+  text = [[
+TILIA:
+Phew, okay. Alright. That was... phew.
+Alright. Get it together, Tilia. You got
+this. You're closer than ever to catching
+TILIA:
+up with Dad and Hazel. And now you know
+Hazel is alright. And you know where they
+went. You're closer than ever. I've just
+TILIA:
+gotta get over to Oakhaven, and figure
+it out when I get there... and definitely
+avoid these pirate guys. Or, well, if I
+TILIA:
+want to join the Volunteer Navy like Dad...
+I guess don't avoid them, but find them and
+stop them?... Well, one step at a time.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.mera.1",
+  text = [[
+MERA:
+So running an armoring shop in this town,
+what with the artisan distillery operating, I
+figure out to run an artisan armory. So I make
+MERA:
+fine, handcrafted armor, persuing my artistic
+inclinations. Would you like to purchase some
+for 50 crowns?
+TILIA:
+$? I'd love some crafty armor
+$? You can keep your threads to yourself
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.mera.2",
+  text = [[
+MERA:
+It doesn't matter. My artistic inclinations
+lead me to craft armor from Iron Pinecones
+alone. Their curves, their strength! They're
+MERA:
+magnificant. And rare. They grow only in the
+depths of the Puzzlewood. If you bring me one,
+I would craft you marvelous armor!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.mera.3",
+  text = [[
+MERA:
+I'm operating an artisan armory service here.
+So I only make armor as my artistic
+inclinations inspire. And right now I'm inspired
+MERA:
+to make armor out of an iron pinecone. They're
+so light and strong. If you have one and 50
+crowns, I'll improve your armor.
+TILIA:
+$? I'd love some
+$? Keep your foliage armor to yourself
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.mera.4",
+  text = [[
+MERA:
+Excellent! I can reinforce these areas... do
+some plating here... Done! Oh, do you look
+artisanal!
+(Your defense was increased by 2)
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.mera.5",
+  text = [[
+MERA:
+I'm all out of inspiration. I can't make any more
+armor. My artistic temperament won't allow it.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.1",
+  text = [[
+NINA:
+Hey, sorry, I can't take on any more work-
+hey wait. Are you in the Volunteer Navy?
+
+TILIA:
+Me? I don't... My Dad was training me to join,
+but we never finished. I guess not really.
+
+NINA:
+Hun, it's a volunteer navy. If you volunteer,
+you're in. You look like you've already
+accomplished some things you can be proud
+NINA:
+of. You know what, I've got a ton of work, I'll
+pay you to finish up this job for me. Simple
+task, maybe beating up some pirates. I'm
+NINA:
+sure you can handle it. You want to help me?
+$? Alright
+$? It's not for me
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.2",
+  text = [[
+NINA:
+Great! So here's the deal. A local man,
+Carlov, ships carrots from Oakhaven. He's
+being pressured by a pirate crew the do some
+NINA:
+smuggling for the Pirate Council. The crew
+is called the "Dream Cannons". Absurd name.
+Anyway, I torched their boat and now they're
+NINA:
+ready to talk. Thing is, there's nothing to talk
+about. I'll pay you to meet them for me. Tell
+them to piss off or you'll beat 'em up. Ya dig?
+TILIA:
+Sure. Go tell some pirates to leave this Carlov
+guy alone or else smack them around. I can
+manage that.
+NINA:
+Excellent. The meeting place they picked is
+at Seaweed Rock, in Tern Marsh. It's on the
+west side of the marsh. Go get 'em!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.3",
+  text = [[
+TILIA:
+I don't think I have time to help you right
+now. I'm pretty busy tracking some pirates
+of my own.
+NINA:
+Hmm, well, I'm sure you'll get 'em. If you
+change your mind come on back.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.4",
+  text = [[
+NINA:
+Haven't met with those pirates yet? Seaweed
+Rock is on the west side of Tern Marsh.
+Tell them to stay away from Carlov-
+if they give you any trouble, beat 'em up!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.5",
+  text = [[
+NINA:
+Hey, you're back. Did those pirates bugger
+off or did you have to knock some heads
+together?
+TILIA:
+Some heads, but not pirate heads. It was an
+ambush. The pirates closed me into a cave
+full of monsters.
+NINA:
+Those goat-witted salt drinkers! Well, you're
+fine obviously. But we need to send a thank-
+you note for that one. Look, I hate to ask
+NINA:
+more of you, but I know you can handle it,
+so I will. Can you go to the Dream Cannon
+crew's hideout and smack them down
+NINA:
+for me? ...Well, and for you, you're the one
+they ambushed.
+
+TILIA:
+Sure. I'd like that, actually. Where is their
+hideout?
+
+NINA:
+It's in Stonefell Crossroads, I think.
+Go finish 'em off, I'll pay you extra!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.6",
+  text = [[
+NINA:
+You need directions to give those pirates
+who ambushed you the what-for? They're in
+Stonefell Crossroads. Go through Tern Marsh
+NINA:
+and just west of that is the crossroads.
+Their fort is around there.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.7",
+  text = [[
+NINA:
+You're back! I hope that means you took
+care of the Dream Cannon Crew? Dragged
+their stupid name through the mud?
+TILIA:
+Yep, gave them a whalloping. They said
+they'd leave you guys alone now.
+
+NINA:
+Great to hear I can cross that off my list.
+Here, this is what Carlov paid me to take
+care of the pirates plus a little extra.
+(You received 120 crowns)
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.8",
+  text = [[
+NINA:
+So how's the most helpful member of the
+Volunteer Navy doing? Thanks for helping
+me out.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.nina.marsh1",
+  text = [[
+NINA:
+Thought I'd come down here and see how
+things went. Did you knock some heads
+in?
+TILIA:
+Ugh. I did, but not pirate heads. It was an
+ambush. They shoved me in a cave full
+of monsters.
+NINA:
+Those goat-witted salt drinkers! Well, you're
+fine obviously. But we need to send a thank-
+you note for that one. Look, I hate to ask
+NINA:
+more of you, but I know you can handle it,
+so I will. Can you go to the Dream Cannon
+crew's hideout and smack them down
+NINA:
+for me? ...Well, and for you, you're the one
+they ambushed.
+
+TILIA:
+Sure. I'd like that, actually. Where is their
+hideout?
+
+NINA:
+It's in Stonefell Crossroads. Go through
+Tern Marsh and just west is the crossroads.
+Their fort is around there. Go get 'em!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.richardo.1",
+  text = [[
+RICHARDO:
+Ah, ah, uh. Oh no. I messed up.
+
+
+TILIA:
+What's going on, buddy?
+
+
+RICHARDO:
+So, Briarwood's rival, a mead maker,
+we don't like him. He's underhanded and
+stuff, so I thought maybe we could, uh,
+RICHARDO:
+maybe we could out-compete him. On the
+market. And make our own mead. So I got
+a whole bunch of bees. Well. Kinda.
+RICHARDO:
+I actually accidentally got a whole
+bunch of hornets. It's bad. They've
+infested the whole barn. It's dangerous.
+RICHARDO:
+Hey, you've got a sword. I'll pay you
+40 crowns if you can destroy all of
+these hornet nests for me.
+TILIA:
+Alright. Step aside, let me see
+what I can do about this for you.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.richardo.1-5",
+  text = [[
+RICHARDO:
+Okay! Cool! Go beat those hornets!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.richardo.2",
+  text = [[
+RICHARDO:
+You did it! You took care of all those
+hornet nests. Hives. Oooh. Oh man, that
+was a bad idea. Anyway, 40 crowns, yep.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.richardo.3",
+  text = [[
+RICHARDO:
+Ooh man. Thanks again, you saved my
+butt. If the boss had found out I
+infested the barn with hornets...
+RICHARDO:
+Well, he'd probably be like, Richardo!
+Not again! What did I tell you? And I'd
+be like... sorry...
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.stella.1",
+  text = [[
+STELLA:
+Don't see many people wandering out this
+far. Welcome to Zephyr Lighthouse.
+
+TILIA:
+Thanks. That lighthouse looks super old,
+does it still work?
+
+STELLA:
+Is it not lit? Lunos, I told you not to play
+upstairs! Could you do me a favor and go
+light it again? There's a switch upstairs.
+TILIA:
+Yeah, no problem. You know, I don't think this
+is the first lighthouse just like this one I've
+seen as I've been traveling.
+STELLA:
+There are four, actually. According to legend,
+a man called Heron built them. When the
+ancient people of Yarrowmouth were drawn
+STELLA:
+into a war, his lover led a group of refugees
+out of the north seas to safety. Heron felt
+guilty he couldn't stop the war, and built the
+STELLA:
+lighthouses to try to guide her back, but a
+flood happened and the lights were put out.
+I don't think all four have ever been lit since.
+TILIA:
+Interesting story. I wonder if anything would
+happen if all four were lit again.
+
+STELLA:
+Haha, well perhaps you'd guide a mythical
+figure to the bay if you lit them all. Wouldn't
+it be fun to meet someone who's been lost
+STELLA:
+at sea for a thousand years. Or well. Actually
+that'd probably be pretty creepy.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.stella.2",
+  text = [[
+STELLA:
+Thanks for lighting that for me, dear.
+Best of luck on your travels. Be careful if
+you do go about lighting all four of those
+STELLA:
+lighthouses, if old legends mean anything,
+I'm not sure what might happen.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.stella.3",
+  text = [[
+STELLA:
+Something is wrong. I didn't like the feel of
+this fog as it blew in, and now there's a
+ship in the bay. No one has anchored here
+STELLA:
+in as long as I can remember...
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.stella.4",
+  text = [[
+STELLA:
+Did you board that ship? What was on it?
+
+
+TILIA:
+Like actually, a ghost, but I'm fine. I don't
+know though, the ghost... seemed really
+sad, in a way? It's hard to say.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.stella.kid",
+  text = [[
+LUNOS:
+Oh wow, nobody comes all the way out here!
+Are you lost?
+
+TILIA:
+I don't think so.
+
+
+LUNOS:
+If you're good at not getting lost, you should
+explore the Puzzlewood, on Yarrowmouth! My
+friend lives there and said there's this Tomb
+LUNOS:
+way back in there, but it's hard to find!
+I wonder if there's ghosts! Probably!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.Olin.1",
+  text = [[
+OLIN:
+Can I help you?
+
+
+TILIA:
+I don't have time for a drink right now. So
+no, I guess not...
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.Olin.2",
+  text = [[
+OLIN:
+Can I help you?
+
+
+TILIA:
+You might be able to. I'm tracking a crew
+of pirates, they fly an Hourglass on their
+flag. They left a bunch of empty bottles of
+TILIA:
+Briarwood Gin at a place they sacked.
+Thought you guys might be able to point
+me in their direction.
+OLIN:
+Oh, the Hourglass Crew. Yeah, they're
+regulars. Their hideout isn't far from here,
+but I don't know exactly where. You'd have
+OLIN:
+to ask Jerah. He went up to the Juniper
+Grove... quite a while ago, come to think of
+it. Here, take the key and go check on him.
+OLIN:
+The Juniper Grove is by the dock, head
+northeast out of town.
+
+(Olin gave you the Juniper Grove Key)
+]],
+}

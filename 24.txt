@@ -1,0 +1,810 @@
+dialog{
+  id = "_treasure.key_palace_of_storms.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_poplar_shack.1",
+  text = [[
+You found an old key. Probably goes to
+a lock somewhere nearby.
+]],
+}
+
+dialog{
+  id = "_treasure.key_sinking_lighthouse.1",
+  text = [[
+You found a really old-looking key. It
+probably opens a door in these ruins.
+]],
+}
+
+dialog{
+  id = "_treasure.key_sometimes_cape_ruins.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_spruce_head.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.key_thrush_fort.1",
+  text = [[
+You received an old stone key. The ghost
+implies it'll unlock Thrush Fort.
+]],
+}
+
+dialog{
+  id = "_treasure.key_to_oakhaven.1",
+  text = [[
+You received the key to Oakhaven.
+It's just a ceremonial, symbolic key as
+far as you can tell.
+]],
+}
+
+dialog{
+  id = "_treasure.key_willow_palace.1",
+  text = [[
+You found a key. It will unlock a door
+in the area.
+]],
+}
+
+dialog{
+  id = "_treasure.kingscrown.1",
+  text = [[
+You found a Kingscrown Bloom.
+]],
+}
+
+dialog{
+  id = "_treasure.kingscrown.2",
+  text = [[
+You found 3 Kingscrown Blooms.
+]],
+}
+
+dialog{
+  id = "_treasure.kingscrown.3",
+  text = [[
+You found 5 Kingscrown Blooms!
+]],
+}
+
+dialog{
+  id = "_treasure.lavendar.1",
+  text = [[
+You found a lavender stem.
+]],
+}
+
+dialog{
+  id = "_treasure.lavendar.2",
+  text = [[
+You found 5 stems of lavender flowers!
+]],
+}
+
+dialog{
+  id = "_treasure.lavendar.3",
+  text = [[
+You found 10 stems of lavender flowers!
+]],
+}
+
+dialog{
+  id = "_treasure.leaf_tornado.1",
+  text = [[
+You received Amalenchier's Wrath. This
+spell consumes much of your magic power
+to summon the wrath of the forest to
+aid you in battle.
+]],
+}
+
+dialog{
+  id = "_treasure.limestone_sword.1",
+  text = [[
+You got your sword back!
+]],
+}
+
+dialog{
+  id = "_treasure.machine_part.1",
+  text = [[
+You found the stolen machine part that the
+Bomb Shop's intern needs to make bomb
+arrows. Bring it back to him!
+]],
+}
+
+dialog{
+  id = "_treasure.mandrake.1",
+  text = [[
+You collected a mandrake root.
+]],
+}
+
+dialog{
+  id = "_treasure.mandrake.2",
+  text = [[
+You found 5 mandrake roots.
+]],
+}
+
+dialog{
+  id = "_treasure.mandrake.3",
+  text = [[
+You found 10 mandrake roots!
+]],
+}
+
+dialog{
+  id = "_treasure.mandrake_white.1",
+  text = [[
+You collected a white mandrake root.
+]],
+}
+
+dialog{
+  id = "_treasure.mandrake_white.2",
+  text = [[
+You found three white mandrake roots.
+]],
+}
+
+dialog{
+  id = "_treasure.mandrake_white.3",
+  text = [[
+You found 5 white mandrake roots!
+]],
+}
+
+dialog{
+  id = "_treasure.manna_oak_twig.1",
+  text = [[
+You picked up a twig from this enormous
+tree. It looks healthy enough, but has a
+rotten scent.
+]],
+}
+
+dialog{
+  id = "_treasure.matches.1",
+  text = [[
+You found a box of matches. This will make it
+easy to light torches and stuff like that.
+]],
+}
+
+dialog{
+  id = "_treasure.menu_berry.1",
+  text = [[
+You found some berries!
+]],
+}
+
+dialog{
+  id = "_treasure.monkshood.1",
+  text = [[
+You collected a stem of monkshood flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_bones.1",
+  text = [[
+You found the bones of an undead creature.
+Did these used to just be... dead bones?
+Alive bones? Have they always been undead?
+These really raise a lot of questions.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_bones.2",
+  text = [[
+You found the bones of an undead creature.
+Did these used to just be... dead bones?
+Alive bones? Have they always been undead?
+These really raise a lot of questions.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_bones.3",
+  text = [[
+You found the bones of an undead creature.
+Did these used to just be... dead bones?
+Alive bones? Have they always been undead?
+These really raise a lot of questions.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_eye.1",
+  text = [[
+You found the eye of a monstrosity.
+Even unattached to anything, you feel
+like you're being watched.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_guts.1",
+  text = [[
+You found some monster guts.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_guts.2",
+  text = [[
+You found some monster guts.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_guts.3",
+  text = [[
+You found some monster guts.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_heart.1",
+  text = [[
+You found an Abyssal Heart. It beats at
+odd times. You can almost feel a slight
+tug toward the depths of the sea.
+]],
+}
+
+dialog{
+  id = "_treasure.monster_horn.1",
+  text = [[
+You found the horn of some beast. While
+it's hollow, if you look inside, you can't
+see the end.
+]],
+}
+
+dialog{
+  id = "_treasure.oak_charm.1",
+  text = [[
+You received the Oak charm. You feel as strong
+as an oak tree and can now lift heavy objects.
+]],
+}
+
+dialog{
+  id = "_treasure.oceansheart_chart.1",
+  text = [[
+You received a chart. It shows the location
+of the Isle of Storms, where the entrance
+to the Sea King's sunken palace lies.
+]],
+}
+
+dialog{
+  id = "_treasure.old_stockpot.1",
+  text = [[
+You reveived an old stockpot. It's dented
+and the handles are worn, but that means
+it's clearly been loved.
+]],
+}
+
+dialog{
+  id = "_treasure.potion_burlyblade.1",
+  text = [[
+You received a Burlyblade Potion. Drink this
+from the menu, and you'll deal 1.5 times
+the damage for 4 minutes. The effect wears
+off if you die or stop the game.
+]],
+}
+
+dialog{
+  id = "_treasure.potion_fleetseed.1",
+  text = [[
+You received a Fleetseed Potion. Drink this
+from the menu, and you'll run more quickly for
+two minutes. The effect wears off if you die
+or stop the game.
+]],
+}
+
+dialog{
+  id = "_treasure.potion_magic_restoration.1",
+  text = [[
+You got a potion of magic restoration!
+Drink this from the menu to recover your
+magic power immediately.
+]],
+}
+
+dialog{
+  id = "_treasure.potion_stoneskin.1",
+  text = [[
+You received a Stoneskin Potion. Drink this
+from the menu, and you will take half
+damage for 4 minutes. The effect wears off
+if you die or stop the game.
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.1",
+  text = [[
+You found 5 crowns.
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.2",
+  text = [[
+You found 10 crowns.
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.3",
+  text = [[
+You found 20 crowns.
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.4",
+  text = [[
+You found 50 crowns!
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.5",
+  text = [[
+You found 100 crowns!
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.6",
+  text = [[
+You found 200 crowns!
+]],
+}
+
+dialog{
+  id = "_treasure.rupee.7",
+  text = [[
+You found 500 crowns!
+]],
+}
+
+dialog{
+  id = "_treasure.seagrass_charm.1",
+  text = [[
+You received the Seagrass Charm. Swimming in
+deep water shouldn't be a problem anymore.
+]],
+}
+
+dialog{
+  id = "_treasure.sleeping_draught.1",
+  text = [[
+You received a Sleeping Draught. Bring this
+back to Morus at the saloon- hopefully he's
+figured out where the pirates get their ale
+from so you can spike it with this.
+]],
+}
+
+dialog{
+  id = "_treasure.soup.1",
+  text = [[
+You received a bowl of soup! Eat it later
+to recover 5 hearts.
+]],
+}
+
+dialog{
+  id = "_treasure.spear.1",
+  text = [[
+You found the Bear Warriors' Spear. It has
+a longer reach than a sword.
+]],
+}
+
+dialog{
+  id = "_treasure.spear.2",
+  text = [[
+You found the Sunflower Spear. It creates
+a burst of flame at the end of its attack.
+]],
+}
+
+dialog{
+  id = "_treasure.stockpot.1",
+  text = [[
+You received a cast iron stockpot. Heavy
+enough to stand up to a cooking fire, or
+to smash someone's head in during an
+emergency.
+]],
+}
+
+dialog{
+  id = "_treasure.stone_beak.1",
+  text = [[
+You found a stone... beak? That's what it
+looks like at least.
+]],
+}
+
+dialog{
+  id = "_treasure.sword.1",
+  text = [[
+You got your sword! Your dad gave this to
+you a long time ago, when you said you
+wanted to defend your island like him.
+Press the attack button (C) to use it.
+]],
+}
+
+dialog{
+  id = "_treasure.sword_fykonos.1",
+  text = [[
+You received a sword from the Elder! It's
+pretty beat up, but it'll do until you
+get yours back.
+]],
+}
+
+dialog{
+  id = "_treasure.sword_of_the_sea_king.1",
+  text = [[
+You found the Sword of the Sea King.
+It was blessed by the Ocean herself ages
+ago. Hold the attack button to charge an
+attack.
+]],
+}
+
+dialog{
+  id = "_treasure.sword_upgrade.1",
+  text = [[
+Your sword has been strengthened! It will
+deal more damage to enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.tacklebox.1",
+  text = [[
+You found an old tacklebox.
+]],
+}
+
+dialog{
+  id = "_treasure.thunder_charm.1",
+  text = [[
+You received the Seabird's Tear.
+This spell will use some of your magic
+to pull a lightning bolt from the sky,
+hitting one nearby enemy.
+]],
+}
+
+dialog{
+  id = "_treasure.thunder_charm.2",
+  text = [[
+You upgraded the Seabird's Tear.
+This spell will use some of your magic
+to pull a lightning bolt from the sky,
+hitting two nearby enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.thunder_charm.3",
+  text = [[
+You upgraded the Seabird's Tear.
+This spell will use some of your magic
+to pull a lightning bolt from the sky,
+hitting three nearby enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.thunder_charm.4",
+  text = [[
+You upgraded the Seabird's Tear.
+This spell will use some of your magic
+to pull a lightning bolt from the sky,
+hitting four nearby enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.thunder_charm.5",
+  text = [[
+You upgraded the Seabird's Tear.
+This spell will use some of your magic
+to pull a lightning bolt from the sky,
+hitting five nearby enemies.
+]],
+}
+
+dialog{
+  id = "_treasure.tidal_starfruit.1",
+  text = [[
+You found a Tidal Starfruit! It smells
+kind of like a mango and is a lot
+heavier than you'd expect.
+]],
+}
+
+dialog{
+  id = "_treasure.tornado_dash.1",
+  text = [[
+You received the Tornado Dash charm!
+Hold the button to start running in
+a single direction and smash into
+things.
+]],
+}
+
+dialog{
+  id = "_treasure.tungsten_ore.1",
+  text = [[
+You found a chunk of tungsten ore. This
+mineral is used by blacksmiths in certain
+high-heat situations.
+]],
+}
+
+dialog{
+  id = "_treasure.violets.1",
+  text = [[
+You collected some violet petals.
+]],
+}
+
+dialog{
+  id = "_treasure.violets.2",
+  text = [[
+You collected some violet petals.
+]],
+}
+
+dialog{
+  id = "_treasure.violets.3",
+  text = [[
+You collected quite a few violet petals!
+]],
+}
+
+dialog{
+  id = "_treasure.watering_can.1",
+  text = [[
+You found a magic watering can. It seems
+so full it'll never run out of water. This
+is bound to come in handy.
+]],
+}
+
+dialog{
+  id = "_treasure.whisky_for_juglan.1",
+  text = [[
+You took an old bottle of whisky. It's
+only missing a few sips. What a nice gift!
+]],
+}
+
+dialog{
+  id = "_treasure.witch_hazel.1",
+  text = [[
+You found a branch of Witch Hazel flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.witch_hazel.2",
+  text = [[
+You collected some witch hazel flowers!
+]],
+}
+
+dialog{
+  id = "_treasure.witch_hazel.3",
+  text = [[
+You collected a few witch hazel flowers.
+]],
+}
+
+dialog{
+  id = "_treasure.witch_hazel.4",
+  text = [[
+You collected a whole bunch of
+witch hazel flowers.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.ghost_ship.board_question",
+  text = [[
+Board the ghost ship?
+$? Yes
+$? Nope, nope, nope!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.blacksmith",
+  text = [[
+BLACKSMITH:
+You look like you'd enjoy hurting things more
+efficiently. With some Coral Ore and 50
+crowns, I can improve a sword or bow.
+(Improve your sword or bow for 50 crowns?)
+$? Sword
+$? Bow
+$? Neither
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.carlov.1",
+  text = [[
+CARLOV:
+Ah! Sorry. I'm jumpy. I'm a carrot shipper by
+trade. But this pirate crew has been attacking
+me. I asked the town's volunteer navywoman
+CARLOV:
+to help me out, but now the pirates want to
+come see me to "chat"... So yeah, with so
+many carrots on the line... I'm pretty nervous.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.carlov.2",
+  text = [[
+CARLOV:
+I heard from Nina that it was you who took
+care of those pirates that were after me and
+my carrots. I appreciate it so much. Please,
+CARLOV:
+help yourself to anything from my garden.
+I don't grow carrots.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.elixer_spirit.1",
+  text = [[
+You've done well to find this place. Let me
+help you on your journey. Elixers will revive
+you if you fall in battle- let me increase
+their effectiveness.
+(Elixers now heal 3 extra hearts when used.)
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.elixer_spirit.2",
+  text = [[
+There's nothing else I can do for you.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.eudicot.1",
+  text = [[
+EUDICOT:
+Oh, eh? I didn't think anyone else would be
+able to get in here. Well, I'll come clean, I'm
+just drinking all their gin.
+TILIA:
+Their... You're not one of the Hourglass
+Pirates, are you?
+
+EUDICOT:
+No way. They were awful neighbors, partying
+all the time. Some Volunteer Navy guy came
+through a little while ago though, started a
+EUDICOT:
+fight. A handful of the Hourglass Crew ran
+away, then the guy left with someone else.
+A girl, I think.
+TILIA:
+Hazel! That must be Dad! Do you know
+where they were headed?!
+
+EUDICOT:
+Couldn't say. But... I have an idea that I
+think could benefit the both of us. Here's a
+secret- the Hourglass Crew kept their
+EUDICOT:
+important charts and letters inside the
+locked tower just east of here. If you can get
+inside, you might find out where they fled to,
+EUDICOT:
+and I might find where they've stashed the
+really good booze. Sound like a deal?
+
+TILIA:
+I'm not sure how it's a deal as much as I'm
+doing the work, but alright.
+
+EUDICOT:
+It's a deal since I'm giving you a key you'll
+need. Watch out for monsters and stuff.
+They're why the door is locked.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.eudicot.2",
+  text = [[
+EUDICOT:
+The Hourglass Crew kept their important
+charts and letters locked in the tower to the
+east of here. Probably also their best gin.
+EUDICOT:
+If you can get in there, you'll probably be
+able to piece together where they went.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.eudicot.3",
+  text = [[
+TILIA:
+Hey! I was starting to think I wouldn't get
+to beat up any pirates, but here you are!
+
+EUDICOT:
+Huh? Look, I might be here to steal some
+of their rum, but that doesn't make me a
+pirate.
+TILIA:
+You're... wait, who are you?
+
+
+EUDICOT:
+I'm Eudicot- I'm the lighthouse keeper. I
+come by from time to time to raid this
+abandoned pirate fort.
+TILIA:
+So, the pirates are gone... I missed them.
+What happened? I thought I'd be able to
+catch the guys who attacked my town.
+EUDICOT:
+Revenge has already been had, I'm afraid.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.eudicot.4",
+  text = [[
+EUDICOT:
+I'll just take these bottles with me back
+to the lighthouse...
+]],
+}

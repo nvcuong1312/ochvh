@@ -1,0 +1,845 @@
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.apple_sample_1",
+  text = [[
+The crisp air means the Ivystump apple
+harvest is starting. Here, have a sample
+apple. A sapple.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.apple_sample_2",
+  text = [[
+You know, my granny said the forest used
+to be full of Mandrakes, but when the
+apple orchard was planted, it drove them
+off and they fled to Marblecliff. I think
+it's just folklore, but... there aren't
+any mandrakes in the Veilwood. Eheheh.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.carpenter1",
+  text = [[
+I didn't think this would work, but I had a
+dream where hammers were more effective than
+saws and I woke up needing to test it out,
+just to be sure.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.elder",
+  text = [[
+You must have come through the Veilwood
+to get here, so you probably saw some of
+the Arborgeists. You know, those wooden
+monsters? It's said that used to be,
+they we just trees and bushes, but a
+curse coming from the center of the earth
+got into their roots and turned them into
+monsters... Whatever they are though,
+the shrine in the southwest corner of
+town keeps them away from the village.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.inn1",
+  text = [[
+If ya keep your eyes peeled in the Veilwood, you
+can actually make a decent amount just
+gathering plants and selling them. The
+Veilwood is full of treasure! And that
+treasure is nature's bounty! Also, the
+friends you make along the way, if you
+make any friends in the forest.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.inn2",
+  text = [[
+Some people say the Veilwood is the North
+Seas' oldest forest, but I don't know. Have
+you seen those ancient groves with blocky
+stone pillars scattered around them?
+They seem older to me. There's one on
+Marblecliff, and one in the Puzzlewood on
+Yarrowmouth. There could be more, too,
+but that's just my intuition.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.misc.lumberjack_1",
+  text = [[
+Being a lumberjack isn't all songs and
+pancakes, you know. It's dangerous work.
+Besides trees splintering or hitting you,
+the forest is full of monsters. The ones
+that look like plants, they call 'em
+Arborgeists. Anyway, here's a hint, they're
+weak to fire. If you can find a way to
+make fire, it'll keep 'em away.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_paul.1",
+  text = [[
+PICKER PAUL:
+Ah, haven't seen you 'round these parts
+before. I hope you haven't come to partake
+in the apple pickin' festival. It's canceled.
+TILIA:
+Good news, I sure didn't. You guys have an
+apple picking festival?
+
+PICKER PAUL:
+It's a town tradition. It's honestly less
+of a festival and more of a way to get
+ourselves excited about working in the
+PICKER PAUL:
+orchard. I've been the chief picker three
+years runnin', but this year the orchard
+is infested with some monsters. Dunno what
+PICKER PAUL:
+they are, but they pop outta the ground and
+getcha! You wouldn't perhaps be interested in
+takin' on some work riddin' our orchard of
+PICKER PAUL:
+these vermin for say, 80 crowns, would ya?
+$?Sure
+$?No way, Jose
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_paul.2",
+  text = [[
+TILIA:
+That seems like something I can take care
+of. Sure.
+
+PICKER PAUL:
+Well how do you like them apples. Excellent.
+Get yourself on up to the north end of
+town, that's where the orchard is. There
+PICKER PAUL:
+are 3 monsters, least that's the best count
+I could take. Come on back when you're done
+and I'll pay ya.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_paul.3",
+  text = [[
+PICKER PAUL:
+So, go to the north end of town and you'll
+see the orchard. There's 3 monsters rummaging
+around in the dirt, please destroy them.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_paul.4",
+  text = [[
+PICKER PAUL:
+Phew, looks like it wasn't just the three
+monsters in the orchard. But ya know what?
+I kinda like it down here. It's nice and
+PICKER PAUL:
+cool- might start usin' this place to store
+apples after we pick 'em. This could really
+be useful. Anyhow, here's what I said I'd
+PICKER PAUL:
+pay ya, plus a little more since ya kinda
+saved my life down here. And found an apple
+cellar!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_paul.5",
+  text = [[
+PICKER PAUL:
+Yes, yes, this'll make a fine place to keep
+apples cool and crisp over the winter. Ya
+really gotta hand it to those monsters,
+PICKER PAUL:
+they know how to dig a useful hole.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_peter.1",
+  text = [[
+PICKER PETER:
+Ivystump is renound for its apple orchard.
+I've no idea how old the trees are, but
+my grandfather was also a picker. Apple picker.
+PICKER PETER:
+But now something's amiss in the orchard.
+Something... stirs beneath the earth. Like,
+monsters, probably. We can't pick the apples
+PICKER PETER:
+now. I mean, we could, if we wanted to get
+eaten by monsters. But then the other choice
+is having no apples, and starving to death.
+PICKER PETER:
+There's an old saying in the apple orchard,
+'how do you like them apples?'. It doesn't
+really mean anything, but I think it applies.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_peter.2",
+  text = [[
+PICKER PETER:
+Hey! While you were off fighting the monsters
+in the orchard, another one burrowed out of
+the ground and snatched Paul! It went back
+PICKER PETER:
+down that hole! Can you rescue him? I mean,
+I certainly can't. Guess you could leave him
+to die, that's your prerogative.
+TILIA:
+Stop it, I'll go get him.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ivystump.picker_peter.3",
+  text = [[
+PICKER PETER:
+Hey, you've helped us find an exceptional
+apple hole. This is a game changer. We've
+named the pit after you.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.festus.1",
+  text = [[
+FESTUS:
+Welcome to Oakhaven Library. Are you
+looking for any information in particular?
+
+TILIA:
+Not for a specific book, no.
+
+
+FESTUS:
+Well, fell free to have a look around. With
+so much information in here, you might be
+surprised what comes in handy.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.festus.2",
+  text = [[
+FESTUS:
+Welcome to the Oakhaven Library. Can I
+help you find anything in particular?
+
+TILIA:
+You just might. I'm looking for my friend
+Hazel- I think she comes in here a lot.
+
+FESTUS:
+Ah, Hazel, yes. She comes in here all the
+time. Doing a big research project, yes, yes.
+I've been trying to help her learn about the
+FESTUS:
+ancient Meurian Kingdom. Problem is we
+have some books on the subject, but all of
+the best scholarship was taken from the
+FESTUS:
+library by the previous mayor. Was about
+when that pirate Al-Jazari left Oakhaven
+for Fort Crow. Anyway! I haven't seen Hazel
+FESTUS:
+in a couple days. I let her leave her research
+notes spread out in a room around the corner. Up
+this staircase, turn right, and all the way down
+FESTUS:
+the hall. You're welcome to look over her
+research.
+
+TILIA:
+Maybe there will be something in there that
+explains where she is. Thanks!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.festus.3",
+  text = [[
+FESTUS:
+Still looking for Hazel? You're welcome to
+look through her research, it's the
+last room on the right. Maybe you'll learn
+FESTUS:
+a bit of history while you're at it! Ha, that
+couldn't hurt.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.1",
+  text = [[
+I've studied old poetry for years. And yet
+this book is the first where I've seen any
+verse from the Isle of Fykonos. It's the
+tragedy of a heroine named Ophira, and how she
+fought against a tyrant she once respected.
+While he'd lost his way and become dangerous,
+she died wondering if his humble self was
+entirely gone... it doesn't rhyme though.
+So like, what's the point really.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.10",
+  text = [[
+You look pretty tough, otherwise I wouldn't
+tell you this, but there's a mythical ruin
+east of Goatshead Harbor, through a tunnel
+in a ravine where it always rains. People
+who go there... they tend to get killed by
+monsters afterward. Monsters around them
+just get stronger, their quests become
+harder. So be careful if you visit.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.2",
+  text = [[
+I don't understand the organization system
+in this library, but lots of ancient
+history books are around here. There's a
+rumor, though, that when the great flood
+happened, some librarians at the time
+took some books and hid them at the
+monastery on top of marblecliff to keep
+them safe. The rumor I heard says that
+the books were hidden 'between the King
+and the Seabird', whatever that means.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.3",
+  text = [[
+Ah, you caught me. I don't have a book.
+I'm just hiding out here to get away from
+it all.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.4",
+  text = [[
+I'm reading a book where the main character
+voyages to the center of the earth. They
+start by going down a tunnel here, in
+Oakhaven. I mean, it's got to just be
+fiction, but at the same time, I know
+there are tunnels under the city. I wonder
+just how deep they go.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.6",
+  text = [[
+This section here is about royal courts.
+Here's a book about the death of the Sea
+King's older brother. That door over there
+goes to the court...yard. Coincidence?
+...I mean, probably. Who would organize
+a library around puns?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.7",
+  text = [[
+You know Oakhaven's library has been
+operating continuously since before the
+great flood? Although I think they had an
+interruption of services during the flood.
+I guess books aren't supposed to get wet.
+Which, by the way, don't tell the librarian
+I know that, he might start to question
+just HOW I know that...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.8",
+  text = [[
+I've been doing research for months and
+finding nothing, but scattered across the
+north sea archipelago are old circles of
+standing stones. I have no idea what they
+might be, or who erected them. Even how
+old they are. They seem to date back to
+before any other structures still standing.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.library.misc.9",
+  text = [[
+I'm trying to write a definitive history
+of the rise of the Pirate Council. Did
+you know Blackbeard, who seems to lead
+the entire Council, wasn't actually its
+founder? He only seems to have joined after
+much of his crew was lost to monsters in an
+old ruin. Makes you wonder if he found
+something in there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.1",
+  text = [[
+I've got raw acorns, fresh from the
+Veilwood! Not like last week's shipment,
+which was those acorn monsters! Arborgeists.
+Yeah, won't make that mistake again.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.2",
+  text = [[
+Pickled veggies here! If you think you'd
+want to eat it, I've got it pickled.
+Sometimes the veggies turn weird colors.
+Have I tried them all? No. Do I know which
+parts of plants are poisonous? Also no, but
+I do know which parts pickle well. My
+products are for adventurous eaters.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.3",
+  text = [[
+I came to the market to buy fish, but then
+I saw the armor and I'm like, "wait, is
+that what I want?"
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.4",
+  text = [[
+There's another guy up on the terrace that
+also sells produce. I think the apples
+here are fresh from Ivystump Village, but
+the oranges he has up there are good too...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.5",
+  text = [[
+Tell you what, I'm selling tea like nobody's
+business these days. The mayor is having
+a birthday party for his dog, and everybody
+wants to drink whatever the dog is drinking.
+Honestly, I'd love to get into that party.
+Wonder if the guards need to hire any
+extra waiters or anything.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.6",
+  text = [[
+I've got some secondhand books from the
+library here, good deals. No overdue fees
+or anything, they're clean.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.7",
+  text = [[
+This here is the carpenter's shop. And
+this stool I'm sitting on... this is the
+display model.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.8",
+  text = [[
+Got some burroak bread fresh out of the
+oven if you're interested, hun. Five
+loaves for 40 crowns.
+
+$?Get that bread
+$?No thanks
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.9",
+  text = [[
+You know burroak break is baked with real
+acorns inside? I guess it makes it a good
+source of protein. But I think the whole
+idea is kinda...
+$1...nutty...$3
+
+
+...
+I know my material is kind of weak. I'm
+trying to get ready for open mic night at
+the Samander Heartache Saloon.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.fruit_importer.1",
+  text = [[
+FRUIT IMPORTER:
+I've got fruit from all over the north sea here!
+Need some oranges? They're quite popular,
+almost as good as local oranges.
+TILIA:
+You're advertising your fruit as 'almost as
+good' as local fruit?
+
+FRUIT IMPORTER:
+Honesty is part of my brand. I'd never lie
+to anyone.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.fruit_importer.2",
+  text = [[
+FRUIT IMPORTER:
+Hey, I've got fruit from all over the north sea
+here. Need anything?
+
+TILIA:
+I'm actually looking for someone who might
+be one of your customers. A girl who buys
+a whole lot of oranges.
+FRUIT IMPORTER:
+Oh, you probably mean Aubrey. I actually
+deliver a box of oranges to her daily.
+
+TILIA:
+She just stole a lot of money from the
+tic-tac-toe championship guy. I'm trying to
+find her.
+FRUIT IMPORTER:
+Goodness! Well, I must do my civic duty.
+Here, take this box of oranges and
+impersonate me. Her house is just
+FRUIT IMPORTER:
+south of here, that green roof, by the arch.
+She should open up for oranges.
+
+(You received a box of oranges.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.fruit_importer.3",
+  text = [[
+FRUIT IMPORTER:
+Did you take the box of oranges to Aubrey?
+I hope you can get everything resolved. I
+hate to have assisted a thief, even if she is
+FRUIT IMPORTER:
+my best customer.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.grover.1",
+  text = [[
+GROVER:
+Hey, want to buy some mangrove leaves?
+Harvested fresh from the ancient mangrove
+thicket on Gull Rock. Or maybe some fish?
+TILIA:
+Not really. But you might be able to help me,
+I'm looking for my friend Hazel, I heard you
+might have met her.
+GROVER:
+Oh, Hazel! Sure, she showed up in town a
+while ago, comes by for groceries. I think she
+is staying in Hornwart Inn.
+TILIA:
+That's great! Is she with a bigger guy,
+has a beard?
+
+GROVER:
+No, I think she is in town by herself. Why
+don't you go check the Hornwart Inn in the
+northwest corner of town, see if she's there?
+TILIA:
+I'll head over there. Thanks!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.grover.2",
+  text = [[
+GROVER:
+Did you find your friend yet? I think she's
+staying at the Hornwart inn. Also, did you decide
+to buy some mangrove leaves?
+TILIA:
+No, and no. Thanks for your help though.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.grover.3",
+  text = [[
+GROVER:
+Hey, it's you again. Did you ever find
+Hazel? Or decide to buy mangrove leaves?
+
+TILIA:
+I finally did catch up with Hazel actually.
+And actually, I don't need any mangrove
+leaves, but I am looking for a mangrove
+TILIA:
+thicket. Preferably like, a really
+old one. Ancient?
+
+GROVER:
+Oh, you want to head down to Gull Rock! Go
+to Oakhaven Port, cross the bridge and go
+south, you should find the thicket pretty
+GROVER:
+easily. It's full of monsters though so
+watch out.
+
+TILIA:
+Thanks!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.market.grover.4",
+  text = [[
+GROVER:
+How's it going? Interested in buying
+mangrove leaves yet?
+
+TILIA:
+Nope, but thanks for your help earlier.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.clues.1",
+  text = [[
+GUEST:
+I do say. I was making small talk in
+the foyer and a man in a red shirt
+passed by wearing what seemed to be
+GUEST:
+an enormous sack as a scarf. A most
+singular form of fashion, I must
+say.
+TILIA:
+Indeed? Was the sack... Might he
+have been wearing last year's
+"painting-sized-sack" line?
+GUEST:
+Oh! A fashion line$1...$2I have definitely
+heard of.$3 The sack did appear to be
+painting-sized. That must have been it.
+GUEST:
+I haven't noticed him in some time however,
+so he must have removed his scarf.
+
+TILIA:
+It was last year's line after all. Not
+extraordinarily fashionable.
+
+GUEST:
+Indeed.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.clues.2",
+  text = [[
+GUEST:
+Ah, what$1... $3practical clothes you
+have. Although I do suppose this palace
+is prone to a draught. Soon after I
+GUEST:
+arrived at the party -fashionably on
+time, as it were- I found someone had
+left the window in the study open.
+GUEST:
+of course, the help quickly closed it.
+But I might have caught pneumonia.
+I see you've prepared against that.
+TILIA:
+Why yes. One never knows where the
+potential for pneumonia lurks. Or if one
+might need to actually move their legs.
+GUEST:
+Why on earth would one need to do
+that? Is your valet unreliable? I say.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.clues.3",
+  text = [[
+GUEST:
+You look a bit haggard, dear. Have you
+not eaten yet? It seems most of the
+guests who arrived earlier have already
+GUEST:
+eaten and retired to the library, awaiting
+when the Mayor's dog's portrait is to be
+revealed.
+TILIA:
+Why is that so indeed? This painting
+fascines me. I must take it in.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.clues.spoken_to_already",
+  text = [[
+GUEST:
+Ah, you again? Please, I must say I've
+quite run out of topics of conversation.
+Please seek out another guest.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.dog.1",
+  text = [[
+DOG:
+Arf!
+(His eyes are full of innocence.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.dog.2",
+  text = [[
+DOG:
+Arf!
+(His eyes are full of determination.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.guards.litton_gone",
+  text = [[
+GUARD:
+Did you battle that troll?! Look, it doesn't
+matter! While you were fighting it, that guy
+you were confronting in the library
+GUARD:
+grabbed the Mayor's dog and ran away!
+He went into the city and down out the
+south gate! You gotta catch him!
+TILIA:
+What?! Ugh, I'll stop the dognapper!
+...Wait, aren't you going to go after him?
+
+GUARD:
+I've got to stay here and comfort the Mayor.
+He's inconsolable. Very upset about the dog.
+Don't want him to issue any executive orders
+GUARD:
+in this state, it could be really bad. I'm going
+to stay here and do that, you go stop that
+dognapper!
+TILIA:
+Alright. If he went out the south gate he's
+probably headed to the port to get off the
+island. I'd better run.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.litton.1",
+  text = [[
+GUEST:
+Ah, a new face. You must be a fellow
+admirer of the Mayor's dog. Have you been
+a fan for long?
+TILIA:
+Why absolutely. I fondly recall the day I
+first heard stories of the dog's glory. Such
+magnificient tales. And a magnificent tail. On
+TILIA:
+the dog. I mean to say his tail is magnificent.
+As are the rest of his features. I am such an
+admirer.
+GUEST:
+Ah, indeed. Well, I shan't keep you from
+the party guests.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.litton.2-confrontation",
+  text = [[
+GUEST:
+Ah, the Mayor's dog's portrait shall soon
+be revealed. I say, have you-
+
+TILIA:
+Can it, rose nose. You're here to steal
+the dog painting! I deduced it like a cool
+detective!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.litton.3-troll_in_dungeon",
+  text = [[
+GUARD:
+Troll in the dungeon! Troll in the dungeon!
+
+
+TILIA:
+What! I'll take care of it! Where's the
+dungeon?
+
+GUARD:
+I mean, uh, sorry, I'm flustered. It's in the
+attic. I don't know how it got to the attic.
+Go down the hall, take a left, then a right
+GUARD:
+the stairs are in the study!
+
+
+TILIA:
+Got it. You make sure this guy doesn't
+steal the mayor's painting!
+]],
+}

@@ -1,0 +1,612 @@
+dialog{
+  id = "_oakhaven.npcs.port.misc.13",
+  text = [[
+You ever notice how tall the old stone
+piers are? People built the lower, wooden
+piers because they got tired of climbing
+down. I've heard the piers are so tall
+because it took decades for the sealevels
+to go back down after the great flood, but
+my theory is that boats just used to be
+much taller.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.2",
+  text = [[
+There's always more fish in the sea. But
+what, you wanna go to the trouble of gettin'
+them out? No way! Buy my fish, pre-removed
+from the sea for your eating convenience.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.3",
+  text = [[
+JOSE:
+Fish, crustaceans, invertebrates, gastropods,
+whatever sea creature you wanna eat, I got
+it here! You wanna sample of the hagfish?
+$? Yes
+$? No way, Jose
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.3-2",
+  text = [[
+(It's really, really bad)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.4",
+  text = [[
+Are we the best shipyard in Oakhaven? Well
+here's how I think about it. Are we the
+only shipyard in Oakhaven? Yes. Are we any
+good at our jobs?..
+We're the only shipyard in Oakhaven.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.5",
+  text = [[
+Ugh. Big day for moving boxes of nails
+across the pier. Nail shipment day is
+the worst.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.6",
+  text = [[
+We are somehow, according to my calculations,
+36 boxes short on this shipment? How did
+this happen?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.7",
+  text = [[
+Look boss, I think the shipment was bigger
+when we picked it up, but the fact I'm a
+pirate definitely has absolutely no bearing
+on what might have happened...
+$1...$3uh, because I'm NOT a pirate. Am
+I communicating how exculpatory my lack
+of a profession is?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.8",
+  text = [[
+Even though the city of Oakhaven survived
+an ancient flood, its lighthouse didn't.
+Now superstition is that the Ocean accepted
+plunging Oakhaven into the dark as enough
+to appease her. So now nobody will build a
+lighthouse. But for some reason, these big
+torches are okay. Superstitions are weird
+and inconsistent.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.misc.9",
+  text = [[
+I guess if you take the West road from this
+port, you can go south down to this mangrove
+thicket, or north up to some mountain? I
+don't know, I've never bothered traveling.
+There's a market in town, fish here at the
+port, why bother dealing with monsters on
+the roads.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.office.benny1",
+  text = [[
+BENNY:
+Oh hey, welcome to Oakhaven. I'm the welcome
+guy here at the Port Office. We mostly like,
+do customs on cargo and stuff, but I have
+BENNY:
+a tourism brochure here, want to check
+it out?
+
+(Look at the tourism brochure?)
+$?Give it a read
+$?Just follow your heart
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.office.benny2",
+  text = [[
+The brochure is written in an overenthusiastic
+tone: Oakhaven City! Wander the market in the
+center, or visit the Governor's Palace in
+the north. A cool stream runs around the
+ancient library, under the city, and
+eventually empties out into the sea at
+the port, where you'll find many ferries
+and cargo ships. East is the Veilwood, a
+shady forest that leads to the sleepy
+town of Ivystump. Or perhaps leave west
+from the port and venture Northwest to
+Marblecliff Mountain! A picturesque
+monastery sits perched on top.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.office.charts",
+  text = [[
+There's several charts showing the depth
+of the harbor and marking lanes for
+various ships to take in and out.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.office.papers",
+  text = [[
+There's many different papers scattered
+across the tables. Lots of charts and
+forms about imports and exports.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.rusty",
+  text = [[
+RUSTY:
+I'm actually a mechanist, I'm watching the
+fights to study how monsters move. I'm using
+that research to build machines for ships.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.rusty.1",
+  text = [[
+RUSTY:
+Hey, you need something?
+
+
+TILIA:
+Yeah, actually. I'm working with the intern
+at the bomb shop on a project, and he told
+me to bring you this tungsten ore, and
+TILIA:
+you'd be willing to hand over a machine
+part we need to build bomb arrows.
+
+RUSTY:
+Oh, you actually braved that cave to get
+tungsten ore? You're legit. Alright, so
+I'd gladly send the machine part up with
+RUSTY:
+you, but here's the thing, I was in a card
+game with some pirates, and they were betting
+high, and one thing lead to another...
+RUSTY:
+anyway, when things went bad for them they
+knocked me out and stole that machine part.
+I guess what I'm getting at is that if you
+RUSTY:
+want the machine part, you'll have to get
+it back from these pirates, I can't help
+you.
+TILIA:
+Alright, well where are these pirates?
+
+
+RUSTY:
+They're camped out in a building west of
+the port, across the bridge. It's up some
+stairs. Watch out, they're really into bombs.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.1",
+  text = [[
+I'm sure you've fought in plenty of
+underground fighting arenas, but there's
+something special about this one. Everyone
+just really cares about each other. It's
+like a big family. All united in watching
+ferocious violent battles.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.10",
+  text = [[
+I used to be an explorer back in the day.
+The way waves and waves of beasts come at
+you here really takes me back. Reminds me
+of this old ruin in the fields east of town.
+What was it I had to do to get in there?
+There were a couple of those standing stones
+in particular you had to touch, I think...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.11",
+  text = [[
+If you enjoy watching people risk their
+lives fighting monsters here, you should
+check out the tic-tac-toe championship
+in Oakhaven! It's in the southwest part
+of town, super high stakes!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.2",
+  text = [[
+One of the great things about the gladiator
+stuff here is that they bring in cool
+monsters from places I've never even heard
+of. It's a treat to get eviscerated by them.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.3",
+  text = [[
+I've always wondered why we have this
+fighting arena hidden away. I mean, it's
+cool and all, but, is fighting monsters
+illegal? Why all the subterfuge?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.4",
+  text = [[
+If you can take down all the monsters in
+the harder brackets here, you're probably
+pretty set anywhere, huh? Except maybe
+some big monsters at the end of long,
+winding quests, I guess. I heard there's
+even a monster stronger than... I dunno,
+around what you'd consider final boss level?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.5",
+  text = [[
+You here to watch the fight, or to BE
+the fight? I here for the first one,
+myself. I guess that's obvious since I'm
+not fighting right now.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.6",
+  text = [[
+Hey, new face at the gladiator arena! You
+find your way in yourself? I feel so badly
+the entrance is hidden, but it wouldn't be
+an underground fighting arena if we advertised.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.7",
+  text = [[
+This guy brought me here on a date, then
+tried to I guess show off by challenging the
+monsters in the arena? Anyway, he got
+knocked into the water and probably washed
+out to the port, but I can't take my drink
+outside to go look for him.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.8",
+  text = [[
+You know, this whole gladiator place isn't
+the only underground situation in Oakhaven.
+I used to be a plumber, and one time I had
+to get so deep in there, I found myself at
+an underground lake. Then some bandits
+chased me out. Anyway I guess what I'm
+saying is don't go into plumbing unless
+you're confident.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.9",
+  text = [[
+So the thing about Oakhaven is it's
+historical, and magnificent with its
+stained glass and libraries and stuff.
+But then you come down here to this
+underground fighting arena, and it's so
+relaxed and welcoming. Every city needs
+a good dive. The fact this one has fights
+against wild beasts is just icing on top.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.arenamaster.gofight",
+  text = [[
+ARENA GUY:
+I'll open to doors. Cross that bridge to
+get in, then stand on the skull in the
+center and we'll release the monsters.
+ARENA GUY:
+Once you clear a round, stand at the center
+of the arena again, and we'll release the
+next round. No more rules. Go ahead.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.arenamaster.join",
+  text = [[
+ARENA GUY:
+You want to test yourself in the beast
+tournaments? You throw in 20 crowns, but
+there's big prizes if you make it out alive.
+ARENA GUY:
+There's a few different challenges. What
+do you think, kid?
+
+$?Level 1
+$?Level 2
+$?Level 3
+$?I'm not interested
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.underground.bartender",
+  text = [[
+Welcome. Our underground fighting arena is
+so underground we don't even have a name.
+If you want in on the bloodsport, go talk to
+that seedy guy standing over by the wall.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.port.warhouse_blocker_guy.1",
+  text = [[
+STRIPED SHIRT GUY:
+Sorry man, no 'mittance here. This is
+just a normal warehouse is all.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.1",
+  text = [[
+The local music scene in Oakhaven has really
+taken off recently. Used to just be this
+one guy with a bagpipe, and boy I'm glad
+those days are behind us.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.2",
+  text = [[
+Yeah, you've heard of sea charts, but have
+you heard of A and B charts? Ar har har har.
+Actually though, I have heard there's some
+sea charts out there that chart the course
+to forgotten, inaccessible ports. Get your
+hands on those and you'd be able to sail
+to the old places, where nobody anchors
+anymore. Might be good stuff there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.3",
+  text = [[
+Maybe this is judgemental, but the last
+guy who used to play at this bar? You
+couldn't pay me to drink here with him
+playing. It's not that he was bad,
+I just hate horns. They remind me of
+the time I was gored in the side by a
+monster's horns. It's a weird word
+association thing, I know.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.4",
+  text = [[
+Yo, can you understand what that woman is
+singing? I'm like, really into this song,
+but what if it's about something dumb? Like
+it's just about apples or something?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.5",
+  text = [[
+Back when this place had bad music, I'd
+spend my time down at the secret fighting
+arena at the port... oh, wait, that's not
+how secrets work. Pretend you didn't hear.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.6",
+  text = [[
+I thought I saw my doppleganger yesterday.
+But you know, when you get down to it,
+there really just aren't that many different
+faces in the world.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.7",
+  text = [[
+This last month has been a bad one for
+pirate attacks. There were three at the
+Isle of Lobb, and I heard not too long ago
+Yarrowmouth was raided as well, but they
+fought the pirates off. I think Oakhaven
+is generally pretty safe, but the Mayor
+is a bit... lackadasical? I wish his dog
+was in charge instead. I can trust him.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.8",
+  text = [[
+I usually try to catch a ferry to sail back
+when I want to visit my hometown, but I
+just walked the whole way last time. I
+definitely noticed a bunch of spots where,
+if I had been collecting items that gave me
+new abilities this whole time, I'd be able
+to get somewhere new. Really made me regret
+my life choices in not collecting those.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.9",
+  text = [[
+Hmm, me? I'm just a normal man sitting at
+a table in the corner of a tavern alone.
+Why, does it make me look significant? Like
+I might send you on some quest? Like there's
+more to my story?...
+...Great, that's exactly what I was going
+for. It's an aesthetic.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.bartender1",
+  text = [[
+BARTENDER:
+Can I help you?
+
+
+TILIA:
+Maybe. I'm looking for a guy called Morus.
+My friend told me I might find him here.
+
+BARTENDER:
+Ah, that guy. He's right over there, drinking
+alone at that table in the south corner.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.bartender2",
+  text = [[
+BARTENDER:
+Hey kid. If you're looking for extra seating,
+we just expanded our basement. Business
+has been going great recently.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.bartender_posters",
+  text = [[
+BARTENDER:
+Can I get you something?
+
+
+TILIA:
+A musician named Gunther told me to see
+you. He says he's going to play a show here.
+
+BARTENDER:
+Good, I told him to let me know whever he
+could play. They don't bring in big crowds,
+but that trumpet player over there? I can't
+BARTENDER:
+stand him... I guess he's better than nothing,
+but some days, I'm not even sure of that.
+Anyway, I hope people come to see Gunther.
+TILIA:
+I guess as long as I can protect the posters
+advertising the show, they'll come.
+
+BARTENDER:
+The posters need to be protected?
+
+
+TILIA:
+There's apparently a monster tearing them
+down? I don't know what's really going on.
+I'm just going to check on some posters.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.gunther_band.1",
+  text = [[
+I've never heard this band before, but
+they're good. Can't understand what the
+heck they're talking about, but I like it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.gunther_band.2",
+  text = [[
+I'm really groovin' to these musicians.
+It's helping me forget the creepy ruins I
+saw in the puzzlewood on Yarrowmouth.
+All those stone eyes, staring at me... ugh.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.toot",
+  text = [[
+TRUMPET MAN:
+Toot toot
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.trumpet_era.1",
+  text = [[
+Is it just me, or is that trumpet player...
+really bad?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.trumpet_era.2",
+  text = [[
+I don't know who the sad trumpet guy is,
+but I've never heard a song so aggressive
+yet so pathetic. It's intriguing but not what I
+want to hear when I go out to drink.
+]],
+}

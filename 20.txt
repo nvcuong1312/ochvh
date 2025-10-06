@@ -1,0 +1,830 @@
+dialog{
+  id = "_oakhaven.npcs.saloon.weak_wall_guy.1",
+  text = [[
+SALOON PATRON:
+Maybe it's just me, but when they put up
+the walls for this new basement seating
+area, that spot right over there has always
+SALOON PATRON:
+looked a bit off. Like they did a bad job
+just over there to our left.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.saloon.weak_wall_guy.2",
+  text = [[
+SALOON PATRON:
+Well you just blew that whole wall right
+up, didn't you? Great use of explosives
+indoors.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.sculptor.1",
+  text = [[
+SCULPTOR:
+Oh, you're carrying a sword into my house?
+Perfect! I need help destroying these clay
+monsters for material to make sculptures.
+TILIA:
+$?I'll help!
+$?That's a great idea JUST KIDDING, NO WAY!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.sculptor.2",
+  text = [[
+SCULPTOR:
+Fantastic! Effervescent! Marvelous! Go
+get 'em!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.sculptor.3",
+  text = [[
+SCULPTOR:
+Hey, thanks! You knocked those gravel guys
+out like they were just... I dunno, pebbles?
+I'm a sculpture guy, not a poet. Here, take
+SCULPTOR:
+a share of the materials!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.sculptor.4",
+  text = [[
+SCULPTOR:
+Hey, thanks for helping me smash those
+pebble punks. I got lots of good clay to
+make some statues. Monster statues. Yeah.
+SCULPTOR:
+Now I'm stocked up on materials and ready
+to create something truly horrifying.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shipyard.1",
+  text = [[
+I messed up, I messed up, I messed up...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shipyard.gallery_door1",
+  text = [[
+PERSON BEHIND DOOR:
+Eh, who's there? Nobody but a buncha
+normal villager type people in here.
+Whatcha want?
+TILIA:
+Well if that's all you are, nothing I
+guess.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shipyard.gallery_door2",
+  text = [[
+PERSON BEHIND DOOR:
+Eh, who's there? Nobody but a buncha
+normal villager type people in here.
+Whatcha want?
+TILIA:
+Are you sure you guys aren't a bunch of
+pirates who stole a machine part from a
+guy named Rusty?
+PERSON BEHIND DOOR:
+$1...$3Okay, yeah, we are. I'm gonna let
+you in so I can beat you up.
+
+TILIA:
+Not if I beat you up first!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.bomb_maker.1",
+  text = [[
+Ah, a customer! I'm the bomb-maker. If you
+bring me Firethorn berries, I can make you
+explosives! For 5 bombs, I need 2 bunches
+of Firethorn berries, and 15 crowns for labor.
+Bomb Options:
+$? 5 Bombs
+$? Upgrade Bombs
+$? Nevermind
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.bomb_maker.quest1",
+  text = [[
+THE BOMB MAKER:
+Why hey! I'm the bomb maker. You bring me
+materials, I will make them into bombs.
+
+TILIA:
+I actually have a uh, receipt thing from
+Captain Thyme. To pick up a special order?
+
+THE BOMB MAKER:
+Oh, OH! That! Yes, that thing. There's
+still a bit of a delay. The item... well,
+I got robbed by pirates. Hey, you
+THE BOMB MAKER:
+wouldn't want to do me a favor and get
+a package back from some pirates? For
+yourself? The package you want to pick
+THE BOMB MAKER:
+up is in the hands of pirates and what I'm
+getting at is if you want it, you gotta go
+get it from them. They're camped out down
+THE BOMB MAKER:
+at the port, in a building West, over
+the bridge. If you want to pick up that
+package, it's up to you now.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.bomb_maker.upgrade",
+  text = [[
+If you have some coral ore and 200 crowns,
+I can upgrade the amount of damage your
+bombs do to enemies. Hehehe. How does
+that strike you?
+$? Power 'em up
+$? No thanks
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.bomb_maker.upgrade_done",
+  text = [[
+Your bombs were upgraded to do more
+damage to enemies!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.bomb_maker.upgrade_no_more",
+  text = [[
+Oh, actually, this is embarrassing. I've
+already made your bombs as damaging as
+possible. There's all kinds of stuff in
+there. You can't make them do any more
+damage, we're running up against the
+laws of nature here. Sorry about that!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.general_store.1",
+  text = [[
+Good day, hun. Have a look around, check
+out anything that catches your eye.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.general_store.2",
+  text = [[
+Welcome to Oakhaven Portside Shop. You want
+to buy some portside groceries, maybe?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.shops.general_store.hat",
+  text = [[
+It's a fairly fancy hat. Not too overbearing.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.thorn_monk.1",
+  text = [[
+MONK:
+Well. People don't often find their way
+to this sanctuary of mine. You must be
+quite the explorer.
+TILIA:
+Well, I'm looking for someone important
+to me. It's good to be thorough.
+
+MONK:
+You must have traveled far. Tell me, have
+you been to the Isle of Ophira? There's a
+special spear locked in a lone windmill.
+TILIA:
+I haven't seen any spear like that. Why
+do you ask?
+
+MONK:
+I was exiled from my order. The people of
+these lands used to worship three dieties.
+The Ocean, the Sky, and the Earth. The
+MONK:
+Earth was cursed and lies rotting, and the
+Sky left us long ago. But the people of
+Ophira's tribe used to remember the Earth.
+MONK:
+And they had ways of channeling the Earth's
+fires and quakes. I want to see this
+spear to prove this. If only to myself...
+TILIA:
+Well, if I find a spear inside a windmill,
+I'll let you take a look at it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.thorn_monk.2_new_here",
+  text = [[
+MONK:
+Well, isn't often folks come all this way.
+You must be a thorough explorer to have
+found my little sanctuary.
+TILIA:
+Well, I'm looking for someone important
+to me. You must not want to be found to
+be staying here.
+MONK:
+Indeed, I was exiled from my order for
+faith in the old gods. People of these
+lands used to worship three. The Ocean,
+MONK:
+but also the Sky and the Earth. The Earth
+was cursed and lies rotting, and the Sky
+spirit left us. But long ago, there were
+MONK:
+people that remembered the Earth spirit.
+They could channel the Earth's fires and
+quakes. It's said they made a spear that
+MONK:
+could summon the Earth's fires. It's
+supposedly locked in a lone windmill.
+You seem to travel far...
+TILIA:
+Yeah, I found that spear. Good guess,
+old timer.
+
+MONK:
+Could I see it for a moment? If only to
+prove to myself my exile is worth it.
+
+TILIA:
+Sure. Here.
+
+
+MONK:
+...ahh. Yes, these ancient symbols.
+Actually, there's a bit of grime covering
+some runes... here. I cleaned it a bit.
+(Your spear was handed back to you
+slightly cleaned! It will now spread
+more fire when used.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.thorn_monk.2_seen_before",
+  text = [[
+MONK:
+Oh, you're back! Did you travel to the
+land of Ophira, the tribe that remembered
+the Earth spirit?
+TILIA:
+I ended up getting shipwrecked there, but
+yeah. And I found that spear you were
+talking about. You want to take a look?
+MONK:
+Ah!... yes. These symbols... there's
+actually a bit of grime here covering
+these runes, let me clean this a bit...
+(Your spear was handed back to you
+slightly cleaned! It will now spread
+more fire when used.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.thorn_monk.4",
+  text = [[
+MONK:
+Thank you for showing me that spear. To
+see evidence that people once remembered
+the old gods... Means my exile is worth it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.vice_captain.1",
+  text = [[
+VICE CAPTAIN:
+O-ho! Captain Tilia!
+
+
+TILIA:
+Oh man, you again? I told you I'm not you
+guys' captain just because I beat all the
+Barbell Brutes in a fight.
+VICE CAPTAIN:
+No, you are because I promoted you to
+captain. Anyway, I'm taking a journey to
+develop my inner strength. I climbed to the
+VICE CAPTAIN:
+monastery on the peak of Marblecliff
+Mountain yesterday and had tea with the
+monks. Tomorrow I'm going to learn to
+VICE CAPTAIN:
+cook pasta in the city. I'm really finding
+myself on this trip.
+
+TILIA:
+Good for you man. Look, I've gotta get back
+to what I'm doing, but keep it up I guess.
+
+VICE CAPTAIN:
+Aye, aye, captain!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.westoak.tollbridge.1",
+  text = [[
+Hey, this is a toll bridge! If you want to get
+across, it's 5 crowns!
+$? Pay the man
+$? No way
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.westoak.tollbridge.2",
+  text = [[
+Hahaha! Sucker! We're not letting you
+across!
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.abyss.draw_in",
+  text = [[
+$1...$3
+
+
+
+You hear whispers coming from beneath your
+feet. You can't quite make out what they're
+saying...
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.aubrey",
+  text = [[
+It seems like more oranges that a normal
+human ought to be able to eat.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.burglardrinks",
+  text = [[
+Unconvincingly, the labels on the bottles
+say "Burbon That Was Purchased Legitimately".
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.burglarmap",
+  text = [[
+It looks like a treasure map, but a couple
+details stick out as suspicious to you.
+The sun is drawn with sunglasses. All the
+trees have apples growing on them.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.guardtower1",
+  text = [[
+While there are several wanted posters
+on the table, they're mainly for lost
+dogs.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.guardtower2",
+  text = [[
+There's a highly detailed map of Oakhaven
+laid out on the table, but someone's marked
+every shop, inn, needy person, point of
+interest, and animal. It's unreadable.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.library1",
+  text = [[
+The table is covered in wanted posters,
+eyewitness accounts, and intercepted
+letters. There's the makings of a
+great true crime show here.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.library2",
+  text = [[
+You can see the edge of a manuscript peeking
+out from under history books. It says
+"Heron x Sea King fanction PRIVATE DO NOT
+READ"
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.city.underground_posters",
+  text = [[
+There's a bunch of posters advertising
+different gladiator fights, brawls,
+duels, throwdowns, and poetry slams.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.clues.marblecliff_palace_tunnel",
+  text = [[
+TILIA:
+What was it the burglars said? There's three
+rocks with trees growing over them, and the
+secret tunnel's underneath the middle one,
+TILIA:
+I've just gotta knock three times in a
+circle? I'll try it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.fort_crow.1",
+  text = [[
+There's a note:
+Please refrain from eating in the automaton
+service areas! The automatons are getting
+gunky and moving more slowly.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.fort_crow.automaton_order",
+  text = [[
+There's an invoice here for... several
+automatons? It's for 'Automatic Crow
+Knights'. It's signed by Captain al-Jazari.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.fort_crow.important_note",
+  text = [[
+Looks like this pirate was delivering a note
+when he fell asleep... Let's see what it says.
+
+
+Dearest Captain Thyme,
+I will be doing some routine maintenance
+of the boilers this afternoon. Be aware that
+the tower's door may become stuck while
+the boilers are off. It will begin working again
+once the boilers are back online.
+-Captain al-Jazari
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.fort_crow.opening_door",
+  text = [[
+You hear a door opening somewhere.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.1",
+  text = [[
+There's a stack of books from the Oakhaven
+Library. They're all history books.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.2",
+  text = [[
+It's a book from the Oakhaven Library. The
+title is "Fall of the Meurian Kingdom". Seems
+like Hazel is spending a lot of time at the
+library.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.3",
+  text = [[
+Hazel has been taking some notes on this
+library book. "...Ocean's Temple is at the
+center of the sea (wherever that is). The king
+would loan his amulet to whoever wished to
+visit with the sea. What is the amulet? Why
+don't any of the library's books go into detail?
+Are some missing?"
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.4",
+  text = [[
+There's a stack of atlases here. All of them
+are loaned from the Oakhaven Library- Hazel
+must visit there frequently.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.5",
+  text = [[
+There's a book open on the desk called
+"Rise of the Sea King". Read it?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.6",
+  text = [[
+...It's said the Sea King gained his power
+when he was young. He sailed to the center
+of the sea and confessed his love to the
+Ocean in a song. Charmed by his respect
+for her, the Ocean gave the king her heart,
+which allowed him influence over the Ocean's
+tides, storms, and beasts. He ruled justly
+for some time...
+(There's a passage underlined later. It looks
+like Hazel was interested in this part.)
+...but his power changed him. He grew
+arrogant and lost his respect for the Ocean.
+One day, the Ocean asked him if she might
+visit, and in his pride, he agreed. She flooded
+into his palace at the center of the sea, and
+dragged the king with the Ocean's Heart,
+along with his palace, down to the seabed.
+The kingdom and all he treasured were
+flooded, and this is the great flood, half-
+remembered by history.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.7",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.8-note",
+  text = [[
+There's a to-do list here, it looks like Hazel's
+handwriting! You take a look...
+-Get vegetables for dinner (it's checked)
+-Research Meurian jewelry? (check)
+-Gather Spearmint for tea (check)
+-Meet Burglar Crew at Oakhaven Port
+(this last item is not checked. Maybe you
+can find Hazel near the port.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.hazel_books.9",
+  text = [[
+There's a big stack of books here, mostly
+on history. Looks like the kind of stuff
+Hazel has been researching.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.ivystmp.carpenter_books",
+  text = [[
+It appears someone was reading a pulpy
+dective story about a lumbering  villain.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.amalenchier_grave",
+  text = [[
+It's an old tomb. The writing on the
+gravestone is worn off.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.amalenchier_revenant_still_alive",
+  text = [[
+TILIA:
+What? I thought I took care of you
+upstairs! Alright, buddy.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.ancient_grove_stone",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.dog_went_back",
+  text = [[
+TILIA:
+Huh. I guess that dog probably wanted to
+get back to his birthday party. Better go let
+the city guard captain know.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.lakehouse_switch1",
+  text = [[
+Oh, there's a hidden switch in the bookcase!
+Press it?
+$? Obviously!
+$? Could be some kinda trap.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.lakehouse_switch2",
+  text = [[
+You remain completely safe.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.lighthouse_ephitat",
+  text = [[
+There's some very worn writing carved into
+the stone:
+Zephyrine, may we fight our friends, so they
+might not become our enemies. In the
+ruins of the palace he destroyed, I've
+built this lighthouse. Should you decide
+to follow it home, we can rebuild all.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.llama",
+  text = [[
+It's a statue of a llama. Someone seems to
+hold this llama in high regard, but there's
+no telling what it means.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.poster",
+  text = [[
+(There's a poster advertising Gunther's
+show at the Salamander Heartache Saloon)
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.misc.poster_monster",
+  text = [[
+TILIA:
+Hey! There really is a monster tearing down
+the band's posters! Get back here!
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.monastery.hidden_book1",
+  text = [[
+The pages are dust covered and look ancient.
+$?Read it
+$?Don't bother
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.monastery.hidden_book2",
+  text = [[
+...though I pray the King remains ignorant
+of my records, I must write the truth about
+the Sea King. His love for his people has
+grown into hatred for any who hold something
+he doesn't. The tribes of Smoldering Rock
+did not pose the threat he claims. And yet
+his fearsome storm has completely destroyed
+their home. I have seen their village,
+or what remains of it after the storm. And
+I fear the Bear Warriors who resist his
+rule will meet a similar fate. His adviser,
+Heron, is close with the chief the king
+imposed on the warriors. I hope he dissuades
+the king.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.monastery.hidden_book3",
+  text = [[
+November 12th,
+The Bear Warrior's Chief is dead. The
+matron of Lobb is dead. The tribe of
+Smoldering Rock has been washed away.
+Yet this war continues. The Sea King has
+gone to the Isle of Storms and sits in
+his palace, and storms across the North
+Seas intensify. The waters are rising.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.monastery.hidden_book_kings_conquest",
+  text = [[
+...After subduing the traitorous Bear Warriors
+and the usurper from the Isle of Lobb, the
+Sea King sailed to Yarrowmouth, finding Heron
+there. Even faithful Heron had turned on him,
+and prevented the King from destroying the
+remaining traitors. Their remaining leader,
+Zephyrine, escaped and sailed her army out
+of the North Seas.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.monastery.old_books",
+  text = [[
+There's some piles of very old looking
+scrolls and books, covered in dust.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.attic_painting",
+  text = [[
+It appears to be the portrait of the
+Mayor's dog.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.crossword",
+  text = [[
+There's a suspiciously difficult, almost entirely
+completed crossword puzzle the Mayor has
+conveniently left out on his desk.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.impressive_books",
+  text = [[
+There's a couple thick books on the table
+with poetic-sounding titles. They seem to
+have been laid on the table to impress the
+party guests.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.painting_heron_and_king",
+  text = [[
+The card below the painting reads:
+"The Sea King and his advisor, Heron".
+There's a couple men in the painting, smiling.
+]],
+}
+
+dialog{
+  id = "_oakhaven.observations.palace.painting_oakhaven",
+  text = [[
+The painting is titled:
+''Oakhaven, Jewel of the North Seas''.
+It seems to depict the city before the flood.
+]],
+}

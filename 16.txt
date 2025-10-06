@@ -1,0 +1,925 @@
+dialog{
+  id = "_oakhaven.npcs.mayors_party.litton.4-encounter",
+  text = [[
+LITTON:
+What's this? How did you find me?!
+
+
+TILIA:
+Really good detective skills! And I asked
+some people if they'd seen you and you
+weren't very sneaky. Give back the Mayor's
+TILIA:
+dog you dognapper!
+
+
+LITTON:
+No way. I'm taking this pup to Ballast
+Harbor to auction off. He'll fetch quite a sum,
+heh heh heh...
+LITTON:
+Now prepare to be stopped from stopping me!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayor.1",
+  text = [[
+MAYOR:
+Well hey there, kiddo. It's my dog's birthday!
+Welcome to the party!
+
+TILIA (STILL PRETENDING TO BE FANCY):
+Well thank you, my good Mayor. But I do
+say, have you condoned to spy anyone
+suspiciously eyeing your dog?
+MAYOR:
+I don't know, man, it's his birthday. Everybody
+wants to check him out! Just wait till I reveal
+the new portrait I comissioned. Oh man,
+MAYOR:
+the people won't be able to help themselves,
+he's so cute.
+
+TILIA (TRYING TO THINK OF FANCY WORDS):
+Ah, most distrordinary.
+
+
+MAYOR:
+What?
+
+
+TILIA:
+Uh, I'm going to go get a drink now!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayor.2",
+  text = [[
+MAYOR:
+This is like... the worst possible thing that
+could happen. Someone made off with my
+dog. Why would... why? Why?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayor.3",
+  text = [[
+MAYOR:
+Hey, miss. I hear you rescued my dog from
+the dognapper! I can't, I don't even have
+words for how radical that is.
+TILIA:
+Don't worry about it. This is the kind of thing
+I do. I'm joining the Volunteer Navy, like my
+dad.
+MAYOR:
+That's like. Dude. That's so sincere. My dog
+is such a good boy. I want you to have this.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayor.4",
+  text = [[
+MAYOR:
+I'm so happy you rescued my dog. I'd declare
+today a holiday for you. But it's already my
+dog's birthday, so it's pretty holidayed up.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.1a",
+  text = [[
+GUEST:
+I hear the Mayor's dog went skiing last
+year and won second place. He's been
+taking lessons to win this year. I bought him
+GUEST:
+a cashmere scarf for his birthday.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.1b",
+  text = [[
+GUEST:
+Good gracious! I saw it happen! That man
+in the red shirt dashed past, scooped up the
+Mayor's dog, and like a bolt of lightning, ran
+GUEST:
+right out the gate. What will become of
+our society without the Mayor's dog?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.1c",
+  text = [[
+GUEST:
+The Mayor's dog is once again home.
+He holds himself differently. I think this
+ordeal has made him stronger.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.2a",
+  text = [[
+GUEST:
+I've been so excited for the Mayor's dog's
+birthday all month that I simply forgot to
+weigh anchor when I sailed in on my yacht.
+GUEST:
+My yacht has since drifted out to sea, but
+all is well.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.2b",
+  text = [[
+GUEST:
+Every fiber of my being feels wronged. To
+see such a heartless man just snatch an
+innocent dog... Be still, my shaking hands.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.2c",
+  text = [[
+GUEST:
+By jove, the dog has returned! The heights
+of elation I felt this morning have been
+exceeded even, by this triumphant canine!
+GUEST:
+See how he holds his head with pride! With
+grace. And dare I say it, grit!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.3a",
+  text = [[
+GUEST:
+My dear, you absolutely must try one of
+these Lobb oranges. Or perhaps even
+better, try to play fetch with the Mayor's
+GUEST:
+dog with an orange. Oh-ho-ho, what a sight
+that would be. Instead of using a gold-plated
+tennis ball, an orange. Ohhoho.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.3b",
+  text = [[
+GUEST:
+I've entirely lost my appetite. Dognapping!
+In our fair city! Egads.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.mayors_friends.3c",
+  text = [[
+GUEST:
+What a wonderful end to all this commotion.
+Hmm, yes. I do say.
+
+TILIA:
+You sound as weird as I do when I'm faking
+trying to talk like you guys.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.1",
+  text = [[
+GUEST:
+I'm extraordinarily excited to see the Mayor's
+Dog's new portrait. I imagine a masterwork
+like that must have been commissioned for
+GUEST:
+hundreds of crowns. The mayor spares
+no expense on that dog, indeed.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.10",
+  text = [[
+GUEST:
+I've absolutely captivated by this painting.
+It depects Oakhaven before the Great Flood.
+It evokes such resilliance, of a people
+GUEST:
+beaten, but not broken. A city that suffers
+though the injustices of the world, but
+persists nonetheless.
+TILIA:
+Didn't almost everyone die?
+
+
+GUEST:
+$1...$3well yes. But now that we live here,
+it's our- look miss. You don't understand art.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.11",
+  text = [[
+GUEST:
+Isn't it humbling, to stand in the ancient
+palace of the Sea King. He must have paced
+these corridors, agonizing over his battles.
+TILIA:
+Ah, most indeed. And now it is befallen to
+we nobles to maintain his heavy mantle.
+
+GUEST:
+An astute observation. The direction of
+the people is a heavy burden.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.12",
+  text = [[
+GUEST:
+While the Sea King likely wasn't this tall in
+real life, I imagine his stature must have
+felt similar to his enemies.
+TILIA:
+Ah yes, and his fancy armor managed even
+to exceed our own fancy clothes. Such a man.
+
+GUEST:
+Uh, yes. Surely.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.13",
+  text = [[
+GUEST:
+Ah, what a feeling it is to walk through such
+an ancient courtyard on such a momentus
+day as the Mayor's Dog's birthday.
+TILIA:
+Why absolutely. It surpasses even my own
+lavish gardens at home.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.14",
+  text = [[
+GUEST:
+Did you know? The hedges in this courtyard
+have been meticulously maintained for
+hundreds of years.
+TILIA:
+What a sight. Even longer lived than the
+hedge maze I, a fancy noble, have at my
+estate.
+GUEST:
+My own hedges as well. Such history.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.15",
+  text = [[
+GUEST:
+So gracious of the Mayor to allow us into
+his study during his dog's birthday party.
+We can take in the surrounding in which
+GUEST:
+he makes the decisions that keep our city
+atop the heap. Still the jewel of the North Seas.
+
+TILIA:
+Oh, I don't know. I understand that Limestone
+Island is quite the destination as well. Such
+kind and smart young women live there.
+GUEST:
+I, uh. Oh, well, I'm sure it might be. Perhaps
+one day this small island you speak of may
+become relevant to trade.
+TILIA:
+I don't know, they might already be able to
+make a profit trading even an intellect like
+yours.
+GUEST:
+With tariffs such as they are, they could-
+wait, excuse me?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.16",
+  text = [[
+GUEST:
+I do occasionally catch myself staring at
+that chair and wondering what it would be
+like to have an audience chamber of my own.
+TILIA:
+You don't have your own audience chamber?
+Oh, how drab. I find one very much spices
+up my estate.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.17",
+  text = [[
+GUEST:
+While I do find the ostentation delightful,
+much about the architecture from the
+pre-flood era is rather bulky for my tastes.
+TILIA:
+Oh absolutely. Why on earth did they insist
+on making building from such, uh, rocky
+stones?
+GUEST:
+Indeed. Although much of their masonry
+knowledge was lost, so was the brutalism
+of their scope, which I can live with.
+TILIA:
+Oh, um. Absolutely. I also feel that way.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.2",
+  text = [[
+GUEST:
+Between you and me$1...$3 I wasn't actually
+invited here. But I'm such a big fan of the
+mayor's dog! I had to come.
+GUEST:
+$1...$3please don't tell anyone.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.3",
+  text = [[
+GUEST:
+The mayor's palace, by far, has the city's
+finest rugs. I consider myself a purveyor
+of fine carpet. I've traveled all the way to
+GUEST:
+the Zeyphr empire to observe their intricate
+weaving techniques with a mind to start
+manufacturing here.
+TILIA:
+$1...$3
+
+
+GUEST:
+Escuse me, miss? Have you dozed off?
+
+
+TILIA:
+Oh! Ah, my delicate fancy constitution is
+highly affected by the elevation here in
+Oakhaven. I'm from... Fancyburg, you see.
+GUEST:
+Oh, I see, that must be near sea level.
+
+
+TILIA:
+...yes.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.4",
+  text = [[
+GUEST:
+Oh, do try a canape. They pair wonderfully
+with the reisling.
+
+TILIA:
+Oh, yes. I'll try an$1... $3au pair?
+
+
+GUEST:
+That's... not one. Here, maybe just have
+a strawberry.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.5",
+  text = [[
+GUEST:
+I hear the Mayor's Dog eats this well every
+day. I hope to spoil my own dog or maybe
+children this much one day.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.6",
+  text = [[
+GUEST:
+I do believe the Mayor had the orchard in
+Ivystump grow these apples especially for
+his dog's birthday party.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.7",
+  text = [[
+GUEST:
+What's a fete without a dog's birthday at
+the center? Did you know my cousin owns
+the shipyard down at the port? He had a
+GUEST:
+party for his cat last month, but it lacked
+that joie de vivre that dogs bring.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.8",
+  text = [[
+GUEST:
+While the Mayor serves very fine wine to
+his guests, I hear tell that the rarest vintages
+are reserved exclusively for him and his dog.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.normal_guests.9",
+  text = [[
+GUEST:
+My understanding is that the Mayor has
+arranged for thirty jugglers and acrobats
+to perform tonight$1....$3
+GUEST:
+I didn't realize the town's government could
+all be hired for such occasions. Aha, haha.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.mayors_party.protect_guests",
+  text = [[
+TILIA:
+I need to protect the party guests from the
+troll in the attic! Probably should also keep
+calm to there isn't a riot or something.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.aubrey_door",
+  text = [[
+???
+Who is it? Specifically, is it the orange
+salesman? If not, go away.
+
+TILIA:
+Uh, alright.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.aubrey_door_2",
+  text = [[
+???
+Who is it?
+
+
+TILIA:
+Orange salesman! Box of oranges here!
+
+
+???
+You don't sound like yourself. Well, come on
+in.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.0",
+  text = [[
+MELINDA:
+Well, what are you still doing here? Get
+on with your life.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.1",
+  text = [[
+MELINDA:
+Ah, you must be the window cleaner! It's
+about time you arrived, I can't see through
+the windows at all, it's like I live in a cave.
+TILIA:
+I'm sorry, what? I think you're mistaken.
+
+
+MELINDA:
+Am I? Oh, you already cleaned them?
+I'm not wearing my glasses. Well, here's
+your tip.
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.10",
+  text = [[
+MELINDA:
+Ah, you must be the grocery delivery girl
+again. Look, what I need is for you to take
+a cantelope, run it over to the governor's
+MELINDA:
+palace, and deliver it straight through his
+window. That'll teach him what kind of job
+he's doing! Hahahaha!
+TILIA:
+$1...
+$3I'll be sure to do that.
+
+MELINDA:
+Good girl. Here's your tip.
+
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.11",
+  text = [[
+MELINDA:
+Ah, you must be the gardener. I don't often
+get outside, but I went yesterday and noticed
+the trees leaves are turning an off color. You
+MELINDA:
+need to water them, get them green again.
+I'm taking a vacation to Goatshead Harbor
+in the spring and don't want the view spoiled.
+TILIA:
+...I'll see to it that all the trees leaves are
+green again by next spring. You have my
+word.
+MELINDA:
+You'd better. Here's your tip.
+
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.12",
+  text = [[
+MELINDA:
+Ah, you must be the meteorologist I sent
+for. I'm taking a vacation next spring and
+wanted to know if it'll rain.
+TILIA:
+I, uh... Yes. It will.
+
+
+MELINDA:
+Thank you. That's all I needed to know.
+
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.13",
+  text = [[
+MELINDA:
+Ah, about time the maid showed up. I need
+you to clean my window curtains. Dust's so
+thick I cough when I close them.
+TILIA:
+I'll clean the curtains so well you'll see
+right through them.
+
+MELINDA:
+That's an odd way of putting it. Well,
+here's your tip.
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.2",
+  text = [[
+MELINDA:
+Ah, it's about time the catfood delivery
+girl showed up. Just put it over by the
+credenza.
+TILIA:
+I... I don't have any catfood with me.
+
+
+MELINDA:
+You already set it over there? Excuse me,
+I'm not wearing my glasses. Here's your tip.
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.3",
+  text = [[
+MELINDA:
+Ah, you must be the painter. Last time you
+folks painted the walls you painted them
+taupe, when I specifically asked for charcoal.
+TILIA:
+I'm not- you didn't ask me for charcoal.
+
+
+MELINDA:
+Oh, or was it taupe I asked for and you folks
+did... Ah, now that you mention it, I remember
+I wanted charcoal until I realized it would
+MELINDA:
+clash with the carpets. Sorry for the
+trouble for coming out here. Take this.
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.4",
+  text = [[
+MELINDA:
+Ah, the houseplant landscaper! Just in time,
+my plants need watering. Please get to that.
+
+TILIA:
+I'm not the... you know what, I've already
+watered them.
+
+MELINDA:
+Did you? I wasn't watching. Here, your tip.
+
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.5",
+  text = [[
+MELINDA:
+Excellent, you must be the portrait painter.
+I'm ready to be immortalized in oils. Cement
+my likeness on canvas.
+TILIA:
+I'm not... isn't that your portrait on your wall
+over there?
+
+MELINDA:
+Is it? I don't have my glasses on, I thought
+that was a portrait of my cat. Well, take
+this for your efforts anyway.
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.6",
+  text = [[
+MELINDA:
+Oh, you must be the grocery delivery girl.
+Set the radishes on the table.
+
+TILIA:
+That's not... I didn't bring any radishes.
+
+
+MELINDA:
+Oh, right. I ordered cabbages this week.
+Well, set them down on the table. Here's
+your tip.
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.7",
+  text = [[
+MELINDA:
+Ah, the other portrait painter. I need you to
+paint a portrait of my cat. She's sitting on
+the bed, I believe.
+TILIA:
+She's not even... is that a pillow? You aren't
+wearing your glasses, are you?
+
+MELINDA:
+I'm not, no.
+
+
+TILIA:
+Done. I've hung it on the wall already.
+
+
+MELINDA:
+Excellent. Here's your payment.
+
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.8",
+  text = [[
+MELINDA:
+Oh, the carpet cleaner has arrived, I see.
+Late again- my carpets are looking sorry,
+I might add. Hop to it.
+TILIA:
+$1...
+...
+...
+$3TILIA:
+$1...
+...
+$3Done.
+MELINDA:
+Good. Arrive on time next time. Here's your
+tip.
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.melinda.9",
+  text = [[
+MELINDA:
+Ah, you must be the piano tuner. My piano
+is quite out of tune. I can't make out a note
+when I'm playing whatsoever.
+TILIA:
+You don't have a... well, your piano isn't
+out of tune, really.
+
+MELINDA:
+You've already done it? Lord, you guys are
+quick. Here, take a tip.
+
+(You received one crown.)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.1",
+  text = [[
+TYLER:
+Helloooo. Welcome to Mare-Sur Tailor.
+And it looks like you've arrived just in time.
+Let's start trying to make that outfit fit you.
+TILIA:
+Excuse me?
+
+
+TYLER:
+We can start getting your trousers' hips to
+actually be aware of yours, maybe they can
+work out an agreement. Then that neckline...
+TILIA:
+This is Volunteer Navy armor. I'm a bit more
+worried about how it protects me from
+monsters than how it fits my shoulders.
+TYLER:
+Ah, well that's fine too. For what it's worth,
+the color does bring out your eyes. Well,
+feel free to have a look around!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.clothes1",
+  text = [[
+A dashing ensamble stands before you.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.clothes2",
+  text = [[
+An incredibly loud outfit rests on the
+mannequin.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.hat1",
+  text = [[
+TYLER:
+The hats I design not only make you sparkle
+in a crowd, but they even keep the sun off
+your face.
+TILIA:
+That's not a terribly differentiating factor in
+a hat. I'll have to pass.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.hat2",
+  text = [[
+TYLER:
+That's a fine hat, made from Birdfox
+fureathers. It will definitely make you look
+taller.
+TILIA:
+Is that all it does?
+
+
+TYLER:
+It may also keep the sun out of your eyes.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.sequins",
+  text = [[
+That's a lot of sequins.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.shirts",
+  text = [[
+Several shirts are artfully arrayed on the
+counter. They're... wow, they're really soft.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.tailor.shoes",
+  text = [[
+TYLER:
+Ah, are you interested in my shoes?
+Guarenteed to make you dance 20% more
+gracefully. Not that you aren't graceful enough.
+TILIA:
+Aww, thanks. But no thanks.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.misc.wishing_well.1",
+  text = [[
+There's a wishing well. Toss in 5 crowns?
+$? Sure
+$? I'll keep my money
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.monastery.monk.1",
+  text = [[
+MONK:
+Ah, a pilgrim. No doubt you've come to drink
+from the great spring. The waters that flow
+through Oakhaven are all born here. And yet,
+MONK:
+even in this sacred place, the darkness that
+the great flood spread lurks in the shadows.
+
+TILIA:
+What are you getting at? Is there a monster
+in your basement? Do you need me to fight
+a monster in your basement?
+MONK:
+You're sharper than the Sword of the Sea
+King. Yes, my monastery is plagued by a
+beast born of the abyss. I will open the
+MONK:
+gate that goes down to the spring. Search
+the monastery, and find the beast.
+]],
+}

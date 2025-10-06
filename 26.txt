@@ -1,0 +1,828 @@
+dialog{
+  id = "_yarrowmouth.npcs.tavern.Olin.3",
+  text = [[
+OLIN:
+Did you go check on Jerah? Juniper Grove
+is northeast of town, by the dock.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.Olin.4",
+  text = [[
+OLIN:
+Glad to see Jerah's back! Don't know he
+managed to get himself trapped in the grove
+with a monster, but thanks for the help.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.jerah.1",
+  text = [[
+JERAH:
+This is great, I was really hoping someone
+would come along and defeat that monster.
+I've been trapped up here hiding from it for
+JERAH:
+a day and a half... who are you anyway?
+
+
+TILIA:
+I'm Tilia. And I think you might be able to
+help me. I'm tracking the Hourglass Pirates,
+and I heard you might know where their
+TILIA:
+hideout is.
+
+
+JERAH:
+Those guys. Ugh. Yeah, their hideout is on
+Kingsdown Isle. The bridge is usually locked,
+but I know a secret way in. There's these
+JERAH:
+old catacombs you can cut through. If you
+had the key, the leftmost pillar near the
+bear statue has a hidden keyhole. But I
+JERAH:
+don't know where the key is. I think
+Olin used to have it, but it got stolen
+by pirates...
+JERAH:
+Anyway, I'm going to head back to the
+Distillery. If you want directions again,
+come see me.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.jerah.2",
+  text = [[
+JERAH:
+If you're still looking for the Pirates, their
+hideout is on Kingsdown Isle. There's a
+secret catacomb you can cut through,
+JERAH:
+if you found the key. The leftmost pillar
+by the bear statue has a secret keyhole.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.jerah.3",
+  text = [[
+JERAH:
+Hey, thanks again from saving me from
+that monster. If you're still looking for the
+pirates, head to Kingsdown Isle. There's a
+JERAH:
+raft that'll take you there east of town, so
+south before you get to the dock and Juniper
+Grove. Then on the island is a bear statue,
+JERAH:
+statue, and the leftmost pillar nearby has
+a secret keyhole that opens the path
+to some catacombs you can cut through. But,
+JERAH:
+the key was lost a while ago. I think stolen
+by pirates...
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.1",
+  text = [[
+ROHIT:
+Hey, it looks like you're part of the volunteer
+navy. Can I pay you to do something for me,
+our local volunteer is super busy?
+TILIA:
+$? Tell me about it
+$? I'm busy too
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.2",
+  text = [[
+ROHIT:
+Fantastic! See, we sometimes use
+mushrooms to flavor our whisky here. It's
+a special technique that's hard to copy,
+ROHIT:
+because you need particular mushrooms.
+But lately, our mushroom pickin' spot has
+been overrun by monsters! Seems to keep
+ROHIT:
+happening to us. I'll pay 65 crowns if you can
+go clear out the creatures so we can get
+back to brewing.
+TILIA:
+I'll see what I can do about it. Where is the
+mushroom picking spot?
+
+ROHIT:
+Head through the Puzzlewood, on the western
+edge up some stairs is the spot. You'll
+need this key to open the gate.
+(You received a key to get to the mushroom
+picking spot)
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.3",
+  text = [[
+ROHIT:
+Did you find our mushroom picking spot and
+clear out the monsters? Head through the
+Puzzlewood, to the western edge.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.4",
+  text = [[
+ROHIT:
+Did you make it out to our mushroom
+picking spot and clear the monsters?
+
+TILIA:
+I did. What was weird was there were boxes
+of monster bait lying around. Probably the
+reason they were there. Is that yours?
+ROHIT:
+No, definitely not... Well, I'll pay you the
+money we agreed on since the monsters
+are gone, but do you think you could go
+ROHIT:
+look around for more clues and find out who
+put the bait there? I don't want to assume,
+but it seems like sabotage. I'll pay extra.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.5",
+  text = [[
+ROHIT:
+So, you cleared out the monsters, but it
+seems like someone left bait there to lure
+them in the first place... Can you go look
+ROHIT:
+for more clues and try to figure out who it
+was? I don't want to call names, but this
+seems like sabotage.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.6",
+  text = [[
+ROHIT:
+Hey there. How is your quest going?
+
+
+TILIA:
+I took care of the monsters at your mushroom
+picking spot, but someone had planted bait
+there to lure them in, it seemed like a trap. I
+TILIA:
+followed a trail I found and it looks like
+whoever set the bait there was working with
+someone called Michael.
+ROHIT:
+Michael? Well... that's probably Michael
+the Mighty Mead Maker. He operates a
+pretentious Meadery down in Tern Marsh.
+ROHIT:
+He's given us trouble before. Why don't you
+go down and confront him? Go south of here
+to Tern Marsh, his distillery is just out
+in the wilds. Lots of beehives around it.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.7",
+  text = [[
+ROHIT:
+Can you go confront Michael the Mighty
+Mead Maker about the bait at our mushroom
+spot? I'm sure it was him.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.8",
+  text = [[
+ROHIT:
+Any news about Michael the Mead Maker?
+
+
+TILIA:
+He shouldn't be giving you any more
+trouble. He attacked me but I beat him up
+pretty good.
+ROHIT:
+That's good. He's been using underhanded
+techniques to try to compete with us for
+years. He once found a pirate crew that had
+ROHIT:
+captured a fire spitting- well, anyway, I owe
+you something for all your help. Here you
+are.
+(You received 110 crowns)
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.tavern.rohit.9",
+  text = [[
+ROHIT:
+Thank you for all your help around here.
+I noticed in my records that your sister
+appears to be running a tavern
+ROHIT:
+on Limestone Island. I hope you don't mind,
+but I've started sending her shipments of
+Briarwood Gin to help you kids out.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.1",
+  text = [[
+Have you explored the Puzzlewood West of
+town? There's an old structure built by the
+Bear Warriors. They say one of their relics
+is hidden inside.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.10",
+  text = [[
+You look like a pretty tough monster fighter,
+huh? Hey, if it ever becomes too easy for
+you, I heard rumors of a place east of
+Goatshead Harbor, through a cave. There's
+a ravine where it constantly rains. People
+who visit- when they come back, monsters
+around them get stronger somehow. If you're
+up for a challenge, you might want to go.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.2",
+  text = [[
+If you can find your way through the
+Puzzlewood, there's a glade filled with either
+statues or... Well, there's these stone figures.
+They're called the Silent People.
+Nobody knows what they are or where they
+came from.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.3",
+  text = [[
+So Briarwood Distillery has a secret
+mushroom spot up in the woods. Except
+I hear it's been overrun by monsters. Bet if
+you were handy with a sword you could
+make a few crowns taking care of that.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.4",
+  text = [[
+History lesson, that's the sword of the last
+chieftan of Yarrowmouth. He dropped it there
+when he was killed by the Sea King. It's
+pretty cool, but most tourists are just
+interested in Briarwood Distillery, which
+in the Northwest corner of town.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.5",
+  text = [[
+Southeast of town, there's a place called
+Kingsdown Isle. There's some pirates living
+in an old fort there, but Kingsdown is so
+much of a pain to travel to, they don't
+really bother us. Since the road from
+Tern Marsh is blocked off, I think the only
+way there is taking the raft along
+Snapmast Reef, east of here.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.6",
+  text = [[
+So I've got this fascination with old
+architecture, right? Been to Oakhaven to
+study the old buildings and stuff. But I
+was in the Puzzlewood last month and I
+found some stone pillars that are like, old.
+Older than the buildings in Oakhaven, even
+than the Bear Warriors' ruins. But then
+some monster was there so I ran away.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.7",
+  text = [[
+I love coming here for drinks, their
+patio is goat friendly!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.8",
+  text = [[
+Out in the wilds of Tern Marsh, there's
+actually a Meadery. You know, honey wine?
+I guess they somehow compete with Briarwood.
+And like, hometown pride and all so don't
+tell anyone but... I actually think they
+make better drinks.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.9",
+  text = [[
+Some people still call Yarrowmouth the
+Isle of Thorns. It's partially because of
+the briars that grow here, and partially
+because the people who lived here long ago
+were known for fighting with spears. Also
+for being pretty thorny in their personalities.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.crafting",
+  text = [[
+NATHAN:
+Oh, welcome to the apothecary. I'm the
+village healer, need anything for your
+ailments?
+TILIA:
+No, I'll be fine, thanks.
+
+
+NATHAN:
+Marvelous. Well if you need to whip
+anything up using that crafting table,
+help yourself.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.hurt_guy",
+  text = [[
+INJURED MAN:
+If you're ever injured, say, when some
+pirates sail over from Snapmast Reef and
+try to take over the town's pier, the
+INJURED MAN:
+healer makes a mean headache potion. I mean,
+one that cures them. Dunno about causing
+them.
+TILIA:
+Pirates tried to take control of Yarrowmouth's
+pier? Why?
+
+INJURED MAN:
+Dunno. Sail around the island to get to
+Oakhaven maybe? Threaten more people?
+We managed to send them off, the
+INJURED MAN:
+Volunteer Navywoman, Nina, knew this
+Mallow guy who came and helped.
+
+TILIA:
+Oh! That's my dad! Do you know where he
+went afterwards?
+
+INJURED MAN:
+Ballast Harbor maybe? This was a while ago
+though, he's likely gone on from there.
+I hear he was tracking pirates.
+TILIA:
+He is. Now I'm tracking him.
+
+
+INJURED MAN:
+Well, best of luck to you.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.npcs.town_people.shopkeeper_1",
+  text = [[
+A new face in Yarrowmouth. Did you come
+to check out the Distillery in the northwest?
+Well, have a look around. I have some items
+that might come in handy for you.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.ambush",
+  text = [[
+TILIA:
+Wait, what, the door's shut? Is this
+really an ambush situation?
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.ambush_2",
+  text = [[
+TILIA:
+What, is the gate spring loaded? Ugh, I
+can't believe I got caught in a trap!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.bear_catacombs_oblisk",
+  text = [[
+There's some faded writing...
+While he yet enslaves the Ocean, the
+Souls slaughtered by the Sea King will
+seek... hmm, can't make out any more.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.broken_bird.1",
+  text = [[
+This statue seems to be missing its beak.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.broken_bird.2",
+  text = [[
+This statue seems to be missing its beak.
+Put the stone beak you found in its place?
+$? Repair it
+$? Leave it
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.chieftans_tomb_plaque",
+  text = [[
+There's an old, weathered piece of
+wood here. Carved into it, it says:
+"Here lies the last true chieftan
+of the Bear Warriors"
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hidden_bait",
+  text = [[
+Huh, monster bait. Wonder who left this
+here, it's probably attracting the monsters
+to this area.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.letter",
+  text = [[
+There's a letter here that looks important:
+Dearest Pirates of Fort Crow,
+This part of the game was changed, and this
+letter doesn't need to be in the game
+anymore. If you've somehow found this,
+please disregard.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.mug",
+  text = [[
+Looks like someone hastily dropped a mug
+of ale on the floor. There's even still a bit
+inside.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.nobody_home",
+  text = [[
+TILIA:
+Isn't this the Hourglass Pirates' fort? Where
+is everyone?...
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.nobody_home2",
+  text = [[
+TILIA:
+It's really dusty down here. It doesn't look
+like anyone's been here in a while...
+Where did those pirates go?!
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.note_1",
+  text = [[
+There's a letter here from Blackbeard!
+''Smythe says the sea king visited a place
+called 'Spruce Isle' frequently. Best he can
+piece together, its coast would look like
+this. Recognize it?''
+...There's a chart of Lotus Shoal
+attached.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.note_2",
+  text = [[
+There's a half finished letter here, someone
+was writing to the Pirate Council asking for
+more explosives. Apparently they needed
+extra to break into some ruins.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.note_3",
+  text = [[
+There's a half finished letter:
+Captain Blackbeard,
+The outlying sites haven't yielded any clues
+toward finding Ocean's Heart Isle, but our
+trip to Spruce Head was successful, but it
+seems like it's the only amulet. Everyone
+might have to go in on one trip whenever we
+discover the Isle's location.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.note_4",
+  text = [[
+There's a few islands listed with notes.
+Oakhaven - under investigation
+Isle of Lobb - no sites
+Limestone Island - promising site, but empty
+Yarrowmouth - all sites searched
+Snapmast Reef - all sites searched
+... there's some other islands listed, but it's
+all fairly inscrutable.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.hourglass_fort.thyme_book",
+  text = [[
+It looks like Captain Thyme started writing
+a memoir. He seems to regret killing people
+for the Pirate Council, but also seems to
+be whining a lot about how the Council was
+chasing him down for abandoning them.
+He struggles to find a cohesive narrative.
+4/10.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.lighthouse_note",
+  text = [[
+Lighthouse closed for a bit. Happened
+across some free drinks. Let me know if
+it goes out.
+-Eudicot
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.mushroom_spot.1",
+  text = [[
+TILIA:
+That seems like all of the monsters, but is
+that monster bait over there? Who would've
+wanted monsters at the mushroom spot?
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.mushroom_spot.2",
+  text = [[
+There's several boxes of monster bait over
+here. It looks like someone was trying to
+lure monsters here on purpose. The bait...
+is kind of sticky?
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.mushroom_spot.3",
+  text = [[
+It's a beehive.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.mushroom_spot.4",
+  text = [[
+There's a barrel with an M on it. The
+outside is kind of sticky.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.mushroom_spot.5",
+  text = [[
+There's monster bait stored here. It's a
+little sticky and smells like honey.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.safehouse_letter",
+  text = [[
+There's an unsent letter on the table...
+Michael- the plan seems to be going well.
+I put the bait in place, and already some
+Seaweed Golems are closing in. I still have
+some bait leftover, which I'm keeping here.
+Hopefully the bait doesn't...
+(the writing trails off here)
+
+TILIA:
+Looks like whoever put the bait at the
+mushroom spot was working for someone
+called Michael. Maybe I should report
+TILIA:
+back to Briarwood Distillery, they might
+know who Michael is.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.secret_switch.1",
+  text = [[
+There's a secret keyhole here.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.observations.secret_switch.2",
+  text = [[
+There's a secret keyhole here. Try the
+key you got from the chart salesman?
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.distillery",
+  text = [[
+Briarwood Distillery
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.juniper_grove",
+  text = [[
+Path to Juniper Grove
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.kingsdown_1",
+  text = [[
+North - The Puzzlewood
+East - Kingsdown Isle, Tern Marsh
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.kingsdown_2",
+  text = [[
+West - Road to Puzzlewood
+East - Kingsdown Isle
+South - Tern Marsh, Road to Ballast Harbor
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.lighthouse",
+  text = [[
+Yarrow Lighthouse
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.marsh_1",
+  text = [[
+Northwest - Tunnel to Yarrowmouth Village
+East - Road to Kingsdown Island, Puzzlewood
+Southeast - Bridge to Ballast Harbor
+West - Seaweed Rock
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.marsh_2",
+  text = [[
+South - Ballast Harbor
+West - Tern Marsh
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.mushroom_spot",
+  text = [[
+Briarwood Mushroom Picking Spot
+(Please don't steal our mushrooms)
+(This means you, Michael)
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.nina",
+  text = [[
+Yarrowmouth Volunteer Navy Outpost
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.puzzlewood_1",
+  text = [[
+Left - Road to Kingsdown Isle
+Right - Mushroom Pickin' Spot
+North - it's confusing. Just explore.
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.puzzlewood_2",
+  text = [[
+Right - Road to Zephyr Bay
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.puzzlewood_3",
+  text = [[
+East - Briarwood Mushroom Pickin' Spot
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.shop",
+  text = [[
+Yarrowmouth General Store
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.village_1",
+  text = [[
+East - Yarrowmouth Pier, Juniper Grove
+South - Trail to Kingsdown Isle
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.village_2",
+  text = [[
+Yarrowmouth Village
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.village_3",
+  text = [[
+Tunnel to Tern Marsh
+]],
+}
+
+dialog{
+  id = "_yarrowmouth.signs.village_blacksmith",
+  text = [[
+Blacksmith and Armorer
+]],
+}

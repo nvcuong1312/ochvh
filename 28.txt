@@ -1,0 +1,348 @@
+dialog{
+  id = "quest.side.oakhaven.haunted_key",
+  title = "Key from a Cave",
+  text = [[
+##In some sort of treasure cache
+##hidden underground, you found an
+##old key
+@Find an old lock, probably also
+in Oakhaven somewhere
+?
+?The key unlocked an abandoned house
+?in east Oakhaven
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.haunted_monastery",
+  title = "Haunted Monastery",
+  text = [[
+##The monk on Marblecliff Summit says a
+##beast lurks in the spring at the base
+##of the monastery
+@Find the creature and destroy it
+@Let the monk know you've succeeded
+::?
+?REWARD: $ITEM{bread.2}    Burroak Bread
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.ivy_orchard",
+  title = "Ivystump Orchard",
+  text = [[
+##Monsters have overrun the orchard in
+##Ivystump
+@Clear the orchard
+!
+!There are 3 monsters lurking in the
+!orchard
+@!Return to Paul
+@Save Paul!
+#::
+#!REWARD: $ITEM{rupee.1}    80 --// visible all phases but hidden once quest is complete
+?REWARD: $ITEM{rupee.1}    120 --// visible only after quest is complete
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.manna_oaks",
+  title = "The Oak Blight",
+  text = [[
+##Hazel asked you to check out
+##Oakhaven's trees, which are getting
+##sick
+@Collect a twig from one of the other
+two giant oaks
+!
+!There are giant trees in Veilwood
+!Forest and on top of Marblecliff
+!Mountain
+@!Take the twig back to Hazel
+!
+!She's at Oakhaven's library
+@!Defend Hazel!
+@Visit Ivystump $!and ask if anyone knows
+!about the Oaks
+!
+!Ivystump is on the eastern edge of
+!Oakhaven, past the Veilwood Forest
+@!?
+!
+!An old botanist, Lamia, lives in the
+!southeast part of town. She might know
+!about the Manna Oaks
+@Check Amalenchier's grave
+!
+!It's in a grove of fir trees in the
+!west of the Veilwood
+@Return to the tomb entrance
+@Investigate the 3 Manna Oaks
+!in Oakhaven, Veilwood, and Marblecliff
+! You've looked at $v1 so far
+@Investigate further down the tunnels
+@Let Hazel know there were monsters
+infesting the roots
+#::
+#%=!$i0    QUEST ITEM:
+#%=!    $ITEM_NAME
+%=?
+?REWARD: $ITEM{elixer.1}    Elixer
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.master_thief",
+  title = "The Dog's Birthday",
+  text = [[
+##The guard captain wants you to find a
+##thief at the mayor's dog's birthday
+##party
+@Head to the palace
+!and present your invitation
+@!Speak to party guests and ask about
+!suspicious characters
+@!Speak to party guests
+!Clues:
+!$@1 Someone in a red shirt has a --// Dynamic checkmarks in this quest are only
+!$1  painting-size sack           --// used as bullets and never become checked
+@!Speak to party guests
+!Clues:
+!$@1 The thief is in red
+!$@2 The thief arrived soon after the
+!$2  party started
+@!Speak to party guests
+!Clues:
+!$@1 The thief is in red
+!$@2 The thief arrived early
+!$@3 The guests who arrived earlier are
+!$3  in the library
+!Ha! Look for someone in a red shirt in
+!the library!
+@!A troll somehow got into the attic!
+!Defend the party guests!
+@Confront your suspect!
+!
+!Hopefully the man in the red shirt is
+!still in the library
+@Run to the port and try to catch the
+thief!
+@!Ask around about the man in the red
+!shirt
+@!Check the warehouse up the stairs
+@!Save the mayor's dog!
+@Report to the Captain of the Guard
+!back in town
+#::
+#REWARD: $ITEM{rupee.1}    200
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.musicians",
+  title = "Battle of the Band",
+  text = [[
+##You agreed to help some struggling
+##musicians
+@Let the bartender know they're willing
+to play
+!
+!He'll be behind the bar at the
+!Salamander Heartache Saloon
+@Check the band's posters and make sure
+monsters aren't attacking them
+@Beat up that monster!
+@Go see Gunther's show
+::?
+?REWARD: $ITEM{coral_ore.1}    Coral Ore --// only revealed after quest is over
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.orange_thief",
+  title = "The Tic Tac Champ",
+  text = [[
+##You somehow joined Oakhaven's tic tac
+##toe championship, but the prize was
+##stolen!
+@Investigate the scene
+@!Talk to the emcee
+@!Search for clues
+@Find someone capable of selling enough
+oranges to generate that many peels
+!
+!Ask if they recall such a sale
+@Take the shipment of oranges to Aubrey
+!
+!She lives in the southwest corner of
+!Oakhaven, a house with a green roof
+@!Go on in
+@Take the money back to the tic tac toe
+guy
+?
+?You were allowed to keep half of the
+?prize money
+#::
+#%=$i0    QUEST ITEM: --// phase 4: orange shipment, phase 6: prize money
+#%=    $ITEM_NAME
+#%=
+#!REWARD: Cut of the 200$ITEM{rupee.6}    prize money
+?REWARD: $ITEM{rupee.5}    100
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.orange_thief_aubrey",
+  title = "The Tic Tac Champ",
+  text = [[
+##You somehow joined Oakhaven's tic tac
+##toe championship, but the prize was
+##stolen!
+@Investigate the scene
+@!Talk to the emcee
+@!Search for clues
+@Find someone capable of selling enough
+oranges to generate that many peels
+@Take the shipment of oranges to Aubrey
+@!Go on in
+@!?
+
+You let Aubrey keep the prize money.
+?
+?Aubrey told you to visit her orange
+?orchard on the road to the Isle of
+?Lobb.
+]],
+}
+
+dialog{
+  id = "quest.side.oakhaven.sinking_lighthouse",
+  title = "Sinking Ruins Key",
+  text = [[
+##You found a key in a sinking ruins. It
+##likely unlocks a nearby door
+@Find the locked door
+?
+?You unlocked a bridge to a lighthouse
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.side.shoal_pirate_fort",
+  title = "The Locked Fort",
+  text = [[
+##Someone locked some pirates in
+##their fort, but they won't stay
+##there forever
+@Go into the fort and beat up
+the pirates
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}
+
+dialog{
+  id = "quest.side.yarrowmouth.iron_pinecone",
+  title = "An Iron Pinecone",
+  text = [[
+##An artisinal armorer will make you
+##some armor if you bring her an iron
+##pinecone
+@Search Yarrowmouth for an iron
+pinecone
+!
+!It is said to be found in Puzzlewood
+@!Bring the pinecone to Mera at the
+!Yarrowmoth Smithy and get some armor
+@Bring the pinecone to Mera at the --// optional phase shown only if player had insufficient funds
+Yarrowmoth Smithy and get some armor
+!(Requires 50 Crowns)
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+#%=
+#REWARD: $ITEM{armor_upgrade_2.1}    Defense +2
+]],
+}
+
+dialog{
+  id = "quest.side.yarrowmouth.meadery",
+  title = "Briarwood Mushrooms",
+  text = [[
+##Briarwood Distillery's mushroom spot
+##was overrun
+@Defeat the monsters at the mushroom
+picking spot
+!
+!The spot is in the Puzzlewood
+@?Found a letter identifying Michael as
+?the culprit behind the monsters
+!
+!Wait, who set that trap?
+#::!
+#%=!$i0    QUEST ITEM: --// phase 0 & 1 only: mushroom spot key or mead safehouse key
+#%=!    $ITEM_NAME
+#%=!
+@See if anyone at the distillery knows
+Michael
+@Confront Michael the Mighty Mead Maker
+!
+!His meadery is in Tern Marsh
+@Return to Briarwood
+#::
+#!REWARD: $ITEM{rupee.1}    65 --// visible all phases but hidden once quest is complete
+?REWARD: $ITEM{rupee.1}    110 --// visible only after quest is complete
+]],
+}
+
+dialog{
+  id = "quest.side.yarrowmouth.parley",
+  title = "Probably Not an Ambush",
+  text = [[
+##Nina of Yarrowmouth asked if you could
+##meet with some pirates on behalf of a
+##man named Carlov
+@Tell the pirates to piss off
+!
+!They'll meet you at Seaweed Rock,
+!in west Tern Marsh
+@!?
+!
+!What?! It's a trap?!
+@!Report back to Nina
+#::!
+#!REWARD: $ITEM{rupee.1}    80 --// visible all previous phases up until this one is complete
+#;;
+@Find the pirates hideout and teach
+them not to mess with Yarrowmouth-
+Or you
+!
+!If you go west of Tern Marsh to
+!Stonefell Crossroads, you
+!can find their hideout
+@Let Nina know you defeated the pirate
+crew
+#::
+#REWARD: $ITEM{rupee.1}    120 --// visible from beginning of phase 3 and after
+]],
+}
+
+dialog{
+  id = "quest.side.yarrowmouth.stone_beak",
+  title = "A Stone...Beak?",
+  text = [[
+##You happened across a piece of stone
+##shaped kind of like a bird beak
+@Figure out where it may have come from
+#::
+#%=$i0    QUEST ITEM:
+#%=    $ITEM_NAME
+]],
+}

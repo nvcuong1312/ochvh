@@ -1,0 +1,514 @@
+
+dialog{
+  id = "_oakhaven.npcs.general_town.12",
+  text = [[
+I come down to the statue of the Ocean
+Godess every morning to feed the doves.
+Some people say the Ocean is a myth, but
+like... it's the ocean. I've seen it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.13",
+  text = [[
+The well's been getting pretty dry the
+past few months. I suppose on the plus
+side, if you fell down the well, you
+wouldn't drown.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.14",
+  text = [[
+Yo, have you heard about the haunted horse?
+By big brother said there's a haunted
+horse and there's a ghost inside and that's
+why they keep it locked!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.14-rebuttal",
+  text = [[
+Wait, how do they lock a horse? Are you
+sure you understood this rumor properly?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.15",
+  text = [[
+KID:
+Hey you know what I heard? Nobody knows
+how many secret passages there are in this
+town!
+TILIA:
+Does that mean there might not be any?
+What was trying to be conveyed to you
+when you heard this?
+KID:
+I mean, if nobody knows, there could be
+more than six, right? That's all I'm saying.
+Seems worth checking in corners for is all.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.2",
+  text = [[
+Up at the top of the city is the mayor's
+palace. It used to be where the Sea King
+and his forebearers lived before the king
+moved his palace to the Isle of Storms.
+Which makes you wonder, if the palace is
+that old, must be a pain to heat it. Not
+an efficient use of tax dollars!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.3",
+  text = [[
+Oakhaven's annual tic-tac-toe championship
+is today. It's held in the southwest
+neighborhood. I was thinking of going, but
+after seeing my favorite player
+disqualified last year after being involved
+in that leg-breaking conspiracy... I dunno,
+tic-tac-toe isn't the sport it used to be.
+So many scandals these days.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.4",
+  text = [[
+I'm just visiting Oakhaven, so I'm reading
+a travel guide. I guess there's a mountain
+to the west with pretty extensive ruins.
+Also extensive monsters. Hmm...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.5",
+  text = [[
+If you sit really still while people watching,
+everybody starts to forget about you. You
+see people as their true selves. Impatiently
+waiting to meet friends, getting excited
+about cooking the produce they buy... also
+picking their noses a lot. If you were
+invisible, you'd see so many people picking
+their noses.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.6",
+  text = [[
+Little known secret about the tailor's
+shop near the south gate. The tailor loves
+sequins, absolutely adores them. So much,
+he won't sell them. Keep them to himself.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.7",
+  text = [[
+It's not this one, but one of the fountains
+in town is a wishing well. That or someone
+accidentally hooked the bank up to the
+water system, because there's just tons of
+coins at the bottom. It might be worth
+tossing some money in if you were the type
+with plenty of money to throw away.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.8",
+  text = [[
+Go up those stairs to the northwest, and
+you'll find what's probably the oldest
+tree in the city. Definitely the biggest.
+Wonder what it looked like back in the day.
+Probably a lot smaller.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.9",
+  text = [[
+Used to be a sailor, ya know, till I got
+shipwrecked out on Snapmast Reef. Gave it
+up, became a fisherman instead. Wouldn't
+ya know, I put all my chips into fishin'
+down at Gull Rock. Of course, it's full of
+monsters down there! Had to give that up
+too. Now what do I do? I'm a real estate
+speculator.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.barty.1",
+  text = [[
+Hmm, looks like a big 'ol storm today,
+sonny. Low pressure in the nibulo-fog banks.
+Feel it in my bones. Always means snow's
+coming.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.barty.2",
+  text = [[
+You feel how humid it is today? Not at all!
+Red sky in the morning too. Looks like we're
+in for a hard winter, sonny. I used to
+climb Marblecliff Mountain to measure the
+clouds when I was a boy. They used to be
+tall! Not this year. That's how you can
+tell we're in for a mild winter.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.barty.3",
+  text = [[
+Hey sonny, see that high-pressure counter
+backwards cloud system swirling out toward
+Yarrowmouth? Sure sign of an early frost.
+I've got weather in my bones, sonny.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.library_hint",
+  text = [[
+Have you been to Oakhaven's library? It's
+massive. Just go down those stairs and
+through the archway, you can't miss it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.library_hint_2",
+  text = [[
+There's a courtyard on the north side of
+the library. I've a particularly tall friend
+who could see over the waterfall there
+a bit and swears there's an old ruins.
+Suppose you'd need to be somehow coming
+downstream from the mountain to get there
+though, as you can't swim up waterfalls.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.1",
+  text = [[
+Have you seen that empty house in the
+southwest part of town, near a small
+fountain? I knew the old man that used
+to live there. He said he'd catch a cold
+draft even on warm days. Hated it so much
+he moved to the Isle of Lobb. Anyways, it's
+empty now so of course monsters moved in.
+That's how it goes.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.2",
+  text = [[
+I heard a rumor that the ancient Oak tree
+in the Northeast part of town is hollow.
+They say if you stick your mouth right onto
+it and scream, you can hear it echo like
+an old well or cave or something. I like
+to think it's just the tree screaming back.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.3",
+  text = [[
+You know Oakhaven has its own Bomb Shop?
+On its surface, that seems normal enough,
+the world is full of obstructed passageways,
+but like... is that enough to sustain a
+business? Should that old man really just
+be selling bombs to the general public?
+Sounds like a recipe for disaster if you
+ask me! Anyway, if you collect Firethorn
+berries he'll cut you a deal, I've bought
+a bunch of bombs myself. Sockpiling them.
+Just in case!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.4",
+  text = [[
+The Mayor's dog is having a birthday party
+today! All the towns' upper crust will be
+there.... but it's also the day of the
+tic-tac-toe championship. I'm so torn.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.5",
+  text = [[
+Have you seen that man near the statue of the
+Ocean Goddess? He's always up there, feeding
+birds, every day. What's he up to? What's he
+get from them? What do the birds know?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.6",
+  text = [[
+Just visited Ivystump yesterday, have you
+seen there's an old shrine in the Veilwood?
+Couldn't get through the foliage to get a
+good look, but there's got to be some kind
+of tunnel or something, who'd build an
+ancient shrine then let foliage grow up
+around it? The entrance couldn't be far
+away.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.7",
+  text = [[
+You ever been out west of town, to that
+sandy beach south of Marblecliff? It's a
+great spot for a date, but also, there's
+a cave hidden under the bridge!
+...Which is an even BETTER spot for a date.
+Now don't go sharing this info. I've got
+someone picked out to ask and I don't want
+you stealing 'em out from under me!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.8",
+  text = [[
+Back in my day, there wasn't all this fetching
+water right from the well, we had to climb
+all the way up Marblecliff mountain to get
+fresh springwater! I mean, the well was
+here back then... I don't know why my
+parents sent me all the way up there. But
+it built character! Also I learned about
+the secret chamber built into the monstery!
+But I'll never tell where it is! Ehhehehehe.
+Because I never found it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.loop_walkers.9",
+  text = [[
+Ah dear, your face reminds me of my sister's.
+She fell down the well when we were children.
+I panicked, but she found a tunnel and swore
+she'd learn where water came from. When we
+dropped a ladder down, she said she'd found
+monsters down there! Imagine! We're all
+drinking monster water! That's why I never
+drink water.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.sculptor_sibling_outside",
+  text = [[
+Oh, you're wearing Volunteer Navy colors!
+My brother inside is a sculptor and needs
+someone to help collect stone from golems.
+It's the best for sculpting I guess? If
+you want, go inside and have a chat.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.generic.carry_on",
+  text = [[
+GUARD:
+Carry on, civilian.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.generic.guardhouse",
+  text = [[
+GUARD:
+Good day, citizen. This is the guardhouse.
+The house where we guards do business. It's
+not our collective house. We have houses too.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.generic.library_entrance",
+  text = [[
+GUARD:
+Through this arch is the Oakhaven Library.
+It's one of the city's oldest buildings.
+If you check something out, you'd better
+GUARD:
+be sure to return it on time! I can arrest
+you for overdue fees!
+
+TILIA:
+Is that true?
+
+
+GUARD:
+No, but I like to keep borrowers on their
+toes. I think it improves the city's moral
+fabric.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.generic.palace_entrace",
+  text = [[
+GUARD:
+This is the entrance to the palace. The
+town's mayor lives here now, even though
+it's really old.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.hq.captain.1_ask",
+  text = [[
+GUARD CAPTAIN:
+Good afternoon. Hey, don't take this the
+wrong way, but you look unassuming. Do
+you want to help the town guard out?
+GUARD CAPTAIN:
+I've got an assignment none of my men
+will be able to do. I can pay you 200 crowns.
+
+TILIA:
+$?Sure
+$?No way, Jose
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.hq.captain.2_quest",
+  text = [[
+TILIA:
+I'm not sure how else you want me to take
+that, but sure. What do you need help with?
+
+GUARD CAPTAIN:
+As you may have heard, the Mayor is holding
+a birthday party for his dog. The Mayor plans
+to unveil a fabulous portrait of his dog at
+GUARD CAPTAIN:
+the event. The thing is, there's rumors the
+master thief Litton is in town. We're worried
+he's here to steal the painting.
+TILIA:
+How is a painting of someone's dog so
+valuable?
+
+GUARD CAPTAIN:
+I have no idea. I'm not an art dealer, I've
+just been told it is. Anyway, we need someone
+to pretend to be a fancy party guest and
+GUARD CAPTAIN:
+infiltrate the party, figure out who Litton is,
+and prevent him from stealing the painting
+of the dog.
+TILIA:
+Sounds like a blast, honestly. Sure.
+
+
+GUARD CAPTAIN:
+Really? Okay, excellent. Here, this is an
+invitation to the party. Just head over to the
+palace, present your invitation, and act like
+GUARD CAPTAIN:
+you belong there. Report back once you've
+saved the day.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.hq.captain.3",
+  text = [[
+GUARD CAPTAIN:
+Hey, thanks for helping us out. Just head up
+to the palace and present your invitation,
+act natural$1...$3 or, well, act like you belong
+GUARD CAPTAIN:
+there, and figure out who the master thief
+Litton is. And stop him from stealing the
+portrait of the Mayor's dog. It's simple.
+TILIA:
+Yep, sounds simple.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.hq.captain.4",
+  text = [[
+GUARD CAPTAIN:
+You're back! I heard from my men stationed
+at the palace that there was a dognapping,
+but the dog is back now?
+TILIA:
+Yep. I tracked the thief back to the harbor
+and beat him up.
+
+GUARD CAPTAIN:
+You've done Oakhaven a great service.
+That dog is such a good dog. Such a good
+boy. Thank you. Your reward.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.hq.captain.5",
+  text = [[
+GUARD CAPTAIN:
+You'll always be remembered as the hero
+who, on the Mayor's Dog's Birthday, saved
+the dog from certain doom. I salute you.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.hq.guard",
+  text = [[
+GUARD:
+I'm just over here filing our swords
+alphabetically. It's probably the captain
+you want to talk to.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.guards.jail",
+  text = [[
+GUARD:
+Hey! Welcome to jail! This is where we
+keep the miscreants, ne'er-do-wells, and
+unctious rabble. Have a look around!
+]],
+}
