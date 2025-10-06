@@ -1,0 +1,1146 @@
+dialog{
+  id = "_new_limestone_island.observations.sea_hag",
+  text = [[
+TILIA:
+Of course, some big monster is lurking
+between me and my way out. Well, I want to
+join the Volunteer Navy, and taking care of
+TILIA:
+these gross things is part of that.
+I can handle this. You can do it, Tilia.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.tavern_notice",
+  text = [[
+Chores this week:
+Sweeping - Linden
+Dishes - Tilia
+Balance Ledger! - Dad
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.tilia_books",
+  text = [[
+You've been reading various books on
+tracking and navigation. There's also some
+maps of nearby islands.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.tilia_list",
+  text = [[
+It's a to-do list you made, stuff you wanted
+to get done before you left to find your dad.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.trapped_in_stash",
+  text = [[
+TILIA:
+Was that an earthquake? Explosion? I'm glad
+it didn't happen while I was walking across,
+but it sounded like some kind of cave in
+TILIA:
+back by the entrance... Well I think
+there's another way out deeper in.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.wine",
+  text = [[
+A bottle of decent wine, Juglan's favorite
+drink. He never gets anything else at the
+tavern.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.wood_sword",
+  text = [[
+It's the wooden sword you've been learning
+to fight with. Some people say you can
+head off on an adventure with just this, but
+that seems unlikely.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.one_year_later",
+  text = [[
+
+                 Six Months Later
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.signs.stash",
+  text = [[
+Mallow's Secret Storage Cave, this way
+(Don't tell anyone)
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.signs.tavern",
+  text = [[
+Basswood Tavern
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.1",
+  text = [[
+...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.2",
+  text = [[
+MYSTERIOUS TIC-TAC-TOE PLAYER:
+EEK! My plan!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.3",
+  text = [[
+AUBREY:
+Oh no! Look, I can explain. My dad runs
+an Orange Orchard and times have been
+really tough. I wanted to help him out...
+TILIA:
+So you just stole a bunch of money?
+
+
+AUBREY:
+No, I$1...$2 well. $3Yeah. I did. Ugh. Clearly
+you're here to do something about this.
+What do you want?
+TILIA:
+$? Hand over the prize money.
+$? Just keep it.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.4",
+  text = [[
+AUBREY:
+I hope the prize money went to somebody
+who REALLY DESERVED IT. For being
+good at tic-tac-toe. That's worth 200 crowns...
+TILIA:
+Look, I don't make the rules. About stealing
+money from people. But that's a pretty
+agreed-upon rule.
+AUBREY:
+Ugh! Fine.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.5",
+  text = [[
+AUBREY:
+Thank you so much. For letting me get
+away with stealing so much money. I promise
+it'll be put to good use.
+TILIA:
+Hey, don't make me seem like your
+accomplice. You stole that yourself.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.alright",
+  text = [[
+AUBREY:
+Alright! You got me!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.get_into_fight",
+  text = [[
+AUBREY:
+Hey, you're not the orange guy! $2Wait a
+second$3... do I know you from somewhere?
+
+TILIA:
+From the tic-tac-toe championship?
+
+
+AUBREY:
+Oh. Oh! Oh no! You'll never take me
+alive, copper!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.keep_money",
+  text = [[
+TILIA:
+Look, just... keep it. I don't really have a
+horse in this race. If this is how you want
+to fund a struggling orange orchard, with
+TILIA:
+stolen money, I don't know how to run an
+orchard. That's your business.
+
+AUBREY:
+Really? Thank you! You don't know how
+much this will help us! Please, come by the
+Orange Orchard if you ever find your way
+AUBREY:
+to Fykonos Island. We'll pay you back
+somehow!
+
+TILIA:
+Don't worry about it. Just watch out for the
+tic-tac-toe referee, he seems like a fighter.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.ana_orange.take_money",
+  text = [[
+TILIA:
+Give me that money. I'm taking it back to
+the tic-tac-toe guy.
+
+AUBREY:
+$1...$3fine. My dad and I will somehow
+struggle through and find the money
+to keep the orchard open somewhere...
+(You received 200 crowns)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.1",
+  text = [[
+ARAMIS:
+Welcome to Metheglyn Apothecary. In the
+market for any tonics, panaceas, or draughts?
+Grow your hair longer, clear up warts?
+TILIA:
+I'm more in the market for practical
+potions. Heal you, hurt monsters. That
+kind of thing.
+ARAMIS:
+Oh! Well if you'd like to use the crafting
+table, feel free.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.2",
+  text = [[
+ARAMIS:
+Hello, welcome to our humble apothecary.
+Need something for your skin? Love potion?
+
+TILIA:
+I'm actually looking to make some else. I'm
+trying to... help some people get to sleep.
+They're terribly alert.
+ARAMIS:
+A sleeping draught would be easy to mix up
+if I had the ingredients. But I would need
+some Monkshood Flowers, and I'm out. Alas.
+TILIA:
+Could I go find you some? Then you could
+make the this sleeping draught?
+
+ARAMIS:
+That would be lovely. There's a place at the
+Northwest Edge of Marblecliff Mountain where
+there are some dangerous plants. I think
+ARAMIS:
+you'd be able to find Monkshood growing
+there.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.2_already_have_monkshood",
+  text = [[
+ARAMIS:
+Hello, welcome to our apothecary. Looking
+for some slug juice? Great for digestion.
+
+TILIA:
+I'm actually looking to make something else.
+I'm trying to... help some people get to sleep.
+They're terribly alert.
+ARAMIS:
+A sleeping draught would be easy to mix up
+if I had the ingredients. But I would need
+some Monkshood Flowers, and I'm out. Alas.
+TILIA:
+Hold up, I actually found some of those
+earlier. Will this help you?
+
+ARAMIS:
+Oh! Yes, that is Monkshood. I can quickly
+mix up something that should help you$1...
+...$3Here you are!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.3-sleepwell",
+  text = [[
+ARAMIS:
+I hope that sleeping draught is helping your
+friends get to sleep.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.4-look_for_monskhood",
+  text = [[
+ARAMIS:
+If you're looking for Monkshood to help me
+make a sleeping draught, try the northwest
+part of Marblecliff Mountain. It's northwest of
+ARAMIS:
+the port. You'll follow the trail through a ruins on
+the mountain, then you'll go through a narrow
+canyon.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.5-return_with_poison",
+  text = [[
+ARAMIS:
+Ah, you have a sleepy look in your eyes,
+did you find the Monkshood we need?
+
+TILIA:
+Yeah, it wasn't any trouble or anything, just
+picking flowers.
+
+ARAMIS:
+Excellent. I'll make the sleeping draught
+right away$1...
+...$3and, done. Take this, and sleep well.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.apothecary.husband",
+  text = [[
+I know it looks like I'm creeping around
+back here. I'm just watering the flowers.
+Feel free to look around. The flowers
+aren't for sale, but they're pretty.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.1",
+  text = [[
+FERRIS:
+Are you looking for a master armorer? If so,
+look no further! Unless you're looking for one
+who has the tools I need... then I guess keep
+FERRIS:
+looking. But I can do a decent job without
+any tools! I'd only charge you 100 crowns to
+increase your armor's defense.
+(Increase your defense for 100 crowns?)
+$?Do it!
+$?No thanks.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.2",
+  text = [[
+FERRIS:
+I could make your armor significantly
+stronger, if I could find some armorer's tools.
+If only my boss would get me some...
+TILIA:
+Do you know where some might be?
+
+
+FERRIS:
+I bet Ballast Harbor wouldn't be a bad place
+to look, lots of stolen goods move through
+there. But... also pirates... and they're scary.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.3",
+  text = [[
+FERRIS:
+I could really improve that armor you're
+wearing if I had some armorer's tools. But my
+boss won't get me any...
+FERRIS:
+Wait a second, you've got some armorer's
+tools. Let me have those, and I'll make your
+armor significantly stronger!
+(Hand over the tools?)
+$? Yes
+$? No
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.4",
+  text = [[
+FERRIS:
+Thank you for letting me have these armorer's
+tools. I hope the improvements I made will
+keep you safe.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.upgrade_armor",
+  text = [[
+FERRIS:
+Good, good.... Let me just... and this like...
+This could use a pin instead of a....
+There!
+(Your defense was increased by 1)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.blacksmith.ferris.upgrade_armor_2",
+  text = [[
+FERRIS:
+Thank you! Let me just... let's add some
+chainmail... tighten this down... put some
+extra padding here...
+FERRIS:
+All done! You look much safer!
+
+
+(Your defense was increased by 2)
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.1",
+  text = [[
+VISIBLY SHAKING MAN:
+O-ooh, oh, hey. I'm sorry. I've been, uh,
+you can't go in there. This cave is private
+property. I'm an intern at the shop. The
+INTERN:
+Oakhaven Bomb Shop, and this cave is private
+but uh. Well. There's a monster in there
+anyway, so. Maybe you better leave.
+TILIA:
+Do you want me to go take care of the
+monster for you? I can do that.
+
+INTERN:
+O-oh! Yes! I mean, well. Uh, I'm just an
+intern. I can't tell you you're allowed
+to do that. Maybe go check the bomb shop?
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.2",
+  text = [[
+INTERN:
+O-oh, hi. I'm an intern at the Oakhaven
+Bomb Shop. I can't, you see, it's my job...
+well, I'm not paid. But it's my task to
+INTERN:
+keep people away. For their own safety,
+from this mine, which is full of a monster.
+
+TILIA:
+Hey, don't worry man. The guy at the bomb
+shop sent me down here to take care of it.
+
+INTERN:
+Oh, oh, oh good. Golly, good. Yes, please,
+go inside. Help yourself to the monster.
+I mean, to destroying it. Uh.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest1",
+  text = [[
+INTERN:
+Hey, oh, hi, it's you! Good job, with that
+monster? You beat it. Which is cool.
+OH! HEY! Is that, I'm sorry, those plans
+INTERN:
+you have? Those blueprints? Those are
+designs for, it looks like bomb arrows?
+
+TILIA:
+Oh, these? Yeah, I found them in a pirate
+fort. Can you make bomb arrows with this?
+
+INTERN:
+Well, I studied... bombs. In school? Not in
+school, that'd be wild if that was a class.
+Uh, in my free time... I mean, yes! I can!
+INTERN:
+It looks like I just need a couple things.
+Two things. Some tungsten, it's this metal,
+it won't melt, uh, that doesn't matter...
+TILIA:
+That's great, where can I find tungsten?
+
+
+INTERN:
+There's actually a cave, in the strait
+between Oakhaven and Yarrowmouth. It's
+called the Strait of Throns. Because of
+INTERN:
+the rocks, but there's a cave there. Then
+you'd have to take the tungsten to this
+guy Rusty, and he'll be like, oh, you have
+INTERN:
+tungsten, you're legit, take this machine
+part, oooh. I mean, he said he'd give me
+the machine part if I could prove I'd use it.
+TILIA:
+Okay, bring the tungsten to Rusty. Where
+does he live?
+
+INTERN:
+You can probably find him at the secret
+underground bar at the port. Did you know
+there's an underground bar? It's, you have
+INTERN:
+to go behind a merchant's stall, behind
+some pots? It's really secret. Rusty is
+usually there.
+TILIA:
+If you can build me bomb arrows, I can do
+this. Go get some tungsten from the cave,
+go find Rusty. Got it.
+INTERN:
+Woah, this will be really cool. These
+arrows will be, oh boy, really dangerous.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest2",
+  text = [[
+INTERN:
+Oh, so for the bomb arrows, you've gotta
+go get tungsten. It's this metal that won't
+melt. I know you can find ingots in this
+INTERN:
+cave in the strait between Yarrowmouth
+and Oakhaven. You can get there from
+Stonefell Crossroads.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest3",
+  text = [[
+INTERN:
+Oh, you got it! The tungsten! For the bomb
+arrows. That's great. If you take that to
+Rusty, down at the secret bar, he'll give
+INTERN:
+you the machine part I need. The bar is at
+the port, behind some pots. It's a secret
+bar. I'm not sure why?
+TILIA:
+Why won't Rusty just give you the machine
+thing?
+
+INTERN:
+Well, I'm only an intern. It's maybe sort
+of like a... hero's journey thing? I have
+to prove myself?
+TILIA:
+By... by me going and getting a lump of
+ore for you?
+
+INTERN:
+I don't know, I work with a lot of weird
+people! It makes me nervous!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest4",
+  text = [[
+INTERN:
+Oh, you did it! You got the tungsten ore and
+the machine part! This is exactly what I
+need to make the arrows this design shows.
+INTERN:
+Give me just a sec, and I'll make this
+happen!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.quest_already_tungsten",
+  text = [[
+TILIA:
+Oh, wait a second, I was actually
+already in that cave and found some
+tungsten ore. It's this stuff?
+INTERN:
+Oh, howdy! Yeah, that's tungsten ore, I'll
+need that. But go show it to Rusty down at
+the secret bar!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.intern.shop_dialog",
+  text = [[
+INTERN:
+Hey, it's you! You've really helped us out.
+With the whole monster, at the, the one at
+the mines. We needed that stuff. The
+INTERN
+saltpeter, not the monster. We didn't need
+the monster. Oh, obviously you knew that.
+Otherwise, you, I mean, well. Uh. Hi.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.owner.1",
+  text = [[
+THE BOMB MAKER:
+Welcome, welcome! This is the Oakhaven
+Bomb Shop, specializing in bombs! One thing,
+we don't have any bombs. There's a thing,
+THE BOMB MAKER:
+at the saltpeter mine. One of those, we
+dug too deep and unleashed a monster, one
+of those. You aren't predisposed to go
+THE BOMB MAKER:
+down into mines to destroy monsters, are
+you? I've been asking everyone. I'll pay,
+of course. In bombs maybe.
+TILIA:
+It seems like that's the kind of work I've
+been taking on recently. Really seems like
+it's your own fault, but I can look into it.
+THE BOMB MAKER:
+Ah! Yes, fantastic! You will destroy the
+monster I've unleashed on myself! Please,
+the saltpeter mine is soutwest of the port.
+THE BOMB MAKER:
+Go out the south gate, then head west from.
+the port. My intern is stationed at the
+entrance, tell him I sent you, he'll let you in.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.owner.2",
+  text = [[
+THE BOMB MAKER:
+Ah! You. Yes! You agreed to destroy the
+monster I brought upon myself by digging
+too deep into the saltpeter mines. Yes.
+THE BOMB MAKER:
+Once you take care of that issue, I'll be
+able to sell bombs again. And ship them
+out. All over. Everyone will sell my bombs!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.bomb_shop.owner.3",
+  text = [[
+THE BOMB MAKER:
+Ah! You're back. You have destroyed the
+monster that lurked in the depths of the
+saltpeter mine, yes?
+TILIA:
+I did. You said you'll pay me?
+
+
+THE BOMB MAKER:
+Huzzah! Now, yes, now I can sell my bombs.
+Every shop in the world will want to stock
+my bombs! So many explosions! But yes,
+THE BOMB MAKER:
+I will pay you, ahahahaha!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.carpenter.1",
+  text = [[
+I take a lot of pride in my drawers. I've been
+importing knobs from the Isle of Lobb for a
+while- just because it rhymed- but I'm
+realizing that's not a business strategy.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.carpenter.2",
+  text = [[
+I got into carpentry thinking I'd be making
+warehouses of fancy furniture. But it turns
+out what people want more than anything is
+boxes and barrels.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.eastoak.boyle.1",
+  text = [[
+BOYLE:
+So my fool brother dug up that cursed stone
+and won't put it back. It's bad luck though,
+to disturb the standing stones. Or the
+BOYLE:
+barrow in the fields. Probably the whole
+unit, just in general. Probably dumb that
+we farm here, but the soil is good.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.eastoak.brince.1",
+  text = [[
+BRINCE:
+You seen the standing stones all around the
+fields? Best not to disturb them, nobody
+knows who put 'em up or why, was so long
+BRINCE:
+ago. But I was diggin' around 'em, and I
+found a stone tablet, so I brought it home,
+as a decoration... but here's the thing.
+BRINCE:
+Ever since, I've been scared to go near
+the barrow in the middle of the fields.
+Can't explain why! Something about the
+BRINCE:
+stone tablet? But I'm keeping it as a
+decoration though. Makes me look well
+traveled.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.01",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.1",
+  text = [[
+CAPTAIN AL-JAZARI:
+A-ha! I've found you! I suspected something
+was afoot when every one of my crew fell
+asleep, and here's an intruder. Who are you?
+TILIA:
+I'm looking for Captain Thyme. I'm gonna get
+him to tell me how to find Blackbeard, so I
+can find my dad.
+CAPTAIN AL-JAZARI:
+That's a convoluted scavenger hunt. Anyway,
+you won't be able to get to Thyme, because
+I accidentally trapped him in the fort's tower
+CAPTAIN AL-JAZARI:
+when I turned the boiler off. And also
+because I plan on destroying you here and
+now! Ha!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.2",
+  text = [[
+CAPTAIN AL-JAZARI:
+Oh, another one? Look, I don't have time for
+this. I'm building automatons and digger
+machines and stuff. You're with Morus?
+TILIA:
+Yeah, he's here to bring you in. Well, I
+guess maybe he's here to get his butt
+kicked, it looks like.
+CAPTAIN AL-JAZARI:
+Yes, he's had it out for me ever since I
+accidentally sank his first ship while
+testing my robotic sharks. But so is life.
+TILIA:
+Huh. You don't seem interested in fighting.
+Maybe we can make a deal. I'll just drag
+Morus out of here if you can help me. I'm
+TILIA:
+looking for the Isle of Storms. Have you
+pirate guys found it yet?
+
+CAPTAIN AL-JAZARI:
+Oh, that place. Yes, I don't know. That's
+all Blackbeard stuff, he probably has a
+chart at the Council's hideout. But look,
+CAPTAIN AL-JAZARI:
+this is actually taking up more of my time
+than fighting you would, so...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.jazari.3",
+  text = [[
+He's totally out for the count.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.pirates.guard_1",
+  text = [[
+GUARD:
+Eh, are you delivering the ale?
+
+
+TILIA:
+Uh, no, I don't have any.
+
+
+GUARD:
+Well get lost then!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.fort_crow.thyme.1",
+  text = [[
+CAPTAIN THYME:
+Ah?! I was worried I'd be trapped in this
+tower forever! I mean, I never worry. You,
+wait, who are you?
+TILIA:
+You must the the Hourglass Crew's captain.
+You raided my town, kidnapped my friend,
+and now you're going to tell me where I can
+TILIA:
+find Blackbeard before I beat you up!
+
+
+CAPTAIN THYME:
+Oh, are you from Limestone Island? Look,
+business is business and my business is
+working for Blackbeard. He's at the Council's
+CAPTAIN THYME:
+headquarters, but I've no predisposition to
+tell you where that is. Now, automaton!
+Attack!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.chest1",
+  text = [[
+You shouldn't just take the money inside
+here. This isn't one of thooose chests.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.1",
+  text = [[
+TIC-TAC-TOE PLAYER:
+Have you ever even tic tacked before? You
+don't look too tough. Humph.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.2",
+  text = [[
+SERIOUS COMPETITOR:
+I might not look it, but I've been training in
+tic-tac-toe for decades.
+
+TILIA:
+I don't know what that would look like.
+
+
+SERIOUS COMPETITOR:
+I, uh... Well, it'd look like me!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.3",
+  text = [[
+TIC-TAC-TOE PLAYER:
+My secret? I always play Os. They never
+expect that, because Xs are cooler, so you
+throw them off.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.4",
+  text = [[
+TIC-TAC-TOE-PLAYER:
+You might have learned to get three in a row,
+but I was born into it. I was raised a
+tic-tac-toe board.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.5",
+  text = [[
+MYSTERIOUS TIC-TAC-TOE PLAYER:
+...don't over think it. Just do it for the
+oranges.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b1",
+  text = [[
+TIC-TAC-TOE PLAYER:
+Woah. That girl just made off with 200
+crowns. What a master thief. I need to
+go home and rethink my career.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b2",
+  text = [[
+SERIOUS COMPETITOR:
+I... the championship is cancelled? But...
+I've been training for three years...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b3",
+  text = [[
+TIC-TAC-TOE PLAYER:
+You know, I'm almost relieved. The truth is,
+I'm really bad at tic-tac-toe.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.competitors.b4",
+  text = [[
+TIC-TAC-TOE PLAYER:
+I was sitting right next to a criminal all along.
+I hope I didn't get any crime germs on me.
+I better go home and shower.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.guard",
+  text = [[
+I heard this was a crime scene and came
+as quickly as I could! Unluckily for crime,
+I am very quick! A detective is on his way.
+Now we play the waiting game.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.guard2",
+  text = [[
+GUARD:
+Looks like the suspect escaped. Better go
+file a report or something then...
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.1",
+  text = [[
+REFEREE:
+We're almost ready for the tic tac toe
+championships, but we had a no-show...
+Hey! Would you fill in for us?
+(Join the tic tac toe championships?)
+$?Sign me up!
+$?I won't play your games!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.2",
+  text = [[
+REFEREE:
+Great! We'll get started immediately.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.3",
+  text = [[
+REFEREE:
+Ladies and gentlemen, the 29th annual
+Oakhaven Tic Tac Toe Championship is
+about to begin. The prize money...
+REFEREE:
+$1...huh?$3
+Wait a second! The chest with the prize
+money is empty! Nobody leave the room,
+REFEREE:
+this is now a crime scene!
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.4",
+  text = [[
+REFEREE:
+Don't worry. We're locking this place down.
+Nobody in, nobody out, until the detective
+arrives and we can figure out who the thief is.
+REFEREE:
+It's just like a murder mystery novel. Except
+without the murder. Or the novel, I guess.
+So it's just a mystery.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.5",
+  text = [[
+REFEREE:
+Did you see that?! I suppose you did. Good
+job finding that suspicious character... but,
+poor job stopping her. At any rate, the money
+REFEREE:
+is gone, and we can't have our tournament
+anymore. Well, forget about that 200 crowns,
+kid.
+TILIA:
+What if I can find the girl. Or the money.
+Or both?
+
+REFEREE:
+Oh, you're in the Volunteer Navy, aren't you?
+Looking for trouble? To solve it? Well fine. If
+you get the money back, you get a cut.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.55",
+  text = [[
+REFEREE:
+Did you find that girl that stole the
+tic-tac-toe prize money?
+
+TILIA:
+I'm still looking.
+
+
+REFEREE:
+I've got the town guards on the case too.
+This is the heist of the century! I'm planning
+to write a book.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.6",
+  text = [[
+REFEREE:
+Did you track down the money that girl
+stole?
+
+TILIA:
+As a matter of fact, I did.
+
+
+REFEREE:
+No kidding! We can have the tournament
+after all! We won't need you to join anymore,
+since the thief is obviously disqualified, but
+REFEREE:
+I'll let you keep half of this. The town guard
+was useless in finding the thief, so we
+wouldn't have this if it weren't for you.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.officiant.7",
+  text = [[
+REFEREE:
+Thanks to you, we can continue to have
+the tic-tac-toe championship annually!
+You should train and try out next year.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.game_hall.orange_peel",
+  text = [[
+There's a pile of orange peel here. A very
+large pile of orange peel... Someone would
+possibly remember selling this many
+oranges.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.1",
+  text = [[
+I've been reading collected poetry about the
+ancient lighthouses scattered across the
+islands. They were built to call back a
+lover lost at sea. The way they're darkened,
+dead, reminds me of this tree. Except I
+guess probably don't try to light this tree
+on fire. You definitely could light all
+four lighthouses back up.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.10",
+  text = [[
+Did you hear the governor's dog is having
+a birthday party? Or, they're having a
+party for the governor's dog. Or is he the
+mayor? The person, I mean, not the dog.
+Or is the dog the mayor? I mean, I don't
+have a strong grasp of politics.
+]],
+}
+
+dialog{
+  id = "_oakhaven.npcs.general_town.11",
+  text = [[
+Hey, this might seem like a weird warning,
+but be careful around the fountains in
+Oakhaven. My little sister fell down a
+well last week. She said it was pretty
+creepy down there too. She got the feeling
+she could hear something whispering to
+her from deeper down the tunnel. Also, she
+broke her arm!
+]],
+}

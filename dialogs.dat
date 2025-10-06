@@ -6458,3 +6458,1807 @@ TILIA:
 Mình nên nói chuyện với Aster trước khi rời đi.
 ]],
 }
+
+dialog{
+  id = "_goatshead.observations.shrine_bottles",
+  text = [[
+TILIA:
+Những chai rượu gin Briarwood... Ở quán rượu
+quê nhà chúng tôi cũng có những chai này, chúng tôi phải
+vận chuyển chúng từ Đảo Yarrowmoth về vì
+TILIA:
+Nhà máy chưng cất Briarwood là nơi duy nhất
+biết cách làm ra nó. Đúng là đồ ngon.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.shrine_papers",
+  text = [[
+Có một cuốn nhật ký ở đây...
+Ngày 12 tháng Tư. Tôi nghe thấy tiếng động lạch cạch
+đằng sau cánh cửa bị khóa trong hành lang
+các bức tượng. Tôi không còn biết làm thế nào
+để mở cánh cửa đó nữa. Tuy nhiên, những bức tượng
+trông rất đáng ngờ. Có lẽ chúng có liên quan đến
+những bức tượng giống hệt chúng trong căn phòng ngay phía bắc đây.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_amulet_resting_place",
+  text = [[
+Trông như có thứ gì đó quan trọng
+đáng lẽ phải được đặt ở đây.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_captain_log.1",
+  text = [[
+Trông như nhật ký hành trình của tàu.
+...Ngày 15 tháng Chín, cuối cùng cũng tìm thấy
+bùa hộ mạng mà Blackbeard sai chúng ta đi tìm! Cuối cùng chúng ta
+cũng có thể trở về sào huyệt! Nhưng trước đó
+hãy ghé qua Nhà máy chưng cất Briarwood
+và đặt hàng mới để ăn mừng.
+Chỉ có thức uống tuyệt nhất mà Yarrowmouth có thể mang lại
+cho đoàn thủy thủ đã tìm thấy bùa hộ mạng đó!
+...
+
+TILIA:
+Có vẻ như Băng Đồng Hồ Cát đã đi thuyền
+đến Yarrowmouth. Có lẽ những người ở
+nhà máy chưng cất biết sào huyệt của chúng ở đâu.
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_captain_log.2",
+  text = [[
+Trông như nhật ký hành trình của tàu.
+...Ngày 15 tháng Chín, cuối cùng cũng tìm thấy
+bùa hộ mạng mà Blackbeard sai chúng ta đi tìm! Cuối cùng chúng ta
+cũng có thể trở về sào huyệt! Nhưng trước đó
+hãy ghé qua Nhà máy chưng cất Briarwood
+và đặt hàng mới để ăn mừng.
+Chỉ có thức uống tuyệt nhất mà Yarrowmouth có thể mang lại
+cho đoàn thủy thủ đã tìm thấy bùa hộ mạng đó!
+]],
+}
+
+dialog{
+  id = "_goatshead.observations.spruce_papers",
+  text = [[
+Có đủ loại giấy tờ vương vãi
+khắp bàn. Các trang giấy trông như thể
+từ nhật ký của ai đó.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.alchemist",
+  text = [[
+Cửa hàng Tạp hóa và Dược phẩm Goatshead
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.armorer",
+  text = [[
+Giáp Hophorn
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.badger_flats",
+  text = [[
+Badger Shoal:
+Bắc - Làng Crabhook
+Đông Nam - Pháo đài Thrush, Spruce Head
+Khá Xa Về Phía Nam - Cảng Goatshead
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.crabhook_fork",
+  text = [[
+Đông - Làng Crabhook
+Tây - Đường mòn đến Ballast Harbor
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.fishing_spot",
+  text = [[
+Chỗ Câu Cá Nam Tính, lối này
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.gate",
+  text = [[
+Đây là một cổng bị khóa. Có lẽ nên nhìn xung quanh
+xem có ai sẽ mở nó cho bạn không.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.goat_hill",
+  text = [[
+Đông Bắc - Phế tích Giếng Heron
+
+TÂY - ABBERFORTH VÀ DÊ
+(phần này được viết nguệch ngoạc bằng chữ viết tay khác)
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.goatshead_rock",
+  text = [[
+Đá Goatshead
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.inn",
+  text = [[
+Nhà trọ Juneberry
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.lighthouse_cape",
+  text = [[
+Bắc - Rừng Poplar
+Xa Hơn Về Phía Bắc, Rồi Đông - Spruce Head
+Thực Sự Khá Xa Về Phía Bắc - Làng Crabhook
+Tây - Cảng Goatshead
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.rilesdorf_mercantile",
+  text = [[
+Sàn Giao dịch Thương mại Rilesdorf
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.shshrine",
+  text = [[
+Tiếp tục theo đường mòn để đến
+Đền Spruce Head
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.sodden_cormorant",
+  text = [[
+Sodden Cormorant
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.1",
+  text = [[
+Chỗ câu cá của tôi - cùng với tất cả
+cà rốt tôi để lại đó - đã bị
+quái vật tràn ngập! Tôi cần ai đó tiêu diệt chúng
+giúp tôi. Tôi sẽ đợi ở rìa phía đông
+thị trấn để được giúp đỡ, cạnh chuồng dê.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.2",
+  text = [[
+Xin được thông báo rằng Guild Thương nhân
+đang tìm một nhà thám hiểm để tiêu diệt mối đe dọa
+đối với thương mại được gọi là mực ma. Gặp
+Eamon tại trụ sở chính guild để biết thêm chi tiết.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.3",
+  text = [[
+Một số ngư dân đã báo cáo bị đuổi đi
+bởi một sinh vật biển gần đây khi
+họ câu cá ở phía nam thị trấn. Nếu có ai nghĩ
+mình có thể đối phó với một con quái vật, hãy đến gặp tôi,
+Danley, trong quán rượu. Ở đây. Tôi ở đằng sau cô,
+trong góc bên kia phòng đang uống rượu.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.tavern_notices.4",
+  text = [[
+Khẩn cấp! Tôi đã tìm thấy một
+bản đồ kho báu hoàn toàn có thật, và tôi đang tìm
+một đối tác để giúp tôi lấy kho báu.
+Đến gặp Dusit để biết thêm chi tiết.
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.thrush_fort",
+  text = [[
+Đông - Spruce Head
+Chỉ Hơi Xa Về Phía Bắc - Pháo đài Thrush
+Vẫn Xa Hơn Về Phía Bắc - Làng Crabhook
+Nam - Rừng Poplar
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.town_sign",
+  text = [[
+Cảng Goatshead
+Bắc - Đồi Heron
+Đông - Rừng Poplar, Spruce Head, đường đến
+Làng Crabhook
+]],
+}
+
+dialog{
+  id = "_goatshead.signs.warehouse",
+  text = [[
+Kho hàng Hoàn toàn Hợp pháp của Bartolemy
+]],
+}
+
+dialog{
+  id = "_limestone_island.intro",
+  text = [[
+Người ta nói rằng trước đây không có
+quái vật lang thang trên các hòn đảo.
+Hồi trước khi vương quốc cổ đại sụp đổ hoặc
+bất cứ chuyện gì đã xảy ra.
+Nhưng vẫn có con người. Vì vậy vẫn có
+quái vật.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.bernard.1",
+  text = [[
+Bernard:
+Cô đã từng khám phá những phế tích ở
+Mũi Sometimes chưa? Có một con
+nhện đá màu đỏ hung dữ sống ngay sau những phế tích đó.
+Bernard:
+Nếu cô đang muốn thử thách kỹ năng của mình, tôi sẽ trả
+cô một khoản kha khá nếu cô giết được con quái vật.
+
+Tilia:
+Nghe có vẻ là loại công việc dành cho tôi. Tôi sẽ để ý
+khi tôi đến khu vực đó.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.bernard.2",
+  text = [[
+Bernard:
+Cô đã đến Mũi Sometimes chưa? Cô có bị
+con nhện đá đó đánh bại không?
+
+Tilia:
+Tôi bị trúng vài đòn, nhưng nó đã không còn nữa.
+
+Bernard:
+Làm tốt lắm, Tilia. Cô đang trở thành một thành viên
+Thủy thủ Tình nguyện tuyệt vời.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.bernard.3",
+  text = [[
+Bernard:
+Cô đã trưởng thành khá nhiều kể từ khi còn là
+một đứa trẻ dùng gậy đập vào mắt cá chân của mọi người.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.corylus.1",
+  text = [[
+Corylus:
+Tilia, con yêu, con thế nào? Ta nghe nói con định
+đi tìm bố con. Hãy cẩn thận, nhưng
+nếu con nghe được tin tức gì về Hazel, ta...
+Tilia:
+Không sao đâu, Corylus. Nếu bố con chưa tìm thấy
+cô ấy, con sẽ đưa cô ấy về cùng.
+Corylus:
+Cảm ơn con yêu. Lên đường bình an.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.corylus.2",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.edson.1",
+  text = [[
+Edson:
+Tilia! Ồ, mọi thứ đều tuyệt. Ừ. Mọi người thích
+loại bia mới. Sunshine Stout. Tôi mua nó từ một
+thương nhân trên đường trở về biển tây với giá rẻ!
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.edson.2",
+  text = [[
+Edson:
+Ừ, Tilia... Vậy là cô tìm thấy chìa khóa phòng chứa đồ.
+
+Tilia:
+Ừ. Anh làm rơi nó khi đang câu cá ở hồ à?
+Vậy anh đã phục vụ bia ở đây bằng cách nào?
+
+Edson:
+Tôi chỉ để nó ngoài sân. Tôi
+bảo mọi người nó được gọi là Sunshine Stout và
+cần không khí trong lành để giữ nguyên hương vị.
+Edson:
+Ai cũng tin cả. Tôi thậm chí còn bán nó với giá
+cao hơn! Làm ơn, đừng nói với chị cô.
+Cô ấy sẽ rất tức giận.
+Tilia:
+Hử. Chà, nếu anh đã kiếm được thêm
+tiền, thì tôi không phiền đâu. Chỉ cần giữ chìa khóa
+cẩn thận hơn, được chứ?
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.edson.3",
+  text = [[
+Edson:
+Này, Tilia. 'Sunshine Stout' vẫn chưa
+hết. Tôi có lẽ phải bắt đầu vận chuyển thứ này
+đến các quán rượu khác.
+Tilia:
+Chà, nếu anh bắt đầu xây dựng một đế chế kinh doanh
+bên lề, hãy đảm bảo khách hàng của chúng ta vẫn hài lòng.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.fishing_pirate.1",
+  text = [[
+Ừ, bọn tao chỉ đang đi ngang qua nhưng
+không có nghĩa là mày có thể lấy chỗ câu cá của bọn tao.
+Bọn tao sẽ cắm trại ở đây cho đến khi bắt được
+ít nhất tám hoặc chín con cá!
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.fishing_pirate.2",
+  text = [[
+Cướp biển:
+Mày đến đây để lấy chỗ câu cá của bọn tao à? Bọn tao
+không ưa bị đe dọa đâu. Bọn tao có thể là
+cướp biển nhưng không cần phải thô lỗ.
+Tilia:
+Hử, nghe buồn cười nhỉ. Bởi vì nghe đồn là các người
+đã đánh đập ngư dân địa phương và lấy trộm
+dụng cụ câu cá của họ.
+Cướp biển:
+Tao không biết mày đang nói gì. Ngư dân địa phương duy nhất
+bọn tao thấy là gã già đó
+chạy ngang qua hét lên về lũ quái vật.
+Tilia:
+Hử... nghe thực sự giống Wally hơn.
+Anh nói anh ấy đến từ hướng nào?
+
+Cướp biển:
+Hướng đó, ngay phía đông đây.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.fishing_pirate_2.1",
+  text = [[
+Hòn đảo này là điểm dừng chân cuối cùng từ Biển Bắc
+nếu bạn đang đến Đế chế Zephyr. Bọn tôi
+đang trì hoãn vì chuyến đi thật đáng sợ.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.juglan.first_time_leaving",
+  text = [[
+Juglan:
+À, Tilia. Vậy là con sẵn sàng lên đường rồi hả?
+
+Tilia:
+Vâng. Con biết bố đang tìm kiếm
+Băng Cướp biển Đồng Hồ Cát, và bố có lẽ
+đã đi qua Cảng Goatshead.
+Juglan:
+Đó là một khởi đầu tốt. Con đã tự dạy mình
+chiến đấu gần như kể từ khi
+Mallow rời đi, phải không?
+Tilia:
+Con vẫn còn khoảng sáu tháng huấn luyện Thủy thủ Tình nguyện
+nữa. Nếu bố không ở lại để
+dạy con, thì luôn có con để dạy con.
+Juglan:
+Ta hiểu rồi. Vậy, con sẵn sàng đi chưa? Có mang theo
+kiếm không? Có cần khám phá quanh đảo
+chút gì trước khi chúng ta đi không?
+Tilia:
+  $? Con sẵn sàng rồi
+  $? Con cần làm vài việc để chuẩn bị
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.juglan.intro",
+  text = [[
+Juglan:
+Tilia! Ta rất mừng là con không sao. Bọn
+cướp biển đó, chúng treo cờ gì? Ta nghĩ
+đó là một đồng hồ cát? ...
+... Chúng ta sẽ có cơ hội trả thù chúng.
+Nhưng trước hết chúng ta còn rất nhiều việc để xây dựng lại.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.juglan.trip_confirm",
+  text = [[
+Tilia:
+Con có đủ mọi thứ con cần rồi.
+
+Juglan:
+Vậy thì lên tàu đi. Điểm dừng tiếp theo,
+Cảng Goatshead.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.1",
+  text = [[
+Linden:
+Vậy là, Tilia... em thực sự chuẩn bị lên đường hả?
+Đi tìm Bố.
+
+Tilia:
+Ừ. Đã quá lâu rồi, lẽ ra bố nên quay về
+rồi. Juglan đang ở dưới bến tàu, bác ấy
+sẽ cho em đi nhờ đến Cảng Goatshead. Bố
+Tilia:
+hẳn đã đi qua đó, vì vậy đó là
+nơi em sẽ bắt đầu tìm kiếm.
+
+Linden:
+Chị biết em thông minh và cứng cỏi và em có thể
+tìm thấy bố nhưng chỉ là... hãy cẩn thận, được chứ?
+Chị sẽ nhớ em.
+Tilia:
+Đừng lo Linden, em sẽ sớm trở về thôi. Cùng với Bố.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.2",
+  text = [[
+Linden
+Này, Tilia. Việc tìm kiếm thế nào rồi? Chị đang nhờ
+Edson giúp việc ở quán bar khi em đi. Anh ấy
+là một người pha chế có năng lực, nhưng dành hơi nhiều thời gian
+Linden
+câu cá ở hồ theo ý thích của chị. Chị cũng
+không thể vào được phòng chứa đồ vì một số
+lý do. Chắc là Edson giữ chìa khóa.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.intro",
+  text = [[
+Linden:
+Tilia. Bố đang ở dưới bến tàu. Con gái của
+thợ may Hazel... Chị nghĩ bọn cướp biển
+đã bắt cô ấy.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.linden.stockroom_open",
+  text = [[
+Ồ, em đã mở khóa phòng chứa đồ rồi. Chị cũng
+hơi thắc mắc tại sao mình không vào được, nhưng nó
+chưa đủ thành vấn đề để chị phải lo lắng.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.mallow.1",
+  text = [[
+Mallow:
+Này Tilia.
+
+Tilia:
+Bố. Tại sao bố phải đi? Bố đã giúp
+đẩy lùi cuộc tấn công của cướp biển, bố đã hoàn thành nhiệm vụ.
+
+Mallow:
+Tilia... chúng đã bắt cóc Hazel. Là một thành viên
+của Thủy thủ Tình nguyện, bố không thể để mặc cô bé.
+
+Tilia:
+Nhưng tại sao bố phải là người làm việc đó? Chúng ta không thể
+tìm một thủy thủ khác sao? Linden và con không thể
+tự xây lại quán rượu. Và bố
+Tilia:
+đang dạy con chiến đấu để con cũng có thể gia nhập
+thủy thủ tình nguyện!...
+Đừng đi, Bố.
+Mallow:
+Bố xin lỗi, Tilia. Việc đó không nên mất quá
+một hoặc hai tháng để đuổi kịp bọn cướp biển và
+đưa Hazel trở về. Bố sẽ hoàn thành khóa huấn luyện của con sau.
+Mallow:
+...
+
+Mallow:
+Xin lỗi Tilia. Nhưng đây là nhiệm vụ của bố.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.nielson.sad",
+  text = [[
+Nielson:
+Thở dài... à, Tilia. Có tin gì từ bố con không?
+
+Tilia:
+Bố không gửi tin tức gì về. Con đang cố gắng tự tìm bố.
+
+Nielson:
+À... Mọi thứ không còn như xưa kể từ khi
+bọn cướp biển tấn công. Mallow đã đi rồi,
+đền thờ thì đổ nát...
+Nielson:
+Tôi không hiểu tại sao Băng Đồng Hồ Cát
+lại cướp phá đền thờ của chúng ta. Nó chỉ là một ngôi đền cổ.
+Và được xây dựng để bày tỏ sự kính trọng với biển cả!...
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.nielson.sanctuary",
+  text = [[
+Nielson
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.1",
+  text = [[
+Paula:
+Con yêu, con thế nào? Ta biết bố con đã
+bỏ đi sau vụ cướp biển nên còn nhiều chuyện tồi tệ hơn
+có thể xảy ra, nhưng con biết chuyện gì xảy ra không?
+Paula:
+Lũ khốn đã lấy trộm cái nồi kho bằng sắt của ta!
+Ta không thể nấu món hầm nữa. Ta nghĩ là ta sẽ
+sống sót, nhưng nguyền rủa lũ cướp biển đó.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.done",
+  text = [[
+Paula:
+Cảm ơn con đã mang nồi lại cho ta, con yêu.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.new_pot",
+  text = [[
+Paula:
+Ồ, Tilia con yêu, con thế nào? Ta đã định mời con
+một ít món hầm nhưng lũ cướp biển đã lấy mất
+nồi kho của ta trong vụ cướp.
+Tilia:
+Thực ra, con có cái này cho bác.
+
+Paula:
+Ồ, Tilia! Một cái nồi kho mới. Con thật ngọt ngào.
+Để ta nấu cho con một món gì đó ngon
+để cảm ơn.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.paula.old_pot",
+  text = [[
+Paula:
+Ồ, Tilia con yêu, con thế nào? Ta đã định mời con
+một ít món hầm nhưng lũ cướp biển đã lấy mất
+nồi kho của ta trong vụ cướp.
+Tilia:
+Thực ra, con có cái này cho bác.
+
+Paula:
+Ồ, Tilia! Nồi kho của ta! Ta không biết con
+lấy lại nó bằng cách nào, nhưng hãy để ta nấu cho con
+một món gì đó ngon để cảm ơn.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.reuel.1",
+  text = [[
+Reuel:
+Ta đã kể cho con nghe truyền thuyết về việc
+Castone Grove trở nên ma ám chưa? Tại sao
+không có tiều phu nào dám lấy gỗ ở đó?
+Tilia:
+Rồi, Reuel. Ông đã ngồi bên đống lửa này
+cả đời con rồi và kể chuyện ma cho lũ trẻ nghe.
+Reuel:
+Vậy thì câu chuyện kinh dị thực sự là bao nhiêu thời gian
+ta đã lãng phí! Lũ trẻ các con chẳng sợ gì cả.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_couple.1.1",
+  text = [[
+Người đàn ông:
+Thật là công việc vất vả, nhưng mọi thứ
+gần như đã được xây dựng lại kể từ khi bọn cướp biển
+tấn công.
+Người phụ nữ:
+Ngoại trừ lòng tự trọng của anh, chắc chắn rồi. Và cả
+đền thờ trên núi.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_1.1",
+  text = [[
+Edson nói với tôi loại bia đen mới mà các cậu đang phục vụ
+là hàng nhập khẩu từ biển tây. Tôi chưa bao giờ nghe nói
+đến một loại bia mà bạn phải giữ bên ngoài để bảo quản
+hương vị, nhưng tôi biết một loại bia ngon!
+...và đây là một loại, ý tôi là nó ngon.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_3.1",
+  text = [[
+Ồ, Tilia. Hãy nói với Linden rằng loại bia đen mới
+mà cậu đang phục vụ tuyệt vời cực kỳ! Tôi đã uống
+rất nhiều, và mỗi ly đều ngon xuất sắc!
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_4.1",
+  text = [[
+Cô có thấy anh em ngư dân không?
+Người em, Wally thì phải? Anh ta mất hết đồ nghề câu cá.
+Vậy anh ta là gì? Một người không có cá?
+Một người giống ngư dân? Tôi không biết nữa...
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_5.1",
+  text = [[
+Tôi đã đi thuyền trên Biển Bắc nhiều năm, chứng kiến
+phần nào các vụ cướp biển. Thị trấn của cô đã phục hồi
+khá tốt, nhóc.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_guy_6.1",
+  text = [[
+Tilia! Cô đã thử loại Bia đen mới mà Edson đang
+phục vụ chưa? Anh ấy tính giá cao hơn, nhưng xứng đáng với số
+crown. Bố cô sẽ tự hào về cách
+cô và chị cô đang điều hành nơi này.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_lady_1.1",
+  text = [[
+Trưởng lão Nielson đã rất bối rối kể từ khi
+bọn cướp biển cướp phá Đền thờ trên
+núi. Nếu là cô, Tilia, tôi sẽ đến đó kiểm tra
+xem có kho báu nào mà bọn vô lại bỏ lại không.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_lady_2.1",
+  text = [[
+Cô có biết Shifty Ulrich cuối cùng cũng học nấu ăn không?
+Tôi đi ngang qua nhà anh ta và ngửi thấy mùi món hầm.
+Hẳn là vụ cướp biển đã dạy anh ta rằng cuộc sống
+thật ngắn ngủi và anh ta nên theo đuổi ước mơ.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tavern_lady_3.1",
+  text = [[
+Cô đã đến phía nam Mũi Sometimes chưa?
+Cô không phải lúc nào cũng có thể đến thăm vì
+thủy triều lên xuống mang cát vào và ra, nhưng
+có những phế tích chứa đầy kho báu.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.tim.1",
+  text = [[
+Tim:
+Chà, là Tilia. Cô đang mặc đồ Thủy thủ Tình nguyện
+hả? Bố cô đã hoàn thành khóa huấn luyện của cô chưa?
+Tilia:
+Bố dạy con đủ rồi.
+
+Tim:
+Tôi hỏi vì tôi có một hợp đồng cho cô nếu cô
+sẵn sàng. Năm ngoái, một số quái thú xuất hiện ở
+Castone Grove. Bố cô định tiêu diệt chúng,
+Tim:
+nhưng ông ấy đã đi trước khi kịp làm. Nếu cô sẵn sàng
+nhận nhiệm vụ, tôi sẽ trả cô hậu hĩnh. Chúng tôi không thể
+lấy gỗ từ khu rừng với lũ quái vật ẩn nấp ở đó.
+Tilia:
+Hử. Tôi sẽ xem xét.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.1",
+  text = [[
+Shifty Ulrich:
+Ở quán rượu, họ gọi tôi là 'Shifty Ulrich'.
+Tôi chỉ muốn được gọi là 'Ulrich'... 'Ulrich Tốt Bụng' chẳng hạn.
+Cô có thể làm gì được không?
+Tilia:
+Xin lỗi Shifty Ulrich, tôi không thể giúp. Có lẽ thử
+trung thực hơn nói chung xem?
+Shifty Ulrich:
+Ừ hữ.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.caught",
+  text = [[
+Shifty Ulrich:
+Ồ Tilia, tôi có một ý tưởng về khoản nợ của tôi ở
+quán rượu!
+
+Tilia
+Khoan đã nào. Tôi đang nói chuyện với Paula,
+người mà cái nồi kho bị mất tích trong vụ cướp biển.
+Anh từng luôn ăn ở quán rượu.
+Shifty Ulrich:
+Ồ? giờ tôi đã dừng rồi. Tôi ừ, nhận ra nó
+trở nên đắt đỏ...
+
+Tilia:
+Có thật vậy không?
+
+Shifty Ulrich:
+...
+
+Shifty Ulrich:
+Được rồi! Tôi đã lấy trộm nồi kho của bà ấy trong lúc
+hỗn loạn! Món hầm của bà ấy luôn thơm quá,
+tôi nghĩ nếu tôi dùng nồi của bà ấy, ý tôi là.. tôi chỉ
+Shifty Ulrich:
+muốn trở thành một người nấu ăn giỏi. Tôi không có
+phẩm chất cứu rỗi nào khác. Tôi muốn một thứ mà tôi có thể
+học để trở nên giỏi...
+Tilia
+  $? Đưa đồ gốm đây, tên trộm.
+  $? Thôi được, hãy học một kỹ năng hữu ích cho một lần đi.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.happy_ulrich",
+  text = [[
+Shifty Ulrich:
+Chào Tilia! Tôi đang học được rất nhiều về súp! Cô có
+biết hầu hết tất cả các món súp đều dùng nước để
+làm nước dùng không?
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.keep_pot",
+  text = [[
+Tilia:
+Thở dài. Được rồi, giữ lấy nồi đi. Nhưng hãy bắt đầu mang
+một nồi súp đến cho chị tôi ở quán rượu một khi
+anh biết cách nấu một món ngon.
+Shifty Ulrich:
+Cảm ơn cô! Tôi sẽ làm! Đây, cầm lấy cái này, nó nên
+đủ để mua một cái nồi mới ở đâu đó.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.sad_ulrich",
+  text = [[
+Shifty Ulrich:
+Chào Tilia... bác Paula thích cái nồi kho của bác ấy chứ?
+Tôi nghĩ giờ có một người có thể nấu
+món súp ngon rồi...
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.ulrich.take_pot",
+  text = [[
+Tilia:
+Ừ. Đó không phải là lý do đủ tốt để
+ăn trộm đồ dùng nhà bếp từ các bà già. Đưa
+nồi kho đây, Thực sự Shifty Ulrich.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.walker.1",
+  text = [[
+Jorge
+Tôi đang đi thuyền đến Oakhaven, và tôi thấy một
+ngọn hải đăng cũ giống hệt ngọn trên đồi. Nó
+cũng không được thắp sáng. Quá cũ, tôi nghĩ vậy.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.1",
+  text = [[
+Wally:
+Ồ Tilia, đúng người tôi đang mong gặp.
+Cô đang được huấn luyện để gia nhập thủy thủ tình nguyện.
+Tôi đã bị cướp biển tấn công!
+Tilia:
+Đợi đã, cái gì?! Khi nào?
+
+Wally:
+Tôi đang câu cá ở bờ biển phía tây của đảo,
+thì một băng cướp biển xông đến và
+lấy trộm hộp đồ câu cá của tôi! Cô phải lấy lại nó!
+Tilia:
+Chắc chắn rồi.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.2",
+  text = [[
+Wally:
+Tilia, cô đã đánh bại bọn cướp biển cho tôi chưa?
+
+Tilia:
+Chưa, nhưng chắc chắn nó nằm trong danh sách việc của tôi.
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.3",
+  text = [[
+Wally:
+Ồ, Tilia! Tôi đã kể với cô chuyện tôi bị
+cướp biển tấn công chưa?! Tôi đang câu cá ở mũi phía nam
+thì chúng tấn công và lấy trộm hộp đồ câu cá của tôi!
+Tilia:
+Câu chuyện thú vị đấy. Thực ra tôi đã
+xuống mũi nam và tìm thấy hộp đồ câu của anh.
+Trông như ai đó đã đánh rơi nó trong khi
+Tilia:
+chạy khỏi lũ nhện đá ở dưới đó.
+Có lẽ một ngư dân nào đó đã thấy lũ nhện
+và bỏ chạy như một kẻ nhát gan.
+Wally:
+Ồ.
+
+Tilia:
+Một ngư dân nào đó giống như anh.
+
+Wally:
+Ờ, đúng vậy, là tôi.
+
+Tilia:
+Dù sao thì, đây là hộp đồ câu của anh.
+
+Wally:
+Cảm ơn. Tôi hơi xấu hổ về việc chạy trốn
+lũ nhện đá, và ừ... này, hãy nhận
+số crown này và giữ kín chuyện này, được không?
+]],
+}
+
+dialog{
+  id = "_limestone_island.npcs.wally.4",
+  text = [[
+Wally:
+Cảm ơn cô đã lấy lại hộp đồ câu cho tôi từ...
+ừ... lũ nhện...
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.carving",
+  text = [[
+Đó là một tác phẩm chạm khắc rất đẹp về một... con hươu?
+Hay có lẽ là con thỏ? Nó vẫn đang được thực hiện.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.control_scheme",
+  text = [[
+Có một lời nhắc nhở bạn đã tự viết cho mình:
+Hãy nhớ mở menu và lưu
+trò chơi thường xuyên!
+...ý bạn là gì vậy?
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.flowers",
+  text = [[
+Tilia:
+Lâu rồi tôi không đến đây. Những bông hoa
+Linden và tôi trồng đang phát triển rất tốt.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.juglan_fish",
+  text = [[
+Có một con cá khá lớn trên bàn.
+Có vẻ như Juglan đang định ăn
+nguyên con cho bữa tối. Bạn hơi
+ngạc nhiên vì ông ấy có thể ăn nhiều đến vậy.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.linden_books",
+  text = [[
+Tilia:
+Sổ sách của Linden. Tôi mừng là chị ấy
+đã theo dõi doanh số của quán rượu. Nó đã
+cho tôi thời gian để tập trung vào việc luyện tập chiến đấu.
+Tilia:
+...và với lại tôi sẽ rất tệ trong việc đó.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.sanctuary",
+  text = [[
+Tilia:
+Tôi quên mất bọn cướp biển đã phá hủy
+đền thờ tồi tệ thế nào. Chúng còn để lại
+chất nổ khắp nơi. Ugh.
+]],
+}
+
+dialog{
+  id = "_limestone_island.observations.training",
+  text = [[
+Tilia
+Nơi luyện tập của chúng ta, nơi bố dạy tôi sử dụng
+kiếm... Tôi ước gì bố có thể dạy tôi xong.
+Sao cũng được. Tôi tự mình tìm ra cũng ổn mà.
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.mountain",
+  text = [[
+Đông - Đền thờ
+Tây - Ngọn hải đăng cũ
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.village_east",
+  text = [[
+Đông - Rừng Lime
+Bắc - Núi Limestone,
+và cả Đền thờ Limestone
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.village_west",
+  text = [[
+Tây, rồi Nam - Mũi Sometimes
+Tây, rồi Bắc - Castone Grove
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.west_limestone_1",
+  text = [[
+Bắc - Castone Grove, Chỗ Câu Cá
+]],
+}
+
+dialog{
+  id = "_limestone_island.signs.west_limestone_2",
+  text = [[
+Nam - Mũi Sometimes
+]],
+}
+
+dialog{
+  id = "_limestone_island.year_later",
+  text = [[
+                Sáu tháng sau
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.ber.1",
+  text = [[
+BER:
+Này Tilia, tôi đang chặt gỗ
+gần phế tích và nhận thấy những tảng đá
+chặn lối vào trông rất yếu. Tôi cá là
+BER:
+nếu ai đó có thể gây ra một vụ nổ bằng cách nào đó,
+họ sẽ có thể vào được.
+
+TILIA:
+Chỉ cần một vụ nổ thôi ư? Chỉ một
+vụ nổ nho nhỏ cũ kỹ thôi ư?
+
+BER:
+Ờ, tôi đoán khi cô nói như vậy thì
+nghe có vẻ không chắc là cô có
+phương tiện để gây ra một vụ nổ có kiểm soát ở đây
+BER:
+trên đảo. Ồ, Hazel đang tìm
+cô lúc nãy, cô ấy đang ở trên đồi.
+
+TILIA:
+Cảm ơn, Ber.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.ber.2",
+  text = [[
+BER:
+Ờ, Tilia? Tôi nghe nói cô sẽ đi tìm
+Mallow và Hazel. Ý tôi là, cả hai đều
+cứng cỏi, nhưng đã... chà, chúc may mắn.
+TILIA:
+Này. Nếu anh định thụ động gây hấn
+như vậy, hãy ra khỏi quán rượu của tôi và đi
+uống nước biển đi. Tôi sẽ đi tìm họ.
+BER:
+$1Ồ, ừ... $3xin lỗi Tilia... Cảm ơn cô vì là
+người đi tìm họ.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.hazel.1",
+  text = [[
+HAZEL:
+Tilia! Tôi đã ghé quán rượu nhiều giờ trước,
+cô vừa mới ngủ dậy à? Dù sao thì, tôi có cái này
+cho cô.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.hazel.2",
+  text = [[
+HAZEL:
+Cô để quên nó ở nhà tôi tối qua.
+Bố cô có dạy cô thứ gì về Thủy thủ Tình nguyện
+hôm nay không? Cách lột da quái vật?
+TILIA:
+Không, con chỉ đang chạy việc vặt cho bố thôi.
+Lấy một ít rượu whisky từ hang
+cất giữ bí mật.
+HAZEL:
+Ồ, vậy thì may là tôi đã đưa kiếm cho cô,
+có một bụi cây witch-hazel to chắn
+lối vào hang. Nếu cô chặt nó xuống,
+HAZEL:
+hãy nhớ thu thập hoa của nó, chúng có thể
+được dùng để chế tạo lọ thuốc và nhiều thứ khác. Có lẽ
+cô có thể làm một lọ giúp cô tỉnh táo vào
+HAZEL:
+buổi sáng, Tilia.
+
+TILIA:
+Hoặc tôi có thể nấu một lọ thuốc khiến cô ngủ
+sớm hơn thay vì khiến tôi thức cả đêm
+cố gắng giúp cô tìm nấm trăng.
+HAZEL:
+Cô không thể tìm chúng vào ban ngày! Dù sao thì,
+hãy đi lấy số rượu whisky đó. Nhưng khi cô xong
+việc vặt, chúng ta hãy lấy thuyền của bố cô
+HAZEL:
+chèo đến Bracken Beach.
+
+TILIA:
+Được thôi! Tôi sẽ đi lấy số rượu whisky và chúng ta
+sẽ đi ngay sau đó.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.hazel.3",
+  text = [[
+HAZEL:
+Này, cô có nhớ cái cây tôi tìm thấy lần trước
+khi chúng ta ở Bracken Beach không, và tôi nghĩ
+cô có thể ăn củ của nó? Tôi đã đọc về nó,
+HAZEL:
+và cô thực sự có thể pha trà
+mà được cho là rất ngon.
+
+TILIA:
+Được rồi, một khi tôi xong việc vặt này
+chúng ta sẽ chèo thuyền đến Bracken Beach và
+có thể pha một ít lúc đó.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.1",
+  text = [[
+JUGLAN:
+A lô, Tilia. Bố cô có dạy cô thêm
+gì về kiếm thuật hôm nay không?
+
+TILIA:
+Chắc là không. Bố đang bận làm
+ngân sách cho quán rượu.
+
+JUGLAN:
+Chà, đừng lo lắng. Ông ấy là một thủy thủ
+tình nguyện giỏi. Ông ấy sẽ huấn luyện cô để cô
+thế chỗ ông ấy ở đó một ngày nào đó.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.2",
+  text = [[
+JUGLAN:
+Tilia! Con đã ở đâu?! Bọn cướp biển với
+Đồng Hồ Cát Trắng trên cờ của chúng đã tấn công
+làng! Chúng cướp phá phế tích cũ trên
+JUGLAN:
+núi và đốt cháy mọi thứ. Nhà của Hazel
+cháy dữ lắm! Chị con Linden không sao, còn
+bố con... ông ấy đang ở bến tàu. Hãy đi gặp ông ấy.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.first_time_leaving",
+  text = [[
+JUGLAN:
+Được rồi, Tilia. Con đã sẵn sàng lên đường chưa?
+Con có mang theo kiếm không?
+
+TILIA:
+  $? Nhổ neo thôi
+  $? Con cần thêm chút thời gian để chuẩn bị.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.first_time_leaving_confirm",
+  text = [[
+TILIA:
+Chúng ta hãy lên đường.
+
+JUGLAN:
+Đại dương ư?
+
+TILIA:
+Đúng vậy. Đã đến lúc chúng ta đưa Bố
+và Hazel trở về nhà.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan.travel_to_goatshead",
+  text = [[
+JUGLAN:
+Hôm nay tôi sẽ đến Cảng Goatshead để bán
+mẻ cá. Con có cần đi nhờ không?
+
+TILIA:
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.juglan_2.1",
+  text = [[
+JUGLAN:
+Ừ, Tilia, con trở về rồi. Tôi có thể thấy từ
+ánh mắt của con là con chưa tìm thấy bố. Và cả từ
+việc ông ấy không có ở đây. Nhưng không có
+JUGLAN:
+gì phải xấu hổ khi không hoàn thành nhiệm vụ ngay
+từ đầu. Việc này có thể mất thời gian, nhưng
+con không cần cảm thấy tệ khi trở về nhà
+JUGLAN:
+báo cáo trước khi con hoàn thành. Có thể chợp mắt
+một chút ở nhà, hoặc nói chuyện với chị con. Chúng tôi
+rất vui khi được gặp con.
+TILIA:
+Cảm ơn, Juglan.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.1",
+  text = [[
+LINDEN:
+Này, là em gái của chị. Chị tưởng em
+chết trong giấc ngủ rồi, em đã ở trên giường
+lâu quá.
+TILIA:
+Này, là chị gái của em. Em tưởng$1...
+...chị...$3 đang bận rộn để trở nên có trách nhiệm và
+tìm cách điều hành quán rượu của chúng ta tốt hơn?
+LINDEN:
+Haha, đúng vậy, chị có. Này, loại bia đen mới mà
+em bắt đầu nấu đang làm rất tốt, em cũng
+đang làm phần việc của mình ở đây.
+TILIA:
+Ý em là, Hazel đã giúp rất nhiều trong việc nấu bia.
+Em giỏi đánh đuổi lũ quái vật
+tấn công chúng ta khi chúng ta đang thu thập thảo mộc hơn...
+LINDEN:
+Có lẽ em giỏi dùng kiếm hơn là nấu
+bia đen, nhưng chị mừng là ba chúng ta
+đang làm việc này ổn thỏa. Em rửa bát được không?
+TILIA:
+Ồ, ừ không! Bố cần con ra
+hang cất giữ bí mật để lấy thứ gì đó!
+
+LINDEN:
+Việc đó có mất cả ngày không?
+
+TILIA:
+Ai mà biết? Nhưng chắc chắn con sẽ không có thời gian để
+rửa bát đâu.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.2",
+  text = [[
+LINDEN:
+Chào buổi sáng, Tilia. Em vẫn ghi chú
+gần như ám ảnh trong nhật ký nhiệm vụ của mình à?
+TILIA:
+Có rất nhiều thứ đang diễn ra trong cuộc đời em!
+Đôi khi thật khó để nhớ! Em giữ nhật ký của mình
+cạnh túi đồ trong menu.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.3",
+  text = [[
+LINDEN:
+Tilia, chị rất mừng là em an toàn! Chị đã cố
+chặn cửa quán rượu bằng thùng, nhưng chúng
+ném bom... Chị không biết chúng
+LINDEN:
+đến để làm gì, nhưng bố đã chạy ra chiến đấu với chúng.
+Chắc là nhiệm vụ của ông với tư cách là một thủy thủ tình nguyện.
+Ông ấy đang ở dưới bến tàu.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.4",
+  text = [[
+LINDEN:
+Vậy Tilia. Hôm nay thực sự là ngày đó ư?
+
+TILIA:
+Em đã tự động viên bản thân trong vài tháng
+rồi. Nếu Hazel và Bố vẫn chưa về, thì...
+chà, bằng cách nào đó em sẽ đưa họ về.
+LINDEN:
+Không phải chỉ vì chị bắt em
+rửa bát mỗi tối chứ?
+
+TILIA:
+Linden, việc chị duy trì quán rượu kể từ khi
+Bố đi đã thực sự truyền cảm hứng. Cho tất cả mọi người, nhưng$1..
+em...$3 Dù sao thì, Juglan sắp gặp em rồi.
+LINDEN:
+Vậy là ông ấy sẽ đưa em đến Cảng Goatshead để
+tìm manh mối, huh?
+
+TILIA:
+Em biết bọn cướp biển treo đồng hồ cát trắng trên
+cờ của chúng. Có vẻ như đủ để bắt đầu.
+
+LINDEN:
+Em sẽ tìm thấy chúng. Hãy nhớ ngủ đủ giấc.
+Ở tại một nhà trọ sẽ chữa lành cho em, nhưng
+em cũng luôn có thể về nhà và ngủ ở đây.
+TILIA:
+Chị nghe giống Juglan quá, đừng lo lắng nhiều thế.
+Em yêu chị, Linden.
+
+LINDEN:
+Chị cũng yêu em. Chị sẽ gặp lại em khi
+em trở về cùng Bố và Hazel.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.5",
+  text = [[
+LINDEN:
+Gì, em đã về rồi sao? Chị đã lo
+mọi thứ ở quán rượu ổn cả rồi, hãy đi tìm Bố đi.
+...
+LINDEN:
+Mặc dù vậy, thỉnh thoảng hãy về đây.
+Chị sẽ nhớ em.
+
+TILIA:
+Em cũng sẽ nhớ chị, Linden. Chắc chắn rồi.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.6",
+  text = [[
+LINDEN:
+Chà, chúc may mắn. Em có nhớ lấy kiếm của mình không
+hay em để nó ở chỗ luyện tập nhỏ của em rồi?
+TILIA:
+Có, $1em...$3 Chết tiệt! Không, em để nó ở đó rồi!
+
+LINDEN:
+Haha, em sẽ ổn thôi, Tilia. Hãy lấy kiếm của em đi.
+Và có lẽ thỉnh thoảng về thăm.
+Giờ thì đi tìm Bố đi!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.7",
+  text = [[
+LINDEN:
+Chị chắc chắn nếu em hỏi han đúng chỗ,
+em sẽ tìm thấy manh mối. Hãy nhớ trở về
+thăm thỉnh thoảng. Giờ thì đi đi!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.catacombs",
+  text = [[
+LINDEN:
+Này Tilia. Mọi thứ ở đây vẫn ổn,
+việc tìm kiếm của em thế nào?
+
+TILIA:
+Em có một vài manh mối. Em đã gặp một người đàn ông
+từng gặp bố, và nhận được chìa khóa này mà bố có
+với ông ta. Em đang cố gắng tìm hiểu
+TILIA:
+nó mở cái gì. Nghe có vẻ như bố đã
+can thiệp vào cái gọi là Hội đồng Cướp biển này.
+
+LINDEN:
+Nếu có thứ gọi là Hội đồng Cướp biển,
+thì đương nhiên bố sẽ can thiệp vào chúng.
+Chà, hãy tiếp tục theo dõi các manh mối.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.fort_crow",
+  text = [[
+LINDEN:
+Tilia, thật vui khi được gặp em trở lại! Em đã
+tìm thấy ai chưa?
+
+TILIA:
+Em tìm thấy cô ấy rồi! Em tìm thấy Hazel. Cô ấy ở
+Oakhaven. Cô ấy và bố có liên quan đến
+cả âm mưu chống cướp biển này và...
+LINDEN:
+Này, đừng sa đà vào tất cả các
+chi tiết, em đã tìm thấy bạn thân của mình!
+Hãy ăn mừng điều đó!
+TILIA:
+...đúng vậy! Chị nói đúng, cô ấy an toàn.
+Cảm ơn, Linden.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.isle_of_storms",
+  text = [[
+LINDEN:
+Này nhóc! Cuộc săn lùng của em đang đưa em
+đến đâu rồi?
+
+TILIA:
+Một hòn đảo thần thoại nào đó nơi cung điện
+của Vua Biển cổ đại được cho là tồn tại.
+Lũ cướp biển ngu ngốc đang theo đuổi cái
+TILIA:
+bảo vật ngu ngốc ở đó, sẽ phá hủy
+toàn bộ đại dương nếu chúng lấy được nó.
+
+LINDEN:
+Được rồi, du lịch mạo hiểm. Nghe có vẻ như
+em sẽ được thấy thứ mà không ai khác
+được thấy. Em có nghĩ bố ở đó không?
+TILIA:
+Có lẽ là có, biết tính bố mà. Nhưng dù sao đi nữa,
+em nghĩ em cần phải ngăn chặn lũ cướp biển này.
+
+LINDEN:
+Chà, em hãy làm những gì em cần làm. Chị tự hào
+vì em đã tiến xa đến vậy.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.oakhaven",
+  text = [[
+LINDEN:
+Thật tốt khi gặp em trở lại, Tilia. Có tin tức gì
+về việc tìm bố hoặc Hazel không?
+
+TILIA:
+Em sắp tìm ra rồi! Hazel đang ở đâu đó trong Oakhaven.
+
+LINDEN:
+Thật tuyệt vời! Em sẽ tìm thấy cô ấy ngay thôi,
+và rồi chị chắc chắn em sẽ có thể
+truy tìm bố.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.linden.plot_updates.snapmast",
+  text = [[
+LINDEN:
+Thật tốt khi gặp em trở lại, Tilia! Hazel thế nào?
+
+TILIA:
+Cô ấy vẫn ổn! Cô ấy đang ở lại
+Oakhaven vì lúc này chúng em đang cố gắng
+làm suy yếu kế hoạch của Hội đồng Cướp biển.
+LINDEN:
+Tuyệt. Có vài thủy thủ ghé qua hôm qua
+đang phàn nàn về hội đồng đó.
+Họ đang cố gắng cưỡng bách
+LINDEN:
+bất kỳ ai họ có thể, nghe có vẻ như vậy.
+Họ muốn gì?
+
+TILIA:
+Một số thứ bảo vật ma thuật nào đó để họ có thể
+kiểm soát bão và nhiều thứ khác.
+
+LINDEN:
+Chà chắc chắn không ai nên có thứ đó.
+Hãy giữ nó tránh xa họ, Tilia!
+
+TILIA:
+Cảm ơn, Linden.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.mallow.1",
+  text = [[
+MALLOW:
+Tilia! Đoán xem? Đàn diệc
+đã quấy rầy chúng ta ở bến tàu
+đã chuyển đi nơi khác rồi.
+TILIA:
+Chào buổi sáng, Bố.
+
+MALLOW:
+Bố không thương tiếc chúng chút nào. Chúng là
+một mối phiền toái. Này, nếu hôm nay con có thời gian,
+con có thể chạy lên đồi và lấy một chai
+MALLOW:
+rượu whisky từ hang cất giữ bí mật không?
+Juglan đã có một tháng tồi tệ với việc câu cá,
+và bố muốn tặng ông ấy thứ gì đó.
+TILIA:
+Không thành vấn đề, bố.
+
+MALLOW:
+Cảm ơn, Little Gull. Hang nằm ở
+phía bắc của đảo! Hãy ghi nó vào
+nhật ký nhiệm vụ của con phòng khi con quên!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.mallow.2",
+  text = [[
+MALLOW:
+Này Little Gull. Vậy là, bố biết bố đã không
+theo kịp việc huấn luyện kiếm cho con như con
+muốn. Nhưng một khi bố giải quyết xong giấy tờ
+MALLOW:
+cho tháng này, bố hứa chúng ta sẽ
+quay lại với nó. Con đã lấy chai
+rượu whisky cho Juglan chưa?
+TILIA:
+Chưa.
+
+MALLOW:
+Nó nằm trong chỗ cất giấu bí mật ở đầu phía bắc
+của đảo. Bố biết con biết bố cất
+đồ ngon ở đó vì bố biết con đã
+MALLOW:
+lén lấy một vài chai trong
+những năm qua.
+
+TILIA:
+...
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.mallow.3",
+  text = [[
+MALLOW:
+Tilia! Bố biết là con sẽ ổn thôi bằng cách nào đó. Con
+có trí khôn của bố trong người. Trí khôn của bố.
+Chúng là những trí khôn xuất sắc.
+TILIA:
+Bố, chuyện gì đã xảy ra? Mọi người có ổn không?
+
+MALLOW:
+Bọn cướp biển treo Đồng Hồ Cát Trắng trên cờ của chúng
+đã tấn công. Chúng cướp phá phế tích cũ trên
+núi. Hầu hết chúng ta đã trốn thoát, nhưng...
+TILIA:
+Nhưng sao?
+
+MALLOW:
+Hazel đang ở trên núi thu thập thảo mộc.
+Bọn cướp biển ném cô ấy vào một cái thùng và lăn
+cô ấy đi cùng với bất cứ thứ gì chúng lấy từ phế tích.
+TILIA:
+Chúng đã bắt cóc Hazel? Vậy thì chúng ta phải tìm
+ai đó giúp đỡ!
+
+MALLOW:
+Tilia... Bố chính là sự giúp đỡ. Bố là một thủy thủ
+tình nguyện. Đó là nhiệm vụ của bố để chăm lo cho
+hòn đảo này. Và của con nữa nếu con muốn gia nhập một ngày nào đó.
+TILIA:
+Nhưng... bố sẽ không rời đi, phải không. Bố phải
+dạy con cách chiến đấu với quái vật và
+cướp biển! Và điều hành quán rượu!
+MALLOW:
+Bố xin lỗi, Little Gull. Con sẽ ổn thôi. Chúng vừa
+mới chèo thuyền đi. Nó không nên tốn của bố quá
+một hoặc hai tuần để đuổi kịp và cứu Hazel.
+MALLOW:
+Bố sẽ về nhà trước khi con nhận ra.
+Con và Linden chỉ cần trông nom quán rượu trong
+vài ngày...
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.tim.1",
+  text = [[
+TIM:
+Ờ, Tilia. Bạn cô Hazel có nói với
+người học việc của tôi rằng lá liễu là
+thuốc thần kỳ hay gì đó không? Anh ta đã cất giữ
+TIM:
+lá trong một cái nồi cho chứng đau đầu của tôi thay vì
+chặt gỗ như anh ta nên làm. Nó đang khiến
+tôi đau đầu!
+TILIA:
+Tôi không biết Hazel có nói với anh ta điều đó không, nhưng cô ấy
+thường đúng khi nói đến thực vật và những thứ tương tự.
+Ông đã thử ăn lá liễu chưa?
+TIM:
+Hử? Tôi chưa thử chúng... hử.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.tim.2",
+  text = [[
+TIM:
+Bọn cướp biển đó bắt đầu ném chất nổ
+khắp nơi! Mái nhà của chúng ta theo nghĩa đen được làm
+bằng cỏ! Đây là vật liệu tệ nhất!
+TIM:
+Tại sao bọn cướp biển lại tấn công chúng ta? Để cướp phá
+phế tích cũ trên núi? Tôi không hiểu!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.npcs.tim.3",
+  text = [[
+TIM:
+Này, vậy là cô sẽ đi tìm lão Mallow,
+hả? Tôi chắc ông ấy ổn và có lý do chính đáng
+để vắng mặt lâu như vậy.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.blocker_bush",
+  text = [[
+TILIA:
+Đây là nơi bố nói số rượu whisky nên
+có... làm sao bố vượt qua bụi cây này? Con sẽ
+chỉ cần chặt nó bằng... ồ chờ đã?
+TILIA:
+Có phải con đã để kiếm ở nhà Hazel tối
+qua không? Con nên đi tìm cô ấy.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.carving",
+  text = [[
+Đó là một tác phẩm chạm khắc rất đẹp về một... con hươu? Con thỏ
+có lẽ? Nó vẫn đang được thực hiện.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.cavern_sea_shrine",
+  text = [[
+TILIA:
+Tôi không bao giờ nhận ra có một ngôi đền thờ cổ
+nữ thần Đại dương tận sâu trong hang. Nơi này
+có lẽ đã ở đây hàng trăm năm. Tuyệt.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.dad_books",
+  text = [[
+Bố bạn đã cố gắng tính toán
+ngân sách cho quán rượu. Có cả một đống
+chỗ bị gạch xóa.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.dad_list",
+  text = [[
+Có một số tên, ngày tháng, số lượng,
+bất cứ thứ gì bố viết khi ông làm
+ngân sách cho quán rượu. Và cả những nét vẽ nguệch ngoạc về tàu.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.empty_space",
+  text = [[
+TILIA:
+Trông như từng có thứ gì đó được cất giữ
+ở đây. Tôi tự hỏi liệu bọn cướp biển đã lấy nó hay nó
+đã biến mất khi chúng tấn công.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.fish_block",
+  text = [[
+Có một hộp cá chặn cửa.
+Bạn cho rằng đó là một vấn đề tốt để có.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_balance",
+  text = [[
+Linden đã cố gắng tính toán
+ngân sách cho quán rượu. Tất cả các dòng và
+cột đều được xếp thẳng hàng gọn gàng. Cô ấy có dùng
+thước để làm việc này không?
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_books",
+  text = [[
+Có vẻ như chị bạn Linden đã
+đọc những cuốn sách cô ấy mượn từ
+Hazel. Cô ấy đang học về cách trồng lúa mạch
+và hoa bia.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_chair",
+  text = [[
+TILIA:
+Ugh, tôi thực sự cần dọn dẹp phòng của chúng ta.
+Tốt hơn là kéo mấy thứ này ra chỗ khác.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_doodles",
+  text = [[
+Có một nỗ lực tính toán ngân sách
+cho quán rượu một cách bừa bãi, nguệch ngoạc. Nó bị
+nhét vội vàng dưới một cuốn sách.
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.linden_list",
+  text = [[
+Việc Cần Làm!
+Tilia: Sửa cửa sổ bị rò rỉ, chặt củi,
+dỡ lô rượu mật ong mới
+Linden: Kiểm kê bia, đặt mua cốc mới, ngân sách!
+]],
+}
+
+dialog{
+  id = "_new_limestone_island.observations.mandrake",
+  text = [[
+Đó là hướng dẫn cách nhận biết
+cây mandrake. Rõ ràng rễ của chúng
+khá có giá trị. Để xem nào...
+
+1) Cây Mandrake có những bông hoa nhỏ nhiều màu.
+Thường là màu xanh lam hoặc tím.
+2) Cây Mandrake sẽ trồi lên từ mặt đất và
+dễ dàng giết chết nhà thực vật học bất cẩn. Hãy cẩn thận.
+]],
+}
