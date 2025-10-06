@@ -1,0 +1,1226 @@
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.1",
+  text = [[
+BENJAMIN:
+Ồ, ừ... chào. Đây là Xưởng Mật ong Marsh.
+Anh đang tìm mua rượu mật ong của chúng tôi
+cho quán rượu của mình à?
+TILIA:
+Gia đình tôi thực sự có một quán rượu. Nhưng không.
+Hiện giờ tôi đang săn lùng cướp biển.
+
+BENJAMIN:
+Ồ, cô ở trong Lực lượng Hải quân Tình nguyện phải không?
+Tôi, ừ... Cô có thể giúp tôi không? Ông chủ của tôi,
+Michael, muốn tôi lấy một ít Mật ong
+BENJAMIN:
+Hornet, nhưng... Những con ono vò vẽ đó siêu nguy hiểm.
+Không phải tôi nói cô không nên
+cẩn thận đâu. Nhưng nếu cô tình cờ thấy bất kỳ
+BENJAMIN:
+nào trong đầm lầy, và tôi biết cô đang bận, nhưng nếu
+cô thấy một ít Mật ong Hornet, cô có thể
+mang nó tới không? Tôi sẽ trả cô 45 crown.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.2",
+  text = [[
+BENJAMIN:
+Ồ, ừ... chào. Đây là Xưởng Mật ong Marsh.
+Anh đang tìm mua rượu mật ong của chúng tôi
+cho quán rượu của mình à?
+TILIA:
+Gia đình tôi thực sự có một quán rượu. Nhưng không.
+Hiện giờ tôi đang săn lùng cướp biển.
+
+BENJAMIN:
+Ồ, cô ở trong Lực lượng Hải quân Tình nguyện phải không?
+Cô có thể giúp tôi một tay không? Tôi cần lấy
+một ít Mật ong Hornet, nhưng tôi đang siêu bận.
+BENJAMIN:
+Tôi vừa tiếp quản Xưởng Mật ong từ chủ cũ.
+Nếu cô tình cờ có một ít Mật ong Hornet, tôi
+sẽ mua nó với giá 60 crown.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.3",
+  text = [[
+BENJAMIN:
+Ông chủ của tôi đang thúc tôi lấy
+một ít Mật ong Hornet. Nhưng tôi sợ những con
+ono vò vẽ. Nếu cô có một ít, tôi sẽ mua nó.
+TILIA:
+Tôi tình cờ tìm thấy một ít gần đây. Đây.
+
+BENJAMIN:
+Tuyệt quá! Cô thậm chí còn không bị đốt phải không?
+Chà, của cô đây.
+
+(Bạn nhận được 45 crown)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.4",
+  text = [[
+BENJAMIN:
+Tôi đã siêu bận - tôi vừa tiếp quản
+xưởng mật ong. Tôi muốn lấy một ít mật ong vò vẽ
+cho một mẻ rượu mật ong mới, nhưng lũ ono thật đáng sợ.
+TILIA:
+Tôi tình cờ tìm thấy một ít gần đây. Đây.
+
+BENJAMIN:
+Tuyệt quá! Cô thậm chí còn không bị đốt phải không?
+Chà, của cô đây.
+
+(Bạn nhận được 60 crown)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.benjamin.5",
+  text = [[
+BENJAMIN:
+Cảm ơn vì đã tìm ra tổ ono đó.
+Tôi sẽ làm một ít rượu mật ong
+siêu cấp!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.bone_buyer.1",
+  text = [[
+Hả? Trông anh như đã từng trải qua
+vài trận chiến. Không ngờ vậy đấy. Chà, vậy thì
+có lẽ anh có một ít xương quái vật mà
+anh muốn bán? Tôi sẽ trả 10 crown cho mỗi cái.
+(Bán xương quái vật cho hắn ta?)
+$? Bán một cái
+$? Bán 10 cái
+$? Đừng làm thế, hắn ta kỳ lạ lắm
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.bone_buyer.2",
+  text = [[
+Rất biết ơn. Nếu anh có nhiều xương hơn
+mức cần, tôi sẽ ở đây.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.charging_pirate.1",
+  text = [[
+BRUTUS:
+Nè! Cô đang làm gì trong này?! Cô
+tới đây để ăn cắp thanh kiếm Vua Biển của ta à? Vì
+ta phát hiện ra nó không phải đồ thật, nên
+BRUTUS:
+cô bị lừa rồi! Hahaha!
+
+TILIA:
+Ừ, nó không ở trên người tôi, vì tôi ở đây để
+lấy lại các hải đồ mà các người đã lấy
+từ Kelpton.
+BRUTUS:
+Ồ, vậy là công lý tự phát hả? Chà, cô
+vẫn bị lừa, vì những hải đồ đó
+thậm chí còn không dẫn chúng ta tới Đảo Bão!
+TILIA:
+Đó không phải lý do tôi muốn chúng, nên trò đùa
+vẫn không-
+
+BRUTUS:
+Không quan trọng! Ta sắp nghiền nát
+cát bụi của cô thành xương! Tốt hơn hết là bắt đầu nghĩ
+xem cô muốn gì trong cáo phó của mình đi!
+TILIA:
+Cái gì?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.council_cutscene.1",
+  text = [[
+BLACKBEARD:
+...bởi vì ta sẽ rời đi. Chúng ta có cái mà ta
+nghĩ là manh mối thực sự đầu tiên trong một năm về nơi
+chính xác của Trái tim Đại dương. Một nhóm
+BLACKBEARD:
+trộm cướp nào đó trên Oakhaven đã vô tình vấp phải
+một tấm hải đồ, bọn chúng không biết nó là gì.
+Chúng ta sẽ xem liệu chúng có gia nhập Hội đồng một cách tự nguyện không.
+BRUTUS:
+Không thành vấn đề, thủ lĩnh. Ngài có định
+quay lại đây không?
+
+BLACKBEARD:
+Không. Ta sẽ quay lại sào huyệt một khi
+ta có được hải đồ. Chỉ cần một ít rrum cho
+hành trình.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.crabhook_ferry",
+  text = [[
+Muốn tới Làng Crabhook à? Tôi đang đi
+theo hướng đó, tôi có thể chở cô với giá 10 crown.
+
+(Chèo thuyền tới Làng Crabhook?)
+$? Có
+$? Không
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.captain_1",
+  text = [[
+Này! Đó là cô gái mà ta đã nhốt trong hang
+trước đó! Cô ta rõ ràng là tới đây để trả thù.
+Bắt lấy cô ta!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.captain_2",
+  text = [[
+Ahhh!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.captain_3",
+  text = [[
+Được rồi! Chúng tôi hiểu rồi! Chúng tôi sẽ không động đến
+Carlov hay Nina hay... cô? Cô thậm chí là ai vậy?
+Cô biết không, nó thậm chí không quan trọng.
+Cô đã được gạch tên khỏi danh sách những-người-sẽ-động-đến.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dream_cannons.guard",
+  text = [[
+Này! Cô không được đi qua đây. Đây là
+căn cứ tối mật của hải tặc cực kỳ cứng cựa
+tên là Dream Cannons!
+Bọn tao sẽ cho nổ tung cô nếu cô dám động vào bọn tao!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dropoff_guys.1",
+  text = [[
+THUỶ THỦ:
+À, cảm giác thật tuyệt khi có những tấm ván
+chắc chắn dưới chân mình. Hội đồng Cướp biển
+sẽ đưa anh ra biển trong những khoảng thời gian
+THUỶ THỦ:
+dài nhất khi họ thực sự đang tìm kiếm
+thứ gì đó.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dropoff_guys.2",
+  text = [[
+THUỶ THỦ:
+Ugh, phải mang tất cả những cái thùng này
+vào kho chứa của Hội đồng Cướp biển. Thậm chí còn
+không biết hầu hết trong số chúng có gì,
+THUỶ THỦ:
+chúng tôi chỉ có một hợp đồng vận chuyển hàng hoá
+từ một vài nhóm cướp biển khác nhau
+về đây kho chứa.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.dropoff_guys.3",
+  text = [[
+THUỶ THỦ:
+Này, đừng có nghịch ngợm trong những cái thùng đó.
+Chúng tôi đang bận mang chúng vào
+kho chứa của Hội đồng Cướp biển. Có lẽ
+THUỶ THỦ:
+hãy cho chúng tôi một ít không gian, được chứ? Tôi
+đang cố tìm cách di chuyển
+tất cả chúng đây.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.guts_buyer.1",
+  text = [[
+Này, trông cô thật gan dạ. Ý tôi là, kiểu, bao phủ
+bởi ruột quái vật. Cô đã giết mấy con thú à?
+Đôi khi ruột của chúng rơi ra khi chúng chết,
+mà lại rất tiện cho việc làm thuốc.
+Thành thật mà nói chúng cũng không tệ khi chỉ
+chiên trên xiên. Dù sao thì, tôi sẽ mua ruột quái vật từ
+cô với giá 5 crown một cái. Có quan tâm không?
+
+(Bán ruột quái vật cho hắn ta?)
+$? Bán 1 cái
+$? Bán 10 cái
+$? Giữ lại ruột của cô
+]],
+}
+
+dialog{
+  id = "_ballast_hẩor.npcs.guts_buyer.2",
+  text = [[
+Mmm. Cảm ơn. Nếu cô cảm thấy muốn
+giao dịch thêm, hãy tìm tôi, được chứ?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.1",
+  text = [[
+HONESTBEARD:
+Này, tôi là Thuyền trưởng Honestbeard. Mọi thứ
+tôi bán ở đây đều được lấy bằng
+100% phương tiện hợp pháp. Không có gì mờ ám
+HONESTBEARD:
+xảy ra ở đây cả. Hãy xem xung quanh
+và xem có thứ gì cô thích không.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.armor",
+  text = [[
+HONESTBEARD:
+Đó là một bộ giáp khá tốt, tôi nghĩ nó sẽ
+tăng khả năng phòng thủ của cô lên 2. Sẽ có ích,
+nhưng không đảm bảo rằng sẽ không có ai giết
+HONESTBEARD:
+cô và bán giáp của cô đâu. Chỉ 150 crown!
+$? Mua nó
+$? Không
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.armor_tools",
+  text = [[
+HONESTBEARD:
+Đó là những công cụ dành cho một thợ rèn giáp bậc thầy. Hãy tưởng tượng
+trong tay đúng người, ai đó sẽ dùng chúng
+để tạo ra một bộ giáp cực kỳ tốt. 250 crown.
+HONESTBEARD:
+Cô có muốn lấy chúng với giá 250 crown không?
+$? Tôi sẽ lấy chúng
+$? Không phải hôm nay
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.bomb_arrow_quest",
+  text = [[
+HONESTBEARD:
+Thuyền trưởng Honestbeard là tên tôi, và kiếm sống
+lương thiện là nghề của tôi. Tôi có thể
+giúp gì cho cô?
+TILIA:
+Ồ thực ra, tôi tìm thấy cái này, ừ, giống như
+biên lai. Tôi ở đây để nhận một thứ gì đó
+cho Thuyền trưởng Thyme.
+HONESTBEARD:
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.candelabra",
+  text = [[
+HONESTBEARD:
+Đó là một cây đèn nến... đèn nến...
+giá đỡ nến. Cô có cây nến nào không?
+
+TILIA:
+Không. Có lẽ tôi sẽ bỏ qua cái này vậy.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.coral_ore",
+  text = [[
+HONESTBEARD:
+Đó là một khối Quặng San hô. Một thợ rèn
+có thể biến nó thành một bản nâng cấp cho
+kiếm hoặc cung của cô. Tôi sẽ bán nó với giá 120 crown.
+HONESTBEARD:
+Cô có quan tâm không?
+$? Mua nó
+$? Không phải lúc này
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.magic_books",
+  text = [[
+HONESTBEARD:
+Đó là một vài cuốn sách về ma thuật
+hắc ám. Chúng ừ, hoàn toàn hiệu quả. Tôi đã biến
+ai đó thành một con kỳ nhông. 200 crown.
+TILIA:
+Tôi không thực sự thích kỳ nhông, thực ra.
+Không, cảm ơn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.out_of_coral",
+  text = [[
+HONESTBEARD:
+Chúng tôi đã bán hết món đồ đó rồi, bạn ạ.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.pot",
+  text = [[
+HONESTBEARD:
+Đó là một nồi súp hành tây nóng. Nó làm
+hơi thở của cô tệ đến mức không ai muốn nói chuyện
+với cô. Tuyệt vời cho người hướng nội. 30 crown.
+TILIA:
+Tôi thực sự thấy nói chuyện với mọi người
+khá hữu ích cho những gì tôi đang cố gắng làm,
+nên, không, cảm ơn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.shoes",
+  text = [[
+HONESTBEARD:
+Đó là một đôi giày ma thuật mà
+không bao giờ có thể bị tuột dây. Cô sẽ không bao giờ vấp
+phải dây giày. Chỉ 50 crown.
+TILIA:
+Nếu không thể tháo dây chúng ra, thì làm sao
+mà xỏ chúng vào được?
+
+HONESTBEARD:
+Tôi, ừ... hừ. Không biết nữa.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.statues",
+  text = [[
+HONESTBEARD:
+Đó là một bức tượng kỳ lạ nào đó tôi tìm thấy, đã thấy
+một vài cái xung quanh, nghĩ rằng chúng miêu tả
+một vị thần nào đó từ đế chế Zephyr. Làm tôi sợ hãi.
+TILIA:
+Tôi cũng vậy, thực ra.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.honestbeard.weapons",
+  text = [[
+HONESTBEARD:
+Ồ, những vũ khí đó thực ra không
+phải để bán. Chỉ dùng chúng trong trường hợp có kẻ côn đồ
+xông vào tôi để ăn cắp.
+TILIA:
+Cô dùng cả ba loại vũ khí này
+trong tình huống đó sao?
+
+HONESTBEARD:
+Cả ba.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.hornigold.1",
+  text = [[
+THUỶ THỦ:
+À, xin lỗi cô gái, tôi đang lạc trong suy nghĩ và
+đã không thấy cô ở đó. Cô có tình cờ thấy
+một chiếc thuyền buồm lớn đang vào cảng không? Chở
+THUỶ THỦ:
+một đống chiến lợi phẩm mà chúng sắp chuyển
+tới Kho chứa của Hội đồng Cướp biển? Tòa nhà
+bằng đá lớn kia, nó là của hội đồng.
+TILIA:
+Tôi không thấy bất cứ thứ gì như vậy. Tôi không
+biết nhiều về Hội đồng Cướp biển, nhưng tôi
+nghĩ dù sao họ cũng không có ý định tốt.
+THUỶ THỦ:
+Ahaha! Hội đồng Cướp biển là một đám
+thuyền trưởng cướp biển. Blackbeard đang cố gắng
+gắn kết tất cả bọn họ lại với nhau để họ không
+THUỶ THỦ:
+đánh lẫn nhau$1...$3 Nhưng, chà...
+Giữa tôi và cô thôi, Blackbeard có lẽ đang
+cố gắng giành quá nhiều quyền lực. Hắn ta có
+THUỶ THỦ:
+các thủy thủ đoàn của hội đồng đang tìm kiếm
+một kho báu ma thuật nào đó hay đại loại thế. Tôi không$1...$3
+Thành thật mà nói, bản thân tôi cũng không còn biết
+THUỶ THỦ:
+liệu hắn ta có đang làm điều gì
+tốt đẹp nữa không.
+
+TILIA:
+Vậy, nghe có vẻ như anh có liên quan đến điều đó
+hoặc cái gì tương tự? Đó không chỉ là suy nghĩ của một
+người không liên quan về chính trị cướp biển, phải không?
+THUỶ THỦ:
+Ahahaha, ồ nhìn tôi này. Vâng, tôi đang lạc trong
+suy nghĩ. Dù sao thì, tôi phải đi đây!
+Hôm nay có nhiều tàu vào lắm.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.0",
+  text = [[
+KELPTON:
+Tôi có thể giúp gì cho cô? Đang tìm kiếm bất kỳ
+hải đồ cụ thể nào sao?
+
+TILIA:
+Không, chỉ xem qua thôi tôi đoán vậy.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.1",
+  text = [[
+KELPTON:
+Tôi có thể giúp gì cho cô? Cần một hải đồ về thứ gì đó
+cụ thể sao?
+
+TILIA:
+Có lẽ. Tôi nghe một lúc trước, có một người đàn ông đã vào đây
+hỏi về Đội Hourglass. Ông ấy
+cao, có râu...
+KELPTON:
+Ồ, một gã tên Mallow, phải không? Tôi nhớ.
+Ông ta bị thương ở chân khi xuất hiện ở
+Ballast Harbor, nhưng đã giúp tôi thoát khỏi một tình thế.
+TILIA:
+ÔNG CÓ$1...$3 Ông có biết ông ấy đã đi đâu không?
+
+KELPTON:
+Chà, cô có vẻ sốt sắng tìm ông ta. Nghe này, ông ta
+đã cứu tôi khỏi mấy gã Hội đồng Cướp biển
+mà ông ta đang điều tra. Tôi nợ ông ta một... nhưng tôi
+KELPTON:
+chẳng nợ cô gì cả. Ballast Harbor là một
+chợ cướp biển. Cô phải trả tiền cho
+thông tin.
+TILIA:
+Ông muốn gì?
+
+KELPTON:
+Tôi cần một ân huệ. Bọn Hội đồng Cướp biển này,
+chúng đã gửi một số tay sai vào đây và lấy đi
+một đống hải đồ của tôi. Tôi muốn lấy chúng lại. Theo
+KELPTON:
+tôi đoán đúng nhất, chúng đang ở đâu đó trong
+Kho chứa của Hội đồng Cướp biển. Đó là tòa nhà
+bằng đá lớn kia. Các thuyền trưởng trong hội đồng cướp biển
+KELPTON:
+đã từng dùng nó để giữ những mẻ hàng lớn
+thực sự an toàn, nhưng gần đây họ đang thu thập một số
+thứ kỳ lạ trong đó. Hải đồ của tôi nằm trong
+KELPTON:
+một cái rương màu xanh lá. Nếu cô có thể lẻn vào, lấy
+hải đồ của tôi, và mang chúng về cho tôi,
+tôi sẽ rất ấn tượng đến mức sẽ cho cô
+KELPTON:
+một vài thông tin rất, rất thú vị
+về gã Mallow này.
+
+TILIA:
+Không thành vấn đề. Tôi có thể lấy lại hải đồ của ông.
+
+KELPTON:
+Tôi nghe nói lũ cướp biển đang cập cảng với
+một mẻ chiến lợi phẩm. Có lẽ nên kiểm tra xung quanh đó.
+Để tìm đường vào Kho chứa.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.2",
+  text = [[
+KELPTON:
+Cô quay lại rồi sao? Từ việc lấy hải đồ
+của tôi ra khỏi cái rương xanh của tôi?
+
+TILIA:
+Không, chúng vẫn còn trong kho chứa
+của Hội đồng Cướp biển. Nhưng tôi đang tìm cách.
+
+KELPTON:
+Tôi nghe nói lũ cướp biển đang cập cảng
+với một mẻ chiến lợi phẩm. Có lẽ đáng để xem xét
+đấy.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.3",
+  text = [[
+KELPTON:
+Cô quay lại với hải đồ của tôi chưa?
+
+TILIA:
+Tôi có chúng. Đây. Vậy, ông có thể nói gì với tôi
+về Mallow? Ông ấy đã đi đâu?
+
+KELPTON:
+Được rồi, đây là tin tức. Gã này đến
+cửa hàng của tôi một lúc trước, hỏi về
+Hội đồng Cướp biển. Cố gắng tìm hiểu xem
+KELPTON:
+chương trình nghị sự của họ là gì. Đạn thần công nếu tôi biết. Tôi
+biết nó không chỉ để đoàn kết tất cả các thủy thủ đoàn
+cướp biển, ngay cả khi đó là một phần của nó. Dù sao thì,
+KELPTON:
+trước khi chúng tôi kịp nói chuyện, ai bước qua
+cửa nếu không phải là những tên du côn Hội đồng. Để
+hoặc lấy hải đồ từ tôi, hoặc bẻ xương.
+KELPTON:
+Mallow, gã này, ông ta đuổi chúng đi, sau đó
+đi do thám cuộc họp của hội đồng. Đoán là
+ông ta bị bắt, vì ông ta quay lại với tôi
+KELPTON:
+với một vết rách trên chân. Tôi khâu nó lại
+như thể khâu một tấm bản đồ rách, rồi ông ta rời đi. Nhưng
+ông ta vô tình để quên chìa khóa này ở đây. Tôi đoán
+KELPTON:
+nó có vẻ quan trọng, nên tôi giữ nó. Nhưng tôi
+không biết nó dùng để mở cái gì. Nếu cô có
+tìm thấy ông ta, hãy trả lại nó tôi đoán vậy.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.4",
+  text = [[
+KELPTON:
+Cô đã từng tìm ra chìa khóa đó dùng để mở cái gì chưa?
+Eh. Chúc may mắn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.kelpton.5",
+  text = [[
+KELPTON:
+Đang tìm mua một ít hải đồ? Tôi có
+những hải đồ tuyệt vời cho Đảo Lobb, hoặc có lẽ...
+này! Những hải đồ đó cô có, cô lấy được
+KELPTON:
+chúng từ tòa nhà hội đồng cướp biển phải không?
+Lũ ngu ngốc đó đã đánh cắp chúng từ tôi
+sau khi gã Mallow đó đến đây!
+TILIA:
+Đợi đã, ông đã gặp Mallow?! Tôi đang tìm
+ông ấy, ông ấy là bố tôi!
+
+KELPTON:
+Chà, thật may mắn. Ông ấy là một người đàn ông tốt. Nghe này,
+tôi có một giao kèo cho cô. Đưa tôi những hải đồ đó,
+tôi sẽ đưa cô chìa khóa này Mallow để lại cho tôi.
+TILIA:
+Được thôi. Chìa khóa dùng để làm gì?
+
+KELPTON:
+Không biết. Mallow quên nó ở đây và nó
+có vẻ quan trọng, nên tôi đã giữ nó. Nếu
+cô bắt kịp ông ta, hãy trả lại nó tôi đoán vậy.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.1",
+  text = [[
+Tôi nghe nói hội đồng cướp biển dùng tòa nhà này
+để chứa đồ, nên tôi đã chờ đợi để bắt
+gặp Blackbeard! Nhưng không có thuyền trưởng
+nào nổi tiếng ra vào cả...
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.2",
+  text = [[
+Này, tôi có tất cả các loại gia vị tốt nhất ở đây. Cô
+muốn bạch đậu khấu? Tôi có bạch đậu khấu. Cần
+đinh hương? Có chúng. Đang tìm nghệ?
+Tôi sẽ cho cô nghệ! Tôi có các loại gia vị!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.3",
+  text = [[
+Vậy có lẽ cô đã nghe nói rằng không thể tin tưởng những kẻ bán dầu rắn.
+Và tôi sẽ đồng ý với cô về điều đó. Nhưng cô đã
+thử dầu cá chưa? Nhập khẩu từ
+Đế chế Zephyr kỳ lạ, nó có thể chữa được mọi thứ!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.4",
+  text = [[
+NGƯỜI BÁN TÁO KỲ LẠ:
+Đang tìm kiếm thứ gì đó để tiếp sức? ...Giả sử
+thứ hoàn hảo nhất là whisky. Nhưng tôi có táo
+từ vườn cây ăn quả của thị trưởng ở Oakhaven.
+NGƯỜI BÁN TÁO KỲ LẠ:
+Quan tâm chứ? Mỗi quả 8 crown, hồi phục hai trái tim.
+$? Chắc chắn rồi
+$? Không, cảm ơn
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.5",
+  text = [[
+Cô thực sự phải luôn quét dọn
+thuốc súng. Đã học được điều đó
+một cách khó khăn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.6",
+  text = [[
+Đang cố tránh bệnh scurvy? Tôi có táo
+ở đây, ngay từ vườn cây ăn quả cá nhân của thị trưởng
+ở Oakhaven. Đừng hỏi làm sao chúng tôi có được
+chúng, đó là một quá trình khó khăn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.7",
+  text = [[
+Ballast Harbor là một chợ cướp biển. Cướp biển
+từ khắp Biển Bắc đến đây để
+bán những món hàng kiếm được bất chính. Đó là
+nơi thích hợp nếu cô đang tìm kiếm một số
+vật phẩm kỳ lạ, thông tin lựa chọn, hoặc
+thẻ trao đổi hiếm. Tôi ở đây vì
+danh mục thứ ba.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.8",
+  text = [[
+Kho chứa của Hội đồng Cướp biển nằm ở
+ngoại ô thị trấn- các thủy thủ đoàn đã gia nhập
+đã cất giấu kho báu trong đó, vì vậy
+nó được canh gác khá nghiêm ngặt. Nhưng tôi cá là nếu
+tôi có lẽ chín... mười người khác, tôi
+có thể thực hiện vụ trộm của thế kỷ.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.9",
+  text = [[
+Vì đây là một chợ cướp biển, cô có thể tìm thấy
+những thứ ở đây mà không thể mua ở bất kỳ nơi nào khác.
+Tôi là một đầu bếp ở Oakhaven, tôi ở đây để tìm
+một ít... rau quả bất hợp pháp.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.arrows_no_bow",
+  text = [[
+Tôi đang bán mũi tên. Có vẻ như cô
+không có cung, nên có lẽ cô có thể dùng chúng
+như, xiên nướng thịt... cô biết đấy,
+thôi bỏ đi. Quay lại khi cô có cung.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.blacksmith_hammering",
+  text = [[
+THỢ RÈN:
+Tôi chỉ là cơ bắp của hoạt động này. Nếu cô
+muốn sửa chữa vũ khí, hãy nói chuyện với đối tác của tôi.
+Anh ấy cũng là cơ bắp, nhưng anh ấy đang lười biếng
+THỢ RÈN:
+nên tôi sẽ nói anh ấy phải làm mấy việc
+chăm sóc khách hàng.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.market_people.shop",
+  text = [[
+Cần mua sắm gì không, cưng?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.michael.1",
+  text = [[
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Ta là Michael, Thợ Làm Rượu Mật ong Hùng mạnh Nhất!
+Và đây là Xưởng Mật ong Marsh! Ngươi có
+bằng chứng gì không?
+TILIA:
+$1Bất kỳ...$3 bất kỳ bằng chứng gì về cái gì cơ?
+
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Ta nghĩ là không! Giờ thì cút đi, cô gái nhỏ bé!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.michael.2",
+  text = [[
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Ta là Michael, Thợ Làm Rượu Mật ong Hùng mạnh Nhất!
+Và đây là Xưởng Mật ong Marsh! Ngươi có
+bằng chứng gì không?
+TILIA:
+Đợi đã, ông đã biết tại sao tôi ở đây rồi sao?
+
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+$1Ừ, ha... ha... ha... $3Không. Tại sao tôi lại biết?
+
+TILIA:
+Tôi đang cố tìm ra ai đã nhử quái vật
+đến điểm hái nấm của Xưởng Chưng cất Briarwood.
+Ông có vẻ hơi có tội.
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Không, ta không làm. Ý ta là ta không biết.
+
+TILIA:
+Vậy là ông đã cho người đặt mồi nhử ở đó
+để giữ chúng tránh xa, hay là ông hy vọng
+lũ quái vật sẽ giết họ?
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Nghe này, ta không biết cô đã từng đối phó với
+những kẻ sản xuất rượu bất hợp pháp chưa, nhưng chúng ta
+không thương lượng! Cô sẽ bị hạ gục!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.michael.3",
+  text = [[
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Ta là Michael, Thợ Làm Rượu Mật ong Hùng mạnh Nhất!
+Và đây là Xưởng Mật ong Marsh! Ngươi có
+bằng chứng gì không?
+TILIA:
+Đợi đã, ông đã biết tại sao tôi ở đây rồi sao?
+
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+$1Ừ, ha... ha... ha... $3Không. Tại sao tôi lại biết?
+
+TILIA:
+Tôi đang cố tìm ra ai đã nhử quái vật
+đến điểm hái nấm của Xưởng Chưng cất Briarwood.
+Ông có vẻ hơi có tội.
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Không, ta không làm. Ý ta là ta không biết.
+
+TILIA:
+Vậy là ông đã cho người đặt mồi nhử ở đó
+để giữ chúng tránh xa, hay là ông hy vọng
+lũ quái vật sẽ giết họ?
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+Nghe này, ta không biết cô đã từng đối phó với
+những kẻ sản xuất rượu bất hợp pháp chưa, nhưng...
+
+MICHAEL THỢ LÀM RƯỢU MẬT ONG:
+$1Đợi đã...$3 Cô là người đã hạ gục
+Beetle-Eyed Bartholemy, phải không...
+Cô sẽ bị hạ gục, nhóc con!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.1",
+  text = [[
+???:
+$1...$3vậy ý anh nói đây là
+Thanh kiếm của Vua Biển? Tôi hơi
+hoài nghi, Brutus.
+NGƯỜI NÀO ĐÓ PHẢI LÀ BRUTUS:
+Đó là những gì bọn tôi nói, là nó đấy.
+Lấy nó từ tàn tích trên Yarrowmouth,
+nơi họ nói các Chiến binh Gấu đã đấu tay đôi
+NGƯỜI NÀO ĐÓ PHẢI LÀ BRUTUS:
+với Vua Biển. Hoặc, chà, bọn tôi không,
+nhưng bọn tôi đã đánh cắp nó từ một kẻ nói
+đó là nơi nó đến, Ngài Beard.
+???:
+Không phải Ngài$1...$3 Anh có thể gọi ta là
+Blackbeard.
+
+(Có lẽ cô nên trèo ra khỏi cái thùng này
+nếu muốn thấy chuyện gì đang xảy ra.)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.2",
+  text = [[
+BRUTUS:
+Vâng thưa ngài, Ngài Blackbeard. Nhưng những người
+mà chúng ta đã đánh cắp cái này đã thề thốt khắp nơi
+rằng nó là thanh kiếm Vua Biển.
+BLACKBEARD:
+Thanh kiếm của Vua Biển được biển cả ban phước.
+Nó có thể cắt xuyên mọi giáp
+và phá vỡ lời nguyền. Hãy để ta xem lưỡi kiếm này.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.3",
+  text = [[
+BLACKBEARD:
+Nó là đồ giả. Nhưng tin tốt là
+đồ thật đã mất vĩnh viễn. Một khi chúng ta có được
+Trái tim Đại dương, thanh kiếm của Vua Biển
+BLACKBEARD:
+có thể là một trong số ít thứ có thể
+chống lại chúng ta. Dù sao thì, trong khi ta ở đây,
+ta có một công việc cho anh, Gavrillo.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.4",
+  text = [[
+GAVRILLO:
+Ngài muốn gì, thủ lĩnh?
+
+BLACKBEARD:
+Người bạn cũ của chúng ta, Thuyền trưởng Thyme, đã quyết định
+rời khỏi Hội đồng Cướp biển. Hắn đã đi trốn. Ta không biết sào huyệt của hắn ở đâu,
+BLACKBEARD:
+nhưng ta muốn anh theo dõi hắn. Hắn biết
+chuyện gì xảy ra khi rời khỏi Hội đồng
+Cướp biển.
+GAVRILLO:
+Ngài hiểu rồi, thủ lĩnh.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.pirate_vault.intro.5",
+  text = [[
+BLACKBEARD:
+Ta có một số việc trên Oakhaven. Chúng ta
+nghe nói một nhóm trộm nhỏ đã tìm thấy một tấm hải đồ
+có thể cho thấy Đảo Bão. Nếu đó
+BLACKBEARD:
+là sự thật, thì chúng ta có thể tìm thấy
+Trái tim Đại dương rất sớm.
+
+BRUTUS:
+Tôi sẽ rất phấn khích. Chúng ta đã tìm kiếm thứ
+khó hiểu này mãi rồi.
+
+BLACKBEARD:
+Có thể điều khiển biển cả sẽ xứng đáng
+mà, Brutus.
+
+BRUTUS:
+Vâng vâng, Ngài Beard.
+
+BLACKBEARD:
+Không phải$1...$3
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.1",
+  text = [[
+PROMETHEUS JONES:
+Nàyyy! Chào mừng đến cửa hàng phát minh của tôi. Vậy,
+nghe này sẽ siêu kỳ lạ, nhưng cô
+có một cái chùy không? Kiểu, một quả cầu và xích?
+TILIA:
+Tôi xin lỗi, không?
+
+PROMETHEUS JONES:
+Chà, thật tệ! Thấy không, tôi có một cái đầu
+chỉ nghĩ về việc phát minh. Và thứ tôi muốn
+làm, là một cái chùy mà sẽ nổ
+PROMETHEUS JONES:
+tung toé. Kiểu, mọi thứ nó đánh trúng. Bam!
+Nó sẽ thực sự nguy hiểm. Một ý tưởng tồi! Bam!
+Nhưng, chà. Tôi không có nó.
+TILIA:
+Nghe có vẻ là một vấn đề nghiêm trọng. Tôi sẽ cho anh biết
+nếu tôi tình cờ tìm thấy một cái.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.2",
+  text = [[
+PROMETHEUS JONES:
+Nàyyy! Chào mừng đến cửa hàng phát minh của tôi. Vậy,
+nghe này sẽ siêu kỳ lạ, nhưng cô
+có một cái chùy không? Kiểu, một quả cầu và xích?
+TILIA:
+Ừ, vâng, tôi thực sự có.
+
+PROMETHEUS JONES:
+Không thể nào! Thấy không, tôi có ý tưởng này! Nó kiểu,
+nó đó. Nhưng nó nổ! Bam! Mọi thứ
+nó chạm vào, nó chỉ gây ra một vụ nổ.
+TILIA:
+Đó nghe có vẻ là một ý tưởng rất tệ, rất
+nguy hiểm.
+
+PROMETHEUS JONES:
+Vâng, cô có lẽ sẽ chỉ làm tổn thương chính mình!
+Muốn tôi làm không? Tôi có thể đổi nó lại
+sau nếu cô muốn?
+(Nâng cấp, ừ... đổi chùy của cô?)
+TILIA:
+$?Cho tôi đăng ký!
+$?Không, tôi muốn giữ tất cả các ngón tay của mình??
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.dont_do_it",
+  text = [[
+PROMETHUS JONES:
+Vâng, tôi hiểu. Ý tôi là, tôi thực sự
+không. Vụ nổ siêu ngầu. Nhưng này,
+cô muốn không chết. Được rồi. Tôi hiểu. Ugh.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.downgrade_choice",
+  text = [[
+PROMETHEUS JONES:
+Này! Là quý cô chùy nổ! Cái chùy nổ
+đang đối xử với cô thế nào?
+
+TILIA:
+Ý tôi là... nó rất nhiều.
+
+PROMETHEUS JONES:
+Đúng! Nó có lẽ tệ hơn nhiều cho bất cứ thứ gì
+thực tế so với chỉ một cái chùy bình thường! Nó
+siêuuuuu ngầu. Người ơi, chỉ toàn lửa khắp nơi.
+PROMETHEUS JONES:
+Vậy nên... cô không muốn tôi đổi nó
+trở lại, phải không?
+
+(Đổi nó trở lại?)
+TILIA:
+$?Làm ơn, nó tệ quá, hãy đổi nó trở lại.
+$?Không đời nào, tôi là một chuyên gia phá hoại!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.make_explode",
+  text = [[
+PROMETHEUS JONES:
+Yeah yeah yeah! Được rồi, xem này!
+
+(Gã này đã làm một số thứ khoa học kỳ lạ
+với cái chùy của cô)
+
+PROMETHEUS JONES:
+Giờ nó sẽ chỉ nổ khi đập vào tường
+và các thứ. Không phải kẻ thù. Điều đó sẽ không làm
+nó nổ tung. Nhưng vâng! Nổ, người ơi!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.prometheus_jones.stay_exploding",
+  text = [[
+PROMETHEUS JONES:
+Yeah, yeah, được rồi, tuyệt vời!
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.1",
+  text = [[
+Này, cô có thấy bạn tôi không? Hắn là kiểu
+nhà địa chất, không biết uống bao nhiêu là đủ.
+Bọn tôi vừa mừng trở về từ
+Đảo Goathead và hắn đi lạc mất. Chà,
+có lẽ hắn đã đi ngủ. Tốt cho hắn,
+gã đá.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.2",
+  text = [[
+Cô biết tôi vừa nghe gì không? Họ nói
+có một nhóm trộm tác phẩm nghệ thuật trong thị trấn này-
+chúng được cho là có một sào huyệt ẩn.
+Chà, tôi cho rằng tất cả các sào huyệt đều được ẩn giấu...
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.3",
+  text = [[
+Ballast Harbor là một chợ cướp biển, và
+tôi cho rằng điều đó khiến nó trở nên vô đạo đức theo cách này
+hay cách khác khi mua sắm ở đây.
+Nhưng mặt khác, nếu tôi không mua những món hàng
+rẻ như vậy, thì chúng sẽ bị đánh cắp
+mà không có lý do gì cả, điều đó thực sự tệ hơn
+khi cô nghĩ về nó. Phải không?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.4",
+  text = [[
+Cô đã đến Cửa hàng Tổng hợp Honestbeard
+chưa? Các giao dịch ở đó thật tuyệt vời!
+Nhưng giữa tôi và cô thôi$1..... $3Tôi không
+nghĩ ông ta trung thực như ông ta nói đâu.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.5",
+  text = [[
+Cô có một mặt cắt ngang đẹp về các loại
+người khó ưa ở đây. Nó thực sự có thể khiến cô trân trọng
+bạn bè của mình tử tế như thế nào, ngay cả khi họ là
+những kẻ dối trá đê tiện... Ồ, nhưng vâng, đây
+cũng là một quán trọ. Các phòng không có gì nhiều, nhưng
+chúng sẽ hồi phục sức khỏe của cô nếu cô
+bị thương.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.6",
+  text = [[
+Hãy giữ kín chuyện này, nhưng thủy thủ đoàn của tôi vừa
+bị Hội đồng Cướp biển tiêu diệt. Thấy không,
+họ đang cố gắng tập hợp một lực lượng cướp biển khổng lồ,
+bởi vì họ cần sự giúp đỡ để truy đuổi một kho báu
+cổ xưa nào đó. Chúng tôi không muốn gia nhập,
+nên họ đã đánh chìm tàu của chúng tôi!... Khiến tôi tự hỏi,
+tại sao họ lại cần nhiều cướp biển như vậy
+để truy đuổi một kho báu? Nó nguy hiểm đến vậy sao?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.lost_pirate_1",
+  text = [[
+CƯỚP BIỂN SAY:
+Tôi không thể... chuyện gì đang xảy ra ở đây? *hic*
+Chìa khóa này vô dụng! Nó phải có hình dạng
+như một.... chìa khóa khác hoặc cái gì đó,
+CƯỚP BIỂN SAY:
+thật không tốt. Làm sao tôi ngủ được?
+Tôi có thể ngủ ở đâu mà không có giường?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.npcs.tavern.lost_pirate_2",
+  text = [[
+$1...zzz.....
+
+$3(Hắn ta dường như đã ngủ thiếp đi
+trong tư thế đứng.)
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.charts.1",
+  text = [[
+Có một hải đồ về vùng biển xung quanh
+một số hòn đảo trong đế chế Zephyr.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.charts.2",
+  text = [[
+Các bản đồ và hải đồ khác nhau được xếp chồng
+lên nhau khá lộn xộn.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.charts.3",
+  text = [[
+Cách đọc bản đồ:
+Mở menu để xem bản đồ của bạn. Để xác định
+vị trí của bạn, hãy tìm kiếm các mốc địa hình bạn
+có thể nhìn thấy, chẳng hạn như đường bờ biển, cầu,
+hoặc thị trấn, và cố gắng tìm các khu vực tương ứng
+được hiển thị trên bản đồ. Hãy nhớ rằng,
+không phải mọi thứ đều được hiển thị trên bản đồ.
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.1",
+  text = [[
+Cuốn sách đang sờn ở gáy. Một
+đoạn văn được đánh dấu: "Trái tim
+Đại dương thuộc về nhà vua. Thủy triều
+và bão tố ưu ái ngài. Những con thú của
+biển sâu sẽ nghe theo tiếng gọi của ngài và những con sóng
+cuộn trào theo nơi ngài chỉ đạo. Nhà vua dùng sự
+ưu ái của mình để phát triển vương quốc và bảo vệ
+người dân của mình lúc đầu, nhưng ngài trở nên tự mãn."
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.2",
+  text = [[
+Có một lá thư từ một thuyền trưởng cướp biển nào đó,
+muốn được giúp đỡ. Nó nói các thuộc địa từ
+đế chế Zeyphr đang cố gắng trục xuất
+cướp biển khỏi một... di chỉ khảo cổ?
+]],
+}
+
+dialog{
+  id = "_ballast_harbor.observations.council_book.3",
+  text = [[
+Ai đó đang lục lọi một chồng sách
+về Vương quốc Meurian cổ đại và
+ghi chép... trông có vẻ như họ đang
+đoán vị trí của cung điện nhà vua.
+]],
+}
