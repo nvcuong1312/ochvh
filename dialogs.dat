@@ -821,7 +821,7 @@ Ta nghĩ là không! Giờ thì cút đi, cô gái nhỏ bé!
 ]],
 }
 
-dalog{
+dialog{
   id = "_ballast_harbor.npcs.michael.2",
   text = [[
 MICHAEL THỢ LÀM RƯỢU MẬT ONG:
@@ -8940,29 +8940,41 @@ Bố, chuyện gì đã xảy ra? Mọi người có ổn không?
 
 
 MALLOW:
-Bọn cướp biển treo Đồng Hồ Cát Trắng trên cờ của chúng
-đã tấn công. Chúng cướp phá phế tích cũ trên
-núi. Hầu hết chúng ta đã trốn thoát, nhưng...
+Bọn cướp biển treo Đồng Hồ Cát Trắng trên
+cờ của chúng đã tấn công. Chúng cướp phá phế
+tích cũ trên núi. Hầu hết chúng ta đã trốn thoát,
+MALLOW:
+nhưng...
+
+
 TILIA:
 Nhưng sao?
 
 
 MALLOW:
 Hazel đang ở trên núi thu thập thảo mộc.
-Bọn cướp biển ném cô ấy vào một cái thùng và lăn
-cô ấy đi cùng với bất cứ thứ gì chúng lấy từ phế tích.
+Bọn cướp biển ném cô ấy vào một cái thùng
+và lăn cô ấy đi cùng với bất cứ thứ gì chúng
+MALLOW:
+lấy từ phế tích.
+
+
 TILIA:
-Chúng đã bắt cóc Hazel? Vậy thì chúng ta phải tìm
-ai đó giúp đỡ!
+Chúng đã bắt cóc Hazel? Vậy thì chúng ta
+phải tìm ai đó giúp đỡ!
 
 MALLOW:
-Tilia... Bố chính là sự giúp đỡ. Bố là một thủy thủ
-tình nguyện. Đó là nhiệm vụ của bố để chăm lo cho
-hòn đảo này. Và của con nữa nếu con muốn gia nhập một ngày nào đó.
+Tilia... Bố chính là sự giúp đỡ.
+Bố là một thủy thủ tình nguyện.
+Đó là nhiệm vụ của bố để chăm lo cho
+MALLOW:
+hòn đảo này. Và của con nữa nếu
+con muốn gia nhập một ngày nào đó.
+
 TILIA:
-Nhưng... bố sẽ không rời đi, phải không. Bố phải
-dạy con cách chiến đấu với quái vật và
-cướp biển! Và điều hành quán rượu!
+Nhưng... bố sẽ không rời đi, phải không.
+Bố phải dạy con cách chiến đấu với quái
+vật và cướp biển! Và điều hành quán rượu!
 MALLOW:
 Bố xin lỗi, Little Gull. Con sẽ ổn thôi. Chúng vừa
 mới chèo thuyền đi. Nó không nên tốn của bố quá
@@ -8986,9 +8998,9 @@ lá trong một cái nồi cho chứng đau đầu của tôi thay vì
 chặt gỗ như anh ta nên làm. Nó đang khiến
 tôi đau đầu!
 TILIA:
-Tôi không biết Hazel có nói với anh ta điều đó không, nhưng cô ấy
-thường đúng khi nói đến thực vật và những thứ tương tự.
-Ông đã thử ăn lá liễu chưa?
+Tôi không biết Hazel có nói với anh ta điều đó không,
+nhưng cô ấy thường đúng khi nói đến thực vật và
+những thứ tương tự. Ông đã thử ăn lá liễu chưa?
 TIM:
 Hử? Tôi chưa thử chúng... hử.
 ]],
@@ -8999,11 +9011,11 @@ dialog{
   text = [[
 TIM:
 Bọn cướp biển đó bắt đầu ném chất nổ
-khắp nơi! Mái nhà của chúng ta theo nghĩa đen được làm
-bằng cỏ! Đây là vật liệu tệ nhất!
+khắp nơi! Mái nhà của chúng ta theo nghĩa
+đen được làm bằng cỏ! Đây là vật liệu tệ nhất!
 TIM:
-Tại sao bọn cướp biển lại tấn công chúng ta? Để cướp phá
-phế tích cũ trên núi? Tôi không hiểu!
+Tại sao bọn cướp biển lại tấn công chúng ta?
+Để cướp phá phế tích cũ trên núi? Tôi không hiểu!
 ]],
 }
 
@@ -9022,8 +9034,8 @@ dialog{
   text = [[
 TILIA:
 Đây là nơi bố nói số rượu whisky nên
-có... làm sao bố vượt qua bụi cây này? Con sẽ
-chỉ cần chặt nó bằng... ồ chờ đã?
+có... làm sao bố vượt qua bụi cây này?
+Con sẽ chỉ cần chặt nó bằng... ồ chờ đã?
 TILIA:
 Có phải con đã để kiếm ở nhà Hazel tối
 qua không? Con nên đi tìm cô ấy.
@@ -9033,7 +9045,8 @@ qua không? Con nên đi tìm cô ấy.
 dialog{
   id = "_new_limestone_island.observations.carving",
   text = [[
-Đó là một tác phẩm chạm khắc rất đẹp về một... con hươu?
+Đó là một tác phẩm chạm khắc rất đẹp
+về một... con hươu?
 Con thỏ có lẽ? Nó vẫn đang được thực hiện.
 ]],
 }
@@ -9062,7 +9075,8 @@ dialog{
   text = [[
 Có một số tên, ngày tháng, số lượng,
 bất cứ thứ gì bố viết khi ông làm
-ngân sách cho quán rượu. Và cả những nét vẽ nguệch ngoạc về tàu.
+ngân sách cho quán rượu. Và cả những nét
+vẽ nguệch ngoạc về tàu.
 ]],
 }
 
@@ -9071,8 +9085,8 @@ dialog{
   text = [[
 TILIA:
 Trông như từng có thứ gì đó được cất giữ
-ở đây. Tôi tự hỏi liệu bọn cướp biển đã lấy nó hay nó
-đã biến mất khi chúng tấn công.
+ở đây. Tôi tự hỏi liệu bọn cướp biển đã
+lấy nó hay nó đã biến mất khi chúng tấn công.
 ]],
 }
 
@@ -9089,8 +9103,8 @@ dialog{
   text = [[
 Linden đã cố gắng tính toán
 ngân sách cho quán rượu. Tất cả các dòng và
-cột đều được xếp thẳng hàng gọn gàng. Cô ấy có dùng
-thước để làm việc này không?
+cột đều được xếp thẳng hàng gọn gàng.
+Cô ấy có dùng thước để làm việc này không?
 ]],
 }
 
@@ -9099,8 +9113,8 @@ dialog{
   text = [[
 Có vẻ như chị bạn Linden đã
 đọc những cuốn sách cô ấy mượn từ
-Hazel. Cô ấy đang học về cách trồng lúa mạch
-và hoa bia.
+Hazel. Cô ấy đang học về cách trồng
+lúa mạch và hoa bia.
 ]],
 }
 
@@ -9117,8 +9131,8 @@ dialog{
   id = "_new_limestone_island.observations.linden_doodles",
   text = [[
 Có một nỗ lực tính toán ngân sách
-cho quán rượu một cách bừa bãi, nguệch ngoạc. Nó bị
-nhét vội vàng dưới một cuốn sách.
+cho quán rượu một cách bừa bãi, nguệch ngoạc.
+Nó bị nhét vội vàng dưới một cuốn sách.
 ]],
 }
 
@@ -9142,7 +9156,8 @@ khá có giá trị. Để xem nào...
 1) Cây Mandrake có những bông hoa nhỏ nhiều màu.
 Thường là màu xanh lam hoặc tím.
 2) Cây Mandrake sẽ trồi lên từ mặt đất và
-dễ dàng giết chết nhà thực vật học bất cẩn. Hãy cẩn thận.
+dễ dàng giết chết nhà thực vật học bất cẩn.
+Hãy cẩn thận.
 ]],
 }
 
@@ -9181,8 +9196,9 @@ bản đồ của các hòn đảo lân cận.
 dialog{
   id = "_new_limestone_island.observations.tilia_list",
   text = [[
-Đó là danh sách việc cần làm mà cô đã lập, những thứ cô muốn
-hoàn thành trước khi rời đi để tìm bố mình.
+Đó là danh sách việc cần làm mà cô đã lập,
+những thứ cô muốn hoàn thành trước khi
+rời đi để tìm bố mình.
 ]],
 }
 
@@ -9190,9 +9206,9 @@ dialog{
   id = "_new_limestone_island.observations.trapped_in_stash",
   text = [[
 TILIA:
-Đó có phải là một trận động đất không? Một vụ nổ? Thật may là
-nó đã không xảy ra khi tôi đang băng qua,
-nhưng nghe có vẻ như là sập hang
+Đó có phải là một trận động đất không?
+Một vụ nổ? Thật may là nó đã không xảy ra khi tôi
+đang băng qua, nhưng nghe có vẻ như là sập hang
 TILIA:
 ngay phía sau lối vào... Chà, tôi nghĩ
 có một lối ra khác ở sâu bên trong.
@@ -9203,8 +9219,8 @@ dialog{
   id = "_new_limestone_island.observations.wine",
   text = [[
 Một chai rượu vang ngon, thức uống yêu thích
-của Juglan. Ông ấy không bao giờ gọi thứ gì khác tại
-quán rượu.
+của Juglan. Ông ấy không bao giờ gọi thứ gì
+khác tại quán rượu.
 ]],
 }
 
@@ -9213,8 +9229,8 @@ dialog{
   text = [[
 Đó là thanh kiếm gỗ mà cô đã học
 cách chiến đấu. Một số người nói cô có thể
-bắt đầu một cuộc phiêu lưu chỉ với thứ này, nhưng
-nghe có vẻ không ổn lắm.
+bắt đầu một cuộc phiêu lưu chỉ với thứ này,
+nhưng nghe có vẻ không ổn lắm.
 ]],
 }
 
@@ -9260,16 +9276,16 @@ dialog{
   id = "_oakhaven.npcs.ana_orange.3",
   text = [[
 AUBREY:
-Ôi không! Nghe này, tôi có thể giải thích. Bố tôi điều hành
-một Vườn Cam và thời gian gần đây thực sự
-rất khó khăn. Tôi muốn giúp ông ấy...
+Ôi không! Nghe này, tôi có thể giải thích.
+Bố tôi điều hành một Vườn Cam và thời gian
+gần đây thực sự rất khó khăn. Tôi muốn giúp ông ấy...
 TILIA:
 Vậy là cô chỉ đơn giản là lấy trộm một đống tiền?
 
 
 AUBREY:
-Không, tôi $1... $2 ừm. $3Ừ. Tôi đã làm thật. Ugh. Rõ ràng
-cô đến đây để xử lý chuyện này.
+Không, tôi $1... $2 ừm. $3Ừ. Tôi đã làm thật.
+Ugh. Rõ ràng cô đến đây để xử lý chuyện này.
 Cô muốn gì?
 TILIA:
 $? Đưa lại tiền thưởng đây.
@@ -9298,8 +9314,8 @@ dialog{
   text = [[
 AUBREY:
 Cảm ơn cô rất nhiều. Vì đã để tôi
-thoát tội với việc ăn trộm nhiều tiền như vậy. Tôi hứa
-nó sẽ được sử dụng vào việc tốt.
+thoát tội với việc ăn trộm nhiều tiền như vậy.
+Tôi hứa nó sẽ được sử dụng vào việc tốt.
 TILIA:
 Này, đừng biến tôi thành kẻ đồng lõa của cô.
 Cô tự ăn trộm số tiền đó đấy.
@@ -9318,16 +9334,16 @@ dialog{
   id = "_oakhaven.npcs.ana_orange.get_into_fight",
   text = [[
 AUBREY:
-Này, cô không phải là anh chàng cam! $2Đợi một chút$3... 
+Này, cô không phải là anh chàng cam!
+$2Đợi một chút$3...
 tôi có biết cô từ đâu không nhỉ?
-
 TILIA:
 Từ giải vô địch cờ ca-rô?
 
 
 AUBREY:
-Ồ. Ồ! Ôi không! Cô sẽ không bắt sống được tôi đâu,
-cảnh sát!
+Ồ. Ồ! Ôi không! Cô sẽ không bắt sống
+được tôi đâu, cảnh sát!
 ]],
 }
 
@@ -9335,24 +9351,25 @@ dialog{
   id = "_oakhaven.npcs.ana_orange.keep_money",
   text = [[
 TILIA:
-Nghe này, cứ... giữ lấy đi. Tôi thực sự không có
-liên quan gì đến cuộc đua này. Nếu đây là cách cô muốn
-gây quỹ cho một vườn cam đang gặp khó khăn, bằng
+Nghe này, cứ... giữ lấy đi. Tôi thực sự
+không có liên quan gì đến cuộc đua này.
+Nếu đây là cách cô muốn gây quỹ cho một
 TILIA:
-tiền ăn trộm, thì tôi không biết cách điều hành một vườn cam.
+vườn cam đang gặp khó khăn, bằng tiền ăn trộm,
+thì tôi không biết cách điều hành một vườn cam.
 Đó là chuyện của cô.
-
 AUBREY:
 Thật sao? Cảm ơn cô! Cô không biết điều này
-sẽ giúp chúng tôi nhiều thế nào đâu! Làm ơn, hãy ghé thăm
-Vườn Cam nếu cô có đường đến
+sẽ giúp chúng tôi nhiều thế nào đâu! Làm ơn,
+hãy ghé thăm Vườn Cam nếu cô có đường đến
 AUBREY:
 Đảo Fykonos. Chúng tôi sẽ trả ơn cô bằng
 cách nào đó!
 
 TILIA:
-Đừng bận tâm về chuyện đó. Chỉ cần coi chừng
-trọng tài cờ ca-rô, anh ta trông có vẻ là tay đấu sĩ.
+Đừng bận tâm về chuyện đó. Chỉ cần coi
+chừng trọng tài cờ ca-rô, anh ta trông
+có vẻ là tay đấu sĩ.
 ]],
 }
 
@@ -9360,8 +9377,8 @@ dialog{
   id = "_oakhaven.npcs.ana_orange.take_money",
   text = [[
 TILIA:
-Đưa số tiền đó cho tôi. Tôi sẽ mang nó trả lại
-cho anh chàng cờ ca-rô.
+Đưa số tiền đó cho tôi. Tôi sẽ mang
+nó trả lại cho anh chàng cờ ca-rô.
 
 AUBREY:
 $1... $3 được rồi. Bố tôi và tôi sẽ bằng cách nào đó
@@ -9376,8 +9393,8 @@ dialog{
   text = [[
 ARAMIS:
 Chào mừng đến với Hiệu thuốc Metheglyn. Có
-nhu cầu mua rượu bổ, thuốc trị bách bệnh, hay thuốc tiên nào không?
-Làm tóc dài hơn, chữa mụn cóc?
+nhu cầu mua rượu bổ, thuốc trị bách bệnh, hay
+thuốc tiên nào không? Làm tóc dài hơn, chữa mụn cóc?
 TILIA:
 Tôi đang tìm mua các loại thuốc thực tế hơn.
 Lành vết thương, gây sát thương cho quái vật.
@@ -9392,20 +9409,20 @@ dialog{
   id = "_oakhaven.npcs.apothecary.2",
   text = [[
 ARAMIS:
-Xin chào, chào mừng đến hiệu thuốc nhỏ bé của chúng tôi.
-Cần thứ gì cho da không? Thuốc tiên tình yêu?
-
+Xin chào, chào mừng đến hiệu thuốc nhỏ bé
+của chúng tôi. Cần thứ gì cho da không?
+Thuốc tiên tình yêu?
 TILIA:
-Thực ra tôi đang tìm cách chế thứ khác. Tôi đang cố...
-giúp một số người ngủ được.
+Thực ra tôi đang tìm cách chế thứ khác.
+Tôi đang cố... giúp một số người ngủ được.
 Họ đang cảnh giác kinh khủng.
 ARAMIS:
-Một lọ thuốc tiên ngủ sẽ dễ pha chế
-nếu tôi có nguyên liệu. Nhưng tôi sẽ cần
-một ít Hoa Monkshood, và tôi đã hết rồi. Than ôi.
+Một lọ thuốc tiên ngủ sẽ dễ pha chế nếu tôi có
+nguyên liệu. Nhưng tôi sẽ cần một ít Hoa
+Monkshood, và tôi đã hết rồi. Than ôi.
 TILIA:
-Tôi có thể đi tìm giúp ông một ít không? Rồi ông có thể
-pha chế lọ thuốc tiên ngủ này?
+Tôi có thể đi tìm giúp ông một ít không?
+Rồi ông có thể pha chế lọ thuốc tiên ngủ này?
 
 ARAMIS:
 Điều đó thật tuyệt. Có một chỗ ở
@@ -9421,21 +9438,20 @@ dialog{
   id = "_oakhaven.npcs.apothecary.2_already_have_monkshood",
   text = [[
 ARAMIS:
-Xin chào, chào mừng đến hiệu thuốc của chúng tôi. Đang tìm
-một ít nước ép sên? Tuyệt vời cho tiêu hóa.
-
+Xin chào, chào mừng đến hiệu thuốc của
+chúng tôi. Đang tìm một ít nước ép sên?
+Tuyệt vời cho tiêu hóa.
 TILIA:
 Thực ra tôi đang tìm cách chế thứ khác.
 Tôi đang cố... giúp một số người ngủ được.
 Họ đang cảnh giác kinh khủng.
 ARAMIS:
-Một lọ thuốc tiên ngủ sẽ dễ pha chế
-nếu tôi có nguyên liệu. Nhưng tôi sẽ cần
-một ít Hoa Monkshood, và tôi đã hết rồi. Than ôi.
+Một lọ thuốc tiên ngủ sẽ dễ pha chế nếu tôi
+có nguyên liệu. Nhưng tôi sẽ cần một ít Hoa
+Monkshood, và tôi đã hết rồi. Than ôi.
 TILIA:
-Khoan đã, tôi thực ra đã tìm thấy một ít trước đó rồi.
-Cái này sẽ giúp ông chứ?
-
+Khoan đã, tôi thực ra đã tìm thấy một
+ít trước đó rồi. Cái này sẽ giúp ông chứ?
 ARAMIS:
 Ồ! Vâng, đó là Monkshood. Tôi có thể nhanh chóng
 pha một thứ gì đó sẽ giúp cô$1...
@@ -9460,9 +9476,9 @@ Nếu cô đang tìm Monkshood để giúp tôi
 pha thuốc tiên ngủ, hãy thử phần tây bắc
 của Núi Marblecliff. Nó ở phía tây bắc của
 ARAMIS:
-cảng. Cô sẽ đi theo con đường mòn xuyên qua một tàn tích trên
-núi, rồi cô sẽ đi qua một hẻm núi
-hẹp.
+cảng. Cô sẽ đi theo con đường mòn xuyên qua
+một tàn tích trên núi, rồi cô sẽ đi qua
+một hẻm núi hẹp.
 ]],
 }
 
@@ -9487,8 +9503,8 @@ ngay lập tức$1...
 dialog{
   id = "_oakhaven.npcs.apothecary.husband",
   text = [[
-Tôi biết trông có vẻ như tôi đang lén lút quanh đây.
-Tôi chỉ đang tưới hoa thôi.
+Tôi biết trông có vẻ như tôi đang lén
+lút quanh đây. Tôi chỉ đang tưới hoa thôi.
 Cứ tự nhiên xung quanh. Những bông hoa
 không phải để bán, nhưng chúng khá đẹp.
 ]],
@@ -9498,13 +9514,17 @@ dialog{
   id = "_oakhaven.npcs.blacksmith.ferris.1",
   text = [[
 FERRIS:
-Cô đang tìm một thợ thủ công bậc thầy về áo giáp à? Nếu vậy,
-đừng tìm đâu xa! Trừ khi cô đang tìm một người
-có những công cụ tôi cần... thì tôi đoán cô phải tiếp tục
+Cô đang tìm một thợ thủ công bậc thầy về
+áo giáp à? Nếu vậy, đừng tìm đâu xa! Trừ
+khi cô đang tìm một người có những công cụ tôi cần...
 FERRIS:
-tìm. Nhưng tôi có thể làm một công việc khá ổn mà không cần
+thì tôi đoán cô phải tiếp tục tìm. Nhưng tôi có 
+thể làm một công việc khá ổn mà không cần
 bất kỳ công cụ nào! Tôi sẽ chỉ tính cô 100 crown để
+FERRIS:
 tăng phòng thủ cho áo giáp của cô.
+
+
 (Tăng phòng thủ với giá 100 crown?)
 $? Làm đi!
 $? Không, cảm ơn.
@@ -9516,8 +9536,12 @@ dialog{
   text = [[
 FERRIS:
 Tôi có thể làm áo giáp của cô mạnh hơn đáng kể,
-nếu tôi có thể tìm thấy một số công cụ của thợ rèn áo giáp.
-Giá như ông chủ của tôi chịu lấy cho tôi một ít...
+nếu tôi có thể tìm thấy một số công cụ của thợ
+rèn áo giáp. Giá như ông chủ của tôi chịu lấy
+FERRIS:
+cho tôi một ít...
+
+
 TILIA:
 Anh có biết chỗ nào có không?
 
@@ -9533,13 +9557,17 @@ dialog{
   id = "_oakhaven.npcs.blacksmith.ferris.3",
   text = [[
 FERRIS:
-Tôi thực sự có thể cải thiện bộ giáp đó mà cô đang
-mặc nếu tôi có một số công cụ của thợ rèn áo giáp. Nhưng ông chủ
-của tôi sẽ không lấy cho tôi...
+Tôi thực sự có thể cải thiện bộ giáp đó mà
+cô đang mặc nếu tôi có một số công cụ của
+thợ rèn áo giáp. Nhưng ông chủ của tôi sẽ
 FERRIS:
-Đợi một chút, cô có một số công cụ của thợ rèn áo giáp.
-Hãy đưa chúng cho tôi, và tôi sẽ làm
-bộ giáp của cô mạnh hơn đáng kể!
+không lấy cho tôi...
+Đợi một chút, cô có một số công cụ của thợ
+rèn áo giáp. Hãy đưa chúng cho tôi, và
+FERRIS:
+tôi sẽ làm bộ giáp của cô mạnh hơn đáng kể!
+
+
 (Đưa công cụ?)
 $? Có
 $? Không
@@ -9550,9 +9578,9 @@ dialog{
   id = "_oakhaven.npcs.blacksmith.ferris.4",
   text = [[
 FERRIS:
-Cảm ơn cô đã cho tôi những công cụ của thợ rèn áo giáp này.
-Tôi hy vọng những cải tiến tôi đã làm sẽ
-giữ cô an toàn.
+Cảm ơn cô đã cho tôi những công cụ của thợ rèn
+áo giáp này. Tôi hy vọng những cải tiến
+tôi đã làm sẽ giữ cô an toàn.
 ]],
 }
 
@@ -9572,8 +9600,8 @@ dialog{
   text = [[
 FERRIS:
 Cảm ơn cô! Để tôi chỉ... hãy thêm một ít
-giáp xích... siết chặt cái này xuống... đặt thêm
-một ít đệm ở đây...
+giáp xích... siết chặt cái này xuống...
+đặt thêm một ít đệm ở đây...
 FERRIS:
 Tất cả đã xong! Trông cô an toàn hơn nhiều!
 
@@ -9598,8 +9626,8 @@ Anh có muốn tôi đi xử lý con
 quái vật đó cho anh không? Tôi có thể làm điều đó.
 
 THỰC TẬP SINH:
-Ồ-ồ! Vâng! Ý tôi là, chà. Ờ, tôi chỉ là một
-thực tập sinh. Tôi không thể nói với cô rằng cô được phép
+Ồ-ồ! Vâng! Ý tôi là, chà. Ờ, tôi chỉ là một thực
+tập sinh. Tôi không thể nói với cô rằng cô được phép
 làm điều đó. Có lẽ hãy đến kiểm tra cửa hàng bom?
 ]],
 }
@@ -9609,12 +9637,12 @@ dialog{
   text = [[
 THỰC TẬP SINH:
 Ồ-ồ, chào. Tôi là thực tập sinh tại Cửa hàng Bom
-Oakhaven. Tôi không thể, cô thấy đấy, đó là công việc của tôi...
-chà, tôi không được trả lương. Nhưng nhiệm vụ của tôi là
+Oakhaven. Tôi không thể, cô thấy đấy, đó là công việc
+của tôi... chà, tôi không được trả lương. Nhưng nhiệm
 THỰC TẬP SINH:
-giữ mọi người tránh xa. Vì sự an toàn của chính họ,
-khỏi mỏ này, nơi đầy rẫy một con quái vật.
-
+vụ của tôi là giữ mọi người tránh xa. Vì sự an toàn
+của chính họ, khỏi mỏ này, nơi đầy
+rẫy một con quái vật.
 TILIA:
 Này, đừng lo. Anh chàng ở cửa hàng bom
 đã gửi tôi xuống đây để xử lý nó.
@@ -9632,9 +9660,9 @@ dialog{
 THỰC TẬP SINH:
 Này, ồ, chào, là cô! Làm tốt lắm, với con
 quái vật đó? Cô đã đánh bại nó. Thật tuyệt.
-ÔI! NÀY! Đó có phải là, tôi xin lỗi, những bản thiết kế
+ÔI! NÀY! Đó có phải là, tôi xin lỗi, những bản thiết
 THỰC TẬP SINH:
-cô có? Những bản vẽ kỹ thuật đó? Trông giống như
+kế cô có? Những bản vẽ kỹ thuật đó? Trông giống như
 thiết kế cho, mũi tên bom?
 
 TILIA:
@@ -9642,8 +9670,8 @@ TILIA:
 pháo đài cướp biển. Anh có thể chế tạo mũi tên
 bom với thứ này không?
 THỰC TẬP SINH:
-Chà, tôi đã nghiên cứu... bom. Ở trường? Không phải ở trường,
-thật là điên rồ nếu đó là một môn học.
+Chà, tôi đã nghiên cứu... bom. Ở trường? Không phải
+ở trường, thật là điên rồ nếu đó là một môn học.
 Ờ, trong thời gian rảnh... Ý tôi là, có! Tôi có thể!
 THỰC TẬP SINH:
 Có vẻ như tôi chỉ cần một vài thứ.
@@ -9662,9 +9690,13 @@ những tảng đá, nhưng có một hang động ở đó. Sau đó
 cô sẽ phải mang tungsten đến cho
 anh chàng Rusty này, và anh ta sẽ như là, ồ, cô có
 THỰC TẬP SINH:
-tungsten, cô là người thật sự, hãy lấy bộ phận máy móc này,
-oooh. Ý tôi là, anh ta nói sẽ đưa cho tôi
-bộ phận máy móc nếu tôi có thể chứng minh mình sẽ sử dụng nó.
+tungsten, cô là người thật sự, hãy lấy bộ phận máy
+móc này, oooh. Ý tôi là, anh ta nói sẽ đưa cho tôi
+bộ phận máy móc nếu tôi có thể chứng minh mình sẽ
+THỰC TẬP SINH:
+sử dụng nó.
+
+
 TILIA:
 Được rồi, mang tungsten đến cho Rusty. Anh ta
 sống ở đâu?
@@ -9674,13 +9706,13 @@ Cô có thể tìm thấy anh ta ở quán bar bí mật
 dưới lòng đất tại cảng. Cô có biết
 có một quán bar ngầm không? Nó, cô phải
 THỰC TẬP SINH:
-đi ra phía sau một quầy hàng của thương nhân, phía sau
-một vài cái chậu? Nó rất bí mật. Rusty
+đi ra phía sau một quầy hàng của thương nhân, phía
+sau một vài cái chậu? Nó rất bí mật. Rusty
 thường ở đó.
 TILIA:
-Nếu anh có thể chế tạo cho tôi mũi tên bom, tôi có thể làm
-điều này. Đi lấy một ít tungsten từ hang động,
-đi tìm Rusty. Rõ rồi.
+Nếu anh có thể chế tạo cho tôi mũi tên bom, tôi có
+thể làm điều này. Đi lấy một ít tungsten từ hang
+động, đi tìm Rusty. Rõ rồi.
 THỰC TẬP SINH:
 Woah, điều này sẽ thực sự tuyệt đấy. Những
 mũi tên này sẽ, ôi trời, thực sự nguy hiểm.
@@ -9710,23 +9742,23 @@ Thật tuyệt. Nếu cô mang nó đến
 Rusty, ở quán bar bí mật dưới kia, anh ta sẽ đưa
 THỰC TẬP SINH:
 cho cô bộ phận máy móc tôi cần. Quán bar ở
-cảng, đằng sau một vài cái chậu. Đó là một quán bar
-bí mật. Tôi không chắc tại sao?
+cảng, đằng sau một vài cái chậu. Đó là một quán
+bar bí mật. Tôi không chắc tại sao?
 TILIA:
 Tại sao Rusty không chỉ đưa cho anh cái
 máy móc đó?
 
 THỰC TẬP SINH:
-Chà, tôi chỉ là thực tập sinh. Nó có lẽ giống như một...
-kiểu hành trình của anh hùng? Tôi phải
+Chà, tôi chỉ là thực tập sinh. Nó có lẽ giống như
+một... kiểu hành trình của anh hùng? Tôi phải
 chứng minh bản thân?
 TILIA:
 Bằng... bằng việc tôi đi và lấy một cục
 quặng cho anh?
 
 THỰC TẬP SINH:
-Tôi không biết, tôi làm việc với rất nhiều người kỳ lạ!
-Nó làm tôi lo lắng!
+Tôi không biết, tôi làm việc với rất nhiều người
+kỳ lạ! Nó làm tôi lo lắng!
 ]],
 }
 
@@ -9849,8 +9881,8 @@ dialog{
   id = "_oakhaven.npcs.carpenter.2",
   text = [[
 Tôi vào nghề mộc nghĩ rằng mình sẽ làm
-các nhà kho chứa đầy đồ nội thất sang trọng. Nhưng hóa ra
-thứ mọi người muốn hơn bất cứ thứ gì là
+các nhà kho chứa đầy đồ nội thất sang trọng. Nhưng hóa
+ra thứ mọi người muốn hơn bất cứ thứ gì là
 hộp và thùng.
 ]],
 }
@@ -9859,9 +9891,9 @@ dialog{
   id = "_oakhaven.npcs.eastoak.boyle.1",
   text = [[
 BOYLE:
-Vì vậy, thằng em ngốc của tôi đã đào lên tảng đá bị nguyền rủa đó
-và sẽ không đặt nó lại. Dù sao thì đó là điềm xui xẻo,
-khi làm xáo trộn những tảng đá đứng.
+Vì vậy, thằng em ngốc của tôi đã đào lên tảng đá bị
+nguyền rủa đó và sẽ không đặt nó lại. Dù sao thì đó
+là điềm xui xẻo, khi làm xáo trộn những tảng đá đứng.
 BOYLE:
 hoặc ngôi mộ trong cánh đồng. Có lẽ toàn bộ
 khu vực, nói chung là vậy. Có lẽ ngu ngốc khi
@@ -9873,9 +9905,9 @@ dialog{
   id = "_oakhaven.npcs.eastoak.brince.1",
   text = [[
 BRINCE:
-Cô đã thấy những tảng đá đứng khắp
-cánh đồng chưa? Tốt nhất là đừng làm phiền chúng,
-không ai biết ai đã dựng chúng lên hay tại sao, từ quá lâu
+Cô đã thấy những tảng đá đứng khắp cánh đồng chưa?
+Tốt nhất là đừng làm phiền chúng, không ai biết
+ai đã dựng chúng lên hay tại sao, từ quá lâu
 BRINCE:
 rồi. Nhưng tôi đã đào xung quanh chúng, và
 tìm thấy một tấm bia đá, nên tôi mang nó về nhà,
@@ -9902,16 +9934,16 @@ dialog{
   text = [[
 THUYỀN TRƯỞNG AL-JAZARI:
 A-ha! Ta tìm thấy ngươi rồi! Ta đã nghi ngờ có điều
-gì đó bất ổn khi toàn bộ thủy thủ của ta
-đều ngủ thiếp đi, và quả nhiên có kẻ đột nhập. Ngươi là ai?
+gì đó bất ổn khi toàn bộ thủy thủ của ta đều ngủ 
+thiếp đi, và quả nhiên có kẻ đột nhập. Ngươi là ai?
 TILIA:
 Tôi đang tìm Thuyền trưởng Thyme.
 Tôi sẽ bắt hắn chỉ cho tôi cách tìm
 Blackbeard, để tôi có thể tìm thấy bố của mình.
 THUYỀN TRƯỞNG AL-JAZARI:
-Đúng là một cuộc truy tìm quanh co.
-Dù sao thì ngươi cũng không thể gặp được Thyme đâu,
-bởi ta đã vô tình nhốt hắn trong tháp pháo khi ta tắt nồi hơi.
+Đúng là một cuộc truy tìm quanh co. Dù sao thì ngươi
+cũng không thể gặp được Thyme đâu, bởi ta đã vô tình
+nhốt hắn trong tháp pháo khi ta tắt nồi hơi.
 THUYỀN TRƯỞNG AL-JAZARI:
 Và cũng bởi vì ta định tiêu
 diệt ngươi ngay tại đây 
@@ -9935,13 +9967,20 @@ Phải rồi, hắn ghét ta từ sau vụ ta vô tình đánh
 chìm con tàu đầu tiên của hắn khi thử nghiệm
 mấy con cá mập robot của ta. Nhưng đời là thế mà.
 TILIA:
-Hừ. Ông trông không có hứng thú đánh nhau nhỉ. Có lẽ chúng ta
-có thể thỏa thuận. Tôi sẽ kéo Morus khỏi đây nếu ông giúp tôi.
-Tôi đang tìm Đảo Bão Tố. Mấy người cướp biển các ông đã tìm thấy nó chưa?
+Hừ. Ông trông không có hứng thú đánh nhau nhỉ.
+Có lẽ chúng ta có thể thỏa thuận. Tôi sẽ kéo
+Morus khỏi đây nếu ông giúp tôi. Tôi đang tìm
+TILIA:
+Đảo Bão Tố. Mấy người cướp biển các ông đã tìm
+thấy nó chưa?
+
 THUYỀN TRƯỞNG AL-JAZARI:
-Ồ, chỗ đó à. Ừ thì, ta không biết. Mấy chuyện đó là phần của Blackbeard,
-hắn chắc có bản đồ ở sào huyệt của Hội Đồng. Nhưng mà này, thực sự thì việc
-nói chuyện này còn tốn thời gian của ta hơn là đánh nhau với các người, nên...
+Ồ, chỗ đó à. Ừ thì, ta không biết. Mấy chuyện
+đó là phần của Blackbeard, hắn chắc có bản đồ
+ở sào huyệt của Hội Đồng. Nhưng mà này, thực
+THUYỀN TRƯỞNG AL-JAZARI:
+sự thì việc nói chuyện này còn tốn thời gian
+của ta hơn là đánh nhau với các người, nên...
 ]],
 }
 
@@ -9973,8 +10012,8 @@ dialog{
   text = [[
 ĐẠI ÚY THYME:
 Hả?! Ta đã lo rằng mình sẽ bị mắc kẹt trong
-tòa tháp này mãi mãi! Ý ta là, ta không bao giờ lo lắng. Cô,
-đợi đã, cô là ai?
+tòa tháp này mãi mãi! Ý ta là, ta không bao giờ lo
+lắng. Cô, đợi đã, cô là ai?
 TILIA:
 Ông hẳn là đại úy của Bọn Đồng Hồ Cát.
 Ông đã cướp phá thị trấn của tôi, bắt cóc bạn tôi,
@@ -9998,7 +10037,8 @@ dialog{
   id = "_oakhaven.npcs.game_hall.chest1",
   text = [[
 Bạn không nên chỉ lấy tiền ở bên trong
-đây. Đây không phải là một trong những cái rương *kiểu đó*.
+đây. Đây không phải là một trong những cái rương
+*kiểu đó*.
 ]],
 }
 
@@ -10042,8 +10082,8 @@ dialog{
   text = [[
 NGƯỜI CHƠI CA-RÔ:
 Cô có thể đã học cách xếp được ba hàng,
-nhưng tôi được sinh ra với nó. Tôi được nuôi dạy trên một
-bàn cờ ca-rô.
+nhưng tôi được sinh ra với nó. Tôi được nuôi dạy trên
+một bàn cờ ca-rô.
 ]],
 }
 
@@ -10158,9 +10198,9 @@ TRỌNG TÀI:
 Không ai được vào, không ai được ra, cho đến khi thám tử
 đến và chúng ta có thể tìm ra kẻ trộm là ai.
 TRỌNG TÀI:
-Nó giống như một cuốn tiểu thuyết trinh thám vậy. Ngoại trừ
-không có vụ giết người. Hoặc cuốn tiểu thuyết, tôi đoán vậy.
-Vậy nó chỉ là một vụ bí ẩn.
+Nó giống như một cuốn tiểu thuyết trinh thám vậy. Ngoại
+trừ không có vụ giết người. Hoặc cuốn tiểu thuyết, tôi
+đoán vậy. Vậy nó chỉ là một vụ bí ẩn.
 ]],
 }
 
@@ -10264,11 +10304,11 @@ dialog{
   id = "_oakhaven.npcs.general_town.10",
   text = [[
 Bạn có nghe nói chó của thống đốc sắp có
-một bữa tiệc sinh nhật không? Hoặc, họ đang tổ chức một
-bữa tiệc cho con chó của thống đốc. Hay ông ấy là
-thị trưởng? Ý tôi là người đó, không phải con chó.
-Hay con chó là thị trưởng? Ý tôi là, tôi không
-nắm rõ lắm về chính trị.
+một bữa tiệc sinh nhật không? Hoặc, họ đang tổ chức
+một bữa tiệc cho con chó của thống đốc. Hay ông ấy
+là thị trưởng? Ý tôi là người đó, không phải con
+chó. Hay con chó là thị trưởng? Ý tôi là, tôi
+không nắm rõ lắm về chính trị.
 ]],
 }
 
@@ -10337,8 +10377,8 @@ Họ đang cố truyền đạt điều gì với bạn
 khi bạn nghe chuyện này?
 BÉ:
 Ý tôi là, nếu không ai biết, thì có thể có
-hơn sáu cái, phải không? Đó là tất cả những gì tôi nói.
-Có vẻ đáng để kiểm tra các góc phố.
+hơn sáu cái, phải không? Đó là tất cả những gì tôi
+nói. Có vẻ đáng để kiểm tra các góc phố.
 ]],
 }
 
@@ -10399,7 +10439,8 @@ dialog{
 Bí mật ít người biết về tiệm may
 gần cổng nam. Ông chủ tiệm may yêu
 hạt sequin, hoàn toàn say mê chúng.
-Đến mức, ông ấy sẽ không bán chúng. Giữ lại cho riêng mình.
+Đến mức, ông ấy sẽ không bán chúng. Giữ lại cho
+riêng mình.
 ]],
 }
 
@@ -10454,10 +10495,10 @@ tuyết sắp đến.
 dialog{
   id = "_oakhaven.npcs.general_town.barty.2",
   text = [[
-Cháu có cảm thấy hôm nay ẩm thế nào không? Chẳng chút nào!
-Trời cũng đỏ rực vào buổi sáng. Có vẻ như chúng ta
-sắp có một mùa đông khắc nghiệt, cháu ạ. Hồi nhỏ tôi từng
-trèo lên Núi Marblecliff để đo
+Cháu có cảm thấy hôm nay ẩm thế nào không? Chẳng
+chút nào! Trời cũng đỏ rực vào buổi sáng. Có vẻ như
+chúng ta sắp có một mùa đông khắc nghiệt, cháu ạ.
+Hồi nhỏ tôi từng trèo lên Núi Marblecliff để đo
 những đám mây. Chúng từng cao lắm!
 Không phải năm nay. Đó là cách bạn có thể
 biết chúng ta sắp có một mùa đông ôn hòa.
@@ -10553,8 +10594,8 @@ dialog{
   id = "_oakhaven.npcs.general_town.loop_walkers.5",
   text = [[
 Bạn có thấy người đàn ông gần bức tượng
-Nữ thần Đại dương không? Anh ta luôn ở trên đó, cho chim ăn,
-mỗi ngày. Anh ta đang làm gì vậy? Anh ta
+Nữ thần Đại dương không? Anh ta luôn ở trên đó, cho
+chim ăn, mỗi ngày. Anh ta đang làm gì vậy? Anh ta
 nhận được gì từ chúng? Những con chim biết gì?
 ]],
 }
@@ -10580,8 +10621,8 @@ Bạn đã từng ra phía tây thị trấn, đến
 bãi biển cát đó phía nam Marblecliff chưa? Đó là một
 nơi tuyệt vời cho một cuộc hẹn hò, nhưng cũng có
 một hang động ẩn dưới cây cầu!
-...Đó thậm chí là một nơi còn TỐT HƠN cho một cuộc hẹn hò.
-Giờ đừng chia sẻ thông tin này nhé. Tôi đã
+...Đó thậm chí là một nơi còn TỐT HƠN cho một cuộc
+hẹn hò. Giờ đừng chia sẻ thông tin này nhé. Tôi đã
 chọn sẵn ai đó để mời và tôi không muốn
 bạn cướp mất người đó của tôi đâu!
 ]],
@@ -10598,8 +10639,8 @@ có ở đây từ hồi đó... Tôi không biết tại sao
 bố mẹ tôi lại bắt tôi đi lên tận đó.
 Nhưng nó xây dựng tính cách! Và tôi cũng biết về
 căn phòng bí mật được xây trong tu viện!
-Nhưng tôi sẽ không bao giờ nói nó ở đâu đâu! Ehhehehehe.
-Bởi vì tôi chưa bao giờ tìm thấy nó.
+Nhưng tôi sẽ không bao giờ nói nó ở đâu đâu!
+Ehhehehehe. Bởi vì tôi chưa bao giờ tìm thấy nó.
 ]],
 }
 
@@ -10642,7 +10683,9 @@ dialog{
 LÍNH CANH:
 Chào ngày mới, công dân. Đây là đồn lính.
 Ngôi nhà nơi chúng tôi lính làm việc.
-Nó không phải là nhà tập thể của chúng tôi. Chúng tôi cũng có nhà riêng.
+Nó không phải là nhà tập thể của chúng tôi. Chúng tôi
+LÍNH CANH:
+cũng có nhà riêng.
 ]],
 }
 
@@ -10662,9 +10705,9 @@ Có thật không?
 
 
 LÍNH CANH:
-Không, nhưng tôi thích giữ những người mượn trong tầm kiểm soát.
-Tôi nghĩ nó cải thiện cấu trúc đạo đức của
-thành phố.
+Không, nhưng tôi thích giữ những người mượn trong
+tầm kiểm soát. Tôi nghĩ nó cải thiện cấu trúc đạo
+đức của thành phố.
 ]],
 }
 
@@ -10699,29 +10742,33 @@ dialog{
   id = "_oakhaven.npcs.guards.hq.captain.2_quest",
   text = [[
 TILIA:
-Tôi không chắc bạn muốn tôi hiểu điều đó thế nào, nhưng được thôi.
-Bạn cần giúp gì?
+Tôi không chắc bạn muốn tôi hiểu điều đó thế nào,
+nhưng được thôi. Bạn cần giúp gì?
 
 ĐỘI TRƯỞNG LÍNH CANH:
 Như bạn có thể đã nghe, Thị trưởng đang tổ chức
-một bữa tiệc sinh nhật cho chú chó của mình. Thị trưởng dự định
-công bố một bức chân dung tuyệt vời về chú chó của mình tại
+một bữa tiệc sinh nhật cho chú chó của mình. Thị
+trưởng dự định công bố một bức chân dung tuyệt
 ĐỘI TRƯỞNG LÍNH CANH:
+vời về chú chó của mình tại
 sự kiện. Vấn đề là, có tin đồn rằng
-tên trộm bậc thầy Litton đang ở trong thị trấn. Chúng tôi lo ngại
+tên trộm bậc thầy Litton đang ở trong thị trấn.
+ĐỘI TRƯỞNG LÍNH CANH:
+Chúng tôi lo ngại
 hắn đến đây để đánh cắp bức tranh.
+
 TILIA:
 Làm sao một bức tranh về chó của ai đó lại
 có giá trị đến vậy?
 
 ĐỘI TRƯỞNG LÍNH CANH:
-Tôi không biết nữa. Tôi không phải là nhà buôn nghệ thuật, tôi
-chỉ được bảo là nó có giá trị. Dù sao thì, chúng tôi cần một ai đó
-giả làm một vị khách quý tại bữa tiệc và
+Tôi không biết nữa. Tôi không phải là nhà buôn
+nghệ thuật, tôi chỉ được bảo là nó có giá trị.
+Dù sao thì, chúng tôi cần một ai đó
 ĐỘI TRƯỞNG LÍNH CANH:
+giả làm một vị khách quý tại bữa tiệc và
 thâm nhập vào bữa tiệc, tìm ra Litton là ai,
 và ngăn hắn đánh cắp bức tranh về chú chó.
-
 TILIA:
 Nghe thật thú vị, thành thật mà nói. Được thôi.
 
@@ -10742,10 +10789,10 @@ dialog{
 ĐỘI TRƯỞNG LÍNH CANH:
 Này, cảm ơn vì đã giúp chúng tôi. Chỉ cần lên
 cung điện và trình thiệp mời của bạn,
-hành xử tự nhiên$1...$3 hoặc, chà, hành xử như bạn thuộc về
+hành xử tự nhiên$1...$3 hoặc, chà, hành xử như bạn
 ĐỘI TRƯỞNG LÍNH CANH:
-nơi đó, và tìm ra tên trộm bậc thầy Litton là ai.
-Và ngăn hắn đánh cắp
+thuộc về nơi đó, và tìm ra tên trộm bậc thầy Litton
+là ai. Và ngăn hắn đánh cắp
 bức chân dung chú chó của Thị trưởng. Nó đơn giản mà.
 TILIA:
 Ừ, nghe có vẻ đơn giản.
@@ -11124,9 +11171,9 @@ $1...hmm... $3Ừ, điều này xác nhận những gì chị
 đã nghĩ. Những cây Sồi Manna khác cũng
 bị bệnh. Có vẻ như bệnh đến từ
 HAZEL:
-rễ của chúng, lan lên qua tầng phát sinh. Nhưng
-nếu tất cả chúng đều bị bệnh... có phải rễ của
-chúng đều kết nối với nhau? $1...$3Được rồi. Em có thể đến Ivystump
+rễ của chúng, lan lên qua tầng phát sinh. Nhưng nếu
+tất cả chúng đều bị bệnh... có phải rễ của chúng đều
+kết nối với nhau? $1...$3Được rồi. Em có thể đến Ivystump
 HAZEL:
 và hỏi thăm xung quanh không? Xem có ai ở đó
 biết về lịch sử của cây Sồi Manna hoặc tại sao
@@ -11144,8 +11191,8 @@ và xem liệu chúng có phản ứng với bất kỳ
 phương pháp điều trị nào chị có thể nghĩ ra không.
 Mang lá thư này theo, nó mô tả những gì đang xảy ra
 HAZEL:
-với những cái cây. C...h..ỉ $1...$3phòng khi em không thể tự mình
-mô tả nó.
+với những cái cây. C...h..ỉ $1...$3phòng khi em không
+thể tự mình mô tả nó.
 
 TILIA:
 Cảm ơn, Hazel. Được rồi, em sẽ đi hỏi quanh
@@ -11238,8 +11285,8 @@ Chị không nghĩ em hiểu Blackbeard nguy hiểm thế nào.
 Người cuối cùng sử dụng Ocean's Heart
 đã cuốn trôi cả thành phố xuống biển-
 TILIA:
-Điều đó nghe còn chẳng có thật! Vâng, cướp biển là xấu, hãy đánh chúng,
-nhưng chị không thể về nhà trước sao?-
+Điều đó nghe còn chẳng có thật! Vâng, cướp biển là xấu,
+hãy đánh chúng, nhưng chị không thể về nhà trước sao?-
 
 HAZEL:
 Chị đang cố gắng ngăn chặn một đội quân cướp biển,
@@ -11652,8 +11699,8 @@ Chà, nó đầy quái vật. Nên...
 
 LAMIA:
 Trong thị trấn này, chúng tôi luôn cố gắng tôn trọng
-Rừng Veilwood. Tôi đã nghiên cứu các dạng sống của nó
-với tư cách là một nhà thực vật học. Nó không phải lúc nào cũng
+Rừng Veilwood. Tôi đã nghiên cứu các dạng sống của nó với
+tư cách là một nhà thực vật học. Nó không phải lúc nào cũng
 LAMIA:
 có nhiều quái vật như vậy. Và tôi không nghĩ
 chúng đang làm những cái cây được lợi gì.
@@ -12069,7 +12116,8 @@ nói với cậu điều này, nhưng có một tàn tích huyền thoại
 trong một khe núi nơi trời luôn mưa. Những người
 đến đó... họ có xu hướng bị giết bởi quái vật sau đó.
 Quái vật xung quanh họ trở nên mạnh hơn, nhiệm vụ
-của họ trở nên khó khăn hơn. Vì vậy hãy cẩn thận nếu cậu đến thăm.
+của họ trở nên khó khăn hơn. Vì vậy hãy cẩn thận
+nếu cậu đến thăm.
 ]],
 }
 
@@ -12509,9 +12557,9 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.guards.litton_gone",
   text = [[
 LÍNH CANH:
-Cậu đã đánh nhau với con troll đó à?!
-Nghe này, chuyện đó không quan trọng nữa!
-Trong lúc cậu đang chiến đấu với nó, gã mà cậu đang đối đầu ở thư viện
+Cậu đã đánh nhau với con troll đó à?! Nghe này,
+chuyện đó không quan trọng nữa! Trong lúc cậu đang
+chiến đấu với nó, gã mà cậu đang đối đầu ở thư viện
 LÍNH CANH:
 đã bắt cóc con chó của Thị trưởng và bỏ chạy rồi!
 Hắn đã chạy vào thành phố và ra ngoài bằng cổng
@@ -12521,17 +12569,17 @@ Cái gì?! Trời ạ, tôi sẽ ngăn chặn tên bắt cóc chó này!
 ... Đợi đã, không phải anh định đi truy đuổi hắn sao?
 
 LÍNH CANH:
-Tôi phải ở lại đây để an ủi Thị trưởng.
-Ông ấy đang cực kỳ đau khổ. Rất buồn về chú chó.
-Không muốn ông ấy ban hành bất kỳ mệnh lệnh hành chính nào
+Tôi phải ở lại đây để an ủi Thị trưởng. Ông ấy
+đang cực kỳ đau khổ. Rất buồn về chú chó. Không
+muốn ông ấy ban hành bất kỳ mệnh lệnh hành chính nào
 LÍNH CANH:
 trong tình trạng này, hậu quả sẽ rất tồi tệ.
 Tôi sẽ ở lại đây và làm việc đó, 
 còn cậu hãy đi ngăn chặn tên bắt cóc chó đó đi!
 TILIA:
 Được rồi. Nếu hắn đã ra ngoài bằng cổng phía nam,
-chắc hắn đang hướng đến bến cảng để rời khỏi hòn đảo.
-Tốt hơn hết là tôi nên chạy ngay.
+chắc hắn đang hướng đến bến cảng để rời khỏi hòn
+đảo. Tốt hơn hết là tôi nên chạy ngay.
 ]],
 }
 
@@ -12543,13 +12591,17 @@ KHÁCH:
 ngưỡng mộ chú chó của Thị trưởng.
 Cô đã là fan lâu chưa?
 TILIA:
-Tại sao không. Tôi nhớ lại một cách trìu mến ngày tôi
-lần đầu nghe những câu chuyện về vinh quang của chú chó.
-Những câu chuyện tuyệt vời như vậy. Và một cái đuôi tuyệt vời.
+Tại sao không. Tôi nhớ lại một cách trìu mến
+ngày tôi lần đầu nghe những câu chuyện về vinh
+quang của chú chó. Những câu chuyện tuyệt vời
 TILIA:
-Trên chú chó. Ý tôi là cái đuôi của nó thật tuyệt vời.
-Cũng như tất cả những đặc điểm còn lại của nó.
-Tôi là một người ngưỡng mộ như vậy đấy.
+như vậy. Và một cái đuôi tuyệt vời.
+Trên chú chó. Ý tôi là cái đuôi của nó thật
+tuyệt vời. Cũng như tất cả những đặc điểm
+TILIA:
+còn lại của nó. Tôi là một người ngưỡng
+mộ như vậy đấy.
+
 KHÁCH:
 À, quả thật. Chà, tôi sẽ không giữ cô lại
 với các vị khách dự tiệc nữa.
@@ -12665,13 +12717,17 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.mayor.3",
   text = [[
 THỊ TRƯỞNG:
-Này, cô gái. Tôi nghe nói cô đã giải cứu con chó của tôi khỏi
-tên bắt cóc chó! Tôi không thể, tôi thậm chí không có
-từ ngữ nào để diễn tả việc đó tuyệt vời thế nào.
+Này, cô gái. Tôi nghe nói cô đã giải cứu con chó của 
+tôi khỏi tên bắt cóc chó! Tôi không thể, tôi thậm
+chí không có từ ngữ nào để diễn tả việc đó tuyệt
+THỊ TRƯỞNG:
+vời thế nào.
+
+
 TILIA:
 Đừng lo lắng về chuyện đó. Đây là loại việc
-tôi hay làm. Tôi đang gia nhập Hải quân Tình nguyện, giống
-bố tôi.
+tôi hay làm. Tôi đang gia nhập Hải quân Tình nguyện,
+giống bố tôi.
 THỊ TRƯỞNG:
 Vậy thì. Anh bạn. Thật chân thành. Con chó của tôi
 là một cậu bé tốt như vậy. Tôi muốn cô nhận lấy cái này.
@@ -12682,9 +12738,11 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.mayor.4",
   text = [[
 THỊ TRƯỞNG:
-Tôi rất vui vì cô đã giải cứu con chó của tôi. Tôi đã định
-tuyên bố hôm nay là ngày lễ vì cô. Nhưng nó đã là
-sinh nhật chó của tôi rồi, nên nó đã khá là lễ hội rồi.
+Tôi rất vui vì cô đã giải cứu con chó của tôi.
+Tôi đã định tuyên bố hôm nay là ngày lễ vì cô.
+Nhưng nó đã là sinh nhật chó của tôi rồi,
+THỊ TRƯỞNG:
+nên nó đã khá là lễ hội rồi.
 ]],
 }
 
@@ -12740,9 +12798,11 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.mayors_friends.2b",
   text = [[
 KHÁCH:
-Mọi sợi dây thần kinh trong người tôi cảm thấy bị xúc phạm.
-Khi thấy một người đàn ông nhẫn tâm như vậy chỉ cướp đi
-một con chó vô tội... Hãy bình tĩnh lại, đôi tay run rẩy của tôi.
+Mọi sợi dây thần kinh trong người tôi cảm thấy bị
+xúc phạm. Khi thấy một người đàn ông nhẫn tâm
+như vậy chỉ cướp đi một con chó vô tội...
+KHÁCH:
+Hãy bình tĩnh lại, đôi tay run rẩy của tôi.
 ]],
 }
 
@@ -12767,9 +12827,9 @@ Em yêu, em nhất định phải thử một trong
 những quả cam Lobb này. Hoặc có lẽ
 tốt hơn, hãy thử chơi ném bắt với chó của
 KHÁCH:
-Thị trưởng bằng một quả cam. Ồ-hô-hô, đó sẽ là một cảnh tượng
-Thay vì dùng một quả bóng tennis mạ vàng,
-một quả cam. Ồhôhô.
+Thị trưởng bằng một quả cam. Ồ-hô-hô, đó sẽ là một
+cảnh tượng Thay vì dùng một quả bóng tennis
+mạ vàng, một quả cam. Ồhôhô.
 ]],
 }
 
@@ -12777,8 +12837,9 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.mayors_friends.3b",
   text = [[
 KHÁCH:
-Tôi hoàn toàn mất cảm giác ngon miệng. Bắt cóc chó!
-Trong thành phố xinh đẹp của chúng ta! Trời ạ.
+Tôi hoàn toàn mất cảm giác ngon miệng.
+Bắt cóc chó! Trong thành phố xinh đẹp
+của chúng ta! Trời ạ.
 ]],
 }
 
@@ -12786,9 +12847,9 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.mayors_friends.3c",
   text = [[
 KHÁCH:
-Thật là một kết thúc tuyệt vời cho tất cả sự ồn ào này.
+Thật là một kết thúc tuyệt vời cho tất
+cả sự ồn ào này.
 Hmm, đúng vậy. Tôi nói vậy.
-
 TILIA:
 Ông nghe có vẻ kỳ lạ như tôi khi tôi giả vờ
 nói chuyện như các vị vậy.
@@ -12800,8 +12861,8 @@ dialog{
   text = [[
 KHÁCH:
 Tôi vô cùng phấn khích khi được xem
-bức chân dung mới của Chó Thị trưởng. Tôi tưởng tượng một kiệt tác
-như vậy hẳn phải được đặt vẽ với giá
+bức chân dung mới của Chó Thị trưởng. Tôi tưởng tượng
+một kiệt tác như vậy hẳn phải được đặt vẽ với giá
 KHÁCH:
 hàng trăm crown. Thị trưởng không
 tiếc bất kỳ chi phí nào cho con chó đó, quả thực.
@@ -12816,17 +12877,17 @@ Tôi hoàn toàn bị cuốn hút bởi bức tranh này.
 Nó mô tả Oakhaven trước Trận Đại Hồng Thủy.
 Nó gợi lên sự kiên cường, của một dân tộc
 KHÁCH:
-bị đánh bại, nhưng không gục ngã. Một thành phố chịu đựng
-những bất công của thế giới, nhưng
+bị đánh bại, nhưng không gục ngã. Một thành phố chịu
+đựng những bất công của thế giới, nhưng
 vẫn tồn tại bất chấp.
-
 TILIA:
 Chẳng phải hầu hết mọi người đều chết sao?
 
 
 KHÁCH:
 $1...$3ừ thì đúng vậy. Nhưng giờ chúng ta sống ở đây,
-đó là của chúng ta- nghe này cô gái. Cô không hiểu nghệ thuật đâu.
+đó là của chúng ta- nghe này cô gái.
+Cô không hiểu nghệ thuật đâu.
 ]],
 }
 
@@ -12897,11 +12958,11 @@ dialog{
   text = [[
 KHÁCH:
 Thật là tử tế khi Thị trưởng cho phép chúng ta vào
-phòng làm việc của ông ấy trong bữa tiệc sinh nhật chó của mình.
-Chúng ta có thể cảm nhận môi trường nơi
+phòng làm việc của ông ấy trong bữa tiệc sinh nhật chó
+của mình. Chúng ta có thể cảm nhận môi trường nơi
 KHÁCH:
-ông ấy đưa ra những quyết định giữ cho thành phố của chúng ta
-đứng đầu. Vẫn là viên ngọc của Biển Bắc.
+ông ấy đưa ra những quyết định giữ cho thành phố của
+chúng ta đứng đầu. Vẫn là viên ngọc của Biển Bắc.
 
 TILIA:
 Ồ, tôi không biết. Tôi hiểu rằng Đảo Limestone
@@ -12947,9 +13008,13 @@ TILIA:
 làm các tòa nhà từ những, ờ, đá
 có nhiều đá như vậy?
 KHÁCH:
-Quả thực. Mặc dù nhiều kiến thức xây dựng
-của họ đã bị thất truyền, nhưng sự thô ráp
-trong quy mô của họ cũng vậy, điều mà tôi có thể chấp nhận được.
+Quả thực. Mặc dù nhiều kiến thức xây dựng của
+họ đã bị thất truyền, nhưng sự thô ráp trong
+quy mô của họ cũng vậy, điều mà tôi có thể
+KHÁCH:
+chấp nhận được.
+
+
 TILIA:
 Ồ, ừm. Tuyệt đối. Tôi cũng cảm thấy như vậy.
 ]],
@@ -12972,8 +13037,8 @@ dialog{
   text = [[
 KHÁCH:
 Cung điện của thị trưởng, cho đến nay, có những
-tấm thảm đẹp nhất thành phố. Tôi tự coi mình là người sành
-về thảm đẹp. Tôi đã du hành tận đến
+tấm thảm đẹp nhất thành phố. Tôi tự coi mình là
+người sành về thảm đẹp. Tôi đã du hành tận đến
 KHÁCH:
 đế chế Zeyphr để quan sát kỹ thuật dệt phức tạp
 của họ với ý định bắt đầu
@@ -13003,8 +13068,8 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.normal_guests.4",
   text = [[
 KHÁCH:
-Ồ, hãy thử một chiếc bánh canapé đi. Chúng kết hợp tuyệt vời
-với rượu reisling.
+Ồ, hãy thử một chiếc bánh canapé đi. Chúng kết hợp
+tuyệt vời với rượu reisling.
 
 TILIA:
 Ồ, vâng. Tôi sẽ thử một$1... $3au pair? (bảo mẫu)
@@ -13020,9 +13085,11 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.normal_guests.5",
   text = [[
 KHÁCH:
-Tôi nghe nói Chó của Thị trưởng ăn uống như thế này mỗi
-ngày. Tôi hy vọng một ngày nào đó sẽ chiều chuộng con chó
-hoặc có lẽ những đứa con của mình nhiều như vậy.
+Tôi nghe nói Chó của Thị trưởng ăn uống
+như thế này mỗi ngày. Tôi hy vọng một
+ngày nào đó sẽ chiều chuộng con chó hoặc
+KHÁCH:
+có lẽ những đứa con của mình nhiều như vậy.
 ]],
 }
 
@@ -13044,8 +13111,9 @@ Một bữa tiệc mà không có sinh nhật của một chú chó ở
 trung tâm thì là gì? Bạn có biết anh họ tôi sở hữu
 xưởng đóng tàu dưới bến cảng không? Anh ấy đã có một
 KHÁCH:
-bữa tiệc cho con mèo của mình vào tháng trước, nhưng nó thiếu
-niềm vui sống mà những chú chó mang lại.
+bữa tiệc cho con mèo của mình vào tháng trước,
+nhưng nó thiếu niềm vui sống mà những
+chú chó mang lại.
 ]],
 }
 
@@ -13054,8 +13122,8 @@ dialog{
   text = [[
 KHÁCH:
 Trong khi Thị trưởng phục vụ rượu rất ngon cho
-khách của mình, tôi nghe nói rằng những dòng rượu hiếm nhất
-được dành riêng cho ông ấy và con chó của mình.
+khách của mình, tôi nghe nói rằng những dòng rượu
+hiếm nhất được dành riêng cho ông ấy và con chó của mình.
 ]],
 }
 
@@ -13501,17 +13569,17 @@ dialog{
   id = "_oakhaven.npcs.monastery.monk.1",
   text = [[
 THẦY TU:
-À, một người hành hương. Không nghi ngờ gì nữa, cô đã đến để uống
-từ con suối lớn. Dòng nước chảy
+À, một người hành hương. Không nghi ngờ gì nữa,
+cô đã đến để uống từ con suối lớn. Dòng nước chảy
 qua Oakhaven đều được sinh ra ở đây. Và thế nhưng,
 THẦY TU:
 ngay cả ở nơi linh thiêng này, bóng tối mà
-trận Đại Hồng Thủy lan tỏa vẫn ẩn náu trong bóng tối.
-
+trận Đại Hồng Thủy lan tỏa vẫn ẩn náu
+trong bóng tối.
 TILIA:
 Ý thầy là gì? Có một con quái vật
-trong tầng hầm của thầy à? Thầy có cần tôi chiến đấu
-với một con quái vật trong tầng hầm không?
+trong tầng hầm của thầy à? Thầy có cần tôi chiến
+đấu với một con quái vật trong tầng hầm không?
 THẦY TU:
 Cô sắc sảo hơn cả Thanh kiếm của Vua Biển.
 Vâng, tu viện của tôi đang bị quấy rầy bởi một
@@ -13526,9 +13594,9 @@ dialog{
   id = "_oakhaven.npcs.monastery.monk.2",
   text = [[
 THẦY TU:
-Một con quái thú sinh ra từ vực thẳm đang ẩn nấp trong
-nơi thánh địa này. Làm ơn, hãy thanh tẩy
-tu viện của tôi.
+Một con quái thú sinh ra từ vực thẳm đang ẩn
+nấp trong nơi thánh địa này. Làm ơn, hãy
+thanh tẩy tu viện của tôi.
 ]],
 }
 
@@ -13536,16 +13604,16 @@ dialog{
   id = "_oakhaven.npcs.monastery.monk.3",
   text = [[
 THẦY TU:
-Bạn trông có vẻ đắc thắng. Tôi cũng nghe thấy vài tiếng
-hét quái dị của quái vật. Bạn đã tiêu diệt
-sinh vật đó chưa?
+Bạn trông có vẻ đắc thắng. Tôi cũng nghe thấy
+vài tiếng hét quái dị của quái vật. Bạn đã
+tiêu diệt sinh vật đó chưa?
 TILIA:
 Rồi. Dưới đó đã an toàn rồi.
 
 
 THẦY TU:
-Cảm ơn bạn, người hành hương dũng cảm. Tôi không có nhiều,
-nhưng làm ơn, hãy nhận lấy này.
+Cảm ơn bạn, người hành hương dũng cảm. Tôi
+không có nhiều, nhưng làm ơn, hãy nhận lấy này.
 ]],
 }
 
@@ -13553,8 +13621,8 @@ dialog{
   id = "_oakhaven.npcs.monastery.monk.4",
   text = [[
 THẦY TU:
-Với sự giúp đỡ của bạn, dòng suối vẫn giữ được sự tinh khiết.
-Nước mà nó cung cấp là thứ đã cho phép
+Với sự giúp đỡ của bạn, dòng suối vẫn giữ được sự
+tinh khiết. Nước mà nó cung cấp là thứ đã cho phép
 Oakhaven phồn thịnh trong hàng ngàn năm,
 THẦY TU:
 mặc dù, kể từ trận lụt lớn và sự kết thúc
@@ -13571,9 +13639,9 @@ Nữ thần, là Biển. Chim Biển.
 Vua Biển. Đấng ban sự sống,
 kẻ mang nó đến cho chúng ta, và
 THẦY TU:
-Vua Biển vị champion của chúng ta. Những truyền thuyết
-cổ xưa này, bên cạnh việc dạy chúng ta về
-quá khứ, còn dạy chúng ta cách sống.
+Vua Biển vị champion của chúng ta. Những truyền
+thuyết cổ xưa này, bên cạnh việc dạy chúng
+ta về quá khứ, còn dạy chúng ta cách sống.
 TILIA:
 Xin lỗi, ứng dụng của ừm,
 vậy một con chim mang sự sống từ biển
@@ -13601,7 +13669,8 @@ THẦY TU:
 chúng tôi cần một tay giúp đỡ, có chuyện gì đó
 đang xảy ra dưới hầm mộ.
 THẦY TU:
-Hãy hỏi vị trưởng tu của tôi, trong căn phòng phía đông.
+Hãy hỏi vị trưởng tu của tôi, trong căn phòng
+phía đông.
 ]],
 }
 
@@ -13622,32 +13691,44 @@ sào huyệt Hội đồng Cướp biển.
 
 MORUS:
 Huh, được rồi. Cái tên hôi hám, răng ốc vít
-chết tiệt đó đã đánh chìm hai chiếc tàu của ta. Nhưng đây là điều
-cô không hiểu. Al-Jazari chế tạo
+chết tiệt đó đã đánh chìm hai chiếc tàu của ta.
+Nhưng đây là điều cô không hiểu. Al-Jazari chế tạo
 MORUS:
 người máy tự động cho Hội đồng Cướp biển. Lũ
-ác quỷ bằng kim loại chạy bằng hơi nước. Vì vậy, ngoài hai
-cánh cổng sắt dày hai foot ở pháo đài của hắn, hắn còn có một
+ác quỷ bằng kim loại chạy bằng hơi nước. Vì vậy,
+ngoài hai cánh cổng sắt dày hai foot ở pháo
 MORUS:
-đội thủy thủ khổng lồ toàn cướp biển trong hội đồng. Một lão già như ta
-với một cô gái như cô, hay
-thậm chí một đội ba mươi người cũng không thể vào được.
+đài của hắn, hắn còn có một đội thủy thủ khổng
+lồ toàn cướp biển trong hội đồng. Một lão già như ta
+với một cô gái như cô, hay thậm chí một đội
+MORUS:
+ba mươi người cũng không thể vào được.
+
+
 TILIA:
 Hmm. Chúng không có kiểu, cửa sau hay
 gì đó sao?
 
 MORUS:
 Không. Và chúng có nhiều nhân lực
-để canh chừng những kẻ lén lút. Thành thật mà nói, ta không
-biết chúng nuôi ăn tất cả bọn chúng ở Pháo đài Crow bằng cách nào.
+để canh chừng những kẻ lén lút. Thành
+thật mà nói, ta không biết chúng nuôi
+MORUS:
+ăn tất cả bọn chúng ở Pháo đài Crow
+bằng cách nào.
+
 TILIA:
 $1Hmm... $3Ồ! Vậy thì đây là điều ông không hiểu.
 Nếu muốn vào một pháo đài cướp biển,
 ông không cần phải đạp đổ cửa và đánh nhau
 TILIA:
-với từng tên cướp biển. Mặc dù tôi sẽ làm vậy. Nhưng chúng ta có thể
-khôn ngoan, không cần mạnh mẽ. Bọn cướp biển
-lấy rượu ale của chúng ở đâu? Pháo đài cướp biển luôn cần ale.
+với từng tên cướp biển. Mặc dù tôi sẽ làm vậy.
+Nhưng chúng ta có thể khôn ngoan, không cần
+mạnh mẽ. Bọn cướp biển lấy rượu ale của chúng
+TILIA:
+ở đâu? Pháo đài cướp biển luôn cần ale.
+
+
 MORUS:
 Eh. Ta đã không nghĩ tới điều đó. Ta không biết.
 
@@ -13657,16 +13738,16 @@ Bởi vì chúng ta có thể trộn một ít bột ngủ
 hay gì đó vào đồ uống của chúng, và chúng ta
 sẽ không cần phải đánh nhau với tám chục tên.
 TILIA:
-Có kiểu, hiệu thuốc hay gì đó trong thị trấn không?
-
+Có kiểu, hiệu thuốc hay gì đó trong
+thị trấn không?
 
 MORUS:
 Có, ở phía đông thị trấn. Được rồi.
 Ta có thể tìm ra nơi bọn cướp biển ở Pháo đài
-Crow lấy rượu của chúng nếu cô có thể lấy được thứ gì đó
+Crow lấy rượu của chúng nếu cô có thể lấy
 MORUS:
-hiệu quả để bỏ vào trong một lô hàng.
-
+được thứ gì đó hiệu quả để bỏ vào
+trong một lô hàng.
 
 TILIA:
 Tôi sẽ gặp lại ông ở đây một khi tôi có
@@ -13683,8 +13764,8 @@ thuốc ngủ, có lẽ hãy hỏi hiệu thuốc
 trên rìa phía đông thị trấn. Nhưng ta thích
 MORUS:
 kế hoạch của cô, làm bọn cướp biển bị hạ gục
-có thể giúp chúng ta vào được pháo đài. Ta sẽ tìm ra nơi
-rượu của chúng đến và gặp cô ở đây.
+có thể giúp chúng ta vào được pháo đài. Ta
+sẽ tìm ra nơi rượu của chúng đến và gặp cô ở đây.
 ]],
 }
 
@@ -13726,9 +13807,9 @@ nhà kho bên cạnh. Ở đâu đó trong
 tầng hầm. Chúng sẽ được chuyển xuống
 Pháo đài Crow, nên sẽ hiệu quả thôi. Trong khi đó,
 MORUS:
-ta sẽ chèo thuyền đến Pháo đài Crow và đảm bảo lô hàng
-được đưa vào và có thời gian để làm chúng bất tỉnh. Nó
-nằm phía nam Lotus Shoal. Gặp cô ở đó.
+ta sẽ chèo thuyền đến Pháo đài Crow và đảm bảo lô
+hàng được đưa vào và có thời gian để làm chúng bất
+tỉnh. Nó nằm phía nam Lotus Shoal. Gặp cô ở đó.
 ]],
 }
 
@@ -13766,13 +13847,17 @@ dialog{
   id = "_oakhaven.npcs.morus.6",
   text = [[
 MORUS:
-Ta nghe nói những tên cướp biển từ Pháo đài Crow đã được nhìn thấy
-chạy trốn khỏi hòn đảo. Điều đó làm ta hạnh phúc.
-Cô đã tìm thấy tên cướp biển mà cô đang tìm chưa?
+Ta nghe nói những tên cướp biển từ Pháo đài Crow
+đã được nhìn thấy chạy trốn khỏi hòn đảo. Điều đó
+làm ta hạnh phúc. Cô đã tìm thấy tên cướp biển
+MORUS:
+mà cô đang tìm chưa?
+
+
 TILIA:
-Rồi, và thậm chí tốt hơn, tôi đã tìm thấy một tấm bản đồ
-cho thấy sào huyệt của Hội đồng Cướp biển
-ở đâu. Hãy xem này.
+Rồi, và thậm chí tốt hơn, tôi đã tìm thấy một
+tấm bản đồ cho thấy sào huyệt của Hội đồng
+Cướp biển ở đâu. Hãy xem này.
 MORUS:
 Hmm$1.....$3 Trông giống như Snapmast Reef.
 Cô sắp nói với ta rằng đó là nơi cô
@@ -13819,8 +13904,8 @@ dialog{
   text = [[
 MORUS:
 Làm sao ta lại ở đây? Đáng lẽ phải là
-Lily người chèo thuyền đưa cô đi xung quanh. Có lẽ là
-một loại lỗi nào đó trong trò chơi.
+Lily người chèo thuyền đưa cô đi xung quanh.
+Có lẽ là một loại lỗi nào đó trong trò chơi.
 TILIA:
 $?Hãy ra khơi.
 $?Không phải bây giờ.
@@ -13865,11 +13950,11 @@ dialog{
   text = [[
 MORUS:
 Al-Jazari cuối cùng cũng sẽ phải chịu trách nhiệm
-vì đã đánh chìm tàu của ta! Và những tội ác khác của hắn.
-Được rồi, hãy chia tay nhau. Mặc dù
+vì đã đánh chìm tàu của ta! Và những tội ác khác
+của hắn. Được rồi, hãy chia tay nhau. Mặc dù
 MORUS:
-bọn cướp biển đang ngủ, những người máy tự động của Al-jazari
-sẽ vẫn hoạt động.
+bọn cướp biển đang ngủ, những người máy tự động
+của Al-jazari sẽ vẫn hoạt động.
 ]],
 }
 
@@ -13878,8 +13963,8 @@ dialog{
   text = [[
 MORUS:
 Có vẻ như trung tâm của nhà máy
-người máy tự động là đằng sau cánh cửa này. Ta đang cố
-tìm cách mở nó...
+người máy tự động là đằng sau cánh cửa này. Ta
+đang cố tìm cách mở nó...
 ]],
 }
 
@@ -13908,8 +13993,8 @@ dialog{
   text = [[
 MORUS:
 Ah! Làm tốt lắm, Tilia. Cuối cùng ta cũng
-có thể đưa tên du côn này ra trước công lý. Cô
-nên kiểm tra văn phòng của hắn, có lẽ hắn
+có thể đưa tên du côn này ra trước công lý.
+Cô nên kiểm tra văn phòng của hắn, có lẽ hắn
 MORUS:
 có một tấm bản đồ chỉ cách đến
 trụ sở của Hội đồng Cướp biển.
@@ -13943,8 +14028,8 @@ một chuỗi xác tàu đắm ở đó gọi là
 Nghĩa trang Sóng, có vẻ như
 MORUS:
 sào huyệt của chúng nằm lọt thỏm trong đó. Ta sẽ không
-chèo thuyền đến đó, quá nhiều cướp biển và ta đã trả thù
-rồi. Nhưng ta sẽ cho cô một chuyến đi
+chèo thuyền đến đó, quá nhiều cướp biển và ta đã
+trả thù rồi. Nhưng ta sẽ cho cô một chuyến đi
 MORUS:
 quay lại Oakhaven nếu cô muốn.
 
@@ -13978,16 +14063,16 @@ Quán rượu Salamander Heartache. Tôi không phải là
 một nhạc công giỏi, nhưng ngoại trừ Gunther và
 BRIAN:
 Gloria, chỉ còn mỗi tôi. Tôi đã có một hợp
-đồng biểu diễn tuyệt vời tại quán rượu, nhưng nếu mọi người
-biết hai người kia giỏi thế nào, họ sẽ chiếm hết sự chú ý.
+đồng biểu diễn tuyệt vời tại quán rượu, nhưng nếu
+mọi người biết hai người kia giỏi thế nào,
 BRIAN:
-Vì vậy tôi cải trang thành quái vật để xé
-các áp phích quảng cáo của họ, ngăn mọi người phát hiện ra họ,
+họ sẽ chiếm hết sự chú ý. Vì vậy tôi cải trang
+thành quái vật để xé các áp phích quảng cáo
+của họ, ngăn mọi người phát hiện ra họ,
+BRIAN:
 và làm nản lòng họ...
-BRIAN:
 ...Và lẽ ra tôi đã thành công!
 Nếu không phải vì cô... kẻ phiền phức.
-
 TILIA:
 Này anh bạn. Đó là một kế hoạch phức tạp đấy.
 Tôi không biết tại sao anh lại nghĩ điều đó sẽ
@@ -14060,21 +14145,29 @@ TILIA:
 
 
 GUNTHER:
-Cảm ơn, tôi cũng nghĩ vậy. Thật không may, chúng tôi
-không thể thu hút ai đến xem buổi diễn của mình. Chúng tôi
-giống như, ban nhạc hay nhất không có khán giả. Thật là
+Cảm ơn, tôi cũng nghĩ vậy. Thật không may, chúng
+tôi không thể thu hút ai đến xem buổi diễn của mình.
+Chúng tôi giống như, ban nhạc hay nhất không có
 GUNTHER:
-điên rồ, bất cứ khi nào chúng tôi cố gắng quảng cáo một buổi diễn
+khán giả. Thật là điên rồ, bất cứ khi nào chúng
+tôi cố gắng quảng cáo một buổi diễn
 tại Quán rượu, một con quái vật xuất hiện và
+GUNTHER:
 xé các áp phích của chúng tôi.
+
+
 TILIA:
 Điều đó... thật điên rồ.
 
 
 GUNTHER:
-Nghiêm túc đấy. Ồ, này, cô có một thanh kiếm! Cô
-giống như, một phần của hải quân tình nguyện? Cô có thể
-giúp bảo vệ các áp phích ban nhạc của chúng tôi không?
+Nghiêm túc đấy. Ồ, này, cô có một thanh kiếm!
+Cô giống như, một phần của hải quân tình nguyện?
+Cô có thể giúp bảo vệ các áp phích ban nhạc của
+GUNTHER:
+chúng tôi không?
+
+
 TILIA:
 $?Tôi đoán vậy?
 $?Không đời nào.
@@ -14093,12 +14186,12 @@ Tuyệt vời! Nếu cô đi nói với người pha rượu tại
 Quán rượu Salamander Heartache rằng chúng tôi sẽ
 biểu diễn một show, tôi sẽ đi treo một vài áp phích,
 GUNTHER:
-nhưng nó sẽ giống như, một cái bẫy! Các áp phích là mồi.
-Cô có thể đi kiểm tra các áp phích, và đánh bại
+nhưng nó sẽ giống như, một cái bẫy! Các áp phích là
+mồi. Cô có thể đi kiểm tra các áp phích, và đánh bại
 con quái vật. Sau đó chúng tôi có thể biểu diễn một show.
 TILIA:
-Tại sao không. Tôi sẽ đi nói với người pha rượu tại
-Quán rượu Salamander Heartache rằng anh
+Tại sao không. Tôi sẽ đi nói với người pha rượu
+tại Quán rượu Salamander Heartache rằng anh
 sẵn sàng biểu diễn một show.
 GUNTER:
 Được lắm! Tôi sẽ treo một vài áp phích
@@ -14132,16 +14225,16 @@ dialog{
   text = [[
 GUNTHER:
 Này, tôi đã treo một đống áp phích lên. Giờ thì
-tất cả phụ thuộc vào cô. Cô phải bảo vệ các áp phích của tôi
-khỏi bị xé nát bởi quái vật.
+tất cả phụ thuộc vào cô. Cô phải bảo vệ các áp phích
+của tôi khỏi bị xé nát bởi quái vật.
 TILIA:
 Tôi sẽ đi kiểm tra chúng. Chúng ở đâu?
 
 
 GUNTHER:
-Khắp nơi, anh bạn! Con quái vật có thể ở bất cứ đâu
-trong thành phố, không áp phích nào là an toàn!
-
+Khắp nơi, anh bạn! Con quái vật có thể
+ở bất cứ đâu trong thành phố, không áp
+phích nào là an toàn!
 TILIA:
 Tôi đoán tôi sẽ chỉ đi dạo quanh
 thành phố và xem liệu tôi có thấy gì không.
@@ -14161,8 +14254,12 @@ có ai đó đang xé các áp phích của anh.
 Nó không phải là quái vật, mặc dù.
 GUNTHER:
 Nếu cố gắng hủy hoại sự nghiệp của một nhạc sĩ,
-chẳng phải anh ta giống, quái vật thật sao? Này, chúng tôi
-sẽ đi biểu diễn tại quán rượu! Hãy đến xem chúng tôi!
+chẳng phải anh ta giống, quái vật thật sao? Này,
+chúng tôi sẽ đi biểu diễn tại quán rượu!
+GUNTHER:
+Hãy đến xem chúng tôi!
+
+
 TILIA:
 Chắc chắn rồi, tôi sẽ gặp anh ở đó.
 ]],
@@ -14225,8 +14322,8 @@ dialog{
   text = [[
 LEFTY:
 Cảm ơn đã cứu chúng tôi khỏi lũ cướp biển.
-Chúng xuất hiện từ đâu, đòi hỏi
-tấm bản đồ mà bọn tôi lấy trộm tuần trước. Tự hỏi tại sao.
+Chúng xuất hiện từ đâu, đòi hỏi tấm bản đồ mà
+bọn tôi lấy trộm tuần trước. Tự hỏi tại sao.
 ]],
 }
 
@@ -14235,8 +14332,8 @@ dialog{
   text = [[
 AMOS:
 Tôi nghĩ những gã tấn công đó là từ
-hội đồng cướp biển. Chúng tôi không phải cướp biển, chỉ là
-trộm cắp. Khác biệt là chúng tôi không có tàu.
+hội đồng cướp biển. Chúng tôi không phải cướp biển,
+chỉ là trộm cắp. Khác biệt là chúng tôi không có tàu.
 ]],
 }
 
@@ -14244,9 +14341,13 @@ dialog{
   id = "_oakhaven.npcs.port.burglars.4",
   text = [[
 GÃ TRÔNG ĐÁNG NGỜ:
-Này. Tên là Shifty. Cô thực sự đã giúp
-chúng tôi thoát khỏi tình thế khó khăn đó, những gã đó đến
-và đánh cắp một tấm bản đồ mà bọn tôi ăn trộm tuần trước, rồi
+Này. Tên là Shifty. Cô thực sự đã giúp chúng tôi
+thoát khỏi tình thế khó khăn đó, những gã đó đến
+và đánh cắp một tấm bản đồ mà bọn tôi ăn
+GÃ TRÔNG ĐÁNG NGỜ:
+trộm tuần trước, rồi
+
+
 SHIFTY:
 cố đánh bọn tôi khi chúng tôi không giúp
 chúng tìm kho báu. Nhưng cô thậm chí đang làm gì
@@ -14256,9 +14357,9 @@ Tôi đang tìm bạn tôi Hazel. Cô ấy có
 xuống đây gặp các anh vì
 lý do gì không?
 SHIFTY:
-Ồ, cô biết Hazel? Cô ấy là nhất, chúng tôi
-gặp cô ấy trên Marblecliff khi chúng tôi đang leo
-núi. Cô ấy chỉ cho chúng tôi những cái rễ ngon lành, ờ...
+Ồ, cô biết Hazel? Cô ấy là nhất, chúng tôi gặp
+cô ấy trên Marblecliff khi chúng tôi đang leo núi.
+Cô ấy chỉ cho chúng tôi những cái rễ ngon lành, ờ...
 SHIFTY:
 Dù sao thì, hôm qua cô ấy đã hỏi liệu chúng tôi
 có biết cách vào Dinh Thự Thị trưởng.
@@ -14410,10 +14511,10 @@ dialog{
 Thành phố Oakhaven nằm ngay phía bắc đây.
 Đó là thành phố lớn nhất ở biển bắc,
 đã tồn tại từ trước trận lụt lớn.
-Những câu chuyện kể rằng Vua Biển, từ những truyền thuyết
-về trận lụt, từng có cung điện ở đây trước khi
-ngài chuyển nó đến một hòn đảo thần bí, nhưng tôi
-nghĩ tất cả chỉ là để thúc đẩy ngành du lịch.
+Những câu chuyện kể rằng Vua Biển, từ những truyền
+thuyết về trận lụt, từng có cung điện ở đây trước
+khi ngài chuyển nó đến một hòn đảo thần bí, nhưng
+tôi nghĩ tất cả chỉ là để thúc đẩy ngành du lịch.
 ]],
 }
 
@@ -14463,11 +14564,15 @@ dialog{
 dialog{
   id = "_oakhaven.npcs.port.misc.4",
   text = [[
-Chúng tôi có phải xưởng đóng tàu tốt nhất Oakhaven không?
-Chà, đây là cách tôi nghĩ về nó. Chúng tôi có phải
-xưởng đóng tàu duy nhất ở Oakhaven không? Có. Chúng tôi có
-giỏi trong công việc của mình không?..
-Chúng tôi là xưởng đóng tàu duy nhất ở Oakhaven.
+Chúng tôi có phải xưởng đóng
+tàu tốt nhất Oakhaven không? Chà,
+đây là cách tôi nghĩ về nó.
+Chúng tôi có phải xưởng đóng tàu duy
+nhất ở Oakhaven không? Có.
+Chúng tôi có giỏi trong công
+việc của mình không?
+..Chúng tôi là xưởng đóng tàu
+    duy nhất ở Oakhaven.
 ]],
 }
 
@@ -14521,11 +14626,11 @@ dialog{
   text = [[
 Tôi đoán nếu cậu đi con đường phía Tây từ
 bến cảng này, cậu có thể đi về phía nam đến
-bụi đước này, hoặc lên phía bắc đến một ngọn núi nào đó?
-Tôi không biết, tôi chưa bao giờ bận tâm đi xa.
-Có một khu chợ trong thị trấn, cá ở đây tại
-bến cảng, tại sao phải bận tâm đối phó với lũ quái vật
-trên đường chứ.
+bụi đước này, hoặc lên phía bắc đến một ngọn
+núi nào đó? Tôi không biết, tôi chưa bao giờ
+bận tâm đi xa. Có một khu chợ trong thị trấn,
+cá ở đây tại bến cảng, tại sao phải bận tâm
+đối phó với lũ quái vật trên đường chứ.
 ]],
 }
 
@@ -14534,12 +14639,12 @@ dialog{
   text = [[
 BENNY:
 Ồ này, chào mừng đến Oakhaven. Tôi là anh chàng
-đón tiếp ở đây tại Văn phòng Cảng. Chúng tôi chủ yếu là,
-làm hải quan cho hàng hóa và mấy thứ linh tinh, nhưng tôi có
+đón tiếp ở đây tại Văn phòng Cảng. Chúng tôi
+chủ yếu là, làm hải quan cho hàng hóa và mấy
 BENNY:
+thứ linh tinh, nhưng tôi có 
 một tờ rơi du lịch ở đây,
 muốn xem qua không?
-
 (Xem tờ rơi du lịch?)
 $?Đọc thử xem
 $?Cứ theo trái tim mách bảo
@@ -14677,7 +14782,8 @@ dialog{
 Một trong những điều tuyệt vời về các trận
 đấu giác đấu ở đây là họ mang đến những
 con quái vật ngầu từ những nơi tôi thậm chí
-chưa từng nghe đến. Thật là một thú vui khi bị chúng xé xác.
+chưa từng nghe đến. Thật là một thú vui khi bị
+chúng xé xác.
 ]],
 }
 
@@ -14698,8 +14804,9 @@ Nếu cậu có thể hạ gục tất cả quái vật trong
 các hạng mục khó hơn ở đây, cậu có lẽ
 khá ổn ở bất cứ đâu, huh? Ngoại trừ có lẽ
 một số con quái vật lớn ở cuối những
-nhiệm vụ dài và quanh co, tôi đoán vậy. Tôi nghe nói thậm chí
-có một con quái vật mạnh hơn cả... tôi không biết nữa,
+nhiệm vụ dài và quanh co, tôi đoán vậy. Tôi
+nghe nói thậm chí có một con quái vật mạnh
+hơn cả... tôi không biết nữa,
 khoảng mức mà cậu coi là trùm cuối?
 ]],
 }
@@ -14720,7 +14827,8 @@ dialog{
 Này, gương mặt mới tại đấu trường giác đấu!
 Cậu tự tìm đường vào đây à? Tôi cảm thấy rất tệ
 vì lối vào bị giấu, nhưng nó sẽ không phải là
-một đấu trường đánh nhau ngầm nếu chúng tôi quảng cáo.
+một đấu trường đánh nhau ngầm nếu chúng
+tôi quảng cáo.
 ]],
 }
 
@@ -14774,7 +14882,9 @@ trung tâm và chúng tôi sẽ thả quái vật.
 ANH CHÀNG ĐẤU TRƯỜNG:
 Một khi cậu hoàn thành một vòng, hãy đứng ở trung tâm
 đấu trường một lần nữa, và chúng tôi sẽ thả
-vòng tiếp theo. Không có thêm luật nào nữa. Cứ tự nhiên.
+vòng tiếp theo. Không có thêm luật nào nữa.
+ANH CHÀNG ĐẤU TRƯỜNG:
+Cứ tự nhiên.
 ]],
 }
 
@@ -14801,8 +14911,9 @@ dialog{
   text = [[
 Chào mừng. Đấu trường đánh nhau ngầm của chúng tôi
 quá ngầm đến nỗi chúng tôi còn không có tên.
-Nếu muốn tham gia môn thể thao máu me, hãy đi nói chuyện với
-gã đáng ngờ đang đứng ở bên kia bức tường.
+Nếu muốn tham gia môn thể thao máu me, hãy đi
+nói chuyện với gã đáng ngờ đang đứng ở
+bên kia bức tường.
 ]],
 }
 
@@ -14848,8 +14959,8 @@ Trả tiền tôi cũng không uống ở đây khi anh ta
 chơi. Không phải anh ta tệ,
 mà tôi ghét kèn. Chúng nhắc tôi nhớ đến
 lúc tôi bị húc vào sườn bởi sừng của một
-con quái vật. Đó là một kiểu liên tưởng từ ngữ kỳ lạ,
-tôi biết.
+con quái vật. Đó là một kiểu liên tưởng từ
+ngữ kỳ lạ, tôi biết.
 ]],
 }
 
@@ -14858,8 +14969,8 @@ dialog{
   text = [[
 Này, cậu có hiểu người phụ nữ đó đang hát gì không?
 Tôi kiểu, rất thích bài hát này,
-nhưng nếu nó nói về thứ gì đó ngớ ngẩn thì sao? Kiểu
-nó chỉ nói về táo hay gì đó?
+nhưng nếu nó nói về thứ gì đó ngớ ngẩn
+thì sao? Kiểu nó chỉ nói về táo hay gì đó?
 ]],
 }
 
@@ -14907,18 +15018,20 @@ chắc chắn nhận thấy một đống chỗ mà,
 nếu tôi đã thu thập các vật phẩm cho tôi
 khả năng mới suốt từ đó, tôi đã có thể
 đến được đâu đó mới. Thực sự làm tôi hối hận
-về các lựa chọn cuộc đời mình trong việc không thu thập chúng.
+về các lựa chọn cuộc đời mình trong việc không
+thu thập chúng.
 ]],
 }
 
 dialog{
   id = "_oakhaven.npcs.saloon.9",
   text = [[
-Hmm, tôi á? Tôi chỉ là một người đàn ông bình thường ngồi ở
-một cái bàn trong góc quán rượu một mình.
-Tại sao, nó làm tôi trông có vẻ quan trọng à? Như thể
-tôi có thể giao cho cậu một nhiệm vụ nào đó? Như thể có
-nhiều điều hơn trong câu chuyện của tôi?...
+Hmm, tôi á? Tôi chỉ là một người đàn ông bình
+thường ngồi ở một cái bàn trong góc quán rượu
+một mình. Tại sao, nó làm tôi trông có vẻ
+quan trọng à? Như thể tôi có thể giao cho
+cậu một nhiệm vụ nào đó? Như thể có nhiều
+điều hơn trong câu chuyện của tôi?...
 ...Tuyệt, đó chính xác là điều tôi đang
 hướng tới. Đó là một phong cách.
 ]],
@@ -14963,13 +15076,17 @@ Một nhạc sĩ tên Gunther bảo tôi gặp ông.
 Anh ấy nói sẽ biểu diễn một buổi diễn ở đây.
 
 NGƯỜI PHA RƯỢU:
-Tốt, tôi đã bảo anh ta cho tôi biết bất cứ khi nào
-anh ta có thể chơi. Họ không mang lại đám đông lớn,
-nhưng tay thổi kèm trumpet đằng kia? Tôi không thể
+Tốt, tôi đã bảo anh ta cho tôi biết bất
+cứ khi nào anh ta có thể chơi.
+Họ không mang lại đám đông lớn, nhưng tay
 NGƯỜI PHA RƯỢU:
-chịu nổi anh ta... Tôi đoán anh ta còn hơn không có gì,
-nhưng một số ngày, tôi còn không chắc về điều đó.
+thổi kèm trumpet đằng kia? Tôi không thể
+chịu nổi anh ta... Tôi đoán anh ta còn hơn
+không có gì, nhưng một số ngày, tôi còn
+NGƯỜI PHA RƯỢU:
+không chắc về điều đó.
 Dù sao, tôi hy vọng mọi người đến xem Gunther.
+
 TILIA:
 Tôi đoán là miễn tôi có thể bảo vệ các áp phích
 quảng cáo buổi diễn, họ sẽ đến.
@@ -14980,7 +15097,9 @@ Các áp phích cần được bảo vệ?
 
 TILIA:
 Hình như có một con quái vật đang xé
-chúng xuống? Tôi không thực sự biết chuyện gì đang xảy ra.
+chúng xuống? Tôi không thực sự biết chuyện
+gì đang xảy ra.
+TILIA:
 Tôi sẽ đi kiểm tra một vài tấm áp phích.
 ]],
 }
@@ -15000,7 +15119,8 @@ dialog{
 Tôi đang thực sự lắc lư theo những nhạc sĩ này.
 Nó đang giúp tôi quên đi những tàn tích rùng rợn
 tôi đã thấy trong Puzzlewood trên Yarrowmouth.
-Tất cả những con mắt đá đó, nhìn chằm chằm vào tôi... ugh.
+Tất cả những con mắt đá đó,
+nhìn chằm chằm vào tôi... ugh.
 ]],
 }
 
@@ -15024,9 +15144,10 @@ dialog{
   id = "_oakhaven.npcs.saloon.trumpet_era.2",
   text = [[
 Tôi không biết gã thổi kèn trumpet buồn bã là ai,
-nhưng tôi chưa bao giờ nghe một bài hát nào vừa hung hãn
-mà lại vừa thảm hại đến vậy. Nó hấp dẫn nhưng không phải thứ
-tôi muốn nghe khi tôi ra ngoài uống rượu.
+nhưng tôi chưa bao giờ nghe một bài hát nào
+vừa hung hãn mà lại vừa thảm hại đến vậy.
+Nó hấp dẫn nhưng không phải thứ tôi
+muốn nghe khi tôi ra ngoài uống rượu.
 ]],
 }
 
@@ -15038,8 +15159,8 @@ Có lẽ chỉ là tôi, nhưng khi họ dựng
 tường cho khu vực chỗ ngồi tầng hầm mới này,
 chỗ ngay đằng kia luôn
 KHÁCH QUÁN RƯỢU:
-trông có vẻ hơi sai sai. Như thể họ đã làm một công việc tồi
-ngay chỗ bên trái chúng ta.
+trông có vẻ hơi sai sai. Như thể họ đã làm một
+công việc tồi ngay chỗ bên trái chúng ta.
 ]],
 }
 
@@ -15080,9 +15201,10 @@ dialog{
   text = [[
 NHÀ ĐIÊU KHẮC:
 Này, cảm ơn! Cô đã hạ gục mấy gã sỏi đá đó
-như thể chúng chỉ là... tôi không biết nữa, những viên sỏi?
-Tôi là người làm tượng, không phải nhà thơ. Đây, nhận
+như thể chúng chỉ là... tôi không biết nữa,
+những viên sỏi? Tôi là người làm tượng,
 NHÀ ĐIÊU KHẮC:
+không phải nhà thơ. Đây, nhận
 một phần vật liệu đi!
 ]],
 }
@@ -15092,9 +15214,10 @@ dialog{
   text = [[
 NHÀ ĐIÊU KHẮC:
 Này, cảm ơn vì đã giúp tôi đập tan
-mấy tên sỏi đá vô lại đó. Tôi có rất nhiều đất sét tốt để
-làm một số bức tượng. Tượng quái vật. Đúng vậy.
+mấy tên sỏi đá vô lại đó. Tôi có rất nhiều đất
+sét tốt để làm một số bức tượng.
 NHÀ ĐIÊU KHẮC:
+Tượng quái vật. Đúng vậy.
 Giờ tôi đã tích trữ đủ vật liệu và sẵn sàng
 tạo ra thứ gì đó thực sự kinh khủng.
 ]],
@@ -15103,7 +15226,8 @@ tạo ra thứ gì đó thực sự kinh khủng.
 dialog{
   id = "_oakhaven.npcs.shipyard.1",
   text = [[
-Tôi đã làm hỏng rồi, tôi đã làm hỏng rồi, tôi đã làm hỏng rồi...
+Tôi đã làm hỏng rồi, tôi đã làm hỏng rồi,
+tôi đã làm hỏng rồi...
 ]],
 }
 
@@ -15268,11 +15392,11 @@ Bầu trời đã bỏ chúng ta từ lâu. Nhưng bộ tộc của
 Ophira từng nhớ về vị thần Đất.
 THẦY TU:
 Và họ có cách để khơi thông những ngọn lửa
-và động đất của Đất. Tôi muốn nhìn thấy
-ngọn giáo này để chứng minh điều đó. Chỉ để với bản thân mình...
+và động đất của Đất. Tôi muốn nhìn thấy ngọn giáo
+này để chứng minh điều đó. Chỉ để với bản thân mình...
 TILIA:
-Chà, nếu tôi tìm thấy một ngọn giáo bên trong cối xay gió,
-tôi sẽ cho thầy xem nó.
+Chà, nếu tôi tìm thấy một ngọn giáo bên trong
+cối xay gió, tôi sẽ cho thầy xem nó.
 ]],
 }
 
@@ -15309,8 +15433,8 @@ cụ già.
 
 THẦY TU:
 Tôi có thể xem nó một lúc không? Chỉ để
-chứng minh với bản thân rằng sự lưu đày của tôi là xứng đáng.
-
+chứng minh với bản thân rằng sự lưu đày của
+tôi là xứng đáng.
 TILIA:
 Được chứ. Đây.
 
@@ -15351,8 +15475,8 @@ dialog{
   text = [[
 THẦY TU:
 Cảm ơn cô đã cho tôi xem ngọn giáo đó. Được
-thấy bằng chứng rằng con người từng nhớ về
-các vị thần cũ... Nghĩa là sự lưu đày của tôi là xứng đáng.
+thấy bằng chứng rằng con người từng nhớ về các vị
+thần cũ... Nghĩa là sự lưu đày của tôi là xứng đáng.
 ]],
 }
 
@@ -15364,12 +15488,12 @@ PHÓ ĐỘI TRƯỞNG:
 
 
 TILIA:
-Ôi trời, lại là anh? Tôi đã nói với anh tôi không phải là
-đội trưởng của các anh chỉ vì tôi đánh bại tất cả
-bọn Barbell Brutes trong một trận chiến.
+Ôi trời, lại là anh? Tôi đã nói với anh tôi không
+phải là đội trưởng của các anh chỉ vì tôi đánh bại
+tất cả bọn Barbell Brutes trong một trận chiến.
 PHÓ ĐỘI TRƯỞNG:
-Không, cô là vì tôi đã thăng cô lên làm
-đội trưởng. Dù sao thì, tôi đang thực hiện một cuộc hành trình để
+Không, cô là vì tôi đã thăng cô lên làm đội trưởng.
+Dù sao thì, tôi đang thực hiện một cuộc hành trình để
 phát triển sức mạnh nội tâm của mình. Tôi đã leo lên
 PHÓ ĐỘI TRƯỞNG:
 tu viện trên đỉnh Núi Marblecliff
@@ -15536,8 +15660,8 @@ thì ngủ quên... Hãy xem nó nói gì.
 Tôi sẽ thực hiện một số bảo trì định kỳ
 các nồi hơi vào chiều nay. Hãy lưu ý rằng
 cửa tháp có thể bị kẹt trong khi
-các nồi hơi ngừng hoạt động. Nó sẽ bắt đầu hoạt động trở lại
-một khi các nồi hơi trở lại trực tuyến.
+các nồi hơi ngừng hoạt động. Nó sẽ bắt đầu hoạt động
+trở lại một khi các nồi hơi trở lại trực tuyến.
 -Đội trưởng al-Jazari
 ]],
 }
@@ -15606,8 +15730,8 @@ dialog{
 khi ông còn trẻ. Ông đã đi thuyền đến trung tâm
 của biển và thổ lộ tình yêu của mình với
 Đại dương bằng một bài hát. Bị quyến rũ bởi sự tôn trọng
-của ông dành cho bà, Đại dương đã trao cho nhà vua trái tim của bà,
-cho phép ông có ảnh hưởng đến thủy triều,
+của ông dành cho bà, Đại dương đã trao cho nhà vua trái
+tim của bà, cho phép ông có ảnh hưởng đến thủy triều,
 những cơn bão, và quái vật của Đại dương.
 Ông cai trị công bằng trong một thời gian...
 (Có một đoạn được gạch chân ở phần sau. Có vẻ
@@ -15615,8 +15739,8 @@ như Hazel quan tâm đến phần này.)
 ...nhưng sức mạnh của ông đã thay đổi ông. Ông trở nên
 kiêu ngạo và mất đi sự tôn trọng với Đại dương.
 Một ngày nọ, Đại dương hỏi ông liệu bà có thể
-ghé thăm không, và trong niềm kiêu hãnh, ông đã đồng ý. Bà ập vào
-cung điện của ông ở trung tâm biển, và
+ghé thăm không, và trong niềm kiêu hãnh, ông đã đồng ý.
+Bà ập vào cung điện của ông ở trung tâm biển, và
 kéo nhà vua cùng với Ocean's Heart,
 cùng với cung điện của ông, xuống đáy biển.
 Vương quốc và tất cả những gì ông trân quý đều bị
@@ -15634,7 +15758,8 @@ dialog{
 dialog{
   id = "_oakhaven.observations.hazel_books.8-note",
   text = [[
-Có một danh sách việc cần làm ở đây, trông như chữ viết tay của Hazel!
+Có một danh sách việc cần làm ở đây, trông như chữ viết
+tay của Hazel!
 Bạn xem qua...
 -Mua rau cho bữa tối (đã được đánh dấu)
 -Nghiên cứu trang sức Meurian? (đánh dấu)
@@ -15772,10 +15897,10 @@ cơn bão khủng khiếp của ngài đã hoàn toàn phá hủy
 nhà cửa của họ. Tôi đã nhìn thấy ngôi làng của họ,
 hoặc những gì còn lại sau cơn bão. Và
 tôi sợ rằng những Chiến binh Gấu chống lại sự
-cai trị của ngài sẽ gặp số phận tương tự. Cố vấn của ngài,
-Hạc, rất thân với tộc trưởng mà nhà vua
-áp đặt lên các chiến binh. Tôi hy vọng ông ấy có thể ngăn cản
-nhà vua.
+cai trị của ngài sẽ gặp số phận tương tự.
+Cố vấn của ngài, Hạc, rất thân với tộc
+trưởng mà nhà vua áp đặt lên các chiến binh.
+Tôi hy vọng ông ấy có thể ngăn cản nhà vua.
 ]],
 }
 
@@ -15802,8 +15927,8 @@ Vua Biển đã đi thuyền đến Yarrowmouth, tìm thấy Hạc
 ở đó. Ngay cả Hạc trung thành cũng đã phản bội ngài,
 và ngăn cản Nhà vua tiêu diệt những
 kẻ phản nghịch còn lại. Thủ lĩnh còn lại của họ,
-Zephyrine, đã trốn thoát và đưa quân đội của mình ra khỏi
-Biển Bắc.
+Zephyrine, đã trốn thoát và đưa quân đội của
+mình ra khỏi Biển Bắc.
 ]],
 }
 
@@ -15826,9 +15951,9 @@ chó Thị trưởng.
 dialog{
   id = "_oakhaven.observations.palace.crossword",
   text = [[
-Có một câu đố ô chữ khó một cách đáng ngờ, gần như hoàn toàn
-đã được hoàn thành mà Thị trưởng đã
-tiện tay để lại trên bàn làm việc.
+Có một câu đố ô chữ khó một cách đáng ngờ,
+gần như hoàn toàn đã được hoàn thành mà
+Thị trưởng đã tiện tay để lại trên bàn làm việc.
 ]],
 }
 
@@ -15865,12 +15990,12 @@ dialog{
   text = [[
 Có một đống bùa chú và ký hiệu được khắc
 trên đá. Bạn không đọc được chúng, nhưng khi
-bạn nhìn kỹ... bạn có muốn chích ngón tay và nhỏ máu lên đá không?
-Bạn không đọc được các ký tự, nhưng dù vậy,
-không hiểu sao, bạn cảm thấy muốn làm điều đó.
+bạn nhìn kỹ... bạn có muốn chích ngón tay và
+nhỏ máu lên đá không? Bạn không đọc được các
+ký tự, nhưng dù vậy, không hiểu sao,
+bạn cảm thấy muốn làm điều đó.
 $?Chích ngón tay
 $?Chất lỏng cơ thể phải ở bên trong, đó là nguyên tắc.
-
 ]],
 }
 
@@ -16363,8 +16488,8 @@ ban tặng gì cho một kẻ phàm trần. Hãy để biển cả phủ kín
 tàn tích của vị vua già và cuốn trôi hồn ma của hắn! Tao
 chính là vua biển mới!
 TILIA:
-Không, không, không, chết tiệt! Tệ rồi, mình không thể chiến đấu với hắn
-như thế này. Mình cần phải ra khỏi đây!
+Không, không, không, chết tiệt! Tệ rồi, mình không thể
+chiến đấu với hắn như thế này. Mình cần phải ra khỏi đây!
 ]],
 }
 
@@ -16717,11 +16842,11 @@ dialog{
   text = [[
 LENDA:
 Vậy ừ, tôi đoán kế hoạch của tôi chỉ là nhốt
-lũ cướp biển đó trong pháo đài của chúng và... chà, kế hoạch của tôi
-là nhốt lũ cướp biển trong pháo đài của chúng.
+lũ cướp biển đó trong pháo đài của chúng và... chà,
+kế hoạch của tôi là nhốt lũ cướp biển trong pháo
 LENDA:
-Giờ tôi phải đợi ở đây để đảm bảo chúng
-không thoát ra.
+đài của chúng. Giờ tôi phải đợi ở đây
+để đảm bảo chúng không thoát ra.
 
 TILIA:
 Đừng lo, tôi sẽ đi đánh chúng để bạn
@@ -16733,8 +16858,8 @@ dialog{
   id = "_sycamore_ferry.npcs.lily.help",
   text = [[
 NGƯỜI PHỤ NỮ:
-Này! Bạn kia! Giúp một cô gái ra nào, lũ quái vật này
-đã ghim tôi trong đây!
+Này! Bạn kia! Giúp một cô gái ra nào,
+lũ quái vật này đã ghim tôi trong đây!
 ]],
 }
 
@@ -16742,9 +16867,9 @@ dialog{
   id = "_sycamore_ferry.npcs.lily.saved",
   text = [[
 NGƯỜI PHỤ NỮ:
-Này, cảm ơn, đó thực sự là một tình thế khó khăn. Tôi là
-Lily, của Lily's Delilveries.
-
+Này, cảm ơn, đó thực sự là một tình
+thế khó khăn. Tôi là Lily,
+của Lily's Delilveries.
 TILIA:
 Không có gì. Ý bạn là deliveries (giao hàng)?
 
@@ -16758,13 +16883,13 @@ Này nếu đó là một phần thương hiệu của bạn, cứ làm đi.
 Chỉ cần tránh xa lũ quái vật.
 
 LILY:
-Này, tôi muốn làm gì đó cho bạn. Vì
-bạn thực sự đã giải cứu tôi ở đó. Nếu bạn thấy tôi
-xung quanh, hãy đến nói chuyện với tôi. Tôi luôn đi thuyền,
+Này, tôi muốn làm gì đó cho bạn. Vì bạn thực sự
+đã giải cứu tôi ở đó. Nếu bạn thấy tôi xung quanh,
+hãy đến nói chuyện với tôi. Tôi luôn đi thuyền,
 LILY:
 nên tôi có thể chở bạn đi khắp mọi nơi tôi đã
-từng đến. Hoặc thậm chí những nơi tôi chưa đến, nếu bạn
-mang cho tôi một tấm bản đồ. Tôi thích du lịch.
+từng đến. Hoặc thậm chí những nơi tôi chưa đến,
+nếu bạn mang cho tôi một tấm bản đồ. Tôi thích du lịch.
 TILIA:
 Được rồi, cảm ơn. Nếu tôi gặp bạn xung quanh, tôi
 chắc chắn sẽ tìm gặp bạn.
@@ -16787,8 +16912,8 @@ Không hẳn, không.
 
 
 LILY:
-Dù sao thì, nếu bạn thấy tôi xung quanh, hãy đến nói chuyện
-với tôi. Tôi sẽ có thể chở bạn đi
+Dù sao thì, nếu bạn thấy tôi xung quanh, hãy đến nói
+chuyện với tôi. Tôi sẽ có thể chở bạn đi
 những nơi tôi đã đến. Hoặc nếu bạn có bản đồ
 LILY:
 của những nơi tôi chưa đến, thì cả những
@@ -17289,9 +17414,9 @@ dialog{
 Bạn tìm thấy Bùa Warpbolt. Sử dụng cái này để
 bắn các tia sáng từ cung của bạn thay vì
 tên. Chúng sẽ tiêu thụ một ít
-ma thuật của bạn, nhưng sẽ ảnh hưởng đến kẻ thù và một số
-đối tượng khác trong thế giới theo những cách
-không ngờ tới.
+ma thuật của bạn, nhưng sẽ ảnh hưởng đến kẻ thù
+và một số đối tượng khác trong thế giới theo
+những cách không ngờ tới.
 ]],
 }
 
@@ -17501,32 +17626,32 @@ kẻ thù.
 dialog{
   id = "_treasure.ether_bombs_pickable.1",
   text = [[
-Bạn có được một số Bom Ether. Một khi được ném, những quả này
-sẽ phát nổ và tạm thời đóng băng kẻ thù.
+Bạn có được một số Bom Ether. Một khi được ném,
+những quả này sẽ phát nổ và tạm thời đóng băng kẻ thù.
 ]],
 }
 
 dialog{
   id = "_treasure.ether_bombs_pickable.2",
   text = [[
-Bạn có được một số Bom Ether. Một khi được ném, những quả này
-sẽ phát nổ và tạm thời đóng băng kẻ thù.
+Bạn có được một số Bom Ether. Một khi được ném,
+những quả này sẽ phát nổ và tạm thời đóng băng kẻ thù.
 ]],
 }
 
 dialog{
   id = "_treasure.ether_bombs_pickable.3",
   text = [[
-Bạn có được một số Bom Ether. Một khi được ném, những quả này
-sẽ phát nổ và tạm thời đóng băng kẻ thù.
+Bạn có được một số Bom Ether. Một khi được ném,
+những quả này sẽ phát nổ và tạm thời đóng băng kẻ thù.
 ]],
 }
 
 dialog{
   id = "_treasure.ether_bombs_pickable.4",
   text = [[
-Bạn có được một số Bom Ether. Một khi được ném, những quả này
-sẽ phát nổ và tạm thời đóng băng kẻ thù.
+Bạn có được một số Bom Ether. Một khi được ném,
+những quả này sẽ phát nổ và tạm thời đóng băng kẻ thù.
 ]],
 }
 
@@ -17949,16 +18074,16 @@ xung quanh đây...
 dialog{
   id = "_treasure.key_dandelion_charm.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực này.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một
+cánh cửa trong khu vực này.
 ]],
 }
 
 dialog{
   id = "_treasure.key_fort_crow.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó có thể mở khóa một cánh cửa trong
-pháo đài này.
+Bạn tìm thấy một chìa khóa. Nó có thể mở khóa
+một cánh cửa trong pháo đài này.
 ]],
 }
 
@@ -17973,9 +18098,9 @@ trong khu vực này.
 dialog{
   id = "_treasure.key_goat_tunnels.1",
   text = [[
-Bạn tìm thấy một chìa khóa gỉ sét. Chỉ có một chút nấm mốc
-mọc trên nó. Có lẽ nó dùng cho một ổ khóa
-nào đó gần đây.
+Bạn tìm thấy một chìa khóa gỉ sét. Chỉ có
+một chút nấm mốc mọc trên nó. Có lẽ nó dùng
+cho một ổ khóa nào đó gần đây.
 ]],
 }
 
@@ -17998,8 +18123,8 @@ chiếc lá sồi được khắc vào tay cầm.
 dialog{
   id = "_treasure.key_hourglass_fort.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực này.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực này.
 ]],
 }
 
@@ -18007,24 +18132,24 @@ dialog{
   id = "_treasure.key_juneberry_inn.1",
   text = [[
 Bạn tìm thấy một chìa khóa! Trông nó như mở khóa
-một cánh cửa tại một quán trọ, nhưng tôi đoán không phải
-cái này.
+một cánh cửa tại một quán trọ, nhưng tôi
+đoán không phải cái này.
 ]],
 }
 
 dialog{
   id = "_treasure.key_juniper_grove.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực này.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực này.
 ]],
 }
 
 dialog{
   id = "_treasure.key_juniper_grove_2.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực này.
+Bạn tìm thấy một chìa khóa. Nó sẽ
+mở khóa một cánh cửa trong khu vực này.
 ]],
 }
 
@@ -18032,17 +18157,18 @@ dialog{
   id = "_treasure.key_kingsdown.1",
   text = [[
 Bạn nhận được một chìa khóa cũ mà bố bạn đã vô tình
-đánh mất. Nó có vẻ quan trọng, nhưng nó có thể mở khóa
-bất cứ thứ gì. Có lẽ hãy cứ giữ nó và
-theo đuổi một số manh mối khác trước.
+đánh mất. Nó có vẻ quan trọng, nhưng nó có
+thể mở khóa bất cứ thứ gì. Có lẽ hãy
+cứ giữ nó và theo đuổi một số manh
+mối khác trước.
 ]],
 }
 
 dialog{
   id = "_treasure.key_limestone_sanctuary.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực này.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực này.
 ]],
 }
 
@@ -18057,8 +18183,8 @@ mật ong?
 dialog{
   id = "_treasure.key_palace_of_storms.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực.
 ]],
 }
 
@@ -18081,16 +18207,16 @@ có lẽ mở một cánh cửa trong những tàn tích này.
 dialog{
   id = "_treasure.key_sometimes_cape_ruins.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực.
 ]],
 }
 
 dialog{
   id = "_treasure.key_spruce_head.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực.
 ]],
 }
 
@@ -18106,16 +18232,16 @@ dialog{
   id = "_treasure.key_to_oakhaven.1",
   text = [[
 Bạn nhận được chìa khóa thành Oakhaven.
-Theo như bạn có thể nhận thấy, nó chỉ là một chìa khóa
-mang tính nghi lễ, tượng trưng.
+Theo như bạn có thể nhận thấy, nó chỉ
+là một chìa khóa mang tính nghi lễ, tượng trưng.
 ]],
 }
 
 dialog{
   id = "_treasure.key_willow_palace.1",
   text = [[
-Bạn tìm thấy một chìa khóa. Nó sẽ mở khóa một cánh cửa
-trong khu vực.
+Bạn tìm thấy một chìa khóa. Nó sẽ mở
+khóa một cánh cửa trong khu vực.
 ]],
 }
 
@@ -18728,13 +18854,15 @@ dialog{
   id = "_yarrowmouth.npcs.carlov.1",
   text = [[
 CARLOV:
-Á! Xin lỗi. Tôi hay giật mình. Tôi làm nghề vận chuyển cà rốt.
-Nhưng bọn cướp biển này đã tấn công
+Á! Xin lỗi. Tôi hay giật mình. Tôi làm nghề vận
+chuyển cà rốt. Nhưng bọn cướp biển này đã tấn công
 tôi. Tôi đã nhờ nữ hải quân tình nguyện của thị trấn
 CARLOV:
 giúp tôi, nhưng giờ bọn cướp biển muốn
 đến gặp tôi để "nói chuyện"... Vì vậy, với
-nhiều cà rốt như vậy đang bị đe dọa... Tôi khá là lo lắng.
+nhiều cà rốt như vậy đang bị đe dọa... 
+CARLOV:
+Tôi khá là lo lắng.
 ]],
 }
 
@@ -18782,36 +18910,38 @@ Bọn cướp Đồng Hồ Cát, phải không?
 
 EUDICOT:
 Không đời nào. Chúng là những người hàng xóm tồi tệ, 
-suốt ngày ăn mừng. Có một gã Hải quân Tình nguyện đã đến
-qua đây một lúc trước, bắt đầu một
+suốt ngày ăn mừng. Có một gã Hải quân Tình
+nguyện đã đến qua đây một lúc trước, bắt đầu một
 EUDICOT:
-cuộc ẩu đả. Một nhóm trong Băng Đồng Hồ Cát đã bỏ chạy,
-sau đó gã đó rời đi với một người khác.
-Một cô gái, tôi nghĩ vậy.
+cuộc ẩu đả. Một nhóm trong Băng Đồng Hồ Cát
+đã bỏ chạy, sau đó gã đó rời đi với một
+người khác. Một cô gái, tôi nghĩ vậy.
 TILIA:
 Hazel! Đó hẳn là Bố! Ông có biết
 họ đã đi đâu không?!
 
 EUDICOT:
 Không thể nói. Nhưng... tôi có một ý tưởng mà tôi
-nghĩ có thể có lợi cho cả hai chúng ta. Đây là một bí mật-
-Băng Đồng Hồ Cát đã cất giữ các
+nghĩ có thể có lợi cho cả hai chúng ta. Đây là
+một bí mật- Băng Đồng Hồ Cát đã cất giữ các
 EUDICOT:
 bản đồ và thư từ quan trọng của chúng bên trong
-tòa tháp bị khóa ngay phía đông của đây. Nếu cô có thể vào
-bên trong, cô có thể tìm ra nơi chúng đã chạy trốn đến,
+tòa tháp bị khóa ngay phía đông của đây.
+Nếu cô có thể vào bên trong, cô có thể tìm
 EUDICOT:
-và tôi có thể tìm ra nơi chúng đã cất giấu
-loại rượu ngon thực sự. Nghe như một thỏa thuận chứ?
-
+ra nơi chúng đã chạy trốn đến, và tôi có 
+thể tìm ra nơi chúng đã cất giấu loại rượu
+ngon thực sự. Nghe như một thỏa thuận chứ?
 TILIA:
 Tôi không chắc nó là thỏa thuận thế nào khi tôi
 là người làm việc, nhưng được thôi.
 
 EUDICOT:
-Nó là thỏa thuận vì tôi đang đưa cho cô một chìa khóa mà cô
-sẽ cần. Hãy coi chừng quái vật và đại loại.
-Đó là lý do tại sao cánh cửa bị khóa.
+Nó là thỏa thuận vì tôi đang đưa cho cô
+một chìa khóa mà cô sẽ cần. Hãy coi chừng
+quái vật và đại loại. Đó là lý do tại sao
+EUDICOT:
+cánh cửa bị khóa.
 ]],
 }
 
@@ -18820,9 +18950,10 @@ dialog{
   text = [[
 EUDICOT:
 Băng Đồng Hồ Cát đã cất giữ các
-bản đồ và thư từ quan trọng của chúng bị khóa trong tòa tháp
-phía đông của đây. Có lẽ cả rượu gin ngon nhất của chúng nữa.
+bản đồ và thư từ quan trọng của chúng bị khóa
+trong tòa tháp phía đông của đây. Có lẽ cả
 EUDICOT:
+rượu gin ngon nhất của chúng nữa.
 Nếu cô có thể vào đó, cô có lẽ sẽ
 có thể ghép lại được nơi chúng đã đi.
 ]],
@@ -18833,12 +18964,12 @@ dialog{
   text = [[
 TILIA:
 Này! Tôi đã bắt đầu nghĩ rằng mình sẽ không
-đánh bại được tên cướp biển nào, nhưng ông đây rồi!
-
+đánh bại được tên cướp biển nào,
+nhưng ông đây rồi!
 EUDICOT:
-Hả? Nghe này, tôi có thể ở đây để ăn trộm một ít
-rượu rum của chúng, nhưng điều đó không khiến tôi trở thành một
-tên cướp biển.
+Hả? Nghe này, tôi có thể ở đây để
+ăn trộm một ít rượu rum của chúng, nhưng
+điều đó không khiến tôi trở thành một tên cướp biển.
 TILIA:
 Ông là... đợi đã, ông là ai?
 
@@ -18895,8 +19026,9 @@ dialog{
   id = "_yarrowmouth.npcs.hourglass_encounter.1",
   text = [[
 TILIA:
-Thuyền trưởng Thyme. Cuối cùng tôi cũng tìm thấy ngài. Tên tôi
-là Tilia. Tôi đến từ Đảo Limestone.
+Thuyền trưởng Thyme. Cuối cùng tôi cũng tìm
+thấy ngài. Tên tôi là Tilia. Tôi đến
+từ Đảo Limestone.
 ]],
 }
 
@@ -18905,40 +19037,48 @@ dialog{
   text = [[
 THUYỀN TRƯỞNG THYME:
 Hmm. Nghe có vẻ đúng. Toàn là rắc rối từ
-Đảo Limestone. Cách đây, khoảng sáu tháng
-Râu Đen đã gửi chúng tôi đến đảo của cô, phải không?
+Đảo Limestone. Cách đây, khoảng sáu tháng Râu Đen
+đã gửi chúng tôi đến đảo của cô, phải không?
 TILIA:
 Đúng vậy. Suýt nữa thì đốt cháy
 quán rượu của gia đình tôi và bắt cóc bạn tôi.
 Hazel đâu?
 THUYỀN TRƯỞNG THYME:
-Cô gái, tôi xin lỗi. Nghe này, tôi đã từng là thành viên của
-Hội đồng Cướp biển. Một nhóm các thuyền trưởng mà
-Râu Đen tập hợp lại. Hắn đã cử đoàn của tôi
+Cô gái, tôi xin lỗi. Nghe này, tôi đã từng
+là thành viên của Hội đồng Cướp biển.
+Một nhóm các thuyền trưởng mà Râu Đen
 THUYỀN TRƯỞNG THYME:
-đi cướp bóc các đền thờ cổ, tìm kiếm một số
-bùa hộ mạng ma thuật mà cuối cùng chúng tôi tìm thấy ở Spruce
-Head. Đó là lý do tại sao chúng tôi ở Limestone.
+tập hợp lại. Hắn đã cử đoàn của tôi đi
+cướp bóc các đền thờ cổ, tìm kiếm một số
+bùa hộ mạng ma thuật mà cuối cùng chúng
 THUYỀN TRƯỞNG THYME:
+tôi tìm thấy ở Spruce Head. Đó là 
+lý do tại sao chúng tôi ở Limestone.
 Ngay sau khi tôi gửi tấm bùa đó
+THUYỀN TRƯỞNG THYME:
 cho Râu Đen thì một người khác từ
 Đảo Limestone xuất hiện ở đây...
+Cùng một cái mũi với cô, đó là bố
 THUYỀN TRƯỞNG THYME:
-Cùng một cái mũi với cô, đó là bố cô à? Chà, dù sao thì,
-ông ta đã đánh bại toàn bộ đoàn của tôi. Cho tôi một
-trận nên thân, và giải cứu cô bé Hazel. Đoàn của tôi bỏ tôi
+cô à? Chà, dù sao thì, ông ta đã đánh
+bại toàn bộ đoàn của tôi. Cho tôi một
+trận nên thân, và giải cứu cô bé Hazel.
 THUYỀN TRƯỞNG THYME:
-sau đó, nói rằng họ đã chịu đủ, không
-muốn làm việc cho Hội đồng Cướp biển nữa. Và
-thành thật mà nói, tôi cũng vậy. Tôi đã từ bỏ
+Đoàn của tôi bỏ tôi sau đó, nói rằng họ
+đã chịu đủ, không muốn làm việc cho
+Hội đồng Cướp biển nữa. Và thành thật mà nói,
 THUYỀN TRƯỞNG THYME:
+tôi cũng vậy. Tôi đã từ bỏ
 nghề cướp biển, tôi chỉ đang trốn ở đây,
-hy vọng Râu Đen sẽ không tìm thấy tôi. Nhưng tôi
-đã suy nghĩ, và hối hận về những gì tôi đã làm
+hy vọng Râu Đen sẽ không tìm thấy tôi.
 THUYỀN TRƯỞNG THYME:
-cho người đàn ông đó, nên tôi sẽ nói với cô điều này.
+Nhưng tôi đã suy nghĩ, và hối hận về
+những gì tôi đã làm cho người đàn ông đó,
+nên tôi sẽ nói với cô điều này.
+THUYỀN TRƯỞNG THYME:
 Hazel và bố cô đã đi thuyền đến Đảo Oakhaven.
-Không biết tại sao, nhưng cô có thể tìm thấy họ ở đó.
+Không biết tại sao, nhưng cô có thể
+tìm thấy họ ở đó.
 TILIA:
 ...Vậy ngài thực sự hối hận khi làm việc cho
 Râu Đen? Tôi chắc chắn nghĩ rằng mình sẽ
@@ -19005,13 +19145,17 @@ dialog{
   id = "_yarrowmouth.npcs.mera.1",
   text = [[
 MERA:
-Việc điều hành một cửa hàng áo giáp ở thị trấn này,
-với nhà chưng cất thủ công đang hoạt động, tôi nghĩ ra cách
-điều hành một xưởng rèn áo giáp thủ công. Vì vậy tôi tạo ra
+Việc điều hành một cửa hàng áo giáp ở thị
+trấn này, với nhà chưng cất thủ công đang
+hoạt động, tôi nghĩ ra cách điều hành một
 MERA:
-những bộ áo giáp tinh xảo, được làm thủ công, theo
-đuổi khuynh hướng nghệ thuật của mình. Cô có muốn mua một số
-với giá 50 vương miện không?
+xưởng rèn áo giáp thủ công. Vì vậy tôi tạo ra
+những bộ áo giáp tinh xảo, được làm thủ công,
+theo đuổi khuynh hướng nghệ thuật của mình.
+MERA:
+Cô có muốn mua một số với giá 50 vương miện không?
+
+
 TILIA:
 $? Tôi rất thích một bộ áo giáp khéo léo
 $? Cô có thể giữ những sản phẩm may vá của mình
@@ -19036,13 +19180,17 @@ dialog{
   id = "_yarrowmouth.npcs.mera.3",
   text = [[
 MERA:
-Tôi đang điều hành một dịch vụ xưởng rèn áo giáp thủ công ở đây.
-Vì vậy tôi chỉ tạo ra áo giáp khi cảm hứng nghệ thuật
-của tôi thôi thúc. Và hiện tại tôi được truyền cảm hứng
+Tôi đang điều hành một dịch vụ xưởng rèn áo giáp thủ
+công ở đây. Vì vậy tôi chỉ tạo ra áo giáp khi cảm
+hứng nghệ thuật của tôi thôi thúc. Và hiện tại tôi
 MERA:
-để làm áo giáp từ một quả thông sắt. Chúng
-rất nhẹ và bền. Nếu cô có một quả và 50
-vương miện, tôi sẽ cải thiện áo giáp của cô.
+được truyền cảm hứng để làm áo giáp từ một quả
+thông sắt. Chúng rất nhẹ và bền. Nếu cô có một
+quả và 50 vương miện, tôi sẽ cải thiện áo giáp
+MERA:
+của cô.
+
+
 TILIA:
 $? Tôi rất muốn
 $? Cứ giữ bộ áo giáp lá cây của cô đi
@@ -19100,21 +19248,25 @@ dialog{
   id = "_yarrowmouth.npcs.nina.2",
   text = [[
 NINA:
-Tuyệt! Vậy đây là thỏa thuận. Một người đàn ông địa phương,
-Carlov, vận chuyển cà rốt từ Oakhaven. Anh ta
-đang bị một đoàn cướp biển gây áp lực để
+Tuyệt! Vậy đây là thỏa thuận. Một người đàn
+ông địa phương, Carlov, vận chuyển cà rốt từ
+Oakhaven. Anh ta đang bị một đoàn cướp biển
 NINA:
-làm một số việc buôn lậu cho Hội đồng Cướp biển. Đoàn đó
+gây áp lực để làm một số việc buôn lậu cho
+Hội đồng Cướp biển. Đoàn đó
 tên là "Dream Cannons". Cái tên ngớ ngẩn.
-Dù sao thì, tôi đã đốt thuyền của họ và giờ họ
 NINA:
-sẵn sàng nói chuyện. Vấn đề là, chẳng có gì để nói cả.
-Tôi sẽ trả tiền cho cô để gặp họ thay tôi. Bảo họ
-cút đi hoặc cô sẽ đập họ. Cô hiểu chứ?
+Dù sao thì, tôi đã đốt thuyền của họ và
+giờ họ sẵn sàng nói chuyện. Vấn đề là,
+chẳng có gì để nói cả. Tôi sẽ trả tiền
+NINA:
+cho cô để gặp họ thay tôi. Bảo họ cút
+đi hoặc cô sẽ đập họ. Cô hiểu chứ?
+
 TILIA:
-Được thôi. Đi bảo mấy tên cướp biển hãy để yên cho gã Carlov
-này không thì sẽ đập họ. Tôi có thể
-lo việc đó.
+Được thôi. Đi bảo mấy tên cướp biển hãy để
+yên cho gã Carlov này không thì sẽ đập họ.
+Tôi có thể lo việc đó.
 NINA:
 Xuất sắc. Địa điểm họp họ chọn là
 ở Seaweed Rock, trong Đầm lầy Tern. Nó ở
@@ -19126,12 +19278,12 @@ dialog{
   id = "_yarrowmouth.npcs.nina.3",
   text = [[
 TILIA:
-Tôi không nghĩ mình có thời gian để giúp cô lúc này.
-Tôi khá bận theo dõi một số tên cướp biển
-của riêng tôi.
+Tôi không nghĩ mình có thời gian để giúp cô
+lúc này. Tôi khá bận theo dõi một số tên cướp
+biển của riêng tôi.
 NINA:
-Hmm, chà, tôi chắc cô sẽ xử được chúng. Nếu cô
-đổi ý thì quay lại đây.
+Hmm, chà, tôi chắc cô sẽ xử được chúng.
+Nếu cô đổi ý thì quay lại đây.
 ]],
 }
 
@@ -19150,28 +19302,28 @@ dialog{
   id = "_yarrowmouth.npcs.nina.5",
   text = [[
 NINA:
-Này, cô quay lại rồi. Bọn cướp biển đó đã cút đi
-hay cô phải nện vài cái đầu
+Này, cô quay lại rồi. Bọn cướp biển đó đã
+cút đi hay cô phải nện vài cái đầu
 vào nhau?
 TILIA:
-Vài cái đầu, nhưng không phải đầu cướp biển. Đó là một
-cái bẫy. Bọn cướp biển nhốt tôi vào một hang động
-đầy quái vật.
+Vài cái đầu, nhưng không phải đầu cướp biển.
+Đó là một cái bẫy. Bọn cướp biển nhốt tôi vào
+một hang động đầy quái vật.
 NINA:
-Lũ uống nước muối ngu ngốc! Chà, cô
-ổn rồi, rõ ràng là vậy. Nhưng chúng ta cần gửi một
-bức thư cảm ơn vì vụ đó. Nghe này, tôi ghét phải yêu cầu
+Lũ uống nước muối ngu ngốc! Chà, cô ổn rồi,
+rõ ràng là vậy. Nhưng chúng ta cần gửi một bức
+thư cảm ơn vì vụ đó. Nghe này, tôi ghét phải yêu cầu
 NINA:
 thêm từ cô, nhưng tôi biết cô có thể xử lý được,
 nên tôi sẽ nói. Cô có thể đến sào huyệt của
 đội Dream Cannon và đập chúng
 NINA:
-giúp tôi được không? ...Chà, và cho cả cô nữa, cô là người
-bị chúng phục kích mà.
+giúp tôi được không? ...Chà, và cho cả cô nữa,
+cô là người bị chúng phục kích mà.
 
 TILIA:
-Được thôi. Thực ra, tôi cũng muốn vậy. Sào huyệt của chúng
-ở đâu?
+Được thôi. Thực ra, tôi cũng muốn vậy.
+Sào huyệt của chúngở đâu?
 
 NINA:
 Nó ở Ngã tư Stonefell, tôi nghĩ vậy.
@@ -19196,16 +19348,16 @@ dialog{
   id = "_yarrowmouth.npcs.nina.7",
   text = [[
 NINA:
-Cô quay lại rồi! Tôi hy vọng điều đó có nghĩa là cô đã
-xử lý xong Đội Dream Cannon? Kéo
-cái tên ngu ngốc của chúng xuống bùn?
+Cô quay lại rồi! Tôi hy vọng điều đó có nghĩa
+là cô đã xử lý xong Đội Dream Cannon?
+Kéo cái tên ngu ngốc của chúng xuống bùn?
 TILIA:
-Đúng vậy, tôi đã cho chúng một trận nên thân. Chúng nói
-chúng sẽ để yên cho các bạn bây giờ.
+Đúng vậy, tôi đã cho chúng một trận nên thân.
+Chúng nói chúng sẽ để yên cho các bạn bây giờ.
 
 NINA:
-Thật tốt khi nghe tôi có thể gạch bỏ việc đó khỏi danh sách.
-Đây, đây là số tiền Carlov trả tôi để
+Thật tốt khi nghe tôi có thể gạch bỏ việc đó
+khỏi danh sách. Đây, đây là số tiền Carlov trả tôi để
 xử lý bọn cướp biển cộng thêm một chút nữa.
 (Bạn đã nhận 120 vương miện)
 ]],
@@ -19241,14 +19393,16 @@ thêm từ cô, nhưng tôi biết cô có thể xử lý được,
 nên tôi sẽ nói. Cô có thể đến sào huyệt của
 đội Dream Cannon và đập chúng
 NINA:
-giúp tôi được không? ...Chà, và cho cả cô nữa, cô là người
-bị chúng phục kích mà.
+giúp tôi được không? ...Chà, và cho cả cô nữa,
+cô là người bị chúng phục kích mà.
 
 TILIA:
-Được thôi. Thực ra, tôi cũng muốn vậy. Sào huyệt của chúng
-ở Ngã tư Stonefell. Đi qua
-Đầm lầy Tern và ngay phía tây là ngã tư.
-Pháo đài của chúng ở quanh đó. Đến đó và xử lý chúng đi!
+Được thôi. Thực ra, tôi cũng muốn vậy.
+Sào huyệt của chúng ở Ngã tư Stonefell.
+Đi qua Đầm lầy Tern và ngay phía tây là ngã tư.
+TILIA:
+Pháo đài của chúng ở quanh đó.
+Đến đó và xử lý chúng đi!
 ]],
 }
 
@@ -19341,24 +19495,27 @@ Có bốn cái, thực ra. Theo truyền thuyết,
 một người đàn ông tên Heron đã xây chúng. Khi
 người dân cổ đại của Yarrowmouth bị lôi kéo
 STELLA:
-vào một cuộc chiến, người yêu của ông đã dẫn một nhóm người tị nạn
-ra khỏi vùng biển phía bắc đến nơi an toàn. Heron cảm thấy
-có lỗi vì không thể ngăn chặn cuộc chiến, và đã xây dựng
+vào một cuộc chiến, người yêu của ông đã dẫn một
+nhóm người tị nạn ra khỏi vùng biển phía bắc đến
+nơi an toàn. Heron cảm thấy có lỗi vì không
 STELLA:
-những ngọn hải đăng để cố gắng dẫn lối cô ấy trở về, nhưng một
-trận lụt đã xảy ra và những ngọn đèn bị dập tắt.
-Tôi không nghĩ cả bốn ngọn đã từng được thắp sáng cùng lúc kể từ đó.
+thể ngăn chặn cuộc chiến, và đã xây dựng
+những ngọn hải đăng để cố gắng dẫn lối cô ấy
+STELLA:
+trở về, nhưng một trận lụt đã xảy ra và những
+ngọn đèn bị dập tắt. Tôi không nghĩ cả bốn ngọn
+đã từng được thắp sáng cùng lúc kể từ đó.
 TILIA:
 Câu chuyện thú vị đấy. Tôi tự hỏi liệu có điều gì
 sẽ xảy ra nếu cả bốn ngọn được thắp sáng lại.
 
 STELLA:
-Haha, chà có lẽ cô sẽ dẫn đường cho một nhân vật huyền thoại
-đến vịnh nếu cô thắp sáng tất cả chúng. Chẳng phải
-sẽ thật thú vị khi gặp một người đã bị lạc
+Haha, chà có lẽ cô sẽ dẫn đường cho một nhân vật
+huyền thoại đến vịnh nếu cô thắp sáng tất cả
+chúng. Chẳng phải sẽ thật thú vị khi gặp một
 STELLA:
-ngoài biển cả ngàn năm. Hoặc chà. Thực ra
-điều đó có lẽ sẽ khá rùng rợn.
+người đã bị lạc ngoài biển cả ngàn năm.
+Hoặc chà. Thực ra điều đó có lẽ sẽ khá rùng rợn.
 ]],
 }
 
@@ -19370,8 +19527,8 @@ Cảm ơn cô đã thắp sáng nó cho ta, cô bé.
 Chúc cô may mắn trong hành trình. Hãy cẩn thận nếu
 cô định thắp sáng cả bốn ngọn
 STELLA:
-hải đăng đó, nếu những truyền thuyết cũ có ý nghĩa gì đó,
-ta không chắc chuyện gì có thể xảy ra.
+hải đăng đó, nếu những truyền thuyết cũ có ý nghĩa
+gì đó, ta không chắc chuyện gì có thể xảy ra.
 ]],
 }
 
@@ -19381,9 +19538,9 @@ dialog{
 STELLA:
 Có gì đó không ổn. Ta không thích cảm giác của
 làn sương này khi nó thổi đến, và giờ có một
-con tàu trong vịnh. Đã lâu lắm rồi không có ai thả neo ở đây
+con tàu trong vịnh. Đã lâu lắm rồi không có ai
 STELLA:
-kể từ lâu lắm rồi ta có thể nhớ...
+thả neo ở đây kể từ lâu lắm rồi ta có thể nhớ...
 ]],
 }
 
@@ -19552,8 +19709,8 @@ tượng gấu, và cột ngoài cùng bên trái gần đó có
 một lỗ khóa bí mật mở ra con đường
 đến một số hầm mộ bạn có thể đi xuyên qua. Nhưng,
 JERAH:
-chìa khóa đã bị mất một thời gian trước. Tôi nghĩ bị đánh cắp
-bởi cướp biển...
+chìa khóa đã bị mất một thời gian trước. Tôi nghĩ
+bị đánh cắp bởi cướp biển...
 ]],
 }
 
@@ -19561,9 +19718,13 @@ dialog{
   id = "_yarrowmouth.npcs.tavern.rohit.1",
   text = [[
 ROHIT:
-Này, trông bạn có vẻ là một phần của hải quân tình nguyện.
-Tôi có thể trả tiền cho bạn để làm gì đó cho tôi không,
-nhân viên tình nguyện địa phương của chúng tôi đang rất bận?
+Này, trông bạn có vẻ là một phần của hải quân
+tình nguyện. Tôi có thể trả tiền cho bạn để làm
+gì đó cho tôi không, nhân viên tình nguyện địa
+ROHIT:
+phương của chúng tôi đang rất bận?
+
+
 TILIA:
 $? Kể tôi nghe đi
 $? Tôi cũng bận
@@ -19582,12 +19743,12 @@ bởi vì bạn cần những loại nấm cụ thể.
 Nhưng gần đây, chỗ hái nấm của chúng tôi
 đã bị quái vật xâm chiếm! Có vẻ như cứ tiếp tục
 ROHIT:
-xảy ra với chúng tôi. Tôi sẽ trả 65 crown nếu bạn có thể
-đi dọn sạch lũ sinh vật để chúng tôi có thể
-quay lại việc nấu rượu.
+xảy ra với chúng tôi. Tôi sẽ trả 65 crown nếu
+bạn có thể đi dọn sạch lũ sinh vật để
+chúng tôi có thể quay lại việc nấu rượu.
 TILIA:
-Tôi sẽ xem tôi có thể làm gì về việc đó. Chỗ hái nấm
-ở đâu?
+Tôi sẽ xem tôi có thể làm gì về việc đó.
+Chỗ hái nấm ở đâu?
 
 ROHIT:
 Đi xuyên qua Rừng Puzzlewood, trên rìa phía tây
@@ -19663,9 +19824,11 @@ Michael? Chà... đó có lẽ là Michael
 Người Làm Rượu Mật ong Hùng mạnh. Hắn điều hành một
 Xưởng Rượu Mật ong làm màu ở Tern Marsh.
 ROHIT:
-Hắn đã gây rắc rối cho chúng tôi trước đây. Sao bạn không
-đi xuống đó và đối chất với hắn? Đi về phía nam đây
-đến Tern Marsh, xưởng rượu của hắn nằm ngay trong
+Hắn đã gây rắc rối cho chúng tôi trước đây.
+Sao bạn không đi xuống đó và đối chất với hắn?
+Đi về phía nam đây đến Tern Marsh,
+ROHIT:
+xưởng rượu của hắn nằm ngay trong
 vùng hoang dã. Có rất nhiều tổ ong xung quanh nó.
 ]],
 }
@@ -19675,8 +19838,8 @@ dialog{
   text = [[
 ROHIT:
 Bạn có thể đi đối chất với Michael
-Người Làm Rượu Mật ong Hùng mạnh về việc đặt mồi ở chỗ nấm
-của chúng tôi không? Tôi chắc chắn đó là hắn.
+Người Làm Rượu Mật ong Hùng mạnh về việc đặt mồi
+ở chỗ nấm của chúng tôi không? Tôi chắc chắn đó là hắn.
 ]],
 }
 
@@ -19721,8 +19884,8 @@ dialog{
   text = [[
 Bạn đã khám phá Rừng Puzzlewood phía Tây
 thị trấn chưa? Có một công trình cổ được xây dựng bởi
-Các Chiến binh Gấu. Người ta nói một trong những thánh tích của họ
-được giấu bên trong.
+Các Chiến binh Gấu. Người ta nói một trong những
+thánh tích của họ được giấu bên trong.
 ]],
 }
 
@@ -19735,8 +19898,9 @@ bạn, tôi nghe tin đồn về một nơi phía đông
 Cảng Goatshead, xuyên qua một hang động. Có
 một khe núi nơi trời mưa liên tục. Những người
 ghé thăm- khi họ trở lại, quái vật
-xung quanh họ bằng cách nào đó trở nên mạnh hơn. Nếu bạn
-sẵn sàng cho một thử thách, bạn có thể muốn đi.
+xung quanh họ bằng cách nào đó trở nên mạnh hơn.
+Nếu bạn sẵn sàng cho một thử thách,
+bạn có thể muốn đi.
 ]],
 }
 
@@ -19767,9 +19931,9 @@ dialog{
   id = "_yarrowmouth.npcs.town_people.4",
   text = [[
 Bài học lịch sử, đó là thanh kiếm của tộc trưởng
-cuối cùng của Yarrowmouth. Ông ấy đã đánh rơi nó ở đó
-khi bị Vua Biển giết. Nó
-khá tuyệt, nhưng hầu hết khách du lịch chỉ
+cuối cùng của Yarrowmouth. Ông ấy đã đánh rơi nó
+ở đó khi bị Vua Biển giết.
+Nó khá tuyệt, nhưng hầu hết khách du lịch chỉ
 quan tâm đến Nhà máy Rượu Briarwood, nơi nằm
 ở góc Tây Bắc của thị trấn.
 ]],
@@ -19861,12 +20025,12 @@ Nếu bạn từng bị thương, chẳng hạn, khi một số
 tên cướp biển đi thuyền từ Snapmast Reef và
 cố gắng chiếm lấy bến tàu của thị trấn, thì
 NGƯỜI ĐÀN ÔNG BỊ THƯƠNG:
-thầy thuốc làm một loại thuốc đau đầu rất hay. Ý tôi là,
-một loại chữa khỏi chúng. Không biết về việc gây ra
-chúng.
+thầy thuốc làm một loại thuốc đau đầu rất hay.
+Ý tôi là, một loại chữa khỏi chúng. Không biết
+về việc gây ra chúng.
 TILIA:
-Cướp biển đã cố gắng kiểm soát bến tàu của Yarrowmouth?
-Tại sao?
+Cướp biển đã cố gắng kiểm soát bến tàu
+của Yarrowmouth? Tại sao?
 
 NGƯỜI ĐÀN ÔNG BỊ THƯƠNG:
 Không biết. Có lẽ để đi thuyền quanh đảo đến
@@ -19881,8 +20045,8 @@ TILIA:
 đã đi đâu sau đó không?
 
 NGƯỜI ĐÀN ÔNG BỊ THƯƠNG:
-Có lẽ là Cảng Ballast? Nhưng chuyện này đã xảy ra lâu rồi,
-ông ấy có lẽ đã đi khỏi đó rồi.
+Có lẽ là Cảng Ballast? Nhưng chuyện này đã xảy ra
+lâu rồi, ông ấy có lẽ đã đi khỏi đó rồi.
 Tôi nghe nói ông ấy đang truy tìm cướp biển.
 TILIA:
 Đúng vậy. Giờ tôi đang truy tìm ông ấy.
@@ -19992,7 +20156,8 @@ dialog{
   id = "_yarrowmouth.observations.hourglass_fort.nobody_home",
   text = [[
 TILIA:
-Đây không phải là pháo đài của Băng Cướp Biển Hourglass sao?
+Đây không phải là pháo đài của Băng Cướp Biển
+Hourglass sao?
 Mọi người đâu hết rồi?...
 ]],
 }
@@ -20036,10 +20201,11 @@ dialog{
 Có một bức thư viết dở:
 Thuyền trưởng Blackbeard,
 Các địa điểm ngoại vi chưa đưa ra manh mối nào
-trong việc tìm kiếm Đảo Ocean's Heart, nhưng chuyến đi
-của chúng tôi đến Spruce Head đã thành công, nhưng có vẻ như
-đó là chiếc bùa duy nhất. Mọi người
-có lẽ phải cùng tham gia một chuyến đi bất cứ khi nào chúng ta
+trong việc tìm kiếm Đảo Ocean's Heart,
+nhưng chuyến đi của chúng tôi đến Spruce Head
+đã thành công, nhưng có vẻ như đó là chiếc bùa
+duy nhất. Mọi người có lẽ phải cùng tham gia một
+chuyến đi bất cứ khi nào chúng ta
 khám phá ra vị trí của Hòn đảo.
 ]],
 }
