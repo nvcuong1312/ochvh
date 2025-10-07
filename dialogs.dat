@@ -6,21 +6,23 @@ BENJAMIN:
 Anh đang tìm mua rượu mật ong của chúng tôi
 cho quán rượu của mình à?
 TILIA:
-Gia đình tôi thực sự có một quán rượu. Nhưng không.
+Gia đình tôi thực sự có một quán rượu.
+Nhưng không.
 Hiện giờ tôi đang săn lùng cướp biển.
-
 BENJAMIN:
-Ồ, cô ở trong Lực lượng Hải quân Tình nguyện phải không?
-Tôi, ừ... Cô có thể giúp tôi không? Ông chủ của tôi,
-Michael, muốn tôi lấy một ít Mật ong
+Ồ, cô ở trong Lực lượng Hải quân Tình nguyện
+phải không? Tôi, ừ... Cô có thể giúp tôi không?
+Boss của tôi, Michael, muốn tôi lấy một ít Mật ong
 BENJAMIN:
-Hornet, nhưng... Những con ono vò vẽ đó siêu nguy hiểm.
-Không phải tôi nói cô không nên
+Hornet, nhưng... Những con ono vò vẽ đó siêu
+nguy hiểm. Không phải tôi nói cô không nên
 cẩn thận đâu. Nhưng nếu cô tình cờ thấy bất kỳ
 BENJAMIN:
-nào trong đầm lầy, và tôi biết cô đang bận, nhưng nếu
-cô thấy một ít Mật ong Hornet, cô có thể
-mang nó tới không? Tôi sẽ trả cô 45 crown.
+nào trong đầm lầy, và tôi biết cô đang bận,
+nhưng nếu cô thấy một ít Mật ong Hornet,
+cô có thể mang nó tới không?
+BENJAMIN:
+Tôi sẽ trả cô 45 crown.
 ]],
 }
 
@@ -32,13 +34,13 @@ BENJAMIN:
 Anh đang tìm mua rượu mật ong của chúng tôi
 cho quán rượu của mình à?
 TILIA:
-Gia đình tôi thực sự có một quán rượu. Nhưng không.
-Hiện giờ tôi đang săn lùng cướp biển.
-
+Nhà tôi bán rượu thật.
+Nhưng hiện giờ tôi đang
+săn lùng cướp biển.
 BENJAMIN:
-Ồ, cô ở trong Lực lượng Hải quân Tình nguyện phải không?
-Cô có thể giúp tôi một tay không? Tôi cần lấy
-một ít Mật ong Hornet, nhưng tôi đang siêu bận.
+Ồ, cô ở trong Lực lượng Hải quân Tình nguyện à?
+Cô có thể giúp tôi không? Tôi cần một ít
+Mật ong Hornet, nhưng lại đang rất bận.
 BENJAMIN:
 Tôi vừa tiếp quản Xưởng Mật ong từ chủ cũ.
 Nếu cô tình cờ có một ít Mật ong Hornet, tôi
@@ -50,14 +52,15 @@ dialog{
   id = "_ballast_harbor.npcs.benjamin.3",
   text = [[
 BENJAMIN:
-Ông chủ của tôi đang thúc tôi lấy
-một ít Mật ong Hornet. Nhưng tôi sợ những con
-ono vò vẽ. Nếu cô có một ít, tôi sẽ mua nó.
+Boss của tôi đang thúc tôi lấy
+một ít Mật ong Hornet. Nhưng tôi sợ ong vkl.
+Nếu cô có, hãy bán cho tôi.
 TILIA:
 Tôi tình cờ tìm thấy một ít gần đây. Đây.
 
+
 BENJAMIN:
-Tuyệt quá! Cô thậm chí còn không bị đốt phải không?
+Tuyệt quá! Cô có bị đốt không?
 Chà, của cô đây.
 
 (Bạn nhận được 45 crown)
@@ -68,14 +71,15 @@ dialog{
   id = "_ballast_harbor.npcs.benjamin.4",
   text = [[
 BENJAMIN:
-Tôi đã siêu bận - tôi vừa tiếp quản
+Tôi bận vkl - tôi vừa tiếp quản
 xưởng mật ong. Tôi muốn lấy một ít mật ong vò vẽ
-cho một mẻ rượu mật ong mới, nhưng lũ ono thật đáng sợ.
+để nấu rượu mật ong mới, nhưng lũ ong thật đáng sợ.
 TILIA:
 Tôi tình cờ tìm thấy một ít gần đây. Đây.
 
+
 BENJAMIN:
-Tuyệt quá! Cô thậm chí còn không bị đốt phải không?
+Tuyệt quá! Cô có bị đốt không?
 Chà, của cô đây.
 
 (Bạn nhận được 60 crown)
@@ -86,19 +90,19 @@ dialog{
   id = "_ballast_harbor.npcs.benjamin.5",
   text = [[
 BENJAMIN:
-Cảm ơn vì đã tìm ra tổ ono đó.
-Tôi sẽ làm một ít rượu mật ong
-siêu cấp!
+Cảm ơn vì đã tìm ra tổ ong đó.
+Tôi sẽ nấu một ít rượu mật ong
+thượng hạng!
 ]],
 }
 
 dialog{
   id = "_ballast_harbor.npcs.bone_buyer.1",
   text = [[
-Hả? Trông anh như đã từng trải qua
-vài trận chiến. Không ngờ vậy đấy. Chà, vậy thì
-có lẽ anh có một ít xương quái vật mà
-anh muốn bán? Tôi sẽ trả 10 crown cho mỗi cái.
+Hả? Trông cô như vừa đi bem nhau.
+Không ngờ vậy đấy. Chà, vậy thì
+cô có xương quái vật để bán không?
+Tôi sẽ trả 10 crown cho mỗi cái.
 (Bán xương quái vật cho hắn ta?)
 $? Bán một cái
 $? Bán 10 cái
@@ -109,8 +113,8 @@ $? Đừng làm thế, hắn ta kỳ lạ lắm
 dialog{
   id = "_ballast_harbor.npcs.bone_buyer.2",
   text = [[
-Rất biết ơn. Nếu anh có nhiều xương hơn
-mức cần, tôi sẽ ở đây.
+Cảm ơn nhiều! Nếu cô có nhiều xương hơn,
+tôi sẽ mua.
 ]],
 }
 
@@ -119,27 +123,28 @@ dialog{
   text = [[
 BRUTUS:
 Nè! Cô đang làm gì trong này?! Cô
-tới đây để ăn cắp thanh kiếm Vua Biển của ta à? Vì
-ta phát hiện ra nó không phải đồ thật, nên
+tới đây để ăn cắp thanh kiếm Vua biển của ta à?
+Ta thấy nó là hàng fake.
 BRUTUS:
 cô bị lừa rồi! Hahaha!
 
+
 TILIA:
 Ừ, nó không ở trên người tôi, vì tôi ở đây để
-lấy lại các hải đồ mà các người đã lấy
+lấy lại các bản đồ mà các người đã lấy
 từ Kelpton.
 BRUTUS:
-Ồ, vậy là công lý tự phát hả? Chà, cô
-vẫn bị lừa, vì những hải đồ đó
-thậm chí còn không dẫn chúng ta tới Đảo Bão!
+Ồ, vậy cô đến đòi lẽ phải? Chà, cô
+đã bị đùa, vì những bản đồ đó không
+dẫn chúng ta tới Isle o' Storms!
 TILIA:
-Đó không phải lý do tôi muốn chúng, nên trò đùa
-vẫn không-
+Đó không phải lý do tôi muốn chúng, 
+nên trò đùa vẫn không-
 
 BRUTUS:
-Không quan trọng! Ta sắp nghiền nát
-cát bụi của cô thành xương! Tốt hơn hết là bắt đầu nghĩ
-xem cô muốn gì trong cáo phó của mình đi!
+Không quan trọng! Ta sắp biến bụi của
+ngươi thành xương! Tốt hơn hết là
+nên viết di chúc đi!
 TILIA:
 Cái gì?
 ]],
@@ -151,11 +156,15 @@ dialog{
 BLACKBEARD:
 ...bởi vì ta sẽ rời đi. Chúng ta có cái mà ta
 nghĩ là manh mối thực sự đầu tiên trong một năm về nơi
-chính xác của Trái tim Đại dương. Một nhóm
+chính xác của Ocean's Heart. Một nhóm
 BLACKBEARD:
 trộm cướp nào đó trên Oakhaven đã vô tình vấp phải
 một tấm hải đồ, bọn chúng không biết nó là gì.
-Chúng ta sẽ xem liệu chúng có gia nhập Hội đồng một cách tự nguyện không.
+Chúng ta sẽ xem liệu chúng có
+BLACKBEARD:
+gia nhập Hội đồng một cách tự nguyện không.
+
+
 BRUTUS:
 Không thành vấn đề, thủ lĩnh. Ngài có định
 quay lại đây không?
@@ -313,8 +322,8 @@ dialog{
   id = "_ballast_harbor.npcs.honestbeard.armor_tools",
   text = [[
 HONESTBEARD:
-Đó là những công cụ dành cho một thợ rèn giáp bậc thầy. Hãy tưởng tượng
-trong tay đúng người, ai đó sẽ dùng chúng
+Đó là những công cụ dành cho một thợ rèn giáp giỏi.
+Nếu trong tay đúng người, chúng sẽ được dùng
 để tạo ra một bộ giáp cực kỳ tốt. 250 crown.
 HONESTBEARD:
 Cô có muốn lấy chúng với giá 250 crown không?
@@ -327,7 +336,7 @@ dialog{
   id = "_ballast_harbor.npcs.honestbeard.bomb_arrow_quest",
   text = [[
 HONESTBEARD:
-Thuyền trưởng Honestbeard là tên tôi, và kiếm sống
+Thuyền trưởng Honestbeard là tôi, kiếm sống
 lương thiện là nghề của tôi. Tôi có thể
 giúp gì cho cô?
 TILIA:
@@ -342,7 +351,7 @@ dialog{
   id = "_ballast_harbor.npcs.honestbeard.candelabra",
   text = [[
 HONESTBEARD:
-Đó là một cây đèn nến... đèn nến...
+Đó là một cây nến...nến...
 giá đỡ nến. Cô có cây nến nào không?
 
 TILIA:
@@ -355,8 +364,8 @@ dialog{
   text = [[
 HONESTBEARD:
 Đó là một khối Quặng San hô. Một thợ rèn
-có thể biến nó thành một bản nâng cấp cho
-kiếm hoặc cung của cô. Tôi sẽ bán nó với giá 120 crown.
+có thể dùng nó để nâng cấp cho kiếm hoặc cung.
+Tôi sẽ bán nó với giá 120 crown.
 HONESTBEARD:
 Cô có quan tâm không?
 $? Mua nó
@@ -389,9 +398,9 @@ dialog{
   id = "_ballast_harbor.npcs.honestbeard.pot",
   text = [[
 HONESTBEARD:
-Đó là một nồi súp hành tây nóng. Nó làm
-hơi thở của cô tệ đến mức không ai muốn nói chuyện
-với cô. Tuyệt vời cho người hướng nội. 30 crown.
+Đó là một nồi súp hành tây nóng.
+Nó giúp cô thối mồm.
+Tuyệt vời cho người hướng nội. 30 crown.
 TILIA:
 Tôi thực sự thấy nói chuyện với mọi người
 khá hữu ích cho những gì tôi đang cố gắng làm,
@@ -404,7 +413,7 @@ dialog{
   text = [[
 HONESTBEARD:
 Đó là một đôi giày ma thuật mà
-không bao giờ có thể bị tuột dây. Cô sẽ không bao giờ vấp
+không bao giờ có thể bị tuột dây. Cô sẽ không bị vấp
 phải dây giày. Chỉ 50 crown.
 TILIA:
 Nếu không thể tháo dây chúng ra, thì làm sao
@@ -432,7 +441,7 @@ dialog{
   text = [[
 HONESTBEARD:
 Ồ, những vũ khí đó thực ra không
-phải để bán. Chỉ dùng chúng trong trường hợp có kẻ côn đồ
+phải để bán. Chỉ dùng chúng khi có kẻ nào
 xông vào tôi để ăn cắp.
 TILIA:
 Cô dùng cả ba loại vũ khí này
@@ -515,6 +524,7 @@ Ballast Harbor, nhưng đã giúp tôi thoát khỏi một tình thế.
 TILIA:
 ÔNG CÓ$1...$3 Ông có biết ông ấy đã đi đâu không?
 
+
 KELPTON:
 Chà, cô có vẻ sốt sắng tìm ông ta. Nghe này, ông ta
 đã cứu tôi khỏi mấy gã Hội đồng Cướp biển
@@ -525,6 +535,7 @@ chợ cướp biển. Cô phải trả tiền cho
 thông tin.
 TILIA:
 Ông muốn gì?
+
 
 KELPTON:
 Tôi cần một ân huệ. Bọn Hội đồng Cướp biển này,
@@ -548,6 +559,7 @@ về gã Mallow này.
 
 TILIA:
 Không thành vấn đề. Tôi có thể lấy lại hải đồ của ông.
+
 
 KELPTON:
 Tôi nghe nói lũ cướp biển đang cập cảng với
@@ -579,6 +591,7 @@ dialog{
   text = [[
 KELPTON:
 Cô quay lại với hải đồ của tôi chưa?
+
 
 TILIA:
 Tôi có chúng. Đây. Vậy, ông có thể nói gì với tôi
@@ -642,6 +655,7 @@ tôi sẽ đưa cô chìa khóa này Mallow để lại cho tôi.
 TILIA:
 Được thôi. Chìa khóa dùng để làm gì?
 
+
 KELPTON:
 Không biết. Mallow quên nó ở đây và nó
 có vẻ quan trọng, nên tôi đã giữ nó. Nếu
@@ -672,7 +686,8 @@ Tôi sẽ cho cô nghệ! Tôi có các loại gia vị!
 dialog{
   id = "_ballast_harbor.npcs.market_people.3",
   text = [[
-Vậy có lẽ cô đã nghe nói rằng không thể tin tưởng những kẻ bán dầu rắn.
+Vậy có lẽ cô đã nghe nói rằng không thể tin tưởng
+những kẻ bán dầu rắn.
 Và tôi sẽ đồng ý với cô về điều đó. Nhưng cô đã
 thử dầu cá chưa? Nhập khẩu từ
 Đế chế Zephyr kỳ lạ, nó có thể chữa được mọi thứ!
@@ -787,6 +802,7 @@ bằng chứng gì không?
 TILIA:
 $1Bất kỳ...$3 bất kỳ bằng chứng gì về cái gì cơ?
 
+
 MICHAEL THỢ LÀM RƯỢU MẬT ONG:
 Ta nghĩ là không! Giờ thì cút đi, cô gái nhỏ bé!
 ]],
@@ -802,8 +818,10 @@ bằng chứng gì không?
 TILIA:
 Đợi đã, ông đã biết tại sao tôi ở đây rồi sao?
 
+
 MICHAEL THỢ LÀM RƯỢU MẬT ONG:
 $1Ừ, ha... ha... ha... $3Không. Tại sao tôi lại biết?
+
 
 TILIA:
 Tôi đang cố tìm ra ai đã nhử quái vật
@@ -833,8 +851,10 @@ bằng chứng gì không?
 TILIA:
 Đợi đã, ông đã biết tại sao tôi ở đây rồi sao?
 
+
 MICHAEL THỢ LÀM RƯỢU MẬT ONG:
 $1Ừ, ha... ha... ha... $3Không. Tại sao tôi lại biết?
+
 
 TILIA:
 Tôi đang cố tìm ra ai đã nhử quái vật
@@ -842,6 +862,7 @@ Tôi đang cố tìm ra ai đã nhử quái vật
 Ông có vẻ hơi có tội.
 MICHAEL THỢ LÀM RƯỢU MẬT ONG:
 Không, ta không làm. Ý ta là ta không biết.
+
 
 TILIA:
 Vậy là ông đã cho người đặt mồi nhử ở đó
@@ -902,7 +923,7 @@ dialog{
 BLACKBEARD:
 Nó là đồ giả. Nhưng tin tốt là
 đồ thật đã mất vĩnh viễn. Một khi chúng ta có được
-Trái tim Đại dương, thanh kiếm của Vua Biển
+Ocean's Heart, thanh kiếm của Vua Biển
 BLACKBEARD:
 có thể là một trong số ít thứ có thể
 chống lại chúng ta. Dù sao thì, trong khi ta ở đây,
@@ -915,6 +936,7 @@ dialog{
   text = [[
 GAVRILLO:
 Ngài muốn gì, thủ lĩnh?
+
 
 BLACKBEARD:
 Người bạn cũ của chúng ta, Thuyền trưởng Thyme, đã quyết định
@@ -937,7 +959,7 @@ nghe nói một nhóm trộm nhỏ đã tìm thấy một tấm hải đồ
 có thể cho thấy Đảo Bão. Nếu đó
 BLACKBEARD:
 là sự thật, thì chúng ta có thể tìm thấy
-Trái tim Đại dương rất sớm.
+Ocean's Heart rất sớm.
 
 BRUTUS:
 Tôi sẽ rất phấn khích. Chúng ta đã tìm kiếm thứ
@@ -949,6 +971,7 @@ mà, Brutus.
 
 BRUTUS:
 Vâng vâng, Ngài Beard.
+
 
 BLACKBEARD:
 Không phải$1...$3
@@ -964,6 +987,7 @@ nghe này sẽ siêu kỳ lạ, nhưng cô
 có một cái chùy không? Kiểu, một quả cầu và xích?
 TILIA:
 Tôi xin lỗi, không?
+
 
 PROMETHEUS JONES:
 Chà, thật tệ! Thấy không, tôi có một cái đầu
@@ -988,6 +1012,7 @@ nghe này sẽ siêu kỳ lạ, nhưng cô
 có một cái chùy không? Kiểu, một quả cầu và xích?
 TILIA:
 Ừ, vâng, tôi thực sự có.
+
 
 PROMETHEUS JONES:
 Không thể nào! Thấy không, tôi có ý tưởng này! Nó kiểu,
@@ -1028,6 +1053,7 @@ Này! Là quý cô chùy nổ! Cái chùy nổ
 TILIA:
 Ý tôi là... nó rất nhiều.
 
+
 PROMETHEUS JONES:
 Đúng! Nó có lẽ tệ hơn nhiều cho bất cứ thứ gì
 thực tế so với chỉ một cái chùy bình thường! Nó
@@ -1049,8 +1075,10 @@ dialog{
 PROMETHEUS JONES:
 Yeah yeah yeah! Được rồi, xem này!
 
+
 (Gã này đã làm một số thứ khoa học kỳ lạ
 với cái chùy của cô)
+
 
 PROMETHEUS JONES:
 Giờ nó sẽ chỉ nổ khi đập vào tường
@@ -1093,8 +1121,8 @@ dialog{
   id = "_ballast_harbor.npcs.tavern.3",
   text = [[
 Ballast Harbor là một chợ cướp biển, và
-tôi cho rằng điều đó khiến nó trở nên vô đạo đức theo cách này
-hay cách khác khi mua sắm ở đây.
+tôi cho rằng điều đó khiến nó trở nên vô đạo
+đức theo cách này hay cách khác khi mua sắm ở đây.
 Nhưng mặt khác, nếu tôi không mua những món hàng
 rẻ như vậy, thì chúng sẽ bị đánh cắp
 mà không có lý do gì cả, điều đó thực sự tệ hơn
@@ -1299,7 +1327,7 @@ Hắn đang viết gì vậy?...
 Có một danh sách các di chỉ khảo cổ hắn
 phải đến thăm... Có một bản ghi nhớ về việc không
 trả tiền cho các hải đồ không liên quan đến
-Trái tim Đại dương hay Vua Meurian...
+Ocean's Heart hay Vua Meurian...
 Hử. Có nhiều khảo cổ học hơn và
 ít khát máu hơn bạn mong đợi.
 ]],
@@ -1564,6 +1592,7 @@ dialog{
 HORNIGOLD:
 ...
 
+
 HORNIGOLD:
 Ừ, tôi có một cảm giác tốt về cô. Có lẽ
 hãy để xem.
@@ -1575,6 +1604,7 @@ dialog{
   text = [[
 HAZEL:
 Em trở về rồi! Chị biết em sẽ làm được mà!
+
 
 TILIA:
 Chị đã sẵn sàng để về nhà chưa?
@@ -1798,6 +1828,7 @@ Sức mạnh của ngươi đến từ đâu, Ophira?
 dialog{
   id = "_fykonos.npcs.blackbeard.to_be_contd",
   text = [[
+
 
           Còn tiếp...
 ]],
@@ -2280,6 +2311,7 @@ rất xin lỗi, phà hiện không chạy
 TILIA:
 Anh có biết khi nào nó sẽ mở cửa trở lại không?
 
+
 NHÂN VIÊN BÁN VÉ:
 Này, câu hỏi hay, câu hỏi tuyệt vời.
 Tôi không biết. Cô có thể hỏi Trưởng Làng.
@@ -2330,12 +2362,14 @@ tồi tàn nữa... Cô đã...
 TILIA:
 Ừ, tôi bị đắm tàu thực ra.
 
+
 NGƯỜI ĐÁNH CÁ:
 Ồ, điều đó hợp lý hơn rất nhiều.
 Dù bằng cách nào, cô nên nói chuyện với Trưởng Làng.
 Ông ấy có thể giúp cô ổn định.
 TILIA:
 Cảm ơn, ông ấy ở đâu?
+
 
 NGƯỜI ĐÁNH CÁ:
 Ông ấy sống ở góc tây bắc của thị trấn.
@@ -3151,6 +3185,7 @@ con quái vật đã tóm được tôi hôm trước đâu! Tôi
 TILIA:
 Ồ bãi cạn?
 
+
 ARNI:
 Làm sao cô biết?! Vâng. Thật điên rồ. Nó cắn
 một miếng lớn từ chân tôi!
@@ -3165,6 +3200,7 @@ cây vân sam trên đó. Cô biết không, có lẽ
 là do mồi tôi đang sử dụng. Mồi quái vật.
 TILIA:
 Anh đang câu cá bằng mồi quái vật?
+
 
 ARNI:
 Để bắt cá quái vật! Dù sao thì, tôi đã để mồi
@@ -3945,13 +3981,13 @@ dialog{
   id = "_goatshead.npcs.guards.1",
   text = [[
 LÍNH CANH:
-Khuôn mặt mới ở Goatshead Harbor, huh? Không phải
-một kẻ buôn lậu, phải không?$1... $3 Ha. Chỉ đùa thôi.
-Nhưng hãy coi chừng bọn buôn lậu. Chúng không phải trò đùa.
+Lần đầu gặp ngươi ở Goatshead Harbor, huh? Không phải
+buôn lậu, phải không?$1... $3 Ha. Chỉ đùa thôi.
+Hãy coi chừng. Chúng khá nguy hiểm.
 LÍNH CANH:
-Không phải chúng tôi, những lính canh thị trấn, không thể xử lý chúng.
-Chúng tôi là những lính canh mạnh nhất đó!
-uhHUUUNH!
+Không phải chúng tôi không thể xử lý chúng.
+Chúng tôi là những lính canh
+mạnh nhất đó! uhHUUUNH!
 (Người lính canh gồng mình dữ dội)
 ]],
 }
@@ -3980,8 +4016,9 @@ dialog{
   id = "_goatshead.npcs.guards.4",
   text = [[
 LÍNH CANH:
-Cậu đang làm gì trên cầu tàu vậy? Cậu không phải là
-công nhân bốc vác! Cậu có thậm chí... nâng thùng nặng không?
+Cậu đang làm gì trên cầu tàu vậy?
+Cậu không phải là công nhân bốc vác!
+Cậu có thậm chí... nâng thùng nặng không?
 ]],
 }
 
@@ -3998,9 +4035,11 @@ dialog{
   id = "_goatshead.npcs.guards.6",
   text = [[
 LÍNH CANH:
-Cứ thử lén qua một lính canh đi... Ý tôi là
-lời khuyên đấy - cậu không thể đánh bại chúng tôi. Tất cả chúng tôi
-đều siêu mạnh! Những Lính Cơ Bắp! Đó là chúng tôi!
+Cứ thử lén qua một lính canh đi...
+Ý tôi là lời khuyên đấy
+ - cậu không thể đánh bại chúng tôi.
+Tất cả chúng tôi đều siêu mạnh!
+Những Lính Cơ Bắp! Đó là chúng tôi!
 ]],
 }
 
@@ -4008,9 +4047,10 @@ dialog{
   id = "_goatshead.npcs.guards.7",
   text = [[
 LÍNH CANH:
-Chúng tôi là lính canh thị trấn, nhưng hầu hết mọi người gọi
-chúng tôi là Đám Dã Man Tạ Đơn. Bởi vì tất cả chúng tôi đều nâng
-tạ đơn để có cơ bắp cuồn cuộn.
+Chúng tôi là lính canh thị trấn,
+nhưng hầu hết mọi người gọi chúng tôi
+là Đám Dã Man Tạ Đơn. Bởi vì tất cả chúng tôi
+đều nâng tạ đơn để có cơ bắp cuồn cuộn.
 ]],
 }
 
@@ -4028,8 +4068,11 @@ dialog{
   text = [[
 LÍNH CANH:
 Đây là nơi lính canh thị trấn sống.
-Đám Dã Man Tạ Đơn! Đó là những gì họ gọi chúng tôi. Tôi hoàn toàn
-thích điều đó. Cậu có việc gì ở đây?
+Đám Dã Man Tạ Đơn!
+Đó là những gì họ gọi chúng tôi.
+Tôi hoàn toàn thích điều đó.
+Cậu có việc gì ở đây?
+
 TILIA:
 Tôi chẳng có gì cả. Tôi không phải một thị trấn để
 mà canh gác.
@@ -4044,8 +4087,8 @@ dialog{
   text = [[
 LÍNH CANH:
 Đây là nơi lính canh thị trấn sống.
-Đám Dã Man Tạ Đơn! Đó là những gì họ gọi chúng tôi. Tôi hoàn toàn
-thích điều đó. Cậu có việc gì ở đây?
+Đám Dã Man Tạ Đơn! Đó là những gì họ gọi chúng tôi.
+Tôi hoàn toàn thích điều đó. Cậu có việc gì ở đây?
 TILIA:
 Tôi nghe nói các anh đều đang làm việc cho
 Eamon. Tôi đến đây để thách đấu bất cứ ai
@@ -4063,8 +4106,8 @@ Hahahahaha!
 
 
 LÍNH CANH:
-Hahaha. Được rồi, cô gái. Cứ làm điều đó đi. Sao không
-đi đánh bại mọi người tới chỗ ông chủ và cho
+Hahaha. Được rồi, cô gái. Cứ làm điều đó đi. Sao
+không đi đánh bại mọi người tới chỗ ông chủ và cho
 anh ta thấy sức mạnh của cậu?
 ]],
 }
@@ -4073,7 +4116,8 @@ dialog{
   id = "_goatshead.npcs.guards.barrack_guard.3",
   text = [[
 LÍNH CANH:
-Được rồi cô gái thích đánh nhau. Hãy đi đánh bại ông chủ của chúng tôi
+Được rồi cô gái thích đánh nhau.
+Hãy đi đánh bại ông chủ của chúng tôi
 để cho chúng tôi thấy cậu là người mạnh nhất.
 ]],
 }
@@ -4230,8 +4274,8 @@ dialog{
   text = [[
 MA:
 Ai lại uống từ giếng của ta để thử nghiệm
-sự xứng đáng của họ?
-Cơn mưa làm đầy nó là những giọt nước mắt của bầu trời bị lãng quên.
+sự xứng đáng của họ? Cơn mưa làm đầy nó là
+những giọt nước mắt của bầu trời bị lãng quên.
 TILIA:
 Đợi đã, để làm gì cơ?
 
@@ -4246,11 +4290,11 @@ lời khen, tôi đoán vậy? Nhưng tôi không
 cố gắng trở thành người bảo vệ của ai.
 MA:
 Ta là một anh hùng của quá khứ. Tên ta là Heron.
-Người bảo vệ của ta, hãy xoa dịu những hối tiếc của ta. Ta đã thất bại
-trong việc chống lại Vua Biển khi còn sống.
+Người bảo vệ của ta, hãy xoa dịu những hối tiếc của ta.
+Ta đã thất bại trong việc chống lại Vua Biển.
 MA:
-Người dân của ta và những người thân thiết nhất đã phải trả giá
-bằng mạng sống cho thất bại của ta. Và giờ đây
+Người dân của ta và những người thân thiết nhất đã 
+phải trả giá bằng mạng sống cho thất bại của ta. Và giờ
 ngôi mộ của ta đang bị lũ quái vật tràn ngập được triệu hồi từ
 HERON:
 vực thẳm bởi Vua Biển khi hắn còn sống.
@@ -4291,9 +4335,9 @@ vào thế giới. Tuy nhiên, nhiều con vẫn còn.
 Chim Biển, Bầu Trời, đã từng được tôn sùng. Nó
 đã bị giảm xuống thành một tôi tớ trong
 HERON:
-lịch sử của Vua Biển. Nhưng món quà của nó có thể trở nên mạnh mẽ hơn.
-Hãy tìm các đền thờ của Chim Biển, người bảo vệ.
-Tìm kiếm sự ủng hộ của vị thần bị lãng quên này...
+lịch sử của Vua Biển. Nhưng món quà của nó có thể trở nên
+mạnh mẽ hơn. Hãy tìm các đền thờ của Chim Biển, người bảo
+vệ. Tìm kiếm sự ủng hộ của vị thần bị lãng quên này...
 TILIA:
 Chắc chắn rồi, ma.
 ]],
@@ -4378,12 +4422,12 @@ ILEX:
 của nó. Tại sao họ lại tấn công một nơi cũ kỹ
 như thế này.
 TILIA:
-Tôi không biết. Nhưng họ cũng cướp phá một tàn tích cổ trong
-làng tôi. Tôi muốn đi xung quanh ngôi đền
+Tôi không biết. Nhưng họ cũng cướp phá một tàn tích
+cổ trong làng tôi. Tôi muốn đi xung quanh ngôi đền
 để tìm manh mối.
 ILEX:
-Tôi sẽ phải cho cậu vào, tôi đã khóa nó rồi. Nếu cậu
-đi lên đó, tôi sẽ mở khóa cổng và gặp
+Tôi sẽ phải cho cậu vào, tôi đã khóa nó rồi.
+Nếu cậu đi lên đó, tôi sẽ mở khóa cổng và gặp
 cậu bên trong.
 ]],
 }
@@ -4409,9 +4453,9 @@ một loại bùa nào đó bên trong cái cây này ở
 trung tâm, bọn cướp biển Đồng Hồ Cát hẳn phải
 tìm kiếm nó vì lý do nào đó. Cậu chỉ có thể
 ILEX:
-mở cửa khi bốn đài phun nước trong
-đền được bật lên. Những ngọn đuốc này cho thấy
-bao nhiêu đài phun nước được kích hoạt - hiện tại, không có cái nào.
+mở cửa khi bốn đài phun nước trong đền được bật lên.
+Những ngọn đuốc này cho thấy bao nhiêu đài phun nước được
+kích hoạt - hiện tại, không có cái nào.
 ILEX:
 Khi cậu khởi động mỗi đài phun nước, một ngọn đuốc sẽ sáng
 lên, và cả 4 sẽ mở khóa cánh cửa này trong
@@ -4456,9 +4500,9 @@ dialog{
   id = "_goatshead.npcs.ilex.7",
   text = [[
 ILEX:
-Không có nhiều manh mối về
-nơi ở của bọn cướp biển ở đây, huh. Ngoại trừ những chai
-rượu mạnh ở đằng kia, tôi không biết điều đó có hữu ích không.
+Không có nhiều manh mối về nơi ở của bọn cướp biển
+ở đây, huh. Ngoại trừ những chai rượu mạnh ở đằng kia,
+tôi không biết điều đó có hữu ích không.
 ]],
 }
 
@@ -4558,8 +4602,8 @@ những cây non được trồng từ Cây Devana. Và
 đây từng đặt Bùa Của Vua, được trao cho
 ILEX:
 Heron để cho phép ông đi qua
-những cơn bão đến cung điện. Sau khi các nhà sư
-chết trong trận lụt lớn, tổ tiên tôi
+những cơn bão đến cung điện. Sau khi các
+nhà sư chết trong trận lụt lớn, tổ tiên tôi
 ILEX:
 tiếp tục canh giữ Bùa Của Vua, ngay cả
 khi ngôi đền mục nát và trở về với
@@ -4569,8 +4613,8 @@ xuất hiện và cướp phá nơi này. Đánh cắp Bùa
 Của Vua. Tôi vẫn đang lang thang ở đây, nhưng
 thành thật mà nói tôi không chắc tại sao nữa.
 TILIA:
-Nghe có vẻ khó khăn, anh bạn. Nghe này, thực ra tôi
-đến đây về bọn cướp biển. Có phải chúng
+Nghe có vẻ khó khăn, anh bạn. Nghe này, thực ra
+tôi đến đây về bọn cướp biển. Có phải chúng
 có treo cờ đồng hồ cát không?
 ILEX:
 Ừ, đó là Băng Đồng Hồ Cát. Một trong những
@@ -4582,8 +4626,8 @@ Hãy coi chừng lũ quái vật, tuy nhiên. Nơi này
 đang trở nên nguy hiểm.
 TILIA:
 Cảm ơn. Tôi sẽ đi kiểm tra
-xác tàu đắm đó, xem liệu tôi có thể tìm thấy manh mối về
-nơi bọn cướp biển đã đi.
+xác tàu đắm đó, xem liệu tôi có thể tìm thấy 
+manh mối về nơi bọn cướp biển đã đi.
 ]],
 }
 
@@ -4670,9 +4714,13 @@ dialog{
   id = "_goatshead.npcs.juglan.1",
   text = [[
 JUGLAN:
-Chà, đây là Goatshead Harbor. Nó không phải là một hố đầy kẻ vô lại,
+Chà, đây là Goatshead Harbor.
+Nó không phải là một hố đầy kẻ vô lại,
 nhưng ai đó trong Quán Rượu Sodden
+JUGLAN:
 Cormorant có thể đã thấy bọn cướp biển.
+
+
 TILIA:
 Cảm ơn, Juglan. Tôi chắc tôi sẽ sớm quay lại.
 
@@ -4732,7 +4780,8 @@ dialog{
   id = "_goatshead.npcs.market_people.1",
   text = [[
 Mua chanh tây ở đây nào! Đảm bảo xua đuổi
-bệnh scorbut, hôi miệng, thậm chí cả thiếu đồ trang trí cocktail!
+bệnh scorbut, hôi miệng, 
+thậm chí cả thiếu đồ trang trí cocktail!
 Có gì chúng không sửa được?
 ]],
 }
@@ -4741,12 +4790,13 @@ dialog{
   id = "_goatshead.npcs.market_people.10",
   text = [[
 Cậu có tin nổi không. Cướp biển thành lập cartel
-hay đại loại vậy, tôi có thể chấp nhận điều đó. Nhưng giờ chúng ta
-còn có cây nitrodendron mọc quanh đây? Ugh.
-Cậu thấy cái cây có gai đó không? Đó là
-nitrodendron. Những cái gai rất đau. Rõ ràng. Nhưng
-những bông hoa mới là vấn đề. Chúng
-có thể nổ, siêu nguy hiểm. Và chúng mọc lại
+hay đại loại vậy, tôi có thể chấp nhận điều đó.
+Nhưng giờ chúng ta còn có cây nitrodendron mọc quanh đây?
+Ugh. Cậu thấy cái cây có gai đó không?
+Đó là nitrodendron.
+Những cái gai rất đau. Rõ ràng.
+Nhưng những bông hoa mới là vấn đề.
+Chúng có thể nổ, siêu nguy hiểm. Và chúng mọc lại
 ngay lập tức. Tôi không biết cách nhổ cỏ chúng.
 ]],
 }
@@ -4764,8 +4814,9 @@ nhiều tiền nếu tham gia...
 dialog{
   id = "_goatshead.npcs.market_people.12",
   text = [[
-Thế này, kiếm của tôi gãy trong một trận chiến táo bạo chống lại
-bọn cướp biển tàn bạo, nên tôi đã lên bờ ở đây, đúng không?
+Thế này, kiếm của tôi gãy trong một trận
+chiến táo bạo chống lại bọn cướp biển tàn bạo,
+nên tôi đã lên bờ ở đây, đúng không?
 Nhưng người thợ rèn này không làm kiếm!
 Có một gã ở trong nói, "Tôi biết
 về một thanh kiếm", nhưng đó là gì chứ?
@@ -4810,11 +4861,11 @@ dialog{
   id = "_goatshead.npcs.market_people.15",
   text = [[
 Thế này, tuần trước tôi đang nhổ cỏ trong vườn,
-nghe tôi nói hết, câu chuyện này có ý nghĩa đấy, nhưng tôi đang
-nhổ cỏ, và nhổ lên một bụi cây, và bên dưới
-bụi cây là một cái hố. Tôi mất thăng bằng
-và không ngờ đến điều đó, nên tôi ngã ngay
-xuống, và cậu có tin không? Có một
+nghe tôi nói hết, câu chuyện này có ý nghĩa đấy,
+nhưng tôi đang nhổ cỏ, và nhổ lên một bụi cây,
+và bên dưới bụi cây là một cái hố.
+Tôi mất thăng bằng và không ngờ đến điều đó,
+nên tôi ngã ngay xuống, và cậu có tin không? Có một
 kho chứa của cướp biển dưới hố! Một ít kho báu!
 Tôi nghĩ rằng bất kỳ kho báu chôn giấu nào khác phải
 được giấu dưới một số dấu hiệu đặc biệt, để
@@ -4884,8 +4935,8 @@ dialog{
   text = [[
 NGƯỜI BÁN NỒI ĐÁNG NGỜ:
 Có hứng thú với vài món đồ gốm không? Có lẽ là
-một cái nồi nấu hoặc ramekin? Tôi thậm chí còn có cả tureen.
-
+một cái nồi nấu hoặc ramekin? Tôi thậm chí còn
+có cả tureen.
 TILIA:
 Ồ, có lẽ là một cái chai rỗng? Tôi có thể
 thấy nó hữu ích nếu muốn mang theo
@@ -4914,12 +4965,15 @@ dialog{
   id = "_goatshead.npcs.market_people.6",
   text = [[
 Tôi biết có một thợ rèn giáp quanh đây
-đâu đó... Tôi là thành viên của
-Guild Thương nhân, và chúng tôi cần anh ta giúp
-trang bị cho lính canh của chúng tôi. Nếu các thương nhân không thuê
-lính canh để làm theo lệnh của chúng tôi, thì bọn cướp biển có thể
-bắt đầu xuất hiện để bán hàng hóa ăn cắp. Hoặc
-chỉ là, một đám người bất hảo nói chung. Chúng tôi cần lính canh để
+đâu đó... Tôi là thành viên của Guild Thương nhân,
+và chúng tôi cần anh ta giúp trang bị
+cho lính canh của chúng tôi.
+Nếu các thương nhân không thuê lính canh để
+làm theo lệnh của chúng tôi,
+thì bọn cướp biển có thể bắt đầu xuất
+hiện để bán hàng hóa ăn cắp.
+Hoặc chỉ là, một đám người bất hảo nói chung.
+Chúng tôi cần lính canh để
 đảm bảo chúng tôi có thể làm ăn.
 ]],
 }
@@ -4940,9 +4994,9 @@ dialog{
   id = "_goatshead.npcs.market_people.8",
   text = [[
 Có một thị trấn tên là Crabhook nếu cô đi
-theo con đường phía Tây ra khỏi thị trấn. Rất nhiều người
-quanh đây không thích đến thăm nó, nên họ
-chưa bao giờ trải nhựa con đường.
+theo con đường phía Tây ra khỏi thị trấn.
+Rất nhiều người quanh đây không thích đến
+thăm nó, nên họ chưa bao giờ trải nhựa con đường.
 ]],
 }
 
@@ -5009,16 +5063,16 @@ dialog{
   text = [[
 NGƯỜI ĐÀN ÔNG HUÊNH HOANG:
 Ồ, cô quan tâm đến việc tìm hiểu xem
-các thương nhân chúng tôi làm gì ở đây sao? Chúng tôi thực sự chịu trách nhiệm
-giữ cho toàn bộ Goatshead có trật tự. Bằng
+các thương nhân chúng tôi làm gì ở đây sao?
+Chúng tôi thực sự chịu trách nhiệm
 NGƯỜI ĐÀN ÔNG HUÊNH HOANG:
-sức mạnh của kinh tế học! Giữ cho mọi thứ
+giữ cho toàn bộ Goatshead có trật tự.
+Bằng sức mạnh của kinh tế học! Giữ cho mọi thứ
 không trở nên bất ổn.
-
 TILIA:
 Giá như tôi có thời gian để cuộc sống của mình
-được cải thiện bởi một người đàn ông trong thư viện giải thích
-mọi thứ cho tôi. Thật không may tôi cần phải đi.
+được cải thiện bởi một người đàn ông trong thư viện giải
+thích mọi thứ cho tôi. Thật không may tôi cần phải đi.
 ]],
 }
 
@@ -5054,8 +5108,8 @@ dialog{
   id = "_goatshead.npcs.merchants_guild.ousting_scene.1",
   text = [[
 EAMON:
-Tôi ư? Tất cả các người đều bỏ phiếu để loại tôi khỏi vị trí
-chủ tịch? Và cho phép một tên vô lại từ Crabhook
+Tôi ư? Tất cả các người đều bỏ phiếu để loại tôi khỏi vị
+trí chủ tịch? Và cho phép một tên vô lại từ Crabhook
 vào Guild Thương nhân? Đây là cái gì vậy?
 THƯƠNG NHÂN:
 Aster đã cho chúng tôi xem bằng chứng anh đã ăn cắp
@@ -5115,7 +5169,8 @@ dialog{
   text = [[
 THƯƠNG NHÂN:
 Thành thật mà nói, trọng tâm của tôi trong guild chỉ là
-kế toán, tôi không thực sự quan tâm tiền đến từ đâu. Hy vọng chúng ta vẫn nhận được một ít.
+kế toán, tôi không thực sự quan tâm tiền đến từ đâu.
+Hy vọng chúng ta vẫn nhận được một ít.
 ]],
 }
 
@@ -5189,9 +5244,9 @@ dialog{
   id = "_goatshead.npcs.palladio.1",
   text = [[
 PALLADIO:
-Này. Tôi đang làm một đơn hàng cho
-lính canh thị trấn, nhưng trời ơi, mũ giáp hết lần này đến lần khác
-thật nhàm chán. Tôi nghĩ họ chắc phải tổ chức các cuộc thi
+Này. Tôi đang làm một đơn hàng cho lính canh thị trấn,
+nhưng trời ơi, mũ giáp hết lần này đến lần khác thật
+nhàm chán. Tôi nghĩ họ chắc phải tổ chức các cuộc thi
 PALLADIO:
 húc đầu thì mới cần nhiều đến vậy. Nhưng này, tôi sẽ
 vui vì được giải lao. Nếu cô có 50 crown và
@@ -5246,10 +5301,11 @@ với giá tốt hơn. Nghe có hấp dẫn không?
 TILIA:
 Với tôi thì không.
 
+
 ASTER:
 Ahaha! Được thôi. Cảm ơn sự giúp đỡ của cô.
-Vẫn còn một chặng đường dài cho đến khi
-người dân của tôi được đối xử công bằng, nhưng chúng ta đã bắt đầu.
+Vẫn còn một chặng đường dài cho đến khi người dân
+của tôi được đối xử công bằng, nhưng chúng ta đã bắt đầu.
 ]],
 }
 
@@ -5259,8 +5315,10 @@ dialog{
 ASTER:
 Xin lỗi. Cô đang làm gì trong nhà tôi?
 
+
 TILIA:
 Tôi đã theo dấu chân đến đây. Ngài Mực!
+
 
 ASTER:
 Tôi e rằng tôi không biết cô đang nói gì.
@@ -5303,7 +5361,8 @@ Dù câu chuyện của anh là gì, anh đã đột nhập
 vào nhà người ta và phá hoại đồ đạc.
 Mọi người khiếp sợ anh. Chỉ vì anh
 TILIA:
-có thể nói chuyện như một anh hùng không có nghĩa anh là một anh hùng.
+có thể nói chuyện như một anh hùng không có nghĩa anh
+là một anh hùng.
 
 ASTER:
 Được thôi.
@@ -5340,6 +5399,7 @@ dialog{
   text = [[
 TILIA:
 Giả sử tôi quyết định giúp anh. Anh cần gì?
+
 
 ASTER:
 Tôi đã gặp gỡ những người khác trong
@@ -5384,8 +5444,8 @@ Những giấy tờ đó... Tilia, đây chính xác là
 thứ chúng ta cần! Những người trong guild
 sẽ giúp tôi, họ có thể loại bỏ Eamon
 ASTER:
-khỏi quyền lực ngay bây giờ, và chúng ta có thể bắt đầu tháo dỡ
-cơ cấu đã ngăn cản người dân Crabhook
+khỏi quyền lực ngay bây giờ, và chúng ta có thể bắt đầu
+tháo dỡ cơ cấu đã ngăn cản người dân Crabhook
 thành công! Tôi sẽ-
 ]],
 }
@@ -5496,8 +5556,8 @@ Một vài lính canh thị trấn vừa đến và xin lỗi
 tôi. Tôi đoán là em đã thuyết phục được
 họ ngừng làm việc cho Eamon?
 TILIA:
-Ừ. Trò chơi của họ thật ngu ngốc nhưng tôi đã đánh bại họ.
-Họ sẽ không ngăn anh hoặc người từ
+Ừ. Trò chơi của họ thật ngu ngốc nhưng tôi đã đánh
+ bại họ. Họ sẽ không ngăn anh hoặc người từ
 Crabhook tham gia Guild Thương nhân nữa.
 ASTER:
 Tuyệt vời. Vậy thì tôi sẽ đến Trụ sở chính Guild
@@ -5505,8 +5565,8 @@ Tuyệt vời. Vậy thì tôi sẽ đến Trụ sở chính Guild
 Em có thể gặp tôi ở đó. Ồ,
 ASTER:
 một điều nữa. Đây là số tiền lẽ ra Eamon nên
-trả em vì đã dẫn tôi đến. Tôi mừng vì em
-đã nhận việc đó. Và càng mừng hơn vì em đã không hoàn thành nó.
+trả em vì đã dẫn tôi đến. Tôi mừng vì em đã nhận việc
+ đó. Và càng mừng hơn vì em đã không hoàn thành nó.
 (Bạn nhận được 200 crown)
 ]],
 }
@@ -5576,12 +5636,12 @@ dialog{
   text = [[
 PLUMBUM:
 Các đơn đặt hàng mũ giáp và khiên liên tục cho
-lính canh thị trấn, đó là tất cả những gì tôi nhận được quanh đây
-những ngày này. Hừm. Đó là áo giáp Hải quân Tình nguyện
+lính canh thị trấn, đó là tất cả những gì tôi nhận được
+quanh đây những ngày này. Hừm. Đó là áo giáp Hải quân 
 PLUMBUM:
-mà cô đang mặc phải không? Hơi rộng một chút... cũng
-cần một vài cải tiến. Nói cho cô biết này, tôi
-có thể cải tiến áo giáp của cô với giá 50 crown.
+Tình nguyện mà cô đang mặc phải không? Hơi rộng một
+chút... cũng cần một vài cải tiến. Nói cho cô biết này,
+tôi có thể cải tiến áo giáp của cô với giá 50 crown.
 TILIA:
 $? Không, cảm ơn.
 $? Nghe hay đấy!
@@ -5699,10 +5759,11 @@ trả nợ cho Beetle-Eyed Bart, nên hãy đi đi!
 TILIA:
 Nếu như... tôi trả nợ cho hắn thì sao?
 
+
 BẢO VỆ:
 Nghe này, nếu cô nghĩ cô có thể ra
-bến tàu và moi tiền từ tay gã thợ nấu bia
-bị thần kinh đó, thì cứ việc. Lúc đó chúng ta sẽ nói chuyện.
+bến tàu và moi tiền từ tay gã thợ nấu bia bị thần kinh
+đó, thì cứ việc. Lúc đó chúng ta sẽ nói chuyện.
 ]],
 }
 
@@ -5715,6 +5776,7 @@ những người không thuộc về nơi này ra ngoài, và cả
 Beetle Eyed Bartolemy nữa vì...
 TILIA:
 Vì khoản nợ lớn chưa thanh toán của hắn?
+
 
 BẢO VỆ:
 Đúng vậy, chính xác$1...$3 Đợi đã, cái gì thế?
@@ -5734,8 +5796,8 @@ dialog{
   id = "_goatshead.npcs.tavern_bouncer.3",
   text = [[
 Có vẻ như cô là kiểu người có thể đảm đương
-một số công việc lặt vặt thuộc dạng nguy hiểm.
-Dân thường thường treo thông báo dành cho Thủy thủ Tình nguyện
+một số công việc lặt vặt thuộc dạng nguy hiểm. Dân thường
+thường treo thông báo dành cho Thủy thủ Tình nguyện
 trong các quán rượu.
 ]],
 }
@@ -5745,7 +5807,8 @@ dialog{
   text = [[
 LỮ KHÁCH:
 Ồ, cô ở trong thủy thủ tình nguyện à? Hãy nói chuyện
-với anh chàng có ria mép kia, anh ấy là trưởng nhóm của chúng tôi.
+với anh chàng có ria mép kia, anh ấy là trưởng nhóm của
+chúng tôi.
 ]],
 }
 
@@ -5767,9 +5830,12 @@ dialog{
   id = "_goatshead.npcs.tavern_people.adventurers.2",
   text = [[
 NHÀ THÁM HIỂM:
-Cô đã nghe nói về các đường hầm bí mật của thành phố chưa?
-Tôi cho rằng tất cả các thành phố cổ đều có đường hầm bí mật...
-Này, có lẽ cô có thể giúp chúng tôi với những đường hầm của chúng tôi!
+Cô đã nghe nói về các đường hầm bí mật của
+thành phố chưa? Tôi cho rằng tất cả các thành phố
+cổ đều có đường hầm bí mật...
+NHÀ THÁM HIỂM:
+Này, có lẽ cô có thể giúp chúng tôi với
+những đường hầm của chúng tôi!
 ]],
 }
 
@@ -5853,6 +5919,7 @@ dialog{
 NHÀ THÁM HIỂM:
 Vậy, cô đã đánh bại con nhện khổng lồ đó rồi à?
 
+
 TILIA:
 Ừ. Có thể còn một vài con nhỏ
 vẫn đang chạy loanh quanh, nhưng các anh có thể
@@ -5929,8 +5996,8 @@ dialog{
   text = [[
 THIESSON:
 Cô biết không, cô không phải là người mặc đồ
-Thủy thủ Tình nguyện đầu tiên đang săn lùng bọn cướp biển này. Một người đàn ông cao lớn
-có râu đã hỏi mọi người ở
+Thủy thủ Tình nguyện đầu tiên đang săn lùng bọn cướp biển này.
+Một người đàn ông cao lớn có râu đã hỏi mọi người ở
 THIESSON:
 Ballast Harbor về chúng. Có vẻ như đã nghe
 được điều gì đó từ một người đàn ông bán hải đồ. Cô
@@ -5969,6 +6036,7 @@ dialog{
 NGƯỜI ĐÀN ÔNG:
 Cô muốn gì, nhóc?
 
+
 TILIA:
 Tôi đang tìm một băng cướp biển. Chúng treo
 một đồng hồ cát trắng trên cờ của mình.
@@ -5990,6 +6058,7 @@ dialog{
   text = [[
 THIEL:
 Cần gì à, cô gái?
+
 
 TILIA:
 Thực ra là có. Tôi đang tìm một băng cướp biển
@@ -6043,12 +6112,14 @@ mọi người trừ lũ chuột trong ngõ.
 TILIA:
 $1Có...$3 Anh ta có cao, tóc đen? Có râu không?
 
+
 THIESSON:
 Nghe có vẻ đúng. Cô biết anh ta? Tôi chắc
 anh ta đã đi xa rồi, nhưng anh ta đang nói chuyện bên ngoài một
 cửa hàng bán hải đồ.
 TILIA:
 Làm sao để tôi đến được Ballast Harbor?
+
 
 THIESSON:
 Đó là một Chợ Cướp biển, nên không dễ để đến
@@ -6097,6 +6168,7 @@ phía Đông đây chưa? Chỗ có quái vật ấy?
 Chỗ mà tôi để kho dự trữ cà rốt của mình?!
 TILIA:
 Tôi đã đến đó rồi. Tôi đã xử lý lũ quái vật cho ông.
+
 
 NGƯỜI COI TRỌNG CÀ RỐT:
 Tuyệt vời! Cô là một thành viên thủy thủ tình nguyện xuất sắc!
@@ -6748,6 +6820,7 @@ con nhện đá đó đánh bại không?
 Tilia:
 Tôi bị trúng vài đòn, nhưng nó đã không còn nữa.
 
+
 Bernard:
 Làm tốt lắm, Tilia. Cô đang trở thành một thành viên
 Thủy thủ Tình nguyện tuyệt vời.
@@ -6773,6 +6846,7 @@ nếu con nghe được tin tức gì về Hazel, ta...
 Tilia:
 Không sao đâu, Corylus. Nếu bố con chưa tìm thấy
 cô ấy, con sẽ đưa cô ấy về cùng.
+
 Corylus:
 Cảm ơn con yêu. Lên đường bình an.
 ]],
@@ -6799,6 +6873,7 @@ dialog{
   text = [[
 Edson:
 Ừ, Tilia... Vậy là cô tìm thấy chìa khóa phòng chứa đồ.
+
 
 Tilia:
 Ừ. Anh làm rơi nó khi đang câu cá ở hồ à?
@@ -6881,6 +6956,7 @@ dialog{
 Juglan:
 À, Tilia. Vậy là con sẵn sàng lên đường rồi hả?
 
+
 Tilia:
 Vâng. Con biết bố đang tìm kiếm
 Băng Cướp biển Đồng Hồ Cát, và bố có lẽ
@@ -6920,6 +6996,7 @@ dialog{
   text = [[
 Tilia:
 Con có đủ mọi thứ con cần rồi.
+
 
 Juglan:
 Vậy thì lên tàu đi. Điểm dừng tiếp theo,
@@ -6990,6 +7067,7 @@ dialog{
 Mallow:
 Này Tilia.
 
+
 Tilia:
 Bố. Tại sao bố phải đi? Bố đã giúp
 đẩy lùi cuộc tấn công của cướp biển, bố đã hoàn thành nhiệm vụ.
@@ -7000,8 +7078,8 @@ của Thủy thủ Tình nguyện, bố không thể để mặc cô bé.
 
 Tilia:
 Nhưng tại sao bố phải là người làm việc đó? Chúng ta không thể
-tìm một thủy thủ khác sao? Linden và con không thể
-tự xây lại quán rượu. Và bố
+tìm một thủy thủ khác sao? Linden và con
+không thể tự xây lại quán rượu. Và bố
 Tilia:
 đang dạy con chiến đấu để con cũng có thể gia nhập
 thủy thủ tình nguyện!...
@@ -7012,6 +7090,7 @@ một hoặc hai tháng để đuổi kịp bọn cướp biển và
 đưa Hazel trở về. Bố sẽ hoàn thành khóa huấn luyện của con sau.
 Mallow:
 ...
+
 
 Mallow:
 Xin lỗi Tilia. Nhưng đây là nhiệm vụ của bố.
@@ -7024,8 +7103,10 @@ dialog{
 Nielson:
 Thở dài... à, Tilia. Có tin gì từ bố con không?
 
+
 Tilia:
 Bố không gửi tin tức gì về. Con đang cố gắng tự tìm bố.
+
 
 Nielson:
 À... Mọi thứ không còn như xưa kể từ khi
@@ -7077,6 +7158,7 @@ nồi kho của ta trong vụ cướp.
 Tilia:
 Thực ra, con có cái này cho bác.
 
+
 Paula:
 Ồ, Tilia! Một cái nồi kho mới. Con thật ngọt ngào.
 Để ta nấu cho con một món gì đó ngon
@@ -7093,6 +7175,7 @@ một ít món hầm nhưng lũ cướp biển đã lấy mất
 nồi kho của ta trong vụ cướp.
 Tilia:
 Thực ra, con có cái này cho bác.
+
 
 Paula:
 Ồ, Tilia! Nồi kho của ta! Ta không biết con
@@ -7111,6 +7194,7 @@ không có tiều phu nào dám lấy gỗ ở đó?
 Tilia:
 Rồi, Reuel. Ông đã ngồi bên đống lửa này
 cả đời con rồi và kể chuyện ma cho lũ trẻ nghe.
+
 Reuel:
 Vậy thì câu chuyện kinh dị thực sự là bao nhiêu thời gian
 ta đã lãng phí! Lũ trẻ các con chẳng sợ gì cả.
@@ -7215,8 +7299,10 @@ dialog{
 Tim:
 Chà, là Tilia. Cô đang mặc đồ Thủy thủ Tình nguyện
 hả? Bố cô đã hoàn thành khóa huấn luyện của cô chưa?
+
 Tilia:
 Bố dạy con đủ rồi.
+
 
 Tim:
 Tôi hỏi vì tôi có một hợp đồng cho cô nếu cô
@@ -7241,6 +7327,7 @@ Cô có thể làm gì được không?
 Tilia:
 Xin lỗi Shifty Ulrich, tôi không thể giúp. Có lẽ thử
 trung thực hơn nói chung xem?
+
 Shifty Ulrich:
 Ừ hữ.
 ]],
@@ -7264,8 +7351,10 @@ trở nên đắt đỏ...
 Tilia:
 Có thật vậy không?
 
+
 Shifty Ulrich:
 ...
+
 
 Shifty Ulrich:
 Được rồi! Tôi đã lấy trộm nồi kho của bà ấy trong lúc
@@ -7344,6 +7433,7 @@ Tôi đã bị cướp biển tấn công!
 Tilia:
 Đợi đã, cái gì?! Khi nào?
 
+
 Wally:
 Tôi đang câu cá ở bờ biển phía tây của đảo,
 thì một băng cướp biển xông đến và
@@ -7358,6 +7448,7 @@ dialog{
   text = [[
 Wally:
 Tilia, cô đã đánh bại bọn cướp biển cho tôi chưa?
+
 
 Tilia:
 Chưa, nhưng chắc chắn nó nằm trong danh sách việc của tôi.
@@ -7382,14 +7473,18 @@ và bỏ chạy như một kẻ nhát gan.
 Wally:
 Ồ.
 
+
 Tilia:
 Một ngư dân nào đó giống như anh.
+
 
 Wally:
 Ờ, đúng vậy, là tôi.
 
+
 Tilia:
 Dù sao thì, đây là hộp đồ câu của anh.
+
 
 Wally:
 Cảm ơn. Tôi hơi xấu hổ về việc chạy trốn
@@ -7599,6 +7694,7 @@ cô có thể làm một lọ giúp cô tỉnh táo vào
 HAZEL:
 buổi sáng, Tilia.
 
+
 TILIA:
 Hoặc tôi có thể nấu một lọ thuốc khiến cô ngủ
 sớm hơn thay vì khiến tôi thức cả đêm
@@ -7609,6 +7705,7 @@ hãy đi lấy số rượu whisky đó. Nhưng khi cô xong
 việc vặt, chúng ta hãy lấy thuyền của bố cô
 HAZEL:
 chèo đến Bracken Beach.
+
 
 TILIA:
 Được thôi! Tôi sẽ đi lấy số rượu whisky và chúng ta
@@ -7685,8 +7782,10 @@ dialog{
 TILIA:
 Chúng ta hãy lên đường.
 
+
 JUGLAN:
 Đại dương ư?
+
 
 TILIA:
 Đúng vậy. Đã đến lúc chúng ta đưa Bố
@@ -7757,6 +7856,7 @@ hang cất giữ bí mật để lấy thứ gì đó!
 LINDEN:
 Việc đó có mất cả ngày không?
 
+
 TILIA:
 Ai mà biết? Nhưng chắc chắn con sẽ không có thời gian để
 rửa bát đâu.
@@ -7769,6 +7869,7 @@ dialog{
 LINDEN:
 Chào buổi sáng, Tilia. Em vẫn ghi chú
 gần như ám ảnh trong nhật ký nhiệm vụ của mình à?
+
 TILIA:
 Có rất nhiều thứ đang diễn ra trong cuộc đời em!
 Đôi khi thật khó để nhớ! Em giữ nhật ký của mình
@@ -7795,6 +7896,7 @@ dialog{
   text = [[
 LINDEN:
 Vậy Tilia. Hôm nay thực sự là ngày đó ư?
+
 
 TILIA:
 Em đã tự động viên bản thân trong vài tháng
@@ -7852,8 +7954,10 @@ dialog{
 LINDEN:
 Chà, chúc may mắn. Em có nhớ lấy kiếm của mình không
 hay em để nó ở chỗ luyện tập nhỏ của em rồi?
+
 TILIA:
 Có, $1em...$3 Chết tiệt! Không, em để nó ở đó rồi!
+
 
 LINDEN:
 Haha, em sẽ ổn thôi, Tilia. Hãy lấy kiếm của em đi.
@@ -7954,6 +8058,7 @@ về việc tìm bố hoặc Hazel không?
 TILIA:
 Em sắp tìm ra rồi! Hazel đang ở đâu đó trong Oakhaven.
 
+
 LINDEN:
 Thật tuyệt vời! Em sẽ tìm thấy cô ấy ngay thôi,
 và rồi chị chắc chắn em sẽ có thể
@@ -7966,6 +8071,7 @@ dialog{
   text = [[
 LINDEN:
 Thật tốt khi gặp em trở lại, Tilia! Hazel thế nào?
+
 
 TILIA:
 Cô ấy vẫn ổn! Cô ấy đang ở lại
@@ -8002,6 +8108,7 @@ Tilia! Đoán xem? Đàn diệc
 TILIA:
 Chào buổi sáng, Bố.
 
+
 MALLOW:
 Bố không thương tiếc chúng chút nào. Chúng là
 một mối phiền toái. Này, nếu hôm nay con có thời gian,
@@ -8012,6 +8119,7 @@ Juglan đã có một tháng tồi tệ với việc câu cá,
 và bố muốn tặng ông ấy thứ gì đó.
 TILIA:
 Không thành vấn đề, bố.
+
 
 MALLOW:
 Cảm ơn, Little Gull. Hang nằm ở
@@ -8033,6 +8141,7 @@ quay lại với nó. Con đã lấy chai
 rượu whisky cho Juglan chưa?
 TILIA:
 Chưa.
+
 
 MALLOW:
 Nó nằm trong chỗ cất giấu bí mật ở đầu phía bắc
@@ -8057,12 +8166,14 @@ Chúng là những trí khôn xuất sắc.
 TILIA:
 Bố, chuyện gì đã xảy ra? Mọi người có ổn không?
 
+
 MALLOW:
 Bọn cướp biển treo Đồng Hồ Cát Trắng trên cờ của chúng
 đã tấn công. Chúng cướp phá phế tích cũ trên
 núi. Hầu hết chúng ta đã trốn thoát, nhưng...
 TILIA:
 Nhưng sao?
+
 
 MALLOW:
 Hazel đang ở trên núi thu thập thảo mộc.
@@ -8150,8 +8261,8 @@ qua không? Con nên đi tìm cô ấy.
 dialog{
   id = "_new_limestone_island.observations.carving",
   text = [[
-Đó là một tác phẩm chạm khắc rất đẹp về một... con hươu? Con thỏ
-có lẽ? Nó vẫn đang được thực hiện.
+Đó là một tác phẩm chạm khắc rất đẹp về một... con hươu?
+Con thỏ có lẽ? Nó vẫn đang được thực hiện.
 ]],
 }
 
@@ -8383,6 +8494,7 @@ rất khó khăn. Tôi muốn giúp ông ấy...
 TILIA:
 Vậy là cô chỉ đơn giản là lấy trộm một đống tiền?
 
+
 AUBREY:
 Không, tôi $1... $2 ừm. $3Ừ. Tôi đã làm thật. Ugh. Rõ ràng
 cô đến đây để xử lý chuyện này.
@@ -8434,13 +8546,16 @@ dialog{
   id = "_oakhaven.npcs.ana_orange.get_into_fight",
   text = [[
 AUBREY:
-Này, cô không phải là anh chàng cam! $2Đợi một chút$3... tôi có biết cô từ đâu không nhỉ?
+Này, cô không phải là anh chàng cam! $2Đợi một chút$3... 
+tôi có biết cô từ đâu không nhỉ?
 
 TILIA:
 Từ giải vô địch cờ ca-rô?
 
+
 AUBREY:
-Ồ. Ồ! Ôi không! Cô sẽ không bắt sống được tôi đâu, cảnh sát!
+Ồ. Ồ! Ôi không! Cô sẽ không bắt sống được tôi đâu,
+cảnh sát!
 ]],
 }
 
@@ -8460,7 +8575,8 @@ Thật sao? Cảm ơn cô! Cô không biết điều này
 sẽ giúp chúng tôi nhiều thế nào đâu! Làm ơn, hãy ghé thăm
 Vườn Cam nếu cô có đường đến
 AUBREY:
-Đảo Fykonos. Chúng tôi sẽ trả ơn cô bằng cách nào đó!
+Đảo Fykonos. Chúng tôi sẽ trả ơn cô bằng
+cách nào đó!
 
 TILIA:
 Đừng bận tâm về chuyện đó. Chỉ cần coi chừng
@@ -8633,6 +8749,7 @@ Giá như ông chủ của tôi chịu lấy cho tôi một ít...
 TILIA:
 Anh có biết chỗ nào có không?
 
+
 FERRIS:
 Tôi cá là Cảng Ballast sẽ không phải là nơi tồi để
 tìm, rất nhiều hàng hóa bị đánh cắp đi qua
@@ -8687,6 +8804,7 @@ giáp xích... siết chặt cái này xuống... đặt thêm
 một ít đệm ở đây...
 FERRIS:
 Tất cả đã xong! Trông cô an toàn hơn nhiều!
+
 
 (Phòng thủ của bạn đã tăng lên 2)
 ]],
@@ -8749,8 +8867,8 @@ thiết kế cho, mũi tên bom?
 
 TILIA:
 Ồ, những cái này? Vâng, tôi tìm thấy chúng trong một
-pháo đài cướp biển. Anh có thể chế tạo mũi tên bom với thứ này không?
-
+pháo đài cướp biển. Anh có thể chế tạo mũi tên
+bom với thứ này không?
 THỰC TẬP SINH:
 Chà, tôi đã nghiên cứu... bom. Ở trường? Không phải ở trường,
 thật là điên rồ nếu đó là một môn học.
@@ -8761,6 +8879,7 @@ Hai thứ. Một ít tungsten, nó là kim loại này,
 nó không nóng chảy, ờ, điều đó không quan trọng...
 TILIA:
 Thật tuyệt, tôi có thể tìm thấy tungsten ở đâu?
+
 
 THỰC TẬP SINH:
 Thực ra có một hang động, trong eo biển
@@ -8889,7 +9008,8 @@ Oakhaven, chuyên về bom! Một điều,
 chúng tôi không có bất kỳ quả bom nào. Có một chuyện,
 NGƯỜI CHẾ TẠO BOM:
 ở mỏ diêm tiêu. Một trong những chuyện, chúng tôi
-đào quá sâu và giải phóng một con quái vật, một trong những chuyện đó. Cô không có khuynh hướng đi
+đào quá sâu và giải phóng một con quái vật,
+một trong những chuyện đó. Cô không có khuynh hướng đi
 NGƯỜI CHẾ TẠO BOM:
 xuống các mỏ để tiêu diệt quái vật, phải không?
 Tôi đã hỏi mọi người. Tôi sẽ trả tiền,
@@ -8932,6 +9052,7 @@ con quái vật ẩn nấp trong sâu thẳm của
 mỏ diêm tiêu, phải không?
 TILIA:
 Tôi đã làm. Ông nói sẽ trả tiền cho tôi?
+
 
 NGƯỜI CHẾ TẠO BOM:
 Hoan hô! Giờ, vâng, giờ tôi có thể bán bom của mình.
@@ -9007,60 +9128,55 @@ dialog{
 dialog{
   id = "_oakhaven.npcs.fort_crow.jazari.1",
   text = [[
-ĐẠI ÚY AL-JAZARI:
-A-ha! Ta tìm thấy ngươi rồi! Ta đã nghi ngờ có điều gì đó
-bất ổn khi tất cả thủy thủ của ta đều ngủ thiếp đi,
-và đây là một kẻ xâm nhập. Ngươi là ai?
+THUYỀN TRƯỞNG AL-JAZARI:
+A-ha! Ta tìm thấy ngươi rồi! Ta đã nghi ngờ có điều
+gì đó bất ổn khi toàn bộ thủy thủ của ta
+đều ngủ thiếp đi, và quả nhiên có kẻ đột nhập. Ngươi là ai?
 TILIA:
-Tôi đang tìm Đại úy Thorne. Cô ấy đã bắt cóc
-bố tôi.
-
-ĐẠI ÚY AL-JAZARI:
-Thorne? Cô ta đã bị tước quân hàm. Cô ta không còn
-phục vụ dưới quyền ta nữa. Cô ta đã đào tẩu
-với một số tàu của ta.
-TILIA:
-Vậy là cô ta không ở đây. Cô ta đang ở đâu?
-
-ĐẠI ÚY AL-JAZARI:
-Cô ta đã chiếm giữ một pháo đài cũ ở phía bắc.
-Pháo đài Crow. Cô ta đã xây dựng một nhóm cướp biển
-của riêng mình. Cô ta đã bắt cóc bố ngươi?
-TILIA:
-Vâng. Tôi cần tìm cô ta.
-
-ĐẠI ÚY AL-JAZARI:
-Ta sẽ cho ngươi một con tàu. Ta không thể để
-một kẻ phản bội như Thorne tự do ngoài vòng pháp luật.
-Nhưng trước tiên, hãy chứng tỏ rằng ta có thể tin tưởng ngươi.
-ĐẠI ÚY AL-JAZARI:
-Có một tên phù thủy ở Rừng Yarrow. Hắn đã
-quấy rối các tàu của ta. Hãy xử lý hắn, và ta sẽ
-cho ngươi một con tàu để đến Pháo đài Crow.
+Tôi đang tìm Thuyền trưởng Thyme.
+Tôi sẽ bắt hắn chỉ cho tôi cách tìm
+Blackbeard, để tôi có thể tìm thấy bố của mình.
+THUYỀN TRƯỞNG AL-JAZARI:
+Đúng là một cuộc truy tìm quanh co.
+Dù sao thì ngươi cũng không thể gặp được Thyme đâu,
+bởi ta đã vô tình nhốt hắn trong tháp pháo khi ta tắt nồi hơi.
+THUYỀN TRƯỞNG AL-JAZARI:
+Và cũng bởi vì ta định tiêu
+diệt ngươi ngay tại đây 
+và ngay bây giờ! Ha!
 ]],
 }
 
 dialog{
   id = "_oakhaven.npcs.fort_crow.jazari.2",
   text = [[
-ĐẠI ÚY AL-JAZARI:
-Ngươi đã xử lý tên phù thủy trong Rừng Yarrow chưa?
-Hắn đã gây ra đủ rắc rối cho các tàu của ta.
-Hãy cho ta thấy ngươi xứng đáng với sự tin tưởng của ta.
+THUYỀN TRƯỞNG AL-JAZARI:
+Ồ, lại thêm một đứa nữa? Nghe này,
+ta không có thời gian cho chuyện này. Ta đang chế tạo
+người máy và máy đào đất các thứ. Cô đi cùng Morus à?
+TILIA:
+Phải, anh ta đến đây để bắt ông đấy.
+Mà chắc có lẽ anh ta đến để chuẩn bị
+ăn đòn thì đúng hơn, trông có vẻ vậy.
+THUYỀN TRƯỞNG AL-JAZARI:
+Phải rồi, hắn ghét ta từ sau vụ ta vô tình đánh
+chìm con tàu đầu tiên của hắn khi thử nghiệm
+mấy con cá mập robot của ta. Nhưng đời là thế mà.
+TILIA:
+Hừ. Ông trông không có hứng thú đánh nhau nhỉ. Có lẽ chúng ta
+có thể thỏa thuận. Tôi sẽ kéo Morus khỏi đây nếu ông giúp tôi.
+Tôi đang tìm Đảo Bão Tố. Mấy người cướp biển các ông đã tìm thấy nó chưa?
+THUYỀN TRƯỞNG AL-JAZARI:
+Ồ, chỗ đó à. Ừ thì, ta không biết. Mấy chuyện đó là phần của Blackbeard,
+hắn chắc có hải đồ ở sào huyệt của Hội Đồng. Nhưng mà này, thực sự thì việc
+nói chuyện này còn tốn thời gian của ta hơn là đánh nhau với các người, nên...
 ]],
 }
 
 dialog{
   id = "_oakhaven.npcs.fort_crow.jazari.3",
   text = [[
-ĐẠI ÚY AL-JAZARI:
-Ngươi đã xử lý tên phù thủy trong Rừng Yarrow.
-Tốt lắm. Ta sẽ giao cho ngươi một con tàu.
-Đi đến cảng, nói chuyện với thuyền trưởng của
-tàu Hải âu. Hắn sẽ đưa ngươi đến Pháo đài Crow.
-ĐẠI ÚY AL-JAZARI:
-Nhưng hãy cẩn thận. Thorne rất nguy hiểm.
-Cô ta đã từng là một trong những sĩ quan giỏi nhất của ta.
+  Hẳn oẳng rồi!
 ]],
 }
 
@@ -9068,10 +9184,12 @@ dialog{
   id = "_oakhaven.npcs.fort_crow.pirates.guard_1",
   text = [[
 LÍNH CANH:
-Eh, cô đang giao bia à?
+Eh! Cô đang giao bánh mì pate trứng à?
+
 
 TILIA:
 Ờ, không, tôi không có.
+
 
 LÍNH CANH:
 Vậy thì cút đi!
@@ -9091,6 +9209,7 @@ TILIA:
 và giờ ông sẽ nói cho tôi biết tôi có thể
 TILIA:
 tìm thấy Râu Đen ở đâu trước khi tôi đánh bại ông!
+
 
 ĐẠI ÚY THYME:
 Ồ, cô đến từ Đảo Đá Vôi sao? Nghe này,
@@ -9129,6 +9248,7 @@ cờ ca-rô trong nhiều thập kỷ.
 
 TILIA:
 Tôi không biết điều đó trông sẽ như thế nào.
+
 
 ĐỐI THỦ NGHIÊM TÚC:
 Tôi, ờ... Chà, nó sẽ trông giống tôi!
@@ -9286,6 +9406,7 @@ nhóc.
 TILIA:
 Nếu tôi có thể tìm thấy cô gái đó. Hoặc số tiền.
 Hoặc cả hai?
+
 TRỌNG TÀI:
 Ồ, cô đang ở Hải quân Tình nguyện, phải không?
 Đang tìm rắc rối? Để giải quyết nó? Chà được thôi. Nếu
@@ -9303,6 +9424,7 @@ tiền thưởng cờ ca-rô chưa?
 TILIA:
 Tôi vẫn đang tìm.
 
+
 TRỌNG TÀI:
 Tôi cũng đã cho lính canh thị trấn theo vụ này.
 Đây là vụ trộm thế kỷ! Tôi đang lên kế hoạch
@@ -9319,6 +9441,7 @@ lấy trộm chưa?
 
 TILIA:
 Thực ra thì, tôi đã tìm thấy.
+
 
 TRỌNG TÀI:
 Không nói đùa chứ! Chúng ta có thể tổ chức giải đấu
@@ -9493,7 +9616,8 @@ Bạn thấy mọi người với bản chất thật của họ.
 Sốt ruột chờ gặp bạn bè, hào hứng
 về việc nấu nướng sản phẩm họ mua...
 và cũng hay ngoáy mũi nữa.
-Nếu bạn vô hình, bạn sẽ thấy rất nhiều người ngoáy mũi.
+Nếu bạn vô hình, bạn sẽ thấy rất nhiều
+người ngoáy mũi.
 ]],
 }
 
@@ -9540,7 +9664,8 @@ trở thành ngư dân thay thế.
 Bạn có tin không, tôi đặt cược tất cả vào việc câu cá
 dưới Gull Rock. Tất nhiên, ở đó đầy
 quái vật! Phải từ bỏ nó luôn.
-Giờ tôi làm gì? Tôi là một nhà đầu cơ bất động sản.
+Giờ tôi làm gì? Tôi là một nhà đầu cơ
+bất động sản.
 ]],
 }
 
@@ -9549,7 +9674,8 @@ dialog{
   text = [[
 Hmm, trông như có một cơn bão lớn hôm nay,
 cháu ạ. Áp suất thấp ở các bờ sương mù nibulo.
-Tôi cảm thấy nó trong xương. Luôn báo hiệu tuyết sắp đến.
+Tôi cảm thấy nó trong xương. Luôn báo hiệu
+tuyết sắp đến.
 ]],
 }
 
@@ -9670,7 +9796,8 @@ Không thể xuyên qua đám lá cây để
 nhìn rõ, nhưng chắc phải có loại
 đường hầm nào đó, ai lại xây một
 ngôi đền cổ rồi để cho đám lá cây mọc lên
-xung quanh nó chứ? Lối vào không thể xa lắm đâu.
+xung quanh nó chứ? Lối vào không thể
+xa lắm đâu.
 ]],
 }
 
@@ -9713,7 +9840,8 @@ Tôi hoảng loạn, nhưng nó tìm thấy một đường hầm và thề
 sẽ tìm hiểu xem nước đến từ đâu. Khi chúng tôi
 thả một cái thang xuống, nó nói nó tìm thấy
 quái vật dưới đó! Tưởng tượng đi! Tất cả chúng ta
-đang uống nước quái vật! Đó là lý do tôi không bao giờ uống nước.
+đang uống nước quái vật! Đó là lý do tôi không bao giờ
+uống nước.
 ]],
 }
 
@@ -9763,7 +9891,8 @@ Có thật không?
 
 LÍNH CANH:
 Không, nhưng tôi thích giữ những người mượn trong tầm kiểm soát.
-Tôi nghĩ nó cải thiện cấu trúc đạo đức của thành phố.
+Tôi nghĩ nó cải thiện cấu trúc đạo đức của
+thành phố.
 ]],
 }
 
@@ -9820,6 +9949,7 @@ giả làm một vị khách quý tại bữa tiệc và
 ĐỘI TRƯỞNG LÍNH CANH:
 thâm nhập vào bữa tiệc, tìm ra Litton là ai,
 và ngăn hắn đánh cắp bức tranh về chú chó.
+
 TILIA:
 Nghe thật thú vị, thành thật mà nói. Được thôi.
 
@@ -9912,6 +10042,7 @@ TILIA:
 LÍNH:
 Trễ thật đấy! Nhưng tôi mừng là cô nhớ dùng cửa bên.
 Cứ đi xuống cuối hành lang đó là tới nhà bếp.
+
 TILIA:
 Tôi sẽ làm vậy!
 
@@ -10088,7 +10219,7 @@ tạm dừng cuộc sống của mình để đánh cướp biển.
 HAZEL:
 Chị cũng vậy, Tilia. Nhưng nếu chúng ta không làm,
 ai sẽ làm? Đó là lý do chị sẽ đi tìm Thanh kiếm
-của Vua Biển để phá hủy Trái Tim Đại Dương.
+của Vua Biển để phá hủy Ocean's Heart.
 TILIA:
 $1...$3Thanh kiếm của Vua Biển? Em có nghe nói
 về chuyện này, thanh kiếm của ngài được cho là
@@ -10108,6 +10239,7 @@ ngài có để nó lại đó không.
 TILIA:
 Ý em là, có lẽ vậy. Vậy thì sao, chúng ta đi tìm
 một cây đước và kiểm tra xem có kiếm không?
+
 HAZEL:
 Vậy em sẽ giúp chứ?
 
@@ -10119,6 +10251,7 @@ có thể, em đoán vậy.
 HAZEL:
 Cảm ơn, Tilia. Vậy, có một gã ở chợ, tên là Grover.
 Hắn bán lá đước, em hãy đi hỏi hắn lấy chúng ở đâu,
+
 HAZEL:
 chị sẽ đọc thêm một chút về truyền thuyết dâng kiếm
 trên cây đước này. Chị sẽ gặp em ở cổng phía nam
@@ -10291,6 +10424,7 @@ dialog{
 TILIA:
 Hazel! Em đã tìm chị khắp mọi nơi!
 
+
 HAZEL:
 Tilia? Em đang làm gì ở đây?
 
@@ -10298,6 +10432,7 @@ Tilia? Em đang làm gì ở đây?
 TILIA:
 Em cảm thấy như em đã trả lời rồi, em
 đã tìm chị khắp mọi nơi! Bố đâu?
+
 HAZEL:
 Ờ, cũng là một câu chuyện dài, nhưng thật tốt
 khi gặp em, Tilia. Chị ờ, cần những cuốn sách bí mật
@@ -10311,7 +10446,7 @@ băng cướp biển để chúng có thể lấy được bảo vật
 sẽ cho phép chúng kiểm soát biển, và
 những cơn bão, quái vật biển-
 TILIA:
-Chị đang nói về Trái Tim Đại Dương?
+Chị đang nói về Ocean's Heart?
 
 
 HAZEL:
@@ -10328,11 +10463,12 @@ vì chị đang đi săn kho báu nào đó thay vì
 cho em biết chị còn sống.
 HAZEL:
 Chị không nghĩ em hiểu Blackbeard nguy hiểm thế nào.
-Người cuối cùng sử dụng Trái Tim Đại Dương
+Người cuối cùng sử dụng Ocean's Heart
 đã cuốn trôi cả thành phố xuống biển-
 TILIA:
 Điều đó nghe còn chẳng có thật! Vâng, cướp biển là xấu, hãy đánh chúng,
 nhưng chị không thể về nhà trước sao?-
+
 HAZEL:
 Chị đang cố gắng ngăn chặn một đội quân cướp biển,
 và em tức giận vì chị không dừng lại để đi thuyền
@@ -10378,7 +10514,7 @@ cố gắng thống nhất tất cả các băng cướp biển và
 tìm kho báu huyền thoại sẽ
 cho phép chúng kiểm soát biển và bão và đại loại.
 TILIA:
-Trái Tim Đại Dương, phải không?
+Ocean's Heart, phải không?
 
 
 HAZEL:
@@ -10402,7 +10538,7 @@ Hội đồng Cướp biển. Mallow đi tìm
 Đảo Bão ở đâu, còn chị
 ở lại Oakhaven để cố gắng tìm
 HAZEL:
-cách phá hủy Trái Tim Đại Dương. Đó là
+cách phá hủy Ocean's Heart. Đó là
 lý do chị ở đây, ăn trộm vài cuốn sách.
 
 TILIA:
@@ -10471,7 +10607,7 @@ dialog{
 HAZEL:
 Điều đó thật tuyệt. Và giờ chúng ta có nó-
 thứ mà đáng lẽ có thể phá hủy
-Trái Tim Đại Dương. Thứ gì đó để ngăn mọi người
+Ocean's Heart. Thứ gì đó để ngăn mọi người
 HAZEL:
 có thể lạm dụng thiên nhiên. Vậy mà... trời ạ.
 Chị thực sự không biết phải làm gì tiếp theo.
@@ -10789,6 +10925,7 @@ khu rừng, có lẽ bạn nên đến thăm
 mộ của ông.
 TILIA:
 Tôi không thích ma lắm, nhưng tôi sẽ thử. Cảm ơn.
+
 
 LAMIA:
 Bệnh trên rừng đã làm suy đồi một số
@@ -11388,7 +11525,8 @@ giao một thùng cam cho cô ấy hàng ngày.
 
 TILIA:
 Cô ấy vừa mới lấy trộm rất nhiều tiền từ
-anh chàng giải vô địch tic-tac-toe. Tôi đang cố tìm cô ấy.
+anh chàng giải vô địch tic-tac-toe. Tôi đang cố tìm
+cô ấy.
 NGƯỜI NHẬP TRÁI CÂY:
 Trời ơi! Chà, tôi phải làm nhiệm vụ công dân của mình.
 Đây, cầm lấy thùng cam này và
@@ -11467,12 +11605,14 @@ nhưng tôi đang tìm một bụi đước.
 TILIA:
 Ưu tiên là, một bụi thật già. Cổ xưa ấy?
 
+
 GROVER:
 Ồ, cô muốn đến Gull Rock! Hãy đi đến
 Cảng Oakhaven, băng qua cây cầu và đi về phía nam,
 cô nên tìm thấy bụi đước khá
 GROVER:
 dễ dàng. Nhưng nó đầy quái vật nên hãy cẩn thận.
+
 
 TILIA:
 Cảm ơn!
@@ -11501,6 +11641,7 @@ tiền sảnh và một người đàn ông mặc áo đỏ
 KHÁCH:
 một cái bao tải khổng lồ làm khăn quàng cổ.
 Một kiểu thời trang kỳ lạ nhất, tôi phải nói.
+
 TILIA:
 Thật sao? Cái bao tải... Có phải anh ta
 đang mặc mẫu "bao-tải-cỡ-tranh"
@@ -11596,23 +11737,29 @@ dialog{
   id = "_oakhaven.npcs.mayors_party.guards.litton_gone",
   text = [[
 LÍNH CANH:
-Có troll trong hầm ngục! Troll trong hầm ngục!
-
-
+Cậu đã đánh nhau với con troll đó à?!
+Nghe này, chuyện đó không quan trọng nữa!
+Trong lúc cậu đang chiến đấu với nó, gã mà cậu đang đối đầu ở thư viện
+LÍNH CANH:
+đã bắt cóc con chó của Thị trưởng và bỏ chạy rồi!
+Hắn đã chạy vào thành phố và ra ngoài bằng cổng
+phía nam! Cậu phải bắt hắn lại!
 TILIA:
-Gì chứ! Tôi sẽ lo liệu! Hầm ngục ở đâu?
+Cái gì?! Trời ạ, tôi sẽ ngăn chặn tên bắt cóc chó này!
+... Đợi đã, không phải anh định đi truy đuổi hắn sao?
 
 LÍNH CANH:
-Ý tôi là, ờ, xin lỗi, tôi bối rối quá. Nó ở trên
-gác mái. Tôi không biết làm sao nó lên được gác mái.
-Đi xuống hành lang, rẽ trái, rồi rẽ phải,
+Tôi phải ở lại đây để an ủi Thị trưởng.
+Ông ấy đang cực kỳ đau khổ. Rất buồn về chú chó.
+Không muốn ông ấy ban hành bất kỳ mệnh lệnh hành chính nào
 LÍNH CANH:
-cầu thang ở trong phòng học!
-
-
+trong tình trạng này, hậu quả sẽ rất tồi tệ.
+Tôi sẽ ở lại đây và làm việc đó, 
+còn cậu hãy đi ngăn chặn tên bắt cóc chó đó đi!
 TILIA:
-Rõ. Anh hãy đảm bảo tên này không
-lấy trộm bức tranh của thị trưởng!
+Được rồi. Nếu hắn đã ra ngoài bằng cổng phía nam,
+chắc hắn đang hướng đến bến cảng để rời khỏi hòn đảo.
+Tốt hơn hết là tôi nên chạy ngay.
 ]],
 }
 
@@ -11660,6 +11807,7 @@ Có troll trong hầm ngục! Troll trong hầm ngục!
 
 TILIA:
 Gì chứ! Tôi sẽ lo liệu! Hầm ngục ở đâu?
+
 
 LÍNH CANH:
 Ý tôi là, ờ, xin lỗi, tôi bối rối quá. Nó ở trên
@@ -11919,8 +12067,8 @@ cung điện cổ của Vua Biển. Ngài hẳn đã đi đi lại lại
 những hành lang này, đau đớn về các trận chiến của mình.
 TILIA:
 À, quả thực. Và giờ nó đã rơi vào
-trách nhiệm của chúng ta, những quý tộc, để gánh vác chiếc áo choàng nặng nề của ngài.
-
+trách nhiệm của chúng ta, những quý tộc, để gánh vác chiếc
+áo choàng nặng nề của ngài.
 KHÁCH:
 Một nhận xét sắc sảo. Việc dẫn dắt
 người dân là một gánh nặng lớn.
@@ -11936,8 +12084,8 @@ ngoài đời, tôi tưởng tượng tầm vóc của ngài hẳn
 phải tương tự như vậy trong mắt kẻ thù.
 TILIA:
 À vâng, và bộ giáp sang trọng của ngài thậm chí còn
-vượt qua cả quần áo sang trọng của chúng ta. Thật là một người đàn ông.
-
+vượt qua cả quần áo sang trọng của chúng ta. Thật là
+một người đàn ông.
 KHÁCH:
 Ừ, đúng vậy. Chắc chắn rồi.
 ]],
@@ -12186,7 +12334,8 @@ Người bán cam! Một thùng cam ở đây!
 
 
 ???
-Giọng cô không giống bình thường. Thôi, vào đi.
+Giọng cô không giống bình thường. Thôi,
+vào đi.
 ]],
 }
 
@@ -12227,7 +12376,8 @@ Nghe này, tôi cần cô lấy một quả dưa vàng,
 mang nó đến cung điện của thống đốc,
 MELINDA:
 và ném thẳng nó qua cửa sổ của hắn. Điều đó sẽ dạy hắn biết
-hắn đang làm loại công việc gì! Hahahaha!
+hắn đang làm loại công việc gì!
+Hahahaha!
 TILIA:
 $1...
 $3Tôi chắc chắn sẽ làm vậy.
@@ -12443,7 +12593,8 @@ $1...
 ...
 $3Xong.
 MELINDA:
-Tốt. Lần sau hãy đến đúng giờ. Đây là tiền boa của cô.
+Tốt. Lần sau hãy đến đúng giờ. Đây là tiền
+boa của cô.
 
 (Bạn nhận được một crown.)
 ]],
@@ -13019,8 +13170,8 @@ Hmm... có, đó là Snapmast Reef. Có
 một chuỗi xác tàu đắm ở đó gọi là
 Nghĩa trang Sóng, có vẻ như
 MORUS:
-sào huyệt của chúng nằm lọt thỏm trong đó. Ta sẽ không chèo thuyền
-đến đó, quá nhiều cướp biển và ta đã trả thù
+sào huyệt của chúng nằm lọt thỏm trong đó. Ta sẽ không
+chèo thuyền đến đó, quá nhiều cướp biển và ta đã trả thù
 rồi. Nhưng ta sẽ cho cô một chuyến đi
 MORUS:
 quay lại Oakhaven nếu cô muốn.
@@ -13054,9 +13205,9 @@ Phải. Tôi là người thổi kèn trumpet từ
 Quán rượu Salamander Heartache. Tôi không phải là
 một nhạc công giỏi, nhưng ngoại trừ Gunther và
 BRIAN:
-Gloria, chỉ còn mỗi tôi. Tôi đã có một hợp đồng biểu diễn tuyệt vời tại
-quán rượu, nhưng nếu mọi người biết hai người kia giỏi thế nào,
-họ sẽ chiếm hết sự chú ý.
+Gloria, chỉ còn mỗi tôi. Tôi đã có một hợp
+đồng biểu diễn tuyệt vời tại quán rượu, nhưng nếu mọi người
+biết hai người kia giỏi thế nào, họ sẽ chiếm hết sự chú ý.
 BRIAN:
 Vì vậy tôi cải trang thành quái vật để xé
 các áp phích quảng cáo của họ, ngăn mọi người phát hiện ra họ,
@@ -13614,7 +13765,8 @@ BENNY:
 đón tiếp ở đây tại Văn phòng Cảng. Chúng tôi chủ yếu là,
 làm hải quan cho hàng hóa và mấy thứ linh tinh, nhưng tôi có
 BENNY:
-một tờ rơi du lịch ở đây, muốn xem qua không?
+một tờ rơi du lịch ở đây,
+muốn xem qua không?
 
 (Xem tờ rơi du lịch?)
 $?Đọc thử xem
@@ -13698,7 +13850,8 @@ chúng đã đánh tôi ngất xỉu và lấy trộm bộ phận máy móc đó
 Tôi đoán điều tôi đang hướng đến là nếu cô
 RUSTY:
 muốn bộ phận máy móc, cô sẽ phải lấy lại
-nó từ bọn cướp biển này, tôi không thể giúp cô.
+nó từ bọn cướp biển này, 
+tôi không thể giúp cô.
 TILIA:
 Được rồi, vậy bọn cướp biển đó ở đâu?
 
@@ -13923,7 +14076,8 @@ Trả tiền tôi cũng không uống ở đây khi anh ta
 chơi. Không phải anh ta tệ,
 mà tôi ghét kèn. Chúng nhắc tôi nhớ đến
 lúc tôi bị húc vào sườn bởi sừng của một
-con quái vật. Đó là một kiểu liên tưởng từ ngữ kỳ lạ, tôi biết.
+con quái vật. Đó là một kiểu liên tưởng từ ngữ kỳ lạ,
+tôi biết.
 ]],
 }
 
@@ -14388,6 +14542,7 @@ chứng minh với bản thân rằng sự lưu đày của tôi là xứng đá
 TILIA:
 Được chứ. Đây.
 
+
 THẦY TU:
 ...à. Vâng, những biểu tượng cổ xưa này.
 Thực ra, có một chút bụi bẩn che phủ
@@ -14593,7 +14748,8 @@ dialog{
   id = "_oakhaven.observations.fort_crow.automaton_order",
   text = [[
 Có một hóa đơn ở đây cho... vài
-người máy? Nó dành cho 'Kỵ sĩ Quạ Tự động'. Nó được ký bởi Đội trưởng al-Jazari.
+người máy? Nó dành cho 'Kỵ sĩ Quạ Tự động'.
+Nó được ký bởi Đội trưởng al-Jazari.
 ]],
 }
 
@@ -14689,7 +14845,7 @@ kiêu ngạo và mất đi sự tôn trọng với Đại dương.
 Một ngày nọ, Đại dương hỏi ông liệu bà có thể
 ghé thăm không, và trong niềm kiêu hãnh, ông đã đồng ý. Bà ập vào
 cung điện của ông ở trung tâm biển, và
-kéo nhà vua cùng với Trái tim Đại dương,
+kéo nhà vua cùng với Ocean's Heart,
 cùng với cung điện của ông, xuống đáy biển.
 Vương quốc và tất cả những gì ông trân quý đều bị
 nhấn chìm, và đây là trận Đại Hồng Thủy, được
@@ -14942,6 +15098,7 @@ Bạn không đọc được các ký tự, nhưng dù vậy,
 không hiểu sao, bạn cảm thấy muốn làm điều đó.
 $?Chích ngón tay
 $?Chất lỏng cơ thể phải ở bên trong, đó là nguyên tắc.
+
 ]],
 }
 
@@ -14950,7 +15107,8 @@ dialog{
   text = [[
 TILIA:
 Ồ, khoan đã, đây là Cung điện Oakhaven, phải không...
-Cung điện được kết nối với hệ thống hang động đó à?
+Cung điện được kết nối với hệ 
+thống hang động đó à?
 ]],
 }
 
@@ -15190,7 +15348,7 @@ dialog{
 RÂU ĐEN:
 Hừm. Có vẻ như không chỉ mày thoát ra được,
 mà cả đám thủ hạ của tao cũng bỏ tao mà đi.
-Không sao. Tao có Trái Tim Đại Dương.
+Không sao. Tao có Ocean's Heart.
 ]],
 }
 
@@ -15212,7 +15370,7 @@ dialog{
 RÂU ĐEN:
 Ổn thôi. Ổn cả. Tao không cần thuyền.
 Tao sẽ tìm cách sử dụng sức mạnh của
-Trái Tim Đại Dương để đưa tao vượt sóng bằng
+Ocean's Heart để đưa tao vượt sóng bằng
 RÂU ĐEN:
 chính ý chí của mình. Ngay sau khi tao dùng
 sức mạnh của nó để nghiền nát mày, nhóc ạ.
@@ -15227,7 +15385,8 @@ BRUTUS:
 tìm đánh nhau đâu. Sau khi mày
 đánh tao một trận tơi bời lần trước, tao
 BRUTUS:
-còn chẳng muốn đánh nhau cho ngài Râu nữa.
+còn chẳng muốn đánh nhau cho
+ngài Râu nữa.
 
 TILIA:
 Thay đổi lớn đấy. Chuyện gì xảy ra vậy?
@@ -15244,7 +15403,7 @@ cứ tiến qua. Tao không nghĩ là nhiều người
 trong số họ còn sống sót để chiến đấu ở bên kia.
 TILIA:
 Tôi cũng sẽ đi qua. Râu Đen muốn có
-Trái Tim Đại Dương, và tôi nghĩ anh đang thấy
+Ocean's Heart, và tôi nghĩ anh đang thấy
 hắn sẽ tàn nhẫn thế nào nếu hắn lấy được nó.
 BRUTUS:
 Ồ phải, tao không cần phải tin đâu. Gã kia,
@@ -15363,6 +15522,7 @@ có thể sử dụng lại loại ma thuật đó nữa.
 MALLOW:
 Bố tự hào về con, Tilia. Bố chắc chắn không còn
 gì để dạy con nữa. Sao chúng ta không về nhà nhỉ?
+
 TILIA:
 Vâng.
 ]],
@@ -15423,9 +15583,9 @@ Con hồn ma đó đã tiêu diệt nửa số thủ hạ của tao, tao không
 chắc liệu mình có thể tách nó ra khỏi
 báu vật này không. Nhưng cô bé lại đang ngủ,
 RÂU ĐEN:
-để Trái Tim Đại Dương cho bất kỳ ai
+để Ocean's Heart cho bất kỳ ai
 lấy. Giao tiếp với một bán thần làm cô kiệt sức à?
-Dù sao thì, hãy xem Trái Tim Đại Dương có thể
+Dù sao thì, hãy xem Ocean's Heart có thể
 RÂU ĐEN:
 ban tặng gì cho một kẻ phàm trần. Hãy để biển cả phủ kín
 tàn tích của vị vua già và cuốn trôi hồn ma của hắn! Tao
@@ -15649,10 +15809,10 @@ là bạn thân nhất của ta. Ta đã biết hắn từ khi hắn
 còn là một đứa trẻ. Hắn là một chiến binh và thủ lĩnh
 HORNIGOLD:
 có kỹ năng, nhưng ta lo rằng cuộc tìm kiếm
-Trái Tim Đại Dương này sẽ khiến hắn làm điều gì đó
+Ocean's Heart này sẽ khiến hắn làm điều gì đó
 nguy hiểm. Hoặc ngu ngốc. Vị vua biển cổ đại
 HORNIGOLD:
-người đầu tiên có Trái Tim Đại Dương đã bị hủy diệt
+người đầu tiên có Ocean's Heart đã bị hủy diệt
 vì đánh mất sự khiêm nhường và không
 tôn trọng biển cả. Ta không muốn thấy điều đó
 HORNIGOLD:
@@ -15670,7 +15830,7 @@ dialog{
 HORNIGOLD:
 Ta hy vọng ngươi có thể dùng tấm hải đồ đó để đi thuyền đến
 Đảo Bão và thuyết phục Râu Đen đừng
-lấy Trái Tim Đại Dương cho riêng hắn và
+lấy Ocean's Heart cho riêng hắn và
 HORNIGOLD:
 tránh gây ra sự phẫn nộ của chính đại dương
 hay đại loại như vậy.
@@ -17849,8 +18009,8 @@ Rượu... Ông không phải là một tên trong
 Bọn cướp Đồng Hồ Cát, phải không?
 
 EUDICOT:
-Không đời nào. Chúng là những người hàng xóm tồi tệ, suốt ngày ăn mừng.
-Có một gã Hải quân Tình nguyện đã đến
+Không đời nào. Chúng là những người hàng xóm tồi tệ, 
+suốt ngày ăn mừng. Có một gã Hải quân Tình nguyện đã đến
 qua đây một lúc trước, bắt đầu một
 EUDICOT:
 cuộc ẩu đả. Một nhóm trong Băng Đồng Hồ Cát đã bỏ chạy,
@@ -17993,8 +18153,8 @@ cho Râu Đen thì một người khác từ
 Đảo Limestone xuất hiện ở đây...
 THUYỀN TRƯỞNG THYME:
 Cùng một cái mũi với cô, đó là bố cô à? Chà, dù sao thì,
-ông ta đã đánh bại toàn bộ đoàn của tôi. Cho tôi một trận nên thân,
-và giải cứu cô bé Hazel. Đoàn của tôi bỏ tôi
+ông ta đã đánh bại toàn bộ đoàn của tôi. Cho tôi một
+trận nên thân, và giải cứu cô bé Hazel. Đoàn của tôi bỏ tôi
 THUYỀN TRƯỞNG THYME:
 sau đó, nói rằng họ đã chịu đủ, không
 muốn làm việc cho Hội đồng Cướp biển nữa. Và
@@ -18016,7 +18176,7 @@ Tôi thua bố cô quá thảm hại đến nỗi tôi không
 nghĩ mình còn có thể chiến đấu nữa. Đó là
 một lý do khác, nếu tôi không giúp Râu Đen
 THUYỀN TRƯỞNG THYME:
-tìm Trái Tim Đại Dương, và tôi không có đoàn thủy thủ
+tìm Ocean's Heart, và tôi không có đoàn thủy thủ
 nào để gửi xuống đáy biển để chiến đấu với
 những quái vật biển sâu trong cuộc săn lùng này, thì-
 ]],
@@ -18074,11 +18234,11 @@ dialog{
   text = [[
 MERA:
 Việc điều hành một cửa hàng áo giáp ở thị trấn này,
-với nhà chưng cất thủ công đang hoạt động, tôi
-nghĩ ra cách điều hành một xưởng rèn áo giáp thủ công. Vì vậy tôi tạo ra
+với nhà chưng cất thủ công đang hoạt động, tôi nghĩ ra cách
+điều hành một xưởng rèn áo giáp thủ công. Vì vậy tôi tạo ra
 MERA:
-những bộ áo giáp tinh xảo, được làm thủ công, theo đuổi khuynh hướng
-nghệ thuật của mình. Cô có muốn mua một số
+những bộ áo giáp tinh xảo, được làm thủ công, theo
+đuổi khuynh hướng nghệ thuật của mình. Cô có muốn mua một số
 với giá 50 vương miện không?
 TILIA:
 $? Tôi rất thích một bộ áo giáp khéo léo
@@ -18133,7 +18293,8 @@ dialog{
   text = [[
 MERA:
 Tôi đã cạn kiệt cảm hứng. Tôi không thể làm thêm
-áo giáp nào nữa. Tính khí nghệ thuật của tôi không cho phép điều đó.
+áo giáp nào nữa. Tính khí nghệ thuật của tôi
+không cho phép điều đó.
 ]],
 }
 
@@ -19103,7 +19264,7 @@ dialog{
 Có một bức thư viết dở:
 Thuyền trưởng Blackbeard,
 Các địa điểm ngoại vi chưa đưa ra manh mối nào
-trong việc tìm kiếm Đảo Trái Tim Đại Dương, nhưng chuyến đi
+trong việc tìm kiếm Đảo Ocean's Heart, nhưng chuyến đi
 của chúng tôi đến Spruce Head đã thành công, nhưng có vẻ như
 đó là chiếc bùa duy nhất. Mọi người
 có lẽ phải cùng tham gia một chuyến đi bất cứ khi nào chúng ta
@@ -19614,7 +19775,7 @@ dialog{
 %=!    $ITEM_NAME
 @Tìm đường vào cung điện chìm dưới nước
 của Vua Biển
-@Tìm kiếm Trái Tim Đại Dương
+@Tìm kiếm Ocean's Heart
 @!Thoát khỏi cung điện đang sụp đổ!
 @Chiến đấu với Blackbeard
 ]],
@@ -19679,7 +19840,7 @@ dialog{
   title = "Thanh Kiếm Rừng Đước",
   text = [[
 ##Hazel nghĩ rằng Thanh Kiếm của Vua Biển
-##có thể phá hủy Trái Tim Đại Dương
+##có thể phá hủy Ocean's Heart
 @Xác định vị trí một rừng đước cổ xưa
 !
 !Người bán cá ở chợ cũng
